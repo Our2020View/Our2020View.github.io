@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our View
-permalink: /test/
+permalink: /ourview/
 ---
 
 Description of our View goes here...
