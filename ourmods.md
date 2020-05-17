@@ -1,5 +1,5 @@
 ---
 layout: page
-title: ZZ Our Mods
+title: Our Modifications
 permalink: /ourmods/
 ---
