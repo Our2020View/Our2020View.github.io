@@ -4,4 +4,4 @@ title: Our Modifications
 permalink: /ourmods/
 ---
 
-[Link to weight reduction](/ourmods/weightreduction)
+[Weight Reduction](/ourmods/weightreduction)
