@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Modifications
+title: Modifications
 permalink: /ourmods/
 ---
 
