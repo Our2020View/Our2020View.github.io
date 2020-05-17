@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Our Mods
+title: Our View Mods
 permalink: /ourmods/
 ---
