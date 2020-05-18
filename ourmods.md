@@ -5,3 +5,5 @@ permalink: /ourmods/
 ---
 
 [Weight Reduction](/ourmods/weightreduction)
+
+[Electrical](/ourmodes/electrical)
