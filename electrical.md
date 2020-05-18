@@ -1,3 +1,8 @@
+---
+layout: page
+title: Electrical
+permalink: /ourmods/electrical/
+---
 
 <h1>Electrical System Highlights of the “Stock” 2020 View</h1>
 
