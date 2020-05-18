@@ -3,7 +3,7 @@ layout: page
 title: Battery Maintainer
 permalink: /ourmods/electrical/batterymaintainer/
 ---
-Our previous coaches had the capability to trickle charge the coach battery from the house battery charging system.  This was one of those “no brainers” that we took for granted on our Class B Sprinter.  If there was solar feeding the coach batteries, there was solar floating the chassis battery as well.
+Our previous coaches had the capability to trickle charge the chassis (Sprinter) battery from the house battery charging system.  This was one of those “no brainers” that we took for granted on our Class B Sprinter.  If there was solar feeding the coach batteries, there was solar floating the chassis battery as well.
 
 I was very surprised to learn that View owners had to resort to aftermarket solutions to deal with chassis batteries that would drain during extended periods of storage.  While there are a number of options out there, YouTube convinced me that the Trik – L – Start product from LSL Products of San Antonio, Texas, was a pretty simple and reliable choice.  It was by far the preferred choice for owners of all types of lead acid batteries, but I did not see much info on what owners of Lithium batteries had done when making their choice.
 
