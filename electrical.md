@@ -32,3 +32,6 @@ Details of this mod can be found below:
 
 [Battery Maintainer](/ourmods/electrical/batterymaintainer/)
 
+[Electrical Management System](/ourmods/electrical/ems/)
+
+
