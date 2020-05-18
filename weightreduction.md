@@ -27,3 +27,16 @@ Two hundred and thirty three pounds?  Yes, I’m serious.  This is one of the re
 We’ve had some salespeople actually tell us that the View has over 4000 pounds of cargo carrying capacity.  In doing so, they were hoping that we didn’t know the difference between the Gross Combination Weight Rating and the Gross Vehicle Weight Rating.  That second rating, the GVWR, is that maximum Sprinter number up above – 11030 pounds.  That first rating, the GCWR, is that maximum weight of the Sprinter (11030 pounds) and the weight of something you are towing behind.  Your maximum loaded Sprinter and whatever you are towing behind cannot go over the GCWR.  For our 24J, that number is about 15,250 pounds.  But, you still can’t go over 11030 pounds on the View portion of that combination.  Again, the GCWR is a very big number, but is starts with a maximum weight of the View itself of 11030 pounds.
 
 So, back to a weight reduction program.  Is there anything on the View that we don’t need, something that we would be carrying around with no use?  It turns out that there might be:
+
+1.	Lead Acid Coach Batteries – Replace them with Lithium and save about 90 lbs?
+2.	Remove the rear stabilizers – We can’t see ever using these
+3.	Remove the two TVs? – Well, maybe one TV.  We’ll see...
+4.	Remove the ladder to the front bunk?
+5.	Remove the Sprinter cab booster seats? – Not required
+6.	How about those Ottomans? – They look good, but will we use them?
+7.	Remove the Onan Genset?  Do we dare?  That would save 172 pounds!
+
+Here is what we ended up doing to save some weight:
+
+
+
