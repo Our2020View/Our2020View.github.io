@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Electrical Management System
 permalink: /ourmods/electrical/ems/
 ---
 
