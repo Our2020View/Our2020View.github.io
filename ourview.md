@@ -8,4 +8,29 @@ Description of our View goes here...
 
 <img src="/assets/VW-Lifestyle%2005-20.jpg"/>
 
-Hello!  Welcome to our 2020 View website – a website dedicated to giving RV Enthusiasts ideas based on what we have done to modify our motor home.  This is not a “How To” website, but rather a “How We Did It” website. 
+Before we get into the modifications, maybe I should tell you why we opted for the View 24J, after several years of research?  In a nutshell, the new 2020 View had all of the system and coach features that we had been wanting in a not-so-big motor home with comfortable sleeping for four.  Here is the list of advantages for us:
+
+1.	More room – Very comfortable sleeping for four +
+2.	Microwave on battery power – new to 2020
+3.	Induction cook top – No more burning fossil fuels to make pancakes
+4.	Roof access port – Flexibility into the future – new to 2020
+5.	Large shower – When compared to a Class B!
+6.	Residential mattress – Full time setup
+7.	Electric heat pump – Less use of a portable micro heater
+8.	2000W inverter – Can handle a microwave now – new to 2020
+9.	Tankless water heater – Not carrying around 60 lbs of water
+10.	Tank sensors that work – Sensor on the outside of tanks, what a concept!
+11.	Freshwater above the floor – No more frozen water lines in the spring and fall
+12.	Heated holding tanks – Useful for those morning dumps in the spring and fall
+13.	Black tank flush – Always wanted one of these!
+14.	Dump valves that can be maintained – Ease of access and servicing
+15.	Large holding tanks – Four times that of our Class Bs
+16.	Enough storage that we don’t need to carry our Stow-a-Way2
+17.	Can now carry bikes on the back
+18.	Ease of access to the battery bay
+19.	Easy Lithium upgrade – new to 2020
+20.	Roof is easily accessible via ladder
+21.	The Satellite radio antenna is on the roof – Full time signal reception!  Go Figure!
+22.	The entire coach is accessible with the slide in- Perfect for being “on the go”
+23.	The propane tank selector valve solenoid has been removed – No parasitic battery drain -  new to 2020
+
