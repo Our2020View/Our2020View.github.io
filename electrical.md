@@ -30,5 +30,5 @@ Details of this mod can be found below:
 
 <h1>Electrical Mods</h1>
 
-[Battery Maintainer](/electrical/batterymaintainer/)
+[Battery Maintainer](/ourmods/electrical/batterymaintainer/)
 
