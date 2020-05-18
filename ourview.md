@@ -32,3 +32,14 @@ Before we get into the modifications, maybe I should tell you why we opted for t
 22.	The entire coach is accessible with the slide in- Perfect for being “on the go”
 23.	The propane tank selector valve solenoid has been removed – No parasitic battery drain -  new to 2020
 
+The Disadvantages for us:
+
+1.	No macerator system – we fixed that ourselves
+2.	Passenger seating - not as comfy as Captain’s chairs
+3.	Only one table – we added our own for the cab seating area
+4.	Higher fuel consumption – not too much higher, all things considered
+5.	Unable to fit a dedicated chest freezer – we had a 65 quart chest freezer in our Class B
+
+A pretty small list of disadvantages, when stacked up against the advantages.  
+
+I hope you enjoy the material; it certainly has been fun making the changes to what was already a very capable motor home.
