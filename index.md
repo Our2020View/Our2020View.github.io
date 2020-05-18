@@ -8,6 +8,6 @@ Hello!  Welcome to our 2020 View website – a website dedicated to giving RV En
 My wife and I have been RVing for over 30 years, with the last many years being in a series of Class B camper vans.  Our latest motor home is the one this website is focused on – Our 2020 Winnebago View 24J Class C motor home.
 If you are like me, you might enjoy scouring the web to find out what other RVers have done to improve the functionality of their rigs.  If there is anything on these pages that give you some ideas, we are glad to share.  The web is full of really great content supplied by very skilled modifiers, so I’ll try to point out where I got some help along the way to accomplishing our mods.
 
-[Our 24J View](/our24jview/)
+[Our 24J View - What we started with:](/our24jview/)
 
 [Modifications](/ourmods/)
