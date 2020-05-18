@@ -33,5 +33,7 @@ Advantages to buying an Amp – L – Start?
 
 I don’t expect to require the increased current capability of the Amp – L – Start during its chassis battery maintenance function, so it will be overkill for this role in our View.  But, the capability to function optimally with Lithium batteries makes it worth the few extra dollars for us.
 
+<img src="/assets/size_comparison.jpg"/>
+
 Details of the mod are below:
 
