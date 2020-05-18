@@ -10,4 +10,4 @@ If you are like me, you might enjoy scouring the web to find out what other RVer
 
 [Our "out of the facotry" 24J View - Where we started:](/our24jview/)
 
-[Modifications](/ourmods/)
+[The Modifications](/ourmods/)
