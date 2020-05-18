@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our 24J View
-permalink: /ourview/
+permalink: /our24jview/
 ---
 
 Description of our View goes here...
