@@ -6,7 +6,7 @@ permalink: /our24jview/
 
 <img src="/assets/VW-Lifestyle%2005-20.jpg"/>
 
-Before we get into the modifications, maybe I should tell you why we opted for the View 24J, after several years of research?  In a nutshell, the new 2020 View had all of the system and coach features that we had been wanting in a not-so-big motor home with comfortable sleeping for four.  Here is the list of noteworthy advantages for us:
+Before we get into the modifications, maybe I should tell you why we opted for the View 24J, after several years of research?  In a nutshell, the new 2020 View had all of the system and coach features that we had been wanting in a not-so-big motor home with comfortable sleeping for four.  Here is the list of noteworthy advantages for us when transitioning from a Class B:
 
 1.	More room – very comfortable sleeping for four +
 2.	Microwave on battery power – new to 2020
