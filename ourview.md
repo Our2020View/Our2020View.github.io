@@ -16,7 +16,7 @@ Before we get into the modifications, maybe I should tell you why we opted for t
 6.	Residential mattress – full time setup - ease of access
 7.	Electric heat pump – less use of a portable micro heater
 8.	2000W inverter – it can handle a microwave now – new to 2020
-9.	Tankless water heater – no longer carrying around 60 lbs of water
+9.	Tankless water heater – no longer carrying around 60 lbs of water - new to 2020
 10.	Tank sensors that work – sensors on the outside of tanks, what a concept!
 11.	Freshwater above the floor – no more frozen fresh water lines in the spring and fall
 12.	Heated holding tanks – useful for those morning departure dumps in the spring and fall
