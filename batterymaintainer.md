@@ -21,7 +21,7 @@ The drawbacks to having to buy an Amp – L – Start instead of a Trik – L �
 
 •	It is slightly more expensive.
 
-•	You have to supply your own connection wires – The Amp – L – Start is designed to supply more current to your chassis battery, if required.  As a result, the wire needs to be at least 12 gauge (10 gauge for long wire runs) which will carry three time the current the thin gauge wires attached to the Trik – L – Start are rated to carry.
+•	You have to supply your own connection wires - The Amp – L – Start is designed to supply more current to your chassis battery, if required.  As a result, the wire needs to be at least 12 gauge (10 gauge for long wire runs) which will carry three time the current the thin gauge wires attached to the Trik – L – Start are rated to carry.
 
 •	The Lithium configuration pin strap and connection terminals are exposed to the environment, while the Trik – L – Start has all of its components fully sealed in its resin block.  (Not a big deal, really, everything under the co-pilot’s seat is exposed anyway)
 
