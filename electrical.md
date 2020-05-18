@@ -28,7 +28,7 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 Details of this mod can be found below:
 
-<h1>Electrical Mods</h1>
+<h1>Mods</h1>
 
 [Battery Maintainer](/ourmods/electrical/batterymaintainer/)
 
