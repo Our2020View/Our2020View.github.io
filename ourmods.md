@@ -10,3 +10,4 @@ permalink: /ourmods/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Battery Maintainer](/ourmods/electrical/batterymaintainer/)
              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Electrical Management System](/ourmods/electrical/ems/)
