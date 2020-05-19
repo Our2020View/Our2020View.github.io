@@ -8,8 +8,8 @@ permalink: /ourmods/
 
 [Electrical](/ourmods/electrical)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Battery Maintainer](/ourmods/electrical/batterymaintainer/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Battery Maintainer](/ourmods/batterymaintainer/)
              
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Electrical Management System](/ourmods/electrical/ems/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Electrical Management System](/ourmods/ems/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Macerator System](/ourmods/electrical/macerator/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Macerator System](/ourmods/macerator/)
