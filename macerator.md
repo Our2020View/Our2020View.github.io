@@ -41,10 +41,15 @@ The electrical part of the setup was the only challenge, but not difficult.  As 
 Advantages to our macerator setup?
 
 •	Speed of operation during the dump process
+
 •	No mess, No fuss
+
 •	The traditional 3” dump hose option is still fully available should we have a macerator pump system failure.  (Not unheard of... 2010 in St. Johns Newfoundland – We had a pump failure on our Class B dump system and had to limp home while getting very creative to rig up a hose system using its emergency cleanout port.  Lots of mess, lots of fuss.
+
 •	The sewage drain outlet can still be used as per normal during tank and valve cleaning, and the likes.
+
 •	I get to talk to my dump lane neighbours a bit longer
+
 •	Did I mention No mess, No fuss?
 
 Disadvantages to our macerator setup?
