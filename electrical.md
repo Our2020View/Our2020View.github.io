@@ -30,11 +30,11 @@ Details of this mod can be found below:
 
 <h1>Mods</h1>
 
-[Battery Maintainer](/ourmods/electrical/batterymaintainer/)
+[Battery Maintainer](/ourmods/batterymaintainer/)
 
-[Electrical Management System](/ourmods/electrical/ems/)
+[Electrical Management System](/ourmods/ems/)
 
-[Macerator System](/ourmods/electrical/macerator/)
+[Macerator System](/ourmods/macerator/)
 
 
 
