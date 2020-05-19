@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Macerator System
-permalink: /ourmods/macerator/
+permalink: /ourmods/electrical/macerator/
 ---
 
 Macerator here
