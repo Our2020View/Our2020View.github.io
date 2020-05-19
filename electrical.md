@@ -34,4 +34,7 @@ Details of this mod can be found below:
 
 [Electrical Management System](/ourmods/electrical/ems/)
 
+[Macerator System](/ourmods/electrical/macerator/)
+
+
 
