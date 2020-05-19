@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Electrical Management System
-permalink: /ourmods/electrical/ems/
+permalink: /ourmods/ems/
 ---
 
 I don’t have a lot to say about the background to this modification, other than the money we spent is considered insurance and peace of mind as we operate our motor home all over the place in all kinds of campgrounds and in all kinds of weather.  There is a good amount of details available out there on the web to those who are considering an EMS purchase.
