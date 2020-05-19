@@ -23,11 +23,17 @@ We built a system by which we can take a bin out of a locker, pull out the macer
 So, here is what we purchased to build our macerator setup:
 
 •	Remco 9911-02-12 Portable RV Waste Pump (Amazon)
+
 •	Valterra Products T1020-2VP Carded Bayonet Fit Drain Hose Drip Cap (Amazon)
+
 •	Ten foot Thetford 70425 RV macerator hose (Amazon)
+
 •	1 inch threaded coupler and cap for the end of the hose
+
 •	12V cigarette lighter socket (Amazon)
+
 •	12V latching 30A Heavy Duty low voltage wireless remote control kit (12Vmonster Lighting)
+
 •	14 gauge wire and connectors
 
 The electrical part of the setup was the only challenge, but not difficult.  As part of the weight reduction program we removed the rear stabilizers, and saved XX pounds.  This also gave us access to 12 volts that was hooked up to the power switches for the legs.  We replaced the switch panel with the 12V cigarette lighter socket, and wired in the 30A wireless remote control switch in between the coach 12V feed and the new socket.  To cater for the possibility that the remote control switch might inconveniently fail someday out at the dump station, I wired the box with XXXX connectors, to easily allow bypassing of the switch and getting 12V directly to the macerator pump to get the dump done.
