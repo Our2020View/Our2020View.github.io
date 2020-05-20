@@ -13,8 +13,4 @@ If you are like me, you might enjoy scouring the web to find out what other RVer
 
 [The baseline coach - our Winnebago View / Navion 24J](/our24jview/)
 
-
-
-
-
 [The Modifications](/ourmods/)
