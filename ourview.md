@@ -24,7 +24,7 @@ Before we get into the modifications, maybe I should tell you why we opted for t
 13.	Black tank flush – always wanted one of these!
 14.	Dump valves that can be maintained – ease of access and servicing
 15.	Large holding tanks – four times that of our Class Bs
-16.	Enough storage that we don’t need to carry our Stow-a-Way2 hitch carrier
+16.	Enough storage that we don’t need to carry our Stow-a-Way2 hitch cargo carrier
 17.	Can now carry bikes on the back
 18.	Ease of access to the battery bay
 19.	Easy Lithium upgrade – new for 2020
