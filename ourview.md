@@ -10,14 +10,14 @@ permalink: /our24jview/
 Before we get into the modifications, maybe I should tell you why we opted for the View 24J, after several years of research?  In a nutshell, the new 2020 View had all of the system and coach features that we had been wanting in a not-so-big motor home with comfortable sleeping for four.  Here is the list of noteworthy advantages to us when transitioning from our Class B:
 
 1.	More room – very comfortable sleeping for four +
-2.	Microwave on battery power – new to 2020
+2.	Microwave on battery power – new for 2020
 3.	Induction cook top – no more burning fossil fuels to make pancakes
-4.	Roof access port – rooftop flexibility into the future – new to 2020
+4.	Roof access port – rooftop flexibility into the future – new for 2020
 5.	Large shower – when compared to a Class B!
 6.	Residential mattress – full time setup - ease of access
 7.	Electric heat pump – less use of a portable micro heater
-8.	2000W inverter – it can handle a microwave now – new to 2020
-9.	Tankless water heater – no longer carrying around 60 lbs of water - new to 2020
+8.	2000W inverter – it can handle a microwave now – new for 2020
+9.	Tankless water heater – no longer carrying around 60 lbs of water - new for 2020
 10.	Tank sensors that work – sensors on the outside of tanks, what a concept!
 11.	Freshwater above the floor – no more frozen fresh water lines in the spring and fall
 12.	Heated holding tanks – useful for those morning departure dumps in the spring and fall
@@ -27,11 +27,11 @@ Before we get into the modifications, maybe I should tell you why we opted for t
 16.	Enough storage that we don’t need to carry our Stow-a-Way2 hitch carrier
 17.	Can now carry bikes on the back
 18.	Ease of access to the battery bay
-19.	Easy Lithium upgrade – new to 2020
+19.	Easy Lithium upgrade – new for 2020
 20.	Roof is easily accessible via ladder
 21.	The Satellite radio antenna is on the roof – full time signal reception!  Go Figure!
 22.	The entire coach is accessible with the slide in - perfect for being “on the go”
-23.	The propane solenoid shutoff valve has been removed – no parasitic battery drain -  new to 2020
+23.	The propane solenoid shutoff valve has been removed – no parasitic battery drain -  new for 2020
 
 The Disadvantages for us:
 
