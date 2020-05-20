@@ -26,6 +26,8 @@ Coach
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Water Tank Insulation](/ourmods/waterinsulation/)
 
+Sprinter Chassis
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Borg Valve Stems](/ourmods/valvestems/)
 
 
