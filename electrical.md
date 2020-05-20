@@ -37,3 +37,6 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 [Cellular Booster](/ourmods/cellbooster/)
 
+[Battery Monitor](/ourmods/batterymonitor/)
+
+
