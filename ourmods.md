@@ -22,4 +22,5 @@ Coach
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Stabilizer Removal](/ourmods/stabilizers/)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Interior Panel Acess](/ourmods/interiorpanels/)
 
