@@ -15,3 +15,5 @@ permalink: /ourmods/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Macerator System](/ourmods/macerator/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Cellular Booster](/ourmods/cellbooster/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Battery Monitor](/ourmods/batterymonitor/)
