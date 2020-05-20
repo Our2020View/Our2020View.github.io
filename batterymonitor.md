@@ -4,4 +4,4 @@ title: Battery Monitor
 permalink: /ourmods/batterymonitor/
 ---
 
-Victron 712 here...
+Victron 712 here
