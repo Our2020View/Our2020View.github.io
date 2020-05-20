@@ -6,7 +6,9 @@ permalink: /ourmods/
 
 [Weight Reduction](/ourmods/weightreduction)
 
-[Electrical Info](/ourmods/electrical)
+Electrical
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Electrical Info](/ourmods/electrical)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Battery Maintainer](/ourmods/batterymaintainer/)
              
