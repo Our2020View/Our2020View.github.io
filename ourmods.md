@@ -13,3 +13,5 @@ permalink: /ourmods/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Electrical Management System](/ourmods/ems/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Macerator System](/ourmods/macerator/)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Cellular Booster](/ourmods/cellbooster/)
