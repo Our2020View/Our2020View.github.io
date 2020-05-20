@@ -24,9 +24,8 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 4 – Automatic Transfer Switch – This was a surprise to us, when we started researching late model Views and Navions.  We had no idea that this functionality was not standard, until the 2020 model year.  Now that it is included as standard on the 2020 models, we will not have to worry about leaving the coach to plug in the shore power chord to the generator outlet located in a locker at the rear of the motor home.  We have never had to do that before, so are happy to be not starting!
 
-5 – Roof Access Port – Now, this is another great idea.  Gone are the days when I had to get creative to figure out how to get the cellular booster antenna cable from the roof to the inside of the coach.  At this point I don’t believe we will be hooking anything else up there, but if we do, it will be equally easy to accomplish.  (See the dedicated mod description of what we did to get the magnetic antenna to stay on our non-metallic roof.)
+5 – Roof Access Port – Now, this is another great idea.  Gone are the days when I had to get creative to figure out how to get the cellular booster antenna cable from the roof to the inside of the coach.  At this point I don’t believe we will be hooking anything else up there, but if we do, it will be equally easy to accomplish.  (See the dedicated mod description of what we did to get the magnetic antenna to stay on our non-metallic roof, in the details below.)
 
-Details of this mod can be found below:
 
 <h1>Electrical Mods</h1>
 
