@@ -6,7 +6,7 @@ permalink: /imagetestpage/
 
 This is a test page
 
-<img src="assets/vandrawing.jpg" alt="vandrawing">
+<img src="assets/vandrawing.jpg">
 
 <div style="background-image: url('img_girl.jpg');">
   
