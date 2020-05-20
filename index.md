@@ -11,6 +11,6 @@ My wife and I have been RVing for over 30 years, with the last many years being 
 If you are like me, you might enjoy scouring the web to find out what other RVers have done to improve the functionality of their rigs.  If there is anything on these pages that give you some ideas, we are glad to share.  The web is full of really great content supplied by very skilled modifiers, so I’ll try to point out where I got some help along the way as we accomplished these mods.  
 
 
-[The baseline coach - our Winnebago View / Navion 24J](/our24jview/)
+[The baseline coach - our Winnebago View / Navion 24J](/our24jview/)/s/s
 
 [The Modifications](/ourmods/)
