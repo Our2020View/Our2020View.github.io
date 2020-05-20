@@ -18,6 +18,8 @@ permalink: /ourmods/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Battery Monitor](/ourmods/batterymonitor/)
 
-[Coach]
+Coach
+
+
 
 
