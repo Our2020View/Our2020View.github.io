@@ -24,3 +24,5 @@ Coach
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Interior Panel Acess](/ourmods/interiorpanels/)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Water Tank Insulation](/ourmods/waterinsulation/)
+
