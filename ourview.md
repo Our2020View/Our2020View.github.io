@@ -4,7 +4,7 @@ title: Our 24J View
 permalink: /our24jview/
 ---
 
-<img src="/assets/VW-Lifestyle%2005-20.jpg" width="300" height="100" />
+<img src="/assets/VW-Lifestyle%2005-20.jpg" width="500" height="100" />
 
 
 Before we get into the modifications, maybe I should tell you why we opted for the View 24J, after several years of research?  In a nutshell, the new 2020 View had all of the system and coach features that we had been wanting in a not-so-big motor home with comfortable sleeping for four.  Here is the list of noteworthy advantages to us when transitioning from our Class B:
