@@ -30,4 +30,4 @@ The physics makes sense, and the wave length calculation checks with their recom
 
 For our ground plane we used a circular 9” lid from a cookie tin, painted it white, mounted it with some silicon caulking, and then finished up with some Dicor lap sealant to make it look like we knew what we were doing.
 
-Details of this modification are found below:
+Details of this modification are found below
