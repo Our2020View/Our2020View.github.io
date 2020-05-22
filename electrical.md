@@ -27,7 +27,7 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 5 – Roof Access Port – Now, this is another great idea.  Gone are the days when I had to get creative to figure out how to get the cellular booster antenna cable from the roof to the inside of the coach.  At this point I don’t believe we will be hooking anything else up there, but if we do, it will be equally easy to accomplish.  (See the dedicated mod description of what we did to get the magnetic antenna to stay on our non-metallic roof, in the details below.)
 
 
-<h1>Electrical Mods</h1>
+<h2>Electrical Mods</h2>
 
 [Battery Maintainer](/ourmods/batterymaintainer/)
 
