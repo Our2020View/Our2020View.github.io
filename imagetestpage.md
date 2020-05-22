@@ -47,8 +47,6 @@ This is a test page
 
 <img src="/assets/narrowdrawing1.jpg" alt="drawing 1" title="drawing 1" width="400" style="float:right;" />
 
-<br/><br/>
-
 What is a Macerator Pump, and why is it in the Electrical section of this webpage?  A macerator pump is a marine sewage pump hooked up downstream of your black and grey water discharge system, and is responsible for delivering chocolate milk and dish soap foam to the dump station inlet.  The manufacturer of our previous Class B motor homes used to advertise “No mess, No fuss”.  It turns out this advertising was actually very true, and we have considered a macerator pump to be a necessity for any motor home we drive.
 
 The View, as of 2020, does not have a true macerator pump setup on any of its View / Navion lineup.  The closest Winnebago comes to a true setup is a macerator pump installed in the grey water dump line of the 24V model.  On this model, its purpose is to pump grey water from the tank, as they have some geometry challenges with relying on gravity to get the job done.  (I seem to recall they have to get the line over the rear axle.)  But, c’mon... grey water?  Isn’t that a waste of a macerator pump?
