@@ -17,7 +17,7 @@ Textexttexttexttexttexttexttext
 Textexttexttexttexttexttexttext
 Textexttexttexttexttexttexttext
 Textexttexttexttexttexttexttext
-<p>
+</p>
 
 <img src="/assets/narrowdrawing1.jpg" alt="drawing 1" title="drawing 1" width="150" height="600" style="float:right;" />
 
