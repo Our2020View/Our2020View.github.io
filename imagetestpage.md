@@ -12,7 +12,7 @@ This is a test page
 
 <img src="/assets/VW-Lifestyle%2005-20.jpg">
 
-![narrow drawing 1](/assets/narrow drawing 1)
+![narrow drawing 1](/assets/narrowdrawing1)
   
 
 
