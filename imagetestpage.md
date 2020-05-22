@@ -10,8 +10,9 @@ This is a test page
 
 ![vandrawing](/assets/vandrawing.jpg)
 
-
 <img src="/assets/VW-Lifestyle%2005-20.jpg">
+
+![narrow drawing 1](/assets/narrow drawing 1)
   
 
 
