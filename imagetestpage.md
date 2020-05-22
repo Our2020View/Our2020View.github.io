@@ -13,7 +13,7 @@ This is a test page
 <img src="/assets/VW-Lifestyle%2005-20.jpg" title="View 24J"/>
 
 
-<img src="/assets/narrowdrawing1.jpg" alt="drawing 1" title="drawing 1" width="250" style="float:right;" />
+<img src="/assets/narrowdrawing1.jpg" alt="drawing 1" title="drawing 1" width="400" style="float:right;" />
 
 [practice link]
 
