@@ -39,6 +39,10 @@ This is a test page
 
 [practice link]
 
+
+
+
+
 <img src="/assets/narrowdrawing1.jpg" alt="drawing 1" title="drawing 1" width="400" style="float:right;" />
 
 What is a Macerator Pump, and why is it in the Electrical section of this webpage?  A macerator pump is a marine sewage pump hooked up downstream of your black and grey water discharge system, and is responsible for delivering chocolate milk and dish soap foam to the dump station inlet.  The manufacturer of our previous Class B motor homes used to advertise “No mess, No fuss”.  It turns out this advertising was actually very true, and we have considered a macerator pump to be a necessity for any motor home we drive.
