@@ -13,10 +13,10 @@ This is a test page
 <img src="/assets/VW-Lifestyle%2005-20.jpg" title="View 24J"/>
 
 <p>
-Textexttexttexttexttexttexttext
-Textexttexttexttexttexttexttext
-Textexttexttexttexttexttexttext
-Textexttexttexttexttexttexttext
+Textexttexttexttexttexttexttext.
+Textexttexttexttexttexttexttext.
+Textexttexttexttexttexttexttext.
+Textexttexttexttexttexttexttext.
 </p>
 
 <img src="/assets/narrowdrawing1.jpg" alt="drawing 1" title="drawing 1" width="150" height="600" style="float:right;" />
