@@ -4,6 +4,8 @@ title: Modifications
 permalink: /ourmods/
 ---
 
+<img src="/assets/narrowdrawing1.jpg" alt="drawing 1" title="drawing 1" width="400" style="float:right;" />
+
 [Weight Reduction](/ourmods/weightreduction)
 
 Electrical
