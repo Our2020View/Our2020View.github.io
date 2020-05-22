@@ -4,7 +4,7 @@ layout: page
 
 <img src="/assets/vandrawing.jpg"/>
 
-# test header
+h1>Test Header
 
 <h1>Welcome to our Motor Home Mod Site</h1>
 <br>
