@@ -31,13 +31,14 @@ permalink: /practicepage2/
 <body>
 
 <h2>My Mod Page</h2>
+<p> This is introductory material about the mods on this page</p>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
+  <div class="column">
     <h2>Modification 1</h2>
     <p>Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here  </p>
   </div>
-  <div class="column" style="background-color:#bbb;">
+  <div class="column">
     <h2>Another modificaton</h2>
     <p>Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here</p>
   </div>
@@ -51,16 +52,15 @@ permalink: /practicepage2/
 <body>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
+  <div class="column">
     <h2>Modification 1</h2>
     <p>Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here  </p>
   </div>
-  <div class="column" style="background-color:#bbb;">
+  <div class="column">
     <h2>Another modificaton</h2>
     <p>Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here</p>
   </div>
 </div>
 
 </body>
-
-
+</html>
