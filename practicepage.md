@@ -13,7 +13,7 @@ title="Van Drawing"
 width="100"
 height="100">
 
-<button>This is a button</button>
+<button>This is a button</button style="color:red">
 
 <a href="/ourmods/">click here to go to Mods</a>
 
