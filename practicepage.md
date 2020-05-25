@@ -13,5 +13,5 @@ title="Van Drawing"
 width="100"
 height="100">
 
-<button>This is a button>
+<button>This is a button</button>
 
