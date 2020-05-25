@@ -10,7 +10,7 @@ permalink: /practicepage/
 <img src="/assets/vandrawing.jpg"
 alt="Van Drawing"
 width="100"
-height="100"
->
+height="100">
+
 
 
