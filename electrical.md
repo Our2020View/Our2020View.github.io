@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Electrical
+title: Electrical Information
 permalink: /ourmods/electrical/
 ---
 
