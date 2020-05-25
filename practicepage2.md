@@ -26,7 +26,7 @@ permalink: /practicepage2/
   display: table;
   clear: both;
 }
-</style--->
+</style>
 </head>
 <body>
 
