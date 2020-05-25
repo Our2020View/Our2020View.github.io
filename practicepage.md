@@ -23,3 +23,7 @@ height="100">
 <button style="background-color:red; border-color:blue; color:white">Test Button</button>
 
 <button style="background-color:green; color:white">Text Here</button>
+
+<p style="text-align:left;">Description Text</p>
+
+<p style="text-align:Right;">Description Text</p>
