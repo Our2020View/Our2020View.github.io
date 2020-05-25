@@ -26,4 +26,5 @@ height="100">
 
 <p style="text-align:left;">Description Text</p>
 
-<p style="text-align:Right;">Description Text</p>
+<p style="text-align:Right;"
+>Description Text</p>
