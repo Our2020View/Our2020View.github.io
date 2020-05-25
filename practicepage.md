@@ -17,4 +17,4 @@ height="100">
 
 <a href="/ourmods/">click here to go to Mods</a>
 
-<img src="/assets/underbed.jpg" title="Under Bed" width="3000" height="2001">
+<img src="/assets/underbed.jpg" title="Under Bed">
