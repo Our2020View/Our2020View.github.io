@@ -1,8 +1,4 @@
- ---
- layout: page
- title: Practice Page
- ---
- 
+  
  <!DOCTYPE html>
 <html>
 <head>
