@@ -4,7 +4,7 @@ title: Practice Mod Page
 permalink: /practicepage2/
 ---
 
-<html>
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -45,7 +45,7 @@ permalink: /practicepage2/
 </div>
 
 </body>
-</html>
+
 
 </style>
 </head>
