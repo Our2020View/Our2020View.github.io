@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Practice Page
-metalink: /
+permalink: /
 ---
 
  <!DOCTYPE html>
