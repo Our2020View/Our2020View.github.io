@@ -36,6 +36,7 @@ permalink: /practicepage2/
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <button style="background-color:green; color:white"> Read More </button>
   </div>
+  
   <div class="column" style="background-color:white;">
     <h2>Mod 2</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
