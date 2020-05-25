@@ -34,6 +34,7 @@ permalink: /practicepage2/
   <div class="column" style="background-color:white;">
     <h2>Mod 1</h2>
     <p>Some text..</p>
+    <button> Read More </button>
   </div>
   <div class="column" style="background-color:white;">
     <h2>Mod 2</h2>
