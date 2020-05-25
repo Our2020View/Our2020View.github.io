@@ -29,6 +29,7 @@ permalink: /practicepage2/
 </style>
 </head>
 <body>
+  
 <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
 
 <div class="row">
