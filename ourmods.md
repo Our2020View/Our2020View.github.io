@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Modifications
+title: Our 24J Modifications
 permalink: /ourmods/
 ---
 
