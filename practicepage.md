@@ -8,7 +8,7 @@ permalink: /practicepage/
 <p>My first paragraph.</p>
 
 <img src="/assets/vandrawing.jpg"
-alt=Van Drawing"
+alt="Van Drawing"
 width="100"
 height="100"
 >
