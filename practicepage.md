@@ -9,6 +9,7 @@ permalink: /practicepage/
 
 <img src="/assets/vandrawing.jpg"
 alt="Van Drawing"
+title="Van Drawing"
 width="100"
 height="100">
 
