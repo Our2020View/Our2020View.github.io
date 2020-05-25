@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Our 2020 View Homepage
 ---
 
 <img src="/assets/vandrawing.jpg"/>
