@@ -36,4 +36,4 @@ Sprinter Chassis
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Rustproofing](/ourmods/rustproofing/)
 
-
+<button>Click here to enable Auto Mod Tracker</button>
