@@ -50,8 +50,6 @@ permalink: /practicepage2/
 </head>
 <body>
 
-<h2>My Mod Page</h2>
-
 <div class="row">
   <div class="column" style="background-color:#aaa;">
     <h2>Modification 1</h2>
