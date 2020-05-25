@@ -20,3 +20,5 @@ height="100">
 <img src="/assets/underbed.jpg" title="Under Bed" width="100" height="133.4">
 
 <button style="background-color:red; border-color:blue; color:white">Test Button</button>
+
+<button style="background-color:green; border-color:blue; color:white">Read More</button>
