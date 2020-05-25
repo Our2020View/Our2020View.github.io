@@ -26,5 +26,4 @@ height="100">
 
 <p style="text-align:left;">Description Text</p>
 
-<p style="text-align:Right;"
->If you are like me, you might enjoy scouring the web to find out what other RVers have done to improve the functionality of their rigs.  If there is anything on these pages that give you some ideas, we are glad to share.  The web is full of really great content supplied by very skilled modifiers, so I’ll try to point out where I got some help along the way.</p>
+<p style="text-align:Right;">If you are like me, you might enjoy scouring the web to find out what other RVers have done to improve the functionality of their rigs.  If there is anything on these pages that give you some ideas, we are glad to share.  The web is full of really great content supplied by very skilled modifiers, so I’ll try to point out where I got some help along the way.</p>
