@@ -4,7 +4,7 @@ title: Practice Mod Page
 permalink: /practicepage2/
 ---
 
-
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -30,37 +30,18 @@ permalink: /practicepage2/
 </head>
 <body>
 
-<h2>My Mod Page</h2>
-<p> This is introductory material about the mods on this page</p>
+<h2>Two Equal Columns</h2>
 
 <div class="row">
-  <div class="column">
-    <h2>Modification 1</h2>
-    <p>Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here  </p>
+  <div class="column" style="background-color:#aaa;">
+    <h2>Column 1</h2>
+    <p>Some text..</p>
   </div>
-  <div class="column">
-    <h2>Another modificaton</h2>
-    <p>Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here</p>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Column 2</h2>
+    <p>Some text..</p>
   </div>
 </div>
 
 </body>
-
-
-</style>
-</head>
-<body>
-
-<div class="row">
-  <div class="column">
-    <h2>Modification 1</h2>
-    <p>Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here  </p>
-  </div>
-  <div class="column">
-    <h2>Another modificaton</h2>
-    <p>Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here Some text to describe the modification goes here</p>
-  </div>
-</div>
-
-</body>
-
+</html>
