@@ -33,7 +33,7 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h2>Mod 1</h2>
-    <p>Some text..</p>
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <button style="background-color:green; color:white"> Read More </button>
   </div>
   <div class="column" style="background-color:white;">
