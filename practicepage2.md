@@ -30,6 +30,8 @@ permalink: /practicepage2/
 </head>
 <body>
 
+<p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+
 <div class="row">
   <div class="column" style="background-color:white;">
     <h2>Mod 1</h2>
