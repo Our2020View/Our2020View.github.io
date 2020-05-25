@@ -30,59 +30,57 @@ permalink: /practicepage2/
 </head>
 <body>
 
-<h2>Two Equal Columns</h2>
-
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Column 1</h2>
+    <h2>Mod 1</h2>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
-    <h2>Column 2</h2>
+    <h2>Mod 2</h2>
     <p>Some text..</p>
   </div>
 </div>
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Column 1</h2>
+    <h2>Mod 3</h2>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column" style="background-color:white;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:white;">
-    <h2>Column 2</h2>
+    <h2>Mod 4</h2>
     <p>Some text..</p>
   </div>
 </div>
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Column 1</h2>
+    <h2>Mod 5</h2>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
-    <h2>Column 2</h2>
+    <h2>Mod 6</h2>
     <p>Some text..</p>
   </div>
 </div>
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Column 1</h2>
+    <h2>Mod 7</h2>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
-    <h2>Column 2</h2>
+    <h2>Mod 8</h2>
+    <p>Some text..</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:white;">
+    <h2>Mod 9</h2>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:white;">
+    <h2>Mod 10</h2>
     <p>Some text..</p>
   </div>
 </div>
