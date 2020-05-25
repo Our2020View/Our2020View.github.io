@@ -46,8 +46,7 @@ permalink: /practicepage2/
 </body>
 </html>
 
-</style>
-</head>
+
 <body>
 
 <div class="row">
