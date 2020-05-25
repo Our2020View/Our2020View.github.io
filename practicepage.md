@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Practice Page
-permalink: /
+permalink: /practicepage/
 ---
 
  <!DOCTYPE html>
