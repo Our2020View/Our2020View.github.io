@@ -16,7 +16,7 @@ permalink: /practicepage2/
 .column {
   float: left;
   width: 50%;
-  padding: 2px;
+  padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
 
