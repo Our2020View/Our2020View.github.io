@@ -6,7 +6,7 @@ permalink: /practicepage2/
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
+
 * {
   box-sizing: border-box;
 }
@@ -25,9 +25,9 @@ permalink: /practicepage2/
   display: table;
   clear: both;
 }
-</style>
-</head>
-<body>
+
+
+
 
 <h2>My Mod Page</h2>
 
@@ -42,12 +42,7 @@ permalink: /practicepage2/
   </div>
 </div>
 
-</body>
-</html>
 
-</style>
-</head>
-<body>
 
 <h2>My Mod Page</h2>
 
