@@ -27,7 +27,7 @@ permalink: /practicepage2/
   clear: both;
 }
 </style>
-</head--->
+</head>
 <body>
 
 <h2>My Mod Page</h2>
