@@ -49,43 +49,51 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h2>Mod 3</h2>
-    <p>Some text..</p>
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <button style="background-color:green; color:white"> Read More </button>
   </div>
   <div class="column" style="background-color:white;">
     <h2>Mod 4</h2>
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <button style="background-color:green; color:white"> Read More </button>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:white;">
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <button style="background-color:green; color:white"> Read More </button>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:white;">
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <button style="background-color:green; color:white"> Read More </button>
     <p>Some text..</p>
   </div>
 </div>
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Mod 5</h2>
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <button style="background-color:green; color:white"> Read More </button>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
-    <h2>Mod 6</h2>
-    <p>Some text..</p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column" style="background-color:white;">
-    <h2>Mod 7</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:white;">
-    <h2>Mod 8</h2>
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <button style="background-color:green; color:white"> Read More </button>
     <p>Some text..</p>
   </div>
 </div>
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Mod 9</h2>
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <button style="background-color:green; color:white"> Read More </button>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
-    <h2>Mod 10</h2>
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <button style="background-color:green; color:white"> Read More </button>
     <p>Some text..</p>
   </div>
 </div>
