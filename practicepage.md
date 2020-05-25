@@ -13,8 +13,10 @@ title="Van Drawing"
 width="100"
 height="100">
 
-<button>This is a button</button style="color:red">
+<button>This is a button</button>
 
 <a href="/ourmods/">click here to go to Mods</a>
 
 <img src="/assets/underbed.jpg" title="Under Bed" width="100" height="133.4">
+
+<button style="background-color:red; border-color:blue; color:white">Test Button</button>
