@@ -50,8 +50,8 @@ permalink: /practicepage2/
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    button style="background-color:green; color:white"
-           onclick="location.href = '/ourmods/electrical/'"> Read More </button>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/electrical/'"> Read More </button>
   </div>
 </div>
 
@@ -62,8 +62,8 @@ permalink: /practicepage2/
     <br>
     <br>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
-    button style="background-color:green; color:white"
-           onclick="location.href = '/ourmods/electrical/'"> Read More </button>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/electrical/'"> Read More </button>
   </div>
   <div class="column" style="background-color:white;">
     <h3>Macerator System</h3>
