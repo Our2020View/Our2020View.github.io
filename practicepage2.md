@@ -131,12 +131,13 @@ permalink: /practicepage2/
             onclick="location.href = '/ourmods/interiorpanels/'"> Read More </button>
       </div>
   <div class="column" style="background-color:white;">
-    <h3>Mod 10</h3>
+    <h3>Water Tank Insulation</h3>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <button style="background-color:green; color:white"> Read More </button>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/waterinsulation/'"> Read More </button>
      </div>
 </div>
 
