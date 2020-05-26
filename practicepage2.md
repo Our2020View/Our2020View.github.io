@@ -17,7 +17,7 @@ permalink: /practicepage2/
   float: left;
   width: 50%;
   padding: 10px;
-  
+  height: 420x; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -41,8 +41,7 @@ permalink: /practicepage2/
     <br>
     <button style="background-color:green; color:white"> Read More </button>
   </div>
-  
-  <div class="column" style="background-color:white;">
+    <div class="column" style="background-color:white;">
     <h2>Mod 2</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
@@ -55,11 +54,17 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h2>Mod 3</h2>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <button style="background-color:green; color:white"> Read More </button>
   </div>
   <div class="column" style="background-color:white;">
     <h2>Mod 4</h2>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <button style="background-color:green; color:white"> Read More </button>
   </div>
@@ -69,12 +74,18 @@ permalink: /practicepage2/
   <div class="column" style="background-color:white;">
     <h2>Mod 5</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
     <button style="background-color:green; color:white"> Read More </button>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
     <h2>Mod 6</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
     <button style="background-color:green; color:white"> Read More </button>
     <p>Some text..</p>
   </div>
@@ -84,12 +95,18 @@ permalink: /practicepage2/
   <div class="column" style="background-color:white;">
     <h2>Mod 7</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
     <button style="background-color:green; color:white"> Read More </button>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
     <h2>Mod 8</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
     <button style="background-color:green; color:white"> Read More </button>
     <p>Some text..</p>
   </div>
@@ -99,18 +116,22 @@ permalink: /practicepage2/
   <div class="column" style="background-color:white;">
     <h2>Mod 9</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
     <button style="background-color:green; color:white"> Read More </button>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
     <h2>Mod 10</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
     <button style="background-color:green; color:white"> Read More </button>
     <p>Some text..</p>
   </div>
 </div>
-
-
 
 </body>
 </html>
