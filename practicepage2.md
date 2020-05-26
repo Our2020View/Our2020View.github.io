@@ -85,8 +85,7 @@ permalink: /practicepage2/
     <br>
     <button style="background-color:green; color:white"
             onclick="location.href = '/ourmods/cellbooster/'"> Read More </button>
-    <p>Some text..</p>
-  </div>
+     </div>
   <div class="column" style="background-color:white;">
     <h3>Battery Monitor</h3>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
