@@ -32,6 +32,8 @@ permalink: /practicepage2/
   
 <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
 
+<h3> Electrical </h3>
+
 <div class="row">
   <div class="column" style="background-color:white;">
     <h2>Weight Reduction</h2>
@@ -51,8 +53,6 @@ permalink: /practicepage2/
     <button style="background-color:green; color:white"> Read More </button>
   </div>
 </div>
-
-<h3> Electrical </h3>
 
 <div class="row">
   <div class="column" style="background-color:white;">
