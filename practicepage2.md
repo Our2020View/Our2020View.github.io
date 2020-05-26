@@ -42,7 +42,7 @@ permalink: /practicepage2/
     <br>
     <br>
     <button style="background-color:green; color:white"> Read More <
-            onclick="location.href = '/ourmods/electrica/'"/button>
+            onclick="location.href = '/ourmods/electrica/'"</button>
   </div>
   
     <div class="column" style="background-color:white;">
