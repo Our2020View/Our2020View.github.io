@@ -123,7 +123,7 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Interior Panel Access</h3>
-    <p>Ease of access to mechanical / electrical compartments</p>
+    <p>Ease of access to compartments</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
