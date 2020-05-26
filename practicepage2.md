@@ -52,6 +52,8 @@ permalink: /practicepage2/
   </div>
 </div>
 
+<h1> Electrical </h1>
+
 <div class="row">
   <div class="column" style="background-color:white;">
     <h2>Mod 3</h2>
