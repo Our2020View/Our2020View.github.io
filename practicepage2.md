@@ -61,7 +61,7 @@ permalink: /practicepage2/
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <p>EMS - HW30C EMS</p>
+    <p>EMS - HW30C Hardwired</p>
     <button style="background-color:green; color:white"
             onclick="location.href = '/ourmods/ems/'"> Read More </button>
   </div>
