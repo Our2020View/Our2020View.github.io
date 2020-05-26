@@ -79,7 +79,7 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Cellular Booster</h3>
-    <p>Wilson Sleek 4G with mini magnet antenna</p>
+    <p>Wilson Sleek 4G Legacy/p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -102,7 +102,7 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Weight Reduction</h3>
-    <p>How we increased our CCC by 200 pounds</p>
+    <p>CCCC increase of 200 pounds</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -111,7 +111,7 @@ permalink: /practicepage2/
      </div>
   <div class="column" style="background-color:white;">
     <h3>Stabilizer Removal</h3>
-    <p>An important part of our weight reduction plan...</p>
+    <p>Part of our weight reduction plan...</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
