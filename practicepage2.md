@@ -32,11 +32,11 @@ permalink: /practicepage2/
   
 <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
 
-<h3> Electrical </h3>
+<h2> Electrical </h2>
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Electrical Info</h2>
+    <h1>Electrical Info</h1>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
