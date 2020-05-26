@@ -36,7 +36,7 @@ permalink: /practicepage2/
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h1>Electrical Info</h1>
+    <h3>Electrical Info</h3>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
