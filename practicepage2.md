@@ -83,7 +83,8 @@ permalink: /practicepage2/
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <button style="background-color:green; color:white"> Read More </button>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/cellbooster/'"> Read More </button>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
@@ -92,7 +93,8 @@ permalink: /practicepage2/
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <button style="background-color:green; color:white"> Read More </button>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/batterymonitor/'"> Read More </button>
     <p>Some text..</p>
   </div>
 </div>
