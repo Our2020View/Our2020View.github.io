@@ -46,7 +46,7 @@ permalink: /practicepage2/
   </div>
       <div class="column" style="background-color:white;">
     <h3>Battery Maintainer</h3>
-    <p>Addition of an LSL Amp - L - Start chassis battery maintainer</p>
+    <p>Amp - L - Start chassis battery maintainer</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -61,7 +61,7 @@ permalink: /practicepage2/
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <p>Progressive Industries EMS - HW30C EMS</p>
+    <p>EMS - HW30C EMS</p>
     <button style="background-color:green; color:white"
             onclick="location.href = '/ourmods/ems/'"> Read More </button>
   </div>
