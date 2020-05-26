@@ -22,9 +22,9 @@ height="100">
 
 <button style="background-color:red; border-color:blue; color:white">Test Button</button>
 
-<button style="background-color:green; color:white">Link Test</button>
+<button style="background-color:green; color:white">Read More</button>
 
-<button onclick="document.location = /ourmods/">HTML Tutorial</button>
+<button onclick="document.location = /ourmods/">Link Test</button>
 
 <p style="text-align:left;">Description Text</p>
 
