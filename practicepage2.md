@@ -102,7 +102,7 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Weight Reduction</h3>
-    <p>How we inceased our CCC by 200 pounds</p>
+    <p>How we increased our CCC by 200 pounds</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
