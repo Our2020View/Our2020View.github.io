@@ -36,7 +36,7 @@ permalink: /practicepage2/
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Weight Reduction</h2>
+    <h2>Electrical Info</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
@@ -45,7 +45,7 @@ permalink: /practicepage2/
   </div>
   
     <div class="column" style="background-color:white;">
-    <h2>Mod 2</h2>
+    <h2>Battery Maintainer</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
@@ -56,7 +56,7 @@ permalink: /practicepage2/
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Mod 3</h2>
+    <h2>Electrical Management System</h2>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -64,7 +64,7 @@ permalink: /practicepage2/
     <button style="background-color:green; color:white"> Read More </button>
   </div>
   <div class="column" style="background-color:white;">
-    <h2>Mod 4</h2>
+    <h2>Macerator System</h2>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -75,7 +75,7 @@ permalink: /practicepage2/
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Mod 5</h2>
+    <h2>Cellular Booster</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
@@ -84,7 +84,7 @@ permalink: /practicepage2/
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
-    <h2>Mod 6</h2>
+    <h2>Battery Monitor</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
