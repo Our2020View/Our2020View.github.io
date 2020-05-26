@@ -70,7 +70,7 @@ permalink: /practicepage2/
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <p>Remco 9911 - 02 Portable RV Waste Pump</p>
+    <p>Remco 9911 - 02 RV Waste Pump</p>
     <button style="background-color:green; color:white"
             onclick="location.href = '/ourmods/macerator/'"> Read More </button>
   </div>
