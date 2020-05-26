@@ -107,7 +107,7 @@ permalink: /practicepage2/
     <br>
     <br>
     <button style="background-color:green; color:white"
-            onclick="location.href = '/ourmods/weigthreduction/'"> Read More </button>
+            onclick="location.href = '/ourmods/weightreduction/'"> Read More </button>
      </div>
   <div class="column" style="background-color:white;">
     <h3>Stabilizer Removal</h3>
