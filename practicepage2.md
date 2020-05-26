@@ -46,7 +46,7 @@ permalink: /practicepage2/
   </div>
       <div class="column" style="background-color:white;">
     <h3>Battery Maintainer</h3>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <p>Addition of an LSL Amp - L - Start chassis battery maintainer</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -61,7 +61,7 @@ permalink: /practicepage2/
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <p>Progressive Industries EMS - HW30C EMS</p>
     <button style="background-color:green; color:white"
             onclick="location.href = '/ourmods/ems/'"> Read More </button>
   </div>
@@ -70,7 +70,7 @@ permalink: /practicepage2/
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <p>Remco 9911 - 02 Portable RV Waste Pump</p>
     <button style="background-color:green; color:white"
             onclick="location.href = '/ourmods/macerator/'"> Read More </button>
   </div>
@@ -79,7 +79,7 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Cellular Booster</h3>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <p>Wilson Sleek 4G with mini magnet antenna</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -88,7 +88,7 @@ permalink: /practicepage2/
      </div>
   <div class="column" style="background-color:white;">
     <h3>Battery Monitor</h3>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <p>Victron 712 with Bluetooth </p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -102,7 +102,7 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Weight Reduction</h3>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <p>How we inceased our CCC by 200 pounds</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -111,7 +111,7 @@ permalink: /practicepage2/
      </div>
   <div class="column" style="background-color:white;">
     <h3>Stabilizer Removal</h3>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <p>An important part of our weight reduction plan...</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -123,7 +123,7 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Interior Panel Access</h3>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <p>Ease of access to mechanical / electrical compartments</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -132,7 +132,7 @@ permalink: /practicepage2/
       </div>
   <div class="column" style="background-color:white;">
     <h3>Water Tank Insulation</h3>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <p>Added peace of mind for those cold nights</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -147,7 +147,7 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Valve Stem Extensions</h3>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <p>Resistance is Futile</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -156,7 +156,7 @@ permalink: /practicepage2/
       </div>
   <div class="column" style="background-color:white;">
     <h3>Rustproofing</h3>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <p>Thoughts on the process</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
