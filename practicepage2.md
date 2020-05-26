@@ -17,7 +17,7 @@ permalink: /practicepage2/
   float: left;
   width: 50%;
   padding: 10px;
-  height: 420x; /* Should be removed. Only for demonstration */
+  
 }
 
 /* Clear floats after the columns */
