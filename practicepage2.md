@@ -95,8 +95,7 @@ permalink: /practicepage2/
     <br>
     <button style="background-color:green; color:white"
             onclick="location.href = '/ourmods/batterymonitor/'"> Read More </button>
-    <p>Some text..</p>
-  </div>
+     </div>
 </div>
 
 <h2> Coach </h2>
@@ -110,8 +109,7 @@ permalink: /practicepage2/
     <br>
     <button style="background-color:green; color:white"
             onclick="location.href = '/ourmods/weigthreduction/'"> Read More </button>
-    <p>Some text..</p>
-  </div>
+     </div>
   <div class="column" style="background-color:white;">
     <h3>Mod 8</h3>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
@@ -119,8 +117,7 @@ permalink: /practicepage2/
     <br>
     <br>
     <button style="background-color:green; color:white"> Read More </button>
-    <p>Some text..</p>
-  </div>
+     </div>
 </div>
 
 <div class="row">
@@ -131,8 +128,7 @@ permalink: /practicepage2/
     <br>
     <br>
     <button style="background-color:green; color:white"> Read More </button>
-    <p>Some text..</p>
-  </div>
+      </div>
   <div class="column" style="background-color:white;">
     <h3>Mod 10</h3>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
@@ -140,8 +136,7 @@ permalink: /practicepage2/
     <br>
     <br>
     <button style="background-color:green; color:white"> Read More </button>
-    <p>Some text..</p>
-  </div>
+     </div>
 </div>
 
 </body>
