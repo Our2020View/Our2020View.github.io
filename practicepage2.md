@@ -36,6 +36,7 @@ permalink: /practicepage2/
   <div class="column" style="background-color:white;">
     <h2>Mod 1</h2>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <img src="/assets/indyinterior.jpg" title="Mod Thumbnail" width="217.25" height="164">
     <button style="background-color:green; color:white"> Read More </button>
   </div>
   
