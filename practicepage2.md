@@ -33,6 +33,7 @@ permalink: /practicepage2/
 <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
 
 <h2> Electrical </h2>
+
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Electrical Info</h3>
