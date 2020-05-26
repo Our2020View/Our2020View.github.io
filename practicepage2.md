@@ -45,7 +45,7 @@ permalink: /practicepage2/
   </div>
   
     <div class="column" style="background-color:white;">
-    <h2>Battery Maintainer</h2>
+    <h3>Battery Maintainer</h3>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
@@ -56,7 +56,7 @@ permalink: /practicepage2/
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Electrical Management</h2>
+    <h3>Electrical Management</h3>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -64,7 +64,7 @@ permalink: /practicepage2/
     <button style="background-color:green; color:white"> Read More </button>
   </div>
   <div class="column" style="background-color:white;">
-    <h2>Macerator System</h2>
+    <h3>Macerator System</h3>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
@@ -75,7 +75,7 @@ permalink: /practicepage2/
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Cellular Booster</h2>
+    <h3>Cellular Booster</h3>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
@@ -84,28 +84,7 @@ permalink: /practicepage2/
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
-    <h2>Battery Monitor</h2>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
-    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
-    <br>
-    <br>
-    <button style="background-color:green; color:white"> Read More </button>
-    <p>Some text..</p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column" style="background-color:white;">
-    <h2>Mod 7</h2>
-    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
-    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
-    <br>
-    <br>
-    <button style="background-color:green; color:white"> Read More </button>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:white;">
-    <h2>Mod 8</h2>
+    <h3>Battery Monitor</h3>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
@@ -117,7 +96,7 @@ permalink: /practicepage2/
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h2>Mod 9</h2>
+    <h3>Mod 7</h3>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
@@ -126,7 +105,28 @@ permalink: /practicepage2/
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
-    <h2>Mod 10</h2>
+    <h3>Mod 8</h3>
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"> Read More </button>
+    <p>Some text..</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column" style="background-color:white;">
+    <h3>Mod 9</h3>
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"> Read More </button>
+    <p>Some text..</p>
+  </div>
+  <div class="column" style="background-color:white;">
+    <h3>Mod 10</h3>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
