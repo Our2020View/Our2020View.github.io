@@ -24,9 +24,9 @@ height="100">
 
 <button style="background-color:green; color:white">Read More</button>
 
-<button onclick="document.location = /ourmods/">Link Test</button>
+<button onclick="location.href = "/ourmods/ems/">Link Test</button>
 
-<button style="background-color:green; color:white" onclick="document.location = /ourmods/">Link Test</button>
+<button style="background-color:green; color:white" onclick="location.href = "/ourmods/ems/">Link Test</button>
 
         
 <p style="text-align:left;">Description Text</p>
