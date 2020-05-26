@@ -37,7 +37,7 @@ permalink: /practicepage2/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Electrical Info</h3>
-    <p>Some key features of the 2020 View electrical system "out of the factory"</p>
+    <p>Key features "out of the factory"</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
