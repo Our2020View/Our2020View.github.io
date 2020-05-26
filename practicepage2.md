@@ -141,5 +141,28 @@ permalink: /practicepage2/
      </div>
 </div>
 
+
+<h2> Sprinter Chassis </h2>
+
+<div class="row">
+  <div class="column" style="background-color:white;">
+    <h3>Valve Stem Extensions</h3>
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/valvestems/'"> Read More </button>
+      </div>
+  <div class="column" style="background-color:white;">
+    <h3>Rustproofing</h3>
+    <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/rustproofing/'"> Read More </button>
+     </div>
+</div>
 </body>
 </html>
