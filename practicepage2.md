@@ -41,8 +41,8 @@ permalink: /practicepage2/
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <button style="background-color:green; color:white"> Read More <
-            onclick="location.href = '/ourmods/electrica/'"</button>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/electrica/'"> Read More </button>
   </div>
   
     <div class="column" style="background-color:white;">
