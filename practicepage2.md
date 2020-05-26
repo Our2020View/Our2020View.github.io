@@ -99,14 +99,17 @@ permalink: /practicepage2/
   </div>
 </div>
 
+<h2> Coach </h2>
+
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h3>Mod 7</h3>
+    <h3>Weight Reduction</h3>
     <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <button style="background-color:green; color:white"> Read More </button>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/weigthreduction/'"> Read More </button>
     <p>Some text..</p>
   </div>
   <div class="column" style="background-color:white;">
