@@ -52,7 +52,7 @@ permalink: /practicepage2/
   </div>
 </div>
 
-<h1> Electrical </h1>
+<h3> Electrical </h3>
 
 <div class="row">
   <div class="column" style="background-color:white;">
