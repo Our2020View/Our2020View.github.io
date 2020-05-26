@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Practice Mod Page
+title: Our 24J Modifications
 permalink: /practicepage2/
 ---
 
