@@ -4,8 +4,8 @@ title: Our 24J Modifications
 permalink: /practicepage2/
 ---
 
-<html>
-<head>
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -27,8 +27,8 @@ permalink: /practicepage2/
   clear: both;
 }
 </style>
-</head>
-<body>
+
+
   
 <p>Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here Intro text here</p>
 
