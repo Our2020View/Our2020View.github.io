@@ -164,5 +164,5 @@ permalink: /practicepage2/
             onclick="location.href = '/ourmods/rustproofing/'"> Read More </button>
      </div>
 </div>
-</body>
-</html>
+
+
