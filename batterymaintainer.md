@@ -33,7 +33,7 @@ Advantages to buying an Amp – L – Start?
 
 I don’t expect to require the increased current capability of the Amp – L – Start during its chassis battery maintenance function, so it will be overkill for this role in our View.  But, the capability to function optimally with Lithium batteries makes it worth the few extra dollars for us.
 
-Here is a size comparison of both maintainers.  You can see that the Trik - L - Start comes with leads already attached to the box, while the Amp - L - Start requires you to supply the wires.  Both kits have all the necessary connecting hardware included.
+Here is a size comparison of both maintainers.  You can see that the Trik - L - Start comes with leads already attached to the box, while the Amp - L - Start requires you to supply the wires.  Both kits have all the necessary connecting and mounting hardware included.
 
 <img src="/assets/sizecomparison.jpg"/>
 
