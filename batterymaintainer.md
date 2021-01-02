@@ -49,7 +49,7 @@ Here's the seat off; you can see the lone cable you have to keep an eye on...
 
 The MasterVolt charge relay is mounted on the aft wall of the pedestal box, and right above it is a shelf that is perfect for the Amp – L – Start to sit. I mounted the Amp – L – Start as close to the outboard wall of the pedestal as comfortable, so when the seat is back installed you can lift the Styrofoam cover sheet underneath and have a look at what the unit is doing.
 
-Note that I attached the ground wire directly to the pedestal box, instead of trying to figure out the best ground wire among some of the options in the wire nest in the box.  You will have to remove a bit of paint when you drill your hole, but after that the ground is good and solid.
+Note that I attached the ground wire directly to the pedestal box, instead of trying to figure out the best ground wire among some of the options in the wire nest in the seat pedestal box.  You will have to remove a bit of paint when you drill your hole, but after that the ground is good and solid.
 
 <img src="/assets/amplstartcloseview.jpg"/>
 
