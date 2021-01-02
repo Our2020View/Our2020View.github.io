@@ -43,6 +43,8 @@ I had been not looking forward to removing the passenger seat, for some reason. 
 
 <img src="/assets/amplstartseatoff.jpg"/>
 
+<img src="/assets/sizecomparison.jpg"/>
+
 The MasterVolt charge relay is mounted on the aft wall of the pedestal box, and right above it is a shelf that is perfect for the Amp – L – Start to sit. I mounted the Amp – L – Start as close to the outboard wall of the pedestal as comfortable, so when the seat is back installed you can lift the Styrofoam cover sheet underneath and have a look at what the unit is doing.
 
 Does it work? Well, yes it does. So far so good. I’ve watched the sun come up and wake up the solar controller, seen the solar controller decide it wants to give a shot to the coach batteries, watched as the Amp – L – Start flips over to a charge cycle to give the chassis battery a spurt of charge current, and then have seen it all shut down as the solar controller decides the coach batteries are good enough - followed by the Amp – L – Start losing interest in maintaining the chassis batteries. 
