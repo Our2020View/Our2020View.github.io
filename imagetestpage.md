@@ -15,6 +15,8 @@ This is a test page
 
 <img src="/assets/narrowdrawing1.jpg" alt="drawing 1" title="drawing 1" width="400" style="float:right;" />
 
+<img src="/assets/amplstartseatoff.jpg"
+
 <br/><br/>
 
 [practice link]
