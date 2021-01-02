@@ -49,6 +49,8 @@ Here's the seat off; you can see the lone cable you have to keep an eye on...
 
 <img src="/assets/amplstartseatoffview.jpg"/>
 
+After you have had a look at the contents of the Amp - L - Start package, make sure that you have set the pin configuration on the back of the unit correctly.  It comes out of the factory with the pin set for a lead acid battery, so you'll need to move the pin if you have a lithium configuration.  But, even if you do not have to move the pin - it would be a good idea to check your setting against the instructions...
+
 The MasterVolt charge relay is mounted on the aft wall of the pedestal box, and right above it is a shelf that is perfect for the Amp – L – Start to sit. I mounted the Amp – L – Start as close to the outboard wall of the pedestal as comfortable, so when the seat is back installed you can lift the Styrofoam cover sheet underneath and have a look at what the unit is doing.
 
 In the picture below, note that I attached the ground wire directly to the pedestal box, instead of trying to figure out the best ground wire among some of the options in the wire nest in the seat pedestal box.  You will have to remove a bit of paint when you drill your hole, but after that the ground is good and solid.  The manufacturer reccomends 12 gauge wire for short wire runs, or 10 guage for longer runs.  I used 12 gauge wire for this very short distance.
