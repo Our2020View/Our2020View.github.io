@@ -37,3 +37,14 @@ I don’t expect to require the increased current capability of the Amp – L �
 
 Details of the mod are below:
 
+The Amp – L – Start installation went pretty smoothly. Prior to the 2020 year, the recommended location from everyone who has installed its brother, a Trik – L – Start, in a View was to install the connections to the posts of the battery relay solenoid under the passenger’s seat; easy to find, easy to do. On the 2020 / 2021 Views they eliminated that solenoid and replaced it with a current limited electronic charge relay, still located under the passenger’s seat. This relay does most of the same job as the old solenoid, but its extra addition to the motor home was to control the charge current from the Sprinter's alternator, limiting it to 40 amps. Now that they have a LiFePO4 option out of the factory, and knowing that customers were going to drop in their own lithium batteries, I was told by Forest City that Mercedes asked Winnebago to install a current limiter to protect the chassis alternator from the aggressive charging that lithium batteries are capable of demanding. 
+
+I had been not looking forward to removing the passenger seat, for some reason. I imagined having to deal with motors and wiring, awkward disconnects of cable plugs that I always seem to have trouble getting apart, and then getting something wrong when putting it all back together. My imagination took me as far as having to admit defeat while booking an appointment at the dealer I usually dread going to. But, it turns out there is an RV mod god after all. Four torx bolts, and the whole seat assembly lifted off without having to disconnect the lone electrical cable. The cable has enough slack that you can support the seat gently on the driver’s seat, and you have full access to the gear under the seat pedestal. Ok, I had to go out and buy a torx socket set... but I have always wanted one of those anyway...
+
+
+
+The MasterVolt charge relay is mounted on the aft wall of the pedestal box, and right above it is a shelf that is perfect for the Amp – L – Start to sit. I mounted the Amp – L – Start as close to the outboard wall of the pedestal as comfortable, so when the seat is back installed you can lift the Styrofoam cover sheet underneath and have a look at what the unit is doing.
+
+Does it work? Well, yes it does. So far so good. I’ve watched the sun come up and wake up the solar controller, seen the solar controller decide it wants to give a shot to the coach batteries, watched as the Amp – L – Start flips over to a charge cycle to give the chassis battery a spurt of charge current, and then have seen it all shut down as the solar controller decides the coach batteries are good enough - followed by the Amp – L – Start losing interest in maintaining the chassis batteries. 
+
+
