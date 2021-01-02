@@ -49,7 +49,7 @@ The MasterVolt charge relay is mounted on the aft wall of the pedestal box, and 
 
 Note that I attached the ground wire directly to the pedestal box, instead of trying to figure out the best ground wire among some of the options in the wire nest in the box.  You will have to remove a bit of paint when you drill your hole, but after that the ground is good and solid.
 
-<img src="/assets/amplstartfarview.jpg"/>
+<img src="/assets/amplstartcloseview.jpg"/>
 
 The wire hookup is very straightforward.  The Amp - L - Start "Starting" post goes to the top post on the charge relay (from the Sprinter Alternator), and the "House" post goes to the bottom post on the charge relay (to the coach batteries).
 
