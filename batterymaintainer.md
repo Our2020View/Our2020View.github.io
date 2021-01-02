@@ -41,7 +41,7 @@ The Amp – L – Start installation went pretty smoothly. Prior to the 2020 yea
 
 I had been not looking forward to removing the passenger seat, for some reason. I imagined having to deal with motors and wiring, awkward disconnects of cable plugs that I always seem to have trouble getting apart, and then getting something wrong when putting it all back together. My imagination took me as far as having to admit defeat while booking an appointment at the dealer I usually dread going to. But, it turns out there is an RV mod god after all. Four torx bolts, and the whole seat assembly lifted off without having to disconnect the lone electrical cable. The cable has enough slack that you can support the seat gently on the driver’s seat, and you have full access to the gear under the seat pedestal. Ok, I had to go out and buy a torx socket set... but I have always wanted one of those anyway...
 
-
+<img src="/assets/sizecomparison.jpg"/>
 
 The MasterVolt charge relay is mounted on the aft wall of the pedestal box, and right above it is a shelf that is perfect for the Amp – L – Start to sit. I mounted the Amp – L – Start as close to the outboard wall of the pedestal as comfortable, so when the seat is back installed you can lift the Styrofoam cover sheet underneath and have a look at what the unit is doing.
 
