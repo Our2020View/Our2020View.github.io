@@ -41,9 +41,17 @@ The Amp – L – Start installation went pretty smoothly. Prior to the 2020 yea
 
 I had been not looking forward to removing the passenger seat, for some reason. I imagined having to deal with motors and wiring, awkward disconnects of cable plugs that I always seem to have trouble getting apart, and then getting something wrong when putting it all back together. My imagination took me as far as having to admit defeat while booking an appointment at the dealer I usually dread going to. But, it turns out there is an RV mod god after all. Four torx bolts, and the whole seat assembly lifted off without having to disconnect the lone electrical cable. The cable has enough slack that you can support the seat gently on the driver’s seat, and you have full access to the gear under the seat pedestal. Ok, I had to go out and buy a torx socket set... but I have always wanted one of those anyway...
 
+Here's the seat off; you can see the lone cable you have to keep an eye on...
+
 <img src="/assets/amplstartseatoffview.jpg"/>
 
 The MasterVolt charge relay is mounted on the aft wall of the pedestal box, and right above it is a shelf that is perfect for the Amp – L – Start to sit. I mounted the Amp – L – Start as close to the outboard wall of the pedestal as comfortable, so when the seat is back installed you can lift the Styrofoam cover sheet underneath and have a look at what the unit is doing.
+
+Note that I attached the ground wire directly to the pedestal box, instead of trying to figure out the best ground wire among some of the options in the wire nest in the box.  You will have to remove a bit of paint when you drill your hole, but after that the ground is good and solid.
+
+<img src="/assets/amplstartfarview.jpg"/>
+
+The wire hookup is very straightforward.  The Amp - L - Start "Starting" post goes to the top post on the charge relay (from the Sprinter Alternator), and the "House" post goes to the bottom post on the charge relay (to the coach batteries).
 
 Does it work? Well, yes it does. So far so good. I’ve watched the sun come up and wake up the solar controller, seen the solar controller decide it wants to give a shot to the coach batteries, watched as the Amp – L – Start flips over to a charge cycle to give the chassis battery a spurt of charge current, and then have seen it all shut down as the solar controller decides the coach batteries are good enough - followed by the Amp – L – Start losing interest in maintaining the chassis batteries. 
 
