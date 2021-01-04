@@ -55,7 +55,7 @@ The MasterVolt charge relay is mounted on the aft wall of the pedestal box, and 
 
 In the picture below, note that I attached the ground wire directly to the pedestal box, instead of trying to figure out the best ground wire among some of the options in the wire nest in the seat pedestal box.  You will have to remove a bit of paint when you drill your hole, but after that the ground is good and solid.  The manufacturer reccomends 12 gauge wire for short wire runs, or 10 guage for longer runs.  I used 12 gauge wire for this very short distance.
 
-<img src="/assets/amplstartcloseview.jpg"/>
+<img src="/assets/amplstartcloseviewweb.jpg"/>
 
 The wire hookup is very straightforward.  The Amp - L - Start "Starting" post goes to the top post on the charge relay (from the Sprinter Alternator), and the "House" post goes to the bottom post on the charge relay (to the coach batteries).
 
