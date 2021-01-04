@@ -35,7 +35,7 @@ I don’t expect to require the increased current capability of the Amp – L �
 
 Here is a size comparison of both maintainers.  You can see that the Trik - L - Start comes with leads already attached to the box, while the Amp - L - Start requires you to supply the wires.  Both kits have all the necessary connecting and mounting hardware included.
 
-<img src="/assets/sizecomparison.jpg"/>
+<img src="/assets/sizecomparisonweb.jpg"/>
 
 Details of the mod are below:
 
@@ -47,7 +47,7 @@ I had been not looking forward to removing the passenger seat, for some reason. 
 
 Here's the seat off; you can see the lone cable you have to keep an eye on...
 
-<img src="/assets/amplstartseatoffview.jpg"/>
+<img src="/assets/amplstartseatoffviewweb.jpg"/>
 
 After you have had a look at the contents of the Amp - L - Start package, make sure that you have set the pin configuration on the back of the unit correctly.  It comes out of the factory with the pin set for a lead acid battery, so you'll need to move the pin if you have a lithium configuration.  But, even if you do not have to move the pin - it would be a good idea to check your setting against the instructions...
 
