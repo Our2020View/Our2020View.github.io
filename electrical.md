@@ -10,7 +10,7 @@ First, let’s talk about what came out of the factory.  For the 2020 model year
 
 1 – Alternator charging of the house batteries – According to Winnebago, knowing that the introduction of the LifePO4 option created the potential for significant higher charging currents that could affect the temperature and life of the chassis alternator, Mercedes requested that a current limited electronic charge relay be added to the alternator charging circuit.  Winnebago complied.
 
-[Mastervolt Charge Mate Pro 40 current limited charge relay]
+[Mastervolt Charge Mate Pro 40 current limited charge relay](https://www.mastervolt.com/products/charge-mate-to-connect-two-batteries/charge-mate-pro-40/)
 
 This charge relay replaced the “booster solenoid” that Winnebago has used in the View / Navion for many years.  Similar to the legacy solenoid found under the co-pilot’s seat, not only does the new charge relay allow charging of the house batteries when the alternator is outputting appropriate voltage, and provides chassis battery isolation during coach battery discharging, it limits the charging current to 40 amps; well within the long life requirements of the Mercedes alternator.  The legacy booster solenoid does not provide this type of protection.  
 
