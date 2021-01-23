@@ -22,7 +22,7 @@ We built a system by which we can take a bin out of a locker, pull out the macer
 
 So, here is what we purchased to build our macerator setup:
 
-•	Remco 9911-02-12 Portable RV Waste Pump (Amazon)
+•	[Remco 9911-02-12 Portable RV Waste Pump (Amazon)](https://www.amazon.ca/Remco-99110212-Water-Pump/dp/B00T36PIKO/ref=sr_1_1?dchild=1&keywords=remco+macerator+pump&qid=1611439499&sr=8-1)
 
 •	Valterra Products T1020-2VP Carded Bayonet Fit Drain Hose Drip Cap (Amazon)
 
