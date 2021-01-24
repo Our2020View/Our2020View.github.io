@@ -24,7 +24,7 @@ So, here is what we purchased to build our macerator setup:
 
 •	[Remco 9911-02-12 Portable RV Waste Pump (Amazon)](https://www.amazon.ca/Remco-99110212-Water-Pump/dp/B00T36PIKO/ref=sr_1_1?dchild=1&keywords=remco+macerator+pump&qid=1611439499&sr=8-1)
 
-•	Valterra Products T1020-2VP Carded Bayonet Fit Drain Hose Drip Cap (Amazon)
+•	[Valterra Products T1020-2VP Carded Bayonet Fit Drain Hose Drip Cap (Amazon)](https://www.amazon.ca/Valterra-Products-T1020-2VP-Carded-Bayonet/dp/B0006MRSC0/ref=sr_1_1?dchild=1&keywords=Valterra+Products+T1020-2VP+Carded+Bayonet+Fit+Drain+Hose+Drip+Cap&qid=1611508501&sr=8-1)
 
 •	Ten foot Thetford 70425 RV macerator hose (Amazon)
 
