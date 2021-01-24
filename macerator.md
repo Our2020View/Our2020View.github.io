@@ -98,7 +98,7 @@ universal hose adaptor](https://www.canadiantire.ca/en/pdp/water-bandit-rubber-h
 
 So far, so good.
 
-More pictures to come...
+More pictures to come when we get out again in the spring...
 
-More to come...
+
 
