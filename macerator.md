@@ -79,7 +79,7 @@ Here is what the power wire bundles for the leg switches look like:
 
 <img src="/assets/6-oldlegswitchwirebundles.jpg"/>
 
-I removed the steel guard bracket protecting the auto-transfer switch on the electrical side of that locker bay, and drilled a couple of holes.  A 1 1/4" hole saw provided the correct clearance.
+I removed the steel guard bracket protecting the auto-transfer switch on the electrical side of that locker bay, and drilled a couple of holes.  A 1 and 1/4" hole saw provided the best clearance.  This first one was 1 1/2", which was not ideal.
 
 <img src="/assets/7-holesintheelectricalgaurd.jpg"/>
 
