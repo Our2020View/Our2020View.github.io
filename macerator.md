@@ -26,13 +26,13 @@ So, here is what we purchased to build our macerator setup:
 
 •	[Valterra Products T1020-2VP Carded Bayonet Fit Drain Hose Drip Cap (Amazon)](https://www.amazon.ca/Valterra-Products-T1020-2VP-Carded-Bayonet/dp/B0006MRSC0/ref=sr_1_1?dchild=1&keywords=Valterra+Products+T1020-2VP+Carded+Bayonet+Fit+Drain+Hose+Drip+Cap&qid=1611508501&sr=8-1)
 
-•	Ten foot Thetford 70425 RV macerator hose (Amazon)
+•	[Ten foot Thetford 70425 RV macerator hose (Amazon)](https://www.amazon.ca/dp/B002UC2PZY/ref=pe_3034960_236394800_TE_dp_1)
 
 •	1 inch threaded coupler and cap for the end of the hose
 
-•	12V cigarette lighter socket (Amazon)
+•	[12V cigarette lighter socket (Amazon)](https://www.amazon.ca/dp/B07T3T9SC4/ref=pe_3034960_233709270_TE_item)
 
-•	12V latching 30A Heavy Duty low voltage wireless remote control kit (12Vmonster Lighting)
+•	[12V latching 30A Heavy Duty low voltage wireless remote control kit (12Vmonster Lighting)](https://www.12vmonster.com/products/dc-12v-latching-10a-heavy-duty-boat-car-low-voltage-wireless-remote-control-kit)
 
 •	14 gauge wire and connectors
 
