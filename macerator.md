@@ -91,5 +91,11 @@ I hooked up all of the wiring for this mod using [quick connect spade terminals]
 
 I mounted the wireless switch box on the divider wall between the wet bay and electrical bay with some adhesive backed Velcro, and essentially the macerator setup was complete.
 
+The setup works as well as expected.  Currently I have the macerator and hose in a Roughtote bin that I pull from the locker beside the propane tank, hook up the macerator to the coach dump port, open the desired valve, my wife hits the switch on key remote for the pump power and I start dumping.  It is not as quite a seamless as a built in system, but I really like the ability to be able to service the valves and use the system as intended in the event of a macerator failure.  It takes a few extra seconds to get hooked up, but I imagine it takes less time than using a conventional 3" hose hookup.  The black tank flush on these new Views / Navions is really nice, and getting the black tank clean is very easy.
+
+So far, so good.
+
+More pictures to come...
+
 More to come...
 
