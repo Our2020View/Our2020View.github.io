@@ -85,7 +85,7 @@ I removed the steel guard bracket protecting the auto-transfer switch on the ele
 
 The finished location for the 12V outlets makes them very accessible.
 
-<img src="/assets/8-inletsontheelectricalgaurdbracket.jpg"/>
+<img src="/assets/8-inletsontheelectricalguardbracket.jpg"/>
 
 
 
