@@ -91,7 +91,10 @@ I hooked up all of the wiring for this mod using [quick connect spade terminals]
 
 I mounted the wireless switch box on the divider wall between the wet bay and electrical bay with some adhesive backed Velcro, and essentially the macerator setup was complete.
 
-The setup works as well as expected.  Currently I have the macerator and hose in a Roughtote bin that I pull from the locker beside the propane tank, hook up the macerator to the coach dump port, open the desired valve, my wife hits the switch on key remote for the pump power and I start dumping.  It is not as quite a seamless as a built in system, but I really like the ability to be able to service the valves and use the system as intended in the event of a macerator failure.  It takes a few extra seconds to get hooked up, but I imagine it takes less time than using a conventional 3" hose hookup.  The black tank flush on these new Views / Navions is really nice, and getting the black tank clean is very easy.
+The setup works as well as expected.  Currently I have the macerator and hose in a Roughtote bin that I pull from the locker beside the propane tank, hook up the macerator to the coach dump port, plug in the power plug, open the desired valve, my wife hits the switch on key remote for the pump power and I start dumping.  It is not quite as seamless as a built in system, but I really like the ability to be able to service the valves and use the system as intended in the event of a macerator failure.  It takes a few extra seconds to get hooked up, but I imagine it takes less time than using a conventional 3" hose hookup.  
+
+The black tank flush on these new Views / Navions is really nice, and getting the black tank clean is very simple and effortless.  I did purchase a ["Water Bandit"
+universal hose adaptor](https://www.canadiantire.ca/en/pdp/water-bandit-rubber-hose-connection-0408806p.html) for the black tank flush connection, to be able to accomodate any type of flush hose that might be at a dump station.  With a "Water Bandit" the dump station black tank flush hose does not require a threaded fitting.
 
 So far, so good.
 
