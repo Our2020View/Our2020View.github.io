@@ -79,13 +79,15 @@ Here is what the power wire bundles for the leg switches look like:
 
 <img src="/assets/6-oldlegswitchwirebundles.jpg"/>
 
-I removed the steel guard bracket protecting the auto-transfer switch on the electrical side of that locker bay, and drilled a couple of holes.  A 1 and 1/4" hole saw provided the best clearance.  This first one was 1 1/2", which was not ideal.
+I removed the steel guard bracket protecting the auto-transfer switch on the electrical side of that locker bay, and drilled a couple of holes.  A 1 and 1/4" hole saw provided the perfect clearance.  This first one was 1 1/2", which was not ideal, but Ok.
 
 <img src="/assets/7-holesintheelectricalgaurd.jpg"/>
 
 The finished location for the 12V outlets makes them very accessible.
 
 <img src="/assets/8-inletsontheelectricalguardbracket.jpg"/>
+
+I hooked up all of the wiring for this mod using [quick connect spade terminals](https://www.canadiantire.ca/en/pdp/certified-16-14-awg-automotive-spade-terminal-10-stud-6-pk-0206911p.html#srp), and these worked out great because the coach wiring bundle connector accepted this type of insert.  For the wireless side of the circuit, after finding a positive and negative terminal in one of the wire bundle blocks, all I had to do was insert the leads from the wireless switch into their respective terminals.  For the "hot wired" 12V receptacle outlet, I just inserted the leads from the outlet directly into the other wire bundle block.  This makes the top 12V outlet powered by the wireless switch, and the bottom 12V outlet powered full time.
 
 
 
