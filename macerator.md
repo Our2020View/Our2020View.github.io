@@ -63,3 +63,29 @@ Here is a quick view of the layout of the components - starting at top right: th
 
 <img src="/assets/1-maincomponents.jpg"/>
 
+Here are a few closeups:
+
+<img src="/assets/2-12Vsupply.jpg"/>
+
+<img src="/assets/3-12Vwirelessswitch.jpg"/>
+
+<img src="/assets/4-wirelessswitchandinlet.jpg"/>
+
+These are the two dual action leg switches I removed from the top righthand corner of the wetbay.  In order to get access to the power wires, these had to be pulled out.
+
+<img src="/assets/5-legswitchesremoved.jpg"/>
+
+Here is what the power wire bundles for the leg switches look like:
+
+<img src="/assets/6-oldlegswitchwirebundles.jpg"/>
+
+I removed the steel guard bracket protecting the auto-transfer switch on the electrical side of that locker bay, and drilled a couple of holes.  A 1 1/4" hole saw provided the correct clearance.
+
+<img src="/assets/7-holesintheelectricalgaurd.jpg"/>
+
+The finished location for the 12V outlets makes them very accessible.
+
+<img src="/assets/8-inletsontheelectricalgaurdbracket.jpg"/>
+
+
+
