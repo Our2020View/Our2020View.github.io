@@ -97,6 +97,28 @@ permalink: /ourmods/
      </div>
 </div>
 
+<div class="row">
+  <div class="column" style="background-color:white;">
+    <h3>Lithium Battery Heater</h3>
+    <p>Low Cost Heating Pad</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/cellbooster/'"> Read More </button>
+     </div>
+  <div class="column" style="background-color:white;">
+    <h3>Wet Bay Heat Source</h3>
+    <p>Four Season Functionality </p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/batterymonitor/'"> Read More </button>
+     </div>
+</div>
+
+
 <h1> Coach </h1>
 
 <div class="row">
