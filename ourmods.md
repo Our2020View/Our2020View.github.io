@@ -97,7 +97,7 @@ permalink: /ourmods/
      </div>
 </div>
 
-<h2> Coach </h2>
+<h1> Coach </h1>
 
 <div class="row">
   <div class="column" style="background-color:white;">
@@ -142,7 +142,7 @@ permalink: /ourmods/
 </div>
 
 
-<h2> Sprinter Chassis </h2>
+<h1> Sprinter Chassis </h1>
 
 <div class="row">
   <div class="column" style="background-color:white;">
