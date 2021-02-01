@@ -105,7 +105,7 @@ permalink: /ourmods/
     <br>
     <br>
     <button style="background-color:green; color:white"
-            onclick="location.href = '/ourmods/cellbooster/'"> Read More </button>
+            onclick="location.href = '/ourmods/'"> Read More </button>
      </div>
   <div class="column" style="background-color:white;">
     <h3>Wet Bay Heat Source</h3>
