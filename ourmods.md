@@ -32,7 +32,7 @@ permalink: /ourmods/
   
 <p>January 2021 – After a six month delay to our order from the Winnebago factory due to the Pandemic, we received our View in September of 2020.  Due to the passage of time, our 2020 View is now a 2021 View... and the name of our website does not match.  Oh well, that’s what you get for learning how to program HTML while waiting to see if this Covid 19 thing blows over.  The good news is I have enough material now to get started on some of the details for these mods that were planned earlier in the spring of 2020.  The View is put away for the winter, so I have lots left to do when spring arrives – and I’ve already got more mods planned to make this a four season RV.  But for now, I’ll fill in some of the blanks for some of the mods listed below.</p>
 
-<h3> Electrical </h3>
+<h1> Electrical </h1>
 
 <div class="row">
   <div class="column" style="background-color:white;">
