@@ -114,7 +114,7 @@ permalink: /ourmods/
     <br>
     <br>
     <button style="background-color:green; color:white"
-            onclick="location.href = '/ourmods/batterymonitor/'"> Read More </button>
+            onclick="location.href = '/ourmods/'"> Read More </button>
      </div>
 </div>
 
