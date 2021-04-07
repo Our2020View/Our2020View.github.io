@@ -67,7 +67,7 @@ permalink: /ourmods/
   </div>
   <div class="column" style="background-color:white;">
     <h3>Macerator System</h3>
-    <img src="/assets/1-maincomponents.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <img src="/assets/1-maincomponents.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <p>Remco 9911 - 02 RV Waste Pump</p>
