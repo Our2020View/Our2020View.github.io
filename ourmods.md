@@ -38,7 +38,7 @@ permalink: /ourmods/
   <div class="column" style="background-color:white;">
     <h3>Electrical Info</h3>
     <p>Key features "out of the factory"</p>
-    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="background-color:green; color:white"
