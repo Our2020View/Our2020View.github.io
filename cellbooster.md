@@ -31,3 +31,16 @@ The physics makes sense, and the wave length calculation checks with their recom
 For our ground plane we used a circular 9” lid from a cookie tin, painted it white, mounted it with some silicon caulking, and then finished up with some Dicor lap sealant to make it look like we knew what we were doing.
 
 Details of this modification are found below:
+
+With Winnebago’s addition of the roof top access port, this addition was very straightforward.  James from the Fit RV has a good video of feeding a cable into the coach using this roof port, and can be found here:
+
+https://www.thefitrv.com/rv-tips/tips-for-using-winnebagos-new-roof-port/
+
+Here is what our roof configuration looks like:
+
+Roof photo here:
+
+Not much else to say, other than we mounted the hotspot cradle in behind the TV with no noticeable degradation in performance.  With the paper towels on the rod, the booster is a bit awkward to access.  When we elected to use the rod as a towel rack it became much easier to get at during the unlikely event that I need to check on what it is doing.
+
+Cradle Photo here:
+
