@@ -34,7 +34,7 @@ Details of this modification are found below:
 
 With Winnebago’s addition of the roof top access port, this addition was very straightforward.  James from the Fit RV has a good video of feeding a cable into the coach using this roof port, and can be found here:
 
-https://www.thefitrv.com/rv-tips/tips-for-using-winnebagos-new-roof-port/
+[The Fit RV](https://www.thefitrv.com/rv-tips/tips-for-using-winnebagos-new-roof-port/)
 
 Here is what our roof configuration looks like:
 
