@@ -30,8 +30,6 @@ The physics makes sense, and the wave length calculation checks with their recom
 
 For our ground plane we used a circular 9” lid from a cookie tin, painted it white, mounted it with some silicon caulking, and then finished up with some Dicor lap sealant to make it look like we knew what we were doing.
 
-Details of this modification are found below:
-
 With Winnebago’s addition of the roof top access port, this addition was very straightforward.  James from the Fit RV has a good video of feeding a cable into the coach using this roof port, and can be found here:
 
 [The Fit RV roof access port](https://www.thefitrv.com/rv-tips/tips-for-using-winnebagos-new-roof-port/)
