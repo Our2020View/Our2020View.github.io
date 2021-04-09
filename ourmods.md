@@ -60,7 +60,7 @@ permalink: /ourmods/
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Electrical Management</h3>
-    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <img src="/assets/emsimage.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
     <p>EMS - HW30C Hardwired</p>
