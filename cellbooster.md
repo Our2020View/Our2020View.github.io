@@ -36,9 +36,9 @@ With Winnebago’s addition of the roof top access port, this addition was very 
 
 Here is what our roof configuration looks like:
 
-Roof photo here:
+<img src="/assets/cellbooster1web.jpg"/>
 
 Not much else to say, other than we mounted the hotspot cradle in behind the TV with no noticeable degradation in performance.  With the paper towels on the rod, the booster is a bit awkward to access.  When we elected to use the rod as a towel rack it became much easier to get at during the unlikely event that I need to check on what it is doing.
 
-Cradle Photo here:
+<img src="/assets/cellbooster2web.jpg"/>
 
