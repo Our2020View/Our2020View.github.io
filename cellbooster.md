@@ -12,11 +12,11 @@ A thought on antennas – At the time of our original purchase, I picked up one 
 
 Brian from “RV with Tito” has a great YouTube channel, and has done a back to back test with the mini magnetic mount antenna and a large, high gain, Truck / RV antenna.  He called the performance comparable, with only a 3 – 5 db difference between the two.
 
-[RV with Tito info on cell boosters]
+[RV with Tito info on cell boosters](https://www.youtube.com/watch?v=eQL4lU9DjZw)
 
 Also, this website is great for lots of info, and has data on antenna comparison.
 
-[Roadtrek Life antennas]
+[Roadtrek Life antennas](http://roadtreklife.blogspot.com/2017/01/weboost-drive-4g-x-cell-booster.html#more)
 
 Our modification in the View consists of installing a magnetic ground plane on the roof for the antenna, feeding the cable through the Winnebago roof access port, and then mounting the booster cradle in an optimum location.  I had to modify the cradle mount, as the articulating arm wore out over time in our last setup.  The cradle was installed on the end of the cupboard that houses our entertainment connections; this cupboard had both power and very easy access to the roof access port.
 
@@ -24,7 +24,7 @@ The requirement for a ground plane was new to us, as our old Class B had a metal
 
 This website has lots of good info:
 
-[rvmobileinternet information]
+[rvmobileinternet information](https://www.rvmobileinternet.com/guides/ground-planes-for-rv-use-of-mobile-cellular-boosters/)
 
 The physics makes sense, and the wave length calculation checks with their recommendation.  Don’t forget to use the speed of light in feet / second and the frequency in MHz, if you want to run the numbers.
 
