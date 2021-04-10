@@ -112,7 +112,7 @@ permalink: /ourmods/
   <div class="column" style="background-color:white;">
     <h3>Cold Weather Capability</h3>
     <p>Four Season Functionality </p>
-    <img src="/assets/coldweatherweb.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <img src="/assets/coldweatherweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="background-color:green; color:white"
