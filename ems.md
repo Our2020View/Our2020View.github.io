@@ -14,6 +14,6 @@ We chose the Progressive Industries EMS – HW30C as our EMS.  The company looks
 
 Do you need one?  That depends on your comfort level, I guess.  For lightning strikes, I think you would be Ok without one as there is a surge suppressor built into the 2020’s new automatic transfer switch hooked up downstream of the shore power.  For every other electrical hazard that can cause grief to onboard equipment and inhabitants in our motor home?  No, there is no protection from these other hazards, so we spent the money to not have to worry about them.  (We did not have an EMS on our previous Class B motor homes, but we felt we wanted to do it right on this purchase.)
 
-Was it worth it?  Don’t know... I have not noticed any demonic electrical hazards lurking around out there yet.  Do I sleep well at night?  You bet!
+Was it worth it?  Don’t know... I have not noticed any demonic electrical hazards lurking around out there yet.  Do I sleep well at night?  I will when I actually get this installed!
 
-Details of our installation are below:
+
