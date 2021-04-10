@@ -110,7 +110,7 @@ permalink: /ourmods/
             onclick="location.href = '/ourmods/'"> Read More </button>
      </div>
   <div class="column" style="background-color:white;">
-    <h3>Wet Bay Heat Source</h3>
+    <h3>Cold Weather Capability</h3>
     <p>Four Season Functionality </p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
