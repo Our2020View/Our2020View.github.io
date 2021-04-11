@@ -116,7 +116,7 @@ permalink: /ourmods/
     <br>
     <br>
     <button style="background-color:green; color:white"
-            onclick="location.href = '/coldweather/'"> Read More </button>
+            onclick="location.href = '/ourmods/coldweather/'"> Read More </button>
      </div>
 </div>
 
