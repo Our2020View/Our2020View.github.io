@@ -5,6 +5,7 @@ permalink: /ourmods/coldweather/
 ---
 Test Test
 
+<img src="/assets/wetbaydrawingweb.jpg"/>
 <img src="/assets/1abehindwetbayweb.jpg"/>
 <img src="/assets/1undershowerweb.jpg"/>
 <img src="/assets/2undershower2web.jpg"/>
