@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cold Weather
+title: Cold Weather Capability
 permalink: /ourmods/coldweather/
 ---
 Test Test
