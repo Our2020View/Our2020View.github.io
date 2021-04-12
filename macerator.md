@@ -102,17 +102,21 @@ universal hose adaptor](https://www.canadiantire.ca/en/pdp/water-bandit-rubber-h
 
 Here are a few photos of how it all turned out:
 
+
 I keep all the components of the system in a bin I pull out of a locker:
 
 <img src="/assets/1maceratorweb.jpg"/>
+
 
 I store the black tank flush hose in tha same bin:
 
 <img src="/assets/2maceratorweb.jpg"/>
 
+
 Here is the macerator and wiring to the remote controlled power switch:
 
 <img src="/assets/3maceratorweb.jpg"/>
+
 
 This is the whole setup ready to go:
 
