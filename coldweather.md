@@ -64,6 +64,7 @@ I laid in some pink fibreglass R15 insulation to the walls of the wet bay box, a
 
 The trouble lamp itself was inserted from the electrical storage side of the locker, and the chord was fed straight up underneath the shower pan and out towards the water pump and under-bed aft equipment bay area.  From there, the chord was fed into the hot water area, and then around the corner, and stored loose under the fridge where it can be hidden until needed.  When needed, I tug the chord out and plug it in to the 120V outlet at the foot of the bed.
 
+<img src="/assets/plugsweb.jpg"/>
 
 With the trouble light sitting on the bed of insulation, with the bulb positioned up to the plumbing, I closed off the wet bay area from the electrical area with more pink insulation.
 
