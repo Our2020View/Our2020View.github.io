@@ -78,7 +78,7 @@ Consideration 2 – heating the water pump area
 
 Well, a trouble light in the wet bay worked so well, why not a trouble light near the water pump?  I hung a couple of lights above the pump, and during spring tests was able to keep the area well above freezing when the coach was sub-zero.  I resorted to two lights, as all I could find were 50W “rough service” bulbs in our area.  I plugged one light into the other, and then fed the remaining chord along the same path as I had used for the wet bay heat.
 
-Water pump area photo here:
+<img src="/assets/waterpumpheatweb.jpg"/>
 
 Consideration 3 – keeping the Truma happy during sub-zero travel
 
