@@ -28,6 +28,10 @@ If you stick your camera in far enough to the elecrical side of that wet bay loc
 
 <img src="/assets/2undershower2web.jpg"/>
 
+Here is another view, looking into the locker from the street:
+
+<img src="/assets/3backofelecbayweb.jpg"/>
+
 So, after giving this some thought, and remembering how we keep warm while camping, some areas requiring consideration started to become clear.
 
 When using shore power, we use independent electric heat to warm the coach.  Winnebago has used the propane furnace duct system to provide warmth to the plumbing, and even has a loose duct underneath the bed in the aft equipment bay that can be directed at the water pump or under the shower (but it is not long enough to get to the wet bay!).  However, when using electric heat, the plumbing pipes don’t get direct warmth from the furnace ducts.
@@ -44,16 +48,23 @@ Some things to think about!  Here is what I came up with:
 
 Consideration 1 – heating the wet bay
 
-After spending a considerable amount of time coming up with exceptionally clever, but overly complex and unrealistically impractical, ways to insulate and heat that area, I opted for the same method that is shown in the video above:  a trouble lamp with an old fashioned incandescent light bulb.  Knowing that a 75W bulb was enough to thaw the frozen PEX in the video, I figured that the same would be enough to keep the area warm and prevent freezing in the first place.  A low wattage light bulb – simple and safe...
+After spending a considerable amount of time coming up with exceptionally clever, but overly complex and unrealistically impractical, ways to insulate and heat that area, I opted for the same method that is shown in the video above:  a trouble lamp with an old fashioned incandescent light bulb.  Knowing that a 75W bulb was enough to thaw the frozen PEX in the video, I figured that the same would be enough to keep the area warm and prevent freezing in the first place.  A low wattage light bulb – simple and safe... I like simple and safe...
 
 How do you get at the back of the wet bay to stuff some insulation in there?  Well, Winnebago has installed a bottom of the locker access panel to both the wet bay and the electrical storage bay.  That black metal strap that initially looks like support structure, is actually the access panel.
 
-Access panel photo here:
+<img src="/assets/4viewofexterioracesspanelweb.jpg"/>
 
-Removing it is easy, and allows pretty good access to the back of the wet bay panel.  Here is a photo of the panel removed, and the start of my insulation work:
-Photo:
+Removing it is easy, and allows pretty good access to the back of the wet bay panel.  Here are a couple of photos of the panel removed, and the start of my insulation work:
+
+<img src="/assets/4viewofexterioracesspanelweb.jpg"/>
+
+<img src="/assets/5viewinacesspanel2web.jpg"/>
+
 I laid in some pink fibreglass R15 insulation to the walls of the wet bay box, and to the floor as well.  I didn’t go crazy, as the whole idea was to leave an air cavity that could be heated by the trouble lamp.  After getting the insulation in, I tied one of the temperature probes from a monitoring system I purchased - up to a lanyard, and dropped it in the wet bay.  
+
 The trouble lamp itself was inserted from the electrical storage side of the locker, and the chord was fed straight up underneath the shower pan and out towards the water pump and under-bed aft equipment bay area.  From there, the chord was fed into the hot water area, and then around the corner, and stored loose under the fridge where it can be hidden until needed.  When needed, I tug the chord out and plug it in to the 120V outlet at the foot of the bed.
+
+
 With the trouble light sitting on the bed of insulation, with the bulb positioned up to the plumbing, I closed off the wet bay area from the electrical area with more pink insulation.
 Photo here:
 It works very, very, well.  With outside temperatures approaching – 13 C, the wet bay was maintained well above freezing with a 60W incandescent light bulb.  The rating on the trouble lamp is 75W, but up here in Canada you can’t buy incandescent light bulbs any longer of that wattage.  All I could find was 50W or 60W “rough service” bulbs, so I’ll keep my eye open for other options when on the road.
@@ -80,9 +91,9 @@ Yes, it works as we hoped it would.
 
 
 
-<img src="/assets/3backofelecbayweb.jpg"/>
-<img src="/assets/4viewofexterioracesspanelweb.jpg"/>
-<img src="/assets/5viewinacesspanel2web.jpg"/>
+
+
+
 <img src="/assets/6viewinacesspanelweb.jpg"/>
 <img src="/assets/8wetbaywithheatweb.jpg"/>
 <img src="/assets/9elecbaywithinsulationwebjpg"/>
