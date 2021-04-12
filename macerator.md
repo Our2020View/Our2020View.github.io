@@ -100,9 +100,27 @@ And... No mess, No fuss.
 The black tank flush on these new Views / Navions is really nice, and getting the black tank clean is very simple and effortless.  I did purchase a ["Water Bandit"
 universal hose adaptor](https://www.canadiantire.ca/en/pdp/water-bandit-rubber-hose-connection-0408806p.html) for the black tank flush connection, to be able to accomodate any type of flush hose that might be at a dump station.  With a "Water Bandit" the dump station black tank flush hose does not require a threaded fitting.
 
-So far, so good.
+Here are a few photos of how it all turned out:
 
-More pictures to come when we get out again in the spring...
+I keep all the components of the system in a bin I pull out of a locker:
+
+<img src="/assets/1maceratorweb.jpg"/>
+
+I store the black tank flush hose in tha same bin:
+
+<img src="/assets/2maceratorweb.jpg"/>
+
+Here is the macerator and wiring to the remote controlled power switch:
+
+<img src="/assets/3maceratorweb.jpg"/>
+
+This is the whole setup ready to go:
+
+<img src="/assets/4maceratorweb.jpg"/>
+
+So far, working as planned.
+
+
 
 
 
