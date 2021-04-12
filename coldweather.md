@@ -76,7 +76,7 @@ It works very, very, well.  With outside temperatures approaching – 13 C, the 
 
 Consideration 2 – heating the water pump area
 
-Well, a trouble light in the wet bay worked so well, why not a trouble light near the water pump?  I hung a couple of lights above the pump, and during spring tests was able to keep the area well above freezing when the coach was sub-zero.  I resorted to two lights, as all I could find were 50W “rough service” bulbs in our area.  I plugged one light into the other, and then fed the remaining chord along the same path as I had used for the wet bay heat.
+Well, a trouble light in the wet bay worked so well, why not a trouble light near the water pump?  I hung a couple of lights above the pump, and during spring tests was able to keep the area well above freezing when the coach was sub-zero.  I resorted to two lights, as all I could find were 50W “rough service” bulbs in our area.  I plugged one light into the other, and then fed the remaining chord along the same path as I had used for the wet bay heat.  Two 50W bulbs was plenty of heat, so sometimes I turned one light off and just had one bulb powered.  (I put velcro on this water pump acess panel to make entry easier)  In the right side of this picture, you can see the orange chord coming from the wet bay trouble light.
 
 <img src="/assets/waterpumpheatweb.jpg"/>
 
