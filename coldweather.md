@@ -56,9 +56,9 @@ How do you get at the back of the wet bay to stuff some insulation in there?  We
 
 Removing it is easy, and allows pretty good access to the back of the wet bay panel.  Here are a couple of photos of the panel removed, and the start of my insulation work:
 
-<img src="/assets/4viewofexterioracesspanelweb.jpg"/>
-
 <img src="/assets/5viewinacesspanel2web.jpg"/>
+
+<img src="/assets/6viewinacesspanelweb.jpg"/>
 
 I laid in some pink fibreglass R15 insulation to the walls of the wet bay box, and to the floor as well.  I didn’t go crazy, as the whole idea was to leave an air cavity that could be heated by the trouble lamp.  After getting the insulation in, I tied one of the temperature probes from a monitoring system I purchased - up to a lanyard, and dropped it in the wet bay.  
 
@@ -94,6 +94,5 @@ Yes, it works as we hoped it would.
 
 
 
-<img src="/assets/6viewinacesspanelweb.jpg"/>
 <img src="/assets/8wetbaywithheatweb.jpg"/>
 <img src="/assets/9elecbaywithinsulationwebjpg"/>
