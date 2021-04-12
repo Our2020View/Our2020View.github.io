@@ -98,9 +98,9 @@ So, how did all of this turn out?
 
 It turns out it was all very worthwhile.  In the spring of 21 during the Pandemic, a family emergency forced us to dig the View out of a snow bank and dry camp in sub zero temperatures out of town at a Walmart.  We don’t use the propane heat while sleeping, instead we prefer to stay warm in our winter bags and then use the furnace to come back up to temperature in the morning.  With the light bulbs powered to keep the wet bay and water pump area warm, the Truma circulating hot water throughout the kitchen and bath plumbing systems, and with other coach normal system current draws, we used about 40% of our batteries capability overnight.  Once we were up in the morning and had the furnace powered, we could unplug the water pump heat and just leave the wet bay heat on.  With the generator running during breakfast, we brought the batteries up to close to full charge again.  In addition to the light bulbs, we also had our lithium battery heat powered as well.  If you want to see what that is all about, I have another mod page for that one.
 
-Yes, it works as we hoped it would.  These were pretty easy mods to make, but change the game considerably on being able to use the motorhome when the temperature drops.  You can keep your plumbing warm while driving across areas of sub-zero tempertures, or even use the coach to camp with both types of power options.  I mentioned earlier that I can keep an eye on the wet bay temperature.  
+Yes, it works as we hoped it would.  These were pretty easy mods to make, but change the game considerably on being able to use the motorhome when the temperature drops.  You can keep your plumbing warm while driving across areas of sub-zero tempertures, or even use the coach to camp with both types of power options.  
 
-Here is the temperature measuring kit I purchased - I mounted one proble in the propane locker to get an outside air temperature, one in the wet bay, and one near the water pump:
+I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is the temperature measuring kit I purchased - I mounted one probe in the propane locker to get an outside air temperature, one in the wet bay, and one near the water pump:
 
 [Temperature Monitoring System](https://www.amazon.ca/gp/product/B01BICMM1I/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
 
