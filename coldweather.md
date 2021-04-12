@@ -75,21 +75,30 @@ With the trouble light sitting on the bed of insulation, with the bulb positione
 It works very, very, well.  With outside temperatures approaching – 13 C, the wet bay was maintained well above freezing with a 60W incandescent light bulb.  The rating on the trouble lamp is 75W, but up here in Canada you can’t buy incandescent light bulbs any longer of that wattage.  All I could find was 50W or 60W “rough service” bulbs, so I’ll keep my eye open for other options when on the road.
 
 Consideration 2 – heating the water pump area
+
 Well, a trouble light in the wet bay worked so well, why not a trouble light near the water pump?  I hung a couple of lights above the pump, and during spring tests was able to keep the area well above freezing when the coach was sub-zero.  I resorted to two lights, as all I could find were 50W “rough service” bulbs in our area.  I plugged one light into the other, and then fed the remaining chord along the same path as I had used for the wet bay heat.
+
 Water pump area photo here:
 
 Consideration 3 – keeping the Truma happy during sub-zero travel
+
 On previous motorhomes, we had a big six gallon propane water heater that was not going to freeze during transit through cold weather.  But, as with a standard hot water tank system, you can’t run the propane to keep the Truma happy while driving.  To solve this one, I resorted to purchasing the Truma Aqua Go Electric Anti-freeze Kit.
+
 [Truma Aqua Go Electric Anti-freeze Kit]( https://shop.truma.net/products/aquago-electric-antifreeze-kit)
+
 Installation was easy, and operation is simple.  Don’t forget to include the step to select the anti-freeze system on the Truma rotary control knob prior to travel in cold weather to your departure checklist!
+
 Now - there is another option, other than purchasing this component, but it involves fixing a flaw in the Winnebago winterization procedure associated with the Truma system.  If fixed, you can easily drain the Truma without winterizing the rest of the coach plumbing system.  It is a very easy fix – If you are interested, have a look at the mod page I did for this one.
 
 Consideration 4 – Can I power this stuff while dry camping, with no shore power plugged in?
+
 While sitting at a campsite with shore power, powering the trouble lamps in the wet bay and pump area is no problem.  But, while dry camping, you will have to power the outlet at the foot of the bed with inverter power.  The inverter itself draws about two amps, and plan on about five amps for each bulb you have lit in your heating system.  (Don’t forget that even though a 60W light bulb only pulls a half of an amp on household hydro, you are creating that household power via the inverter powered from your 12V batteries.  Amps go way up when produced from the low voltage of a 12V battery system.)  When combined with the fridge and other overnight dry camping electrical draws, you will be temporarily closing in on 20 amps when the fridge is in its duty cycle pulling about 5 amps.  Have a close look to see if your battery system can handle this.  Our 200 amp hours of Lithium power can easily take this draw for more than 10 hours, but the standard lead acid batteries from Winnebago will find this challenging.  Supplementing the batteries with the generator might be warranted if you have to dry camp with the heat on for any length of time.  
 
 So, how did all of this turn out?
+
 It turns out it was all very worthwhile.  In the spring of 21 during the Pandemic, a family emergency forced us to dig the View out of a snow bank and dry camp in sub zero temperatures out of town at a Walmart.  We don’t use the propane heat while sleeping, instead we prefer to stay warm in our winter bags and then use the furnace to come back up to temperature in the morning.  With the light bulbs powered to keep the wet bay and water pump area warm, the Truma circulating hot water throughout the kitchen and bath plumbing systems, and with other coach normal system current draws, we used about 40% of our batteries capability overnight.  Once we were up in the morning and had the furnace powered, we could unplug the water pump heat and just leave the wet bay heat on.  With the generator running during breakfast, we brought the batteries up to close to full charge again.  In addition to the light bulbs, we also had our lithium battery heat powered as well.  If you want to see what that is all about, I have another mod page for that one.
-Yes, it works as we hoped it would.
+
+Yes, it works as we hoped it would.  These were pretty easy mods to make, but change the game considerably on being able to use the motorhome when the temperature drops.  You can keep your plumbing warm while driving across areas of sub-zero tempertures, or even use the coach to camp with both types of power options.
 
 
 
