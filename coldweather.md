@@ -14,7 +14,7 @@ Here is a drawing of the plumbing directly behind the wet bay panel ... it is ve
 
 <img src="/assets/wetbaydrawingweb.jpg"/>
 
-And, here is a partial photo of what the area behind the web bay panel looks like:
+And, here is a partial photo of what the area behind the wet bay panel looks like:
 
 <img src="/assets/1abehindwetbayweb.jpg"/>
 
