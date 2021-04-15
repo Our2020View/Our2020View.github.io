@@ -22,10 +22,11 @@ Here is a view of the shunt install, looking straight down into the battery box:
 
 <img src="/assets/2victronweb.jpg"/>
 
-Here is a shot of the stair riser, or the front of the battery box with the bolt heads that attach the Victron shunt to the inside of the step riser:
+Here is a shot of the stair riser, or the front of the battery box, with the bolt heads that attach the Victron shunt to the inside of the step riser:
 
 <img src="/assets/3victronweb.jpg"/>
 
+Aother shot of the completed installation:
 
 <img src="/assets/1victronweb.jpg"/>
 
