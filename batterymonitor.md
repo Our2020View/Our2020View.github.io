@@ -35,3 +35,6 @@ So, I forgot to tell you that I purchased the temperature sensor as well.  I wan
 And finally, here is what the app is showing you if you purchase the BMV 712:
 
 <img src="/assets/BMVreading2web-.jpg"/>
+
+All in all, we are very happy with this purchase.  Working as advertised.
+
