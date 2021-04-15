@@ -128,7 +128,7 @@ permalink: /ourmods/
     <br>
     <br>
     <button style="background-color:green; color:white"
-            onclick="location.href = '/ourmods/'"> Read More </button>
+            onclick="location.href = '/ourmods/lithiumupgrade/'"> Read More </button>
      </div>
   </div>
 
