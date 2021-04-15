@@ -32,5 +32,6 @@ Aother shot of the completed installation - this one has the temperture probe le
 
 So, I forgot to tell you that I purchased the temperature sensor as well.  I wanted to keep an eye on the battery temperature, knowing that we were venturing out into the cold.  It worked very well, and configuring the app to read this sensor was easy.  Now, you are just reading the temperature of one of the positive battery posts - but I guess that is pretty close to internal battery temperture.  I noticed that that the batteries start accepting a charge when my post temperture reaches -2 C.
 
-<img src="/assets/BMVreading1web-.jpg"/>
+And finally, here is what the app is showing you if you purchase the BMV 712:
+
 <img src="/assets/BMVreading2web-.jpg"/>
