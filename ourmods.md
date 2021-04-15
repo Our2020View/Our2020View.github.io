@@ -120,6 +120,26 @@ permalink: /ourmods/
      </div>
 </div>
 
+<div class="row">
+  <div class="column" style="background-color:white;">
+    <h3>Lithium Battery Heater</h3>
+    <p>Low Cost Heating Pad</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/'"> Read More </button>
+     </div>
+  <div class="column" style="background-color:white;">
+    <h3>Cold Weather Capability</h3>
+    <p>Four Season Functionality </p>
+    <img src="/assets/coldweatherweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/coldweather/'"> Read More </button>
+     </div>
+</div>
 
 <h1> Coach </h1>
 
