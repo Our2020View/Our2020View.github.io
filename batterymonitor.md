@@ -20,7 +20,7 @@ I have not mounted the remote gauge yet, but plan on mounting it on the panel ab
 
 Here is a view of the shunt install, looking straight down into the battery box:  
 
-You can see I positioned the shunt just off centre, in order to make the ground cables all fit comfortably.  There is one ground cable that comes from the coach into the battery box from the left side, and two ground cables that come from the coach into the battery box from the right side.  The fourth ground cable comes directly from the battery bank and is hooked up to the shunt input.  The grey ground cable is the one from the battery bank, and there are three others in plactic looms that attach to the shunt output.
+You can see I positioned the shunt just off centre, in order to make the ground cables all fit comfortably.  There is one ground cable that comes from the coach into the battery box from the left side, and two ground cables that come from the coach into the battery box from the right side.  The fourth ground cable comes directly from the battery bank and is hooked up to the shunt input.  (The grey ground cable is the one from the battery bank, and there are three others in plactic looms that attach to the shunt output.)
 
 <img src="/assets/2victronweb.jpg"/>
 
