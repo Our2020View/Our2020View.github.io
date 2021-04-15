@@ -42,3 +42,7 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 [Lithium Battery Heater](/ourmods/)
 
 [Cold Weather Capability](/ourmods/coldweather/)
+
+[Lithium Battery Updgrade](/ourmods/lithiumupgrade/)
+
+
