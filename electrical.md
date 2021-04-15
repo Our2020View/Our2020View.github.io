@@ -43,6 +43,6 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 [Cold Weather Capability](/ourmods/coldweather/)
 
-[Lithium Battery Updgrade](/ourmods/lithiumupgrade/)
+[Lithium Battery Upgrade](/ourmods/lithiumupgrade/)
 
 
