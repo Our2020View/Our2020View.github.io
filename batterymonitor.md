@@ -26,7 +26,7 @@ Here is a shot of the stair riser, or the front of the battery box, with the bol
 
 <img src="/assets/3victronweb.jpg"/>
 
-Aother shot of the completed installation:
+Aother shot of the completed installation - this one has the temperture probe lead also inserted into the shunt:
 
 <img src="/assets/1victronweb.jpg"/>
 
