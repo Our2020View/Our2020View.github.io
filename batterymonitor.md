@@ -18,7 +18,9 @@ I gave the decision to purchase the 712 instead of the 702 considerable thought,
 
 I have not mounted the remote gauge yet, but plan on mounting it on the panel above the cook top – where the power switch for the tank heaters is and the inverter control.  To get there – I’ll route the Victron Ethernet cable from the battery box to the locker next door, up through the coach access the Xantrex XC uses to get under the sink, and then underneath the kitchen cupboard floor to the side of the fridge, up the side of the fridge and in behind the adjacent panel where the tank heater switch is.  (I will eventually get some photos of that process up on this page.) 
 
-Here is a view of the shunt install, looking straight down into the battery box:  You can see I positioned the shunt just off centre, in order to make the ground cables all fit comfortably.  There is one ground cable that comes from the coach into the battery box from the left side, and two ground cables that come from the coach into the battery box from the right side.  The fourth ground cable comes directly from the battery bank and is hooked up to the shunt input.  The grey ground cable is the one from the battery bank, and there are three others in plactic looms that attach to the shunt output.
+Here is a view of the shunt install, looking straight down into the battery box:  
+
+You can see I positioned the shunt just off centre, in order to make the ground cables all fit comfortably.  There is one ground cable that comes from the coach into the battery box from the left side, and two ground cables that come from the coach into the battery box from the right side.  The fourth ground cable comes directly from the battery bank and is hooked up to the shunt input.  The grey ground cable is the one from the battery bank, and there are three others in plactic looms that attach to the shunt output.
 
 <img src="/assets/2victronweb.jpg"/>
 
