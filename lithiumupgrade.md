@@ -16,8 +16,15 @@ This is a photo of the Winnebago battery configuration - Until I became familiar
 
 <img src="/assets/batteryinstall1web.jpg"/>
 
+You can see that the batteries are essentially open to the outside world, in order to get a traditional lead acid battery venting safely:  Later on when I installed a warming pad for these lithium batteries, I enclosed the battery box as best I could.
+
 <img src="/assets/batteryinstall2web.jpg"/>
+
+These shots show the weight comparison of the lead acid vs the Battle Born lithium batteries.  Not quite a 50% reduction in weight, but pretty close:
+
 <img src="/assets/batteryinstall3web.jpg"/>
 <img src="/assets/batteryinstall4web.jpg"/>
+
+
 <img src="/assets/batteryinstall5web.jpg"/>
 
