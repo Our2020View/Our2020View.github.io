@@ -34,4 +34,9 @@ So, how do we like these batteries?  Well, we are thrilled with them.  In a load
 
 In the test I did, at the recommnedation of the vendor who sold me the  batteries, I hooked up a heater and used the 750 watt setting to watch the performance.  My Victron BMV 712 bluetooth app was handy to see everything unfold.  Doing the arithmetic, I calculated that I should get 2.5 hours of heater operation out of the 200 amp hours of available Battle Born power.  In the end, I exceeded 2.5 hours and also got more than 200 amp hours before I ended the test.  I had expected the batteries to shut down at around 10 volts, but as you can see from the screen shot below, they were still humming along at less sthan 10 volts!  It was here that I chickened out and ended the test.
 
+<img src="/assets/BMVreading1web-.jpg"/>
+
+We have done a bunch of dry camping in mid spring conditions, and are extremely happy with the capacity and charging rate associated with the generator.
+
+Working as advertised.
 
