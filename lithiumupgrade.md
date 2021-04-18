@@ -25,6 +25,13 @@ These shots show the weight comparison of the lead acid vs the Battle Born lithi
 <img src="/assets/batteryinstall3web.jpg"/>
 <img src="/assets/batteryinstall4web.jpg"/>
 
+Replicating what Winnebago had done regarding cable placement got us up and running fairly quickly.
 
 <img src="/assets/batteryinstall5web.jpg"/>
+<img src="/assets/batteryinstall5web.jpg"/>
+
+So, how do we like these batteries?  Well, we are thrilled with them.  In a load test I did, the advertised amp hour rating was shown to be conservative and the performance was jaw dropping compared to my experience with lead acid batteries, even AGM batteries.  (The factory batteries were not AGM batteries, so this is a huge step up in performance.)
+
+In the test I did, at the recommnedation of the vendor who sold me the  batteries, I hooked up a heater and used the 750 watt setting to watch the performance.  My Victron BMV 712 bluetooth app was handy to see everything unfold.  Doing the arithmetic, I calculated that I should get 2.5 hours of heater operation out of the 200 amp hours of available Battle Born power.  In the end, I exceeded 2.5 hours and also got more than 200 amp hours before I ended the test.  I had expected the batteries to shut down at around 10 volts, but as you can see from the screen shot below, they were still humming along at less sthan 10 volts!  It was here that I chickened out and ended the test.
+
 
