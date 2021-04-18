@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="/assets/vandrawing.jpg"/>
+<img src="/assets/vandrawingweb.jpg"/>
 
 <h1>Welcome to our Motor Home Mod Site</h1>
 <br>
