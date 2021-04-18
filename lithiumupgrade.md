@@ -3,7 +3,19 @@ layout: page
 title: Lithium Battery Upgrade
 permalink: /ourmods/lithiumupgrade/
 ---
+
+Our lithium upgrade to two Battle Born BB10012 100 amp hour batteries was the first mod we did – and we chose this mod for a few reasons.  I wanted the weight reduction it would give us, as we have plans to pick the kids up every now and then and travel as a family of four.  With four in the coach, and loaded for an epic adventure, there is very little margin to the Sprinter’s max weight of 11,030 pounds.  Every pound counts.  Another reason, of course, was we wanted to capitalize on the advertised increase in useful battery capacity – at least double the available power?  That sounds good!  And the last reason, but not the least, was to stop the painful exercise of removing the batteries for the winter and hauling them into the basement to keep warm.  The AGMs in our last Class B were mounted up in the top right hand corner of the Sprinter’s engine compartment, and were a real bear to remove.  Weighing in at close to 60 pounds each, it took two of us to remove them and every year would result in some form of back pain that would stick with me for weeks.  Sure... we didn’t have to remove them, but we have lost batteries over the winter at the temperatures we get up here so I started that practice many years ago.  Following this practice both for our coach and chassis batteries had made them problem free ever since (but not my back).  Now, with the lithium coach batteries, I can leave them in all winter and not worry about any issues.
+
+The install was very straightforward, with only one snag popping up:  The Winnebago paralleling cables connecting the batteries were not quite long enough for the terminal post locations on the new Battle Borns, so I had to drop tools and go hunt down some new cables.  I bought a couple of 2/0 AWG 18” cables with 3/8” connectors, and they worked fine.  (The wire gauge is super important - when the microwave is being fed from the batteries via the inverter, you are pulling around 160 amps!  Don’t skimp!)
+
+I did not take the time to investigate flipping the batteries around so the posts were at the bottom: I just emulated the battery configuration that Winnebago settled on, thinking that my best chance of using their cables would be if I did the same layout.  The Battle Born terminal posts are a bit of a pain; it would have been nicer to have the option to mount the cables with a bit more room to get tools on the lug bolts.  But, the initial install was relatively quick, aside from the search for new paralleling cables...
+
+Now, when I later added the Victron BMV 712, a heating pad, and insulated the battery box - things got interesting as space became a premium.  The batteries had to sit higher because of the rubber matt and heating pad they were resting on, and the batteries also had to move forward a bit to get some insulation on the back wall of the battery box.  Also, the ground cables had to be re-arranged to get hooked up to the Victron shunt.  But, those details are contained in another mod descriptions.
+
+This is a photo of the Winnebago battery configuration - Until I became familiar with the cable orientation, I numbered them all to ensure I started off with the same placement as Winnebago had left them in:
+
 <img src="/assets/batteryinstall1web.jpg"/>
+
 <img src="/assets/batteryinstall2web.jpg"/>
 <img src="/assets/batteryinstall3web.jpg"/>
 <img src="/assets/batteryinstall4web.jpg"/>
