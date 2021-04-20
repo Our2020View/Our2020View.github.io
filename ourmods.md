@@ -107,7 +107,7 @@ permalink: /ourmods/
     <br>
     <br>
     <button style="background-color:green; color:white"
-            onclick="location.href = '/ourmods/'"> Read More </button>
+            onclick="location.href = '/ourmods/batteryheater/'"> Read More </button>
      </div>
   <div class="column" style="background-color:white;">
     <h3>Cold Weather Capability</h3>
