@@ -39,7 +39,7 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 [Battery Monitor](/ourmods/batterymonitor/)
 
-[Lithium Battery Heater](/ourmods/)
+[Lithium Battery Heater](/ourmods/batteryheater/)
 
 [Cold Weather Capability](/ourmods/coldweather/)
 
