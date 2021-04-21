@@ -30,7 +30,7 @@ This is a shot of the orientation of the pad in the box, with the floor and back
 
 <img src="/assets/1batteryheatweb.jpg"/>
 
-And this is one of the batteries loosely positioned:
+And this is one of the batteries loosely positioned.  The pad was tucked up further to the back, to leave zero overlap up against the threaded rods:
 
 <img src="/assets/2batteryheatweb.jpg"/>
 
