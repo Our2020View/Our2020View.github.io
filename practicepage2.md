@@ -164,6 +164,6 @@ permalink: /practicepage2/
 
 
 <footer>
-	<p>Copyright &copy; 2020 The Golden Roast.</p>
-  </li>
+	<p>Copyright &copy; 2020 The Golden Roast.</p> </li>
+ 
 </footer>
