@@ -4,18 +4,61 @@ title: Practice Page
 permalink: /practicepage/
 ---
 
-<style>
-footer {
-	position: fixed;
-	width: 100%;
-	left: 0;
-	bottom: 0;
-	background-color: brown;
-	color: white;
-	text-align: center;
-}
-</style>
+<footer class="site-footer h-card">
 
-<footer>
-	<p>Copyright &copy; 2020 The Golden Roast.</p>
+<data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+
+
+<div class="wrapper">
+
+
+
+
+
+{%- if site.author %}
+
+<ul class="contact-list">
+
+{% if site.author.name -%}
+
+<li class="p-name">{{ site.author.name | escape }}</li>
+
+{% endif -%}
+
+{% if site.author.email -%}
+
+<li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> {{ site.description | escape }}</p>
+
+{%- endif %}
+
+</ul>
+
+{%- endif %}
+
+</div>
+
+<div class="footer-col">
+
+<p>
+
+</div>
+
+</div>
+
+
+
+<div class="social-links">
+
+{%- include social.html -%}
+
+</div>
+
+
+
+</div>
+
+
+
 </footer>
+
