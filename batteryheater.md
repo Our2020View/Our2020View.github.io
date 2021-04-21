@@ -25,3 +25,13 @@ Once the batteries were positioned on the matt, with the extra pad width overlap
 Here is what I started with - the pad had a soft cover that was removed:
 
 <img src="/assets/heatingpadweb.jpg"/>
+
+This is a shot of the orientation of the pad in the box, with the floor and back wall padding:
+
+<img src="/assets/1batteryheatweb.jpg"/>
+
+And this is one of the batteries loosely positioned:
+
+<img src="/assets/2batteryheatweb.jpg"/>
+
+
