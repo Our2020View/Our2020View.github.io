@@ -4,6 +4,7 @@ title: Practice Page
 permalink: /practicepage/
 ---
 
+<style>
 footer {
 	position: fixed;
 	width: 100%;
