@@ -12,12 +12,12 @@ permalink: /practicepage/
   width: 100%;
  
   color: black;
-  text-align: left;
+  text-align: center;
 }
 </style>
 
 <div class="footer">
-  <p>Winnebago View 24J Motorhome Mods</p>
+  <p>Winnebago View 24J Motorhome Mods     our2020view@gmail.com</p>
 </div> 
 
 
