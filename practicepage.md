@@ -17,7 +17,7 @@ permalink: /practicepage/
 </style>
 
 <div class="footer">
-  <p>Winnebago View 24J Motorhome Mods     our2020view@gmail.com</p>
+  <p>Winnebago View 24J Motorhome Mods     <a href="mailto:our2020view@gmail.com"> our2020view@gmail.com</a></p>
 </div> 
 
 
