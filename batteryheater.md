@@ -38,7 +38,7 @@ Fibregalss insulation was stuffed in the loose areas.  Insulation that was expos
 
 <img src="/assets/4batteryheatweb.jpg"/>
 
-The pad controller sits on top of the finished bed of insulation:
+The pad controller sits on top of the finished bed of insulation:  The plan is to remove the "auto off timer" at some point, and install a handy 120V receptacle on the cabinet wall next to the step well.
 
 <img src="/assets/3batteryheatweb.jpg"/>
 
