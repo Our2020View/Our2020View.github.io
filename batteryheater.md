@@ -34,6 +34,12 @@ And this is one of the batteries loosely positioned.  The pad was tucked up furt
 
 <img src="/assets/2batteryheatweb.jpg"/>
 
+Fibregalss insulation was stuffed in the loose areas.  Insulation that was exposed to the outside elements is protected by plastic bags, and the pink insulation you can see here is sitting on top of those protected areas:
+
 <img src="/assets/4batteryheatweb.jpg"/>
 
+The pad controller sits on top of the finished bed of insulation:
+
 <img src="/assets/3batteryheatweb.jpg"/>
+
+Working as well as we hoped it would.
