@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Battery Maintainer
+title: Sprinter Battery Maintainer
 permalink: /ourmods/batterymaintainer/
 ---
 Our previous coaches had the capability to trickle charge the chassis (Sprinter) battery from the house (RV) battery charging system.  This was one of those “no brainers” that we took for granted on our Class B Sprinter.  If there was solar feeding the coach batteries, there was solar floating the chassis battery as well.
