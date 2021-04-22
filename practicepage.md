@@ -12,7 +12,7 @@ permalink: /practicepage/
   width: 100%;
  
   color: black;
-  text-align: center;
+  text-align: left;
 }
 </style>
 
