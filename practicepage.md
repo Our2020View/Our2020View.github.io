@@ -17,7 +17,7 @@ permalink: /practicepage/
 </style>
 
 <div class="footer">
-  <p>Footer</p>
+  <p>Winnebago View 24J Motorhome Mods</p>
 </div> 
 
 
