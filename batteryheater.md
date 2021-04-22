@@ -34,4 +34,6 @@ And this is one of the batteries loosely positioned.  The pad was tucked up furt
 
 <img src="/assets/2batteryheatweb.jpg"/>
 
+<img src="/assets/3batteryheatweb.jpg"/>
 
+<img src="/assets/4batteryheatweb.jpg"/>
