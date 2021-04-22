@@ -15,7 +15,7 @@ permalink: /practicepage/
             <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>            {{ site.description | escape }}</p>
+            <li><a {{ site.description | escape }}class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> </p>
           {%- endif %}
         </ul>
       {%- endif %}
