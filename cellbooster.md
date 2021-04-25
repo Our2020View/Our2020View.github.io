@@ -42,3 +42,6 @@ Not much else to say, other than we mounted the hotspot cradle in behind the TV 
 
 <img src="/assets/cellbooster2web.jpg"/>
 
+<br>
+
+[Back to Our 24J Modifications:](/ourmods/)
