@@ -62,3 +62,7 @@ The wire hookup is very straightforward.  The Amp - L - Start "Starting" post go
 Does it work? Well, yes it does. So far so good. I’ve watched the sun come up and wake up the solar controller, seen the solar controller decide it wants to give a shot to the coach batteries, watched as the Amp – L – Start flips over to a charge cycle to give the chassis battery a spurt of charge current, and then have seen it all shut down as the solar controller decides the coach batteries are good enough - followed by the Amp – L – Start losing interest in maintaining the chassis batteries. 
 
 Working as advertised.
+
+<br> 
+
+[Back to All Mods Page:](/ourmods/)
