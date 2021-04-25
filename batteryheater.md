@@ -43,3 +43,9 @@ The pad controller sits on top of the finished bed of insulation:  The plan is t
 <img src="/assets/3batteryheatweb.jpg"/>
 
 Working as well as we hoped it would.
+
+<br>
+
+[Back to Our 24J Modifications:](/ourmods/)
+
+
