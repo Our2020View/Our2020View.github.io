@@ -16,4 +16,6 @@ Do you need one?  That depends on your comfort level, I guess.  For lightning st
 
 Was it worth it?  Don’t know... I have not noticed any demonic electrical hazards lurking around out there yet.  Do I sleep well at night?  I will when I actually get this installed!
 
+<br>
 
+[Back to Our 24J Modifications:](/ourmods/)
