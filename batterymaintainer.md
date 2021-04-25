@@ -65,4 +65,4 @@ Working as advertised.
 
 <br> 
 
-[Back to All Mods Page:](/ourmods/)
+[Back to Our 24J Modifications page:](/ourmods/)
