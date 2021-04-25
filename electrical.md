@@ -47,4 +47,4 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 <br>
 
-[Back to All Mods Page:](/ourmods/)
+[Back to Our 24J Modifications:](/ourmods/)
