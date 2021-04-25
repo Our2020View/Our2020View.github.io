@@ -40,3 +40,6 @@ And finally, here is what the app is showing you if you purchase the BMV 712:
 
 All in all, we are very happy with this purchase.  Working as advertised.
 
+<br>
+
+[Back to Our 24J Modifications:](/ourmods/)
