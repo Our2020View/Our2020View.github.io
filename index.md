@@ -13,6 +13,10 @@ If you are like me, you might enjoy scouring the web to find out what other RVer
 
 I don't have all of the mods advertised on this site actually completed yet, but am slowing working through my list.  
 
+<p>January 2021 – After a six month delay to our order from the Winnebago factory due to the Pandemic, we received our View in September of 2020.  Due to the passage of time, our 2020 View is now a 2021 View... and the name of our website does not match.  Oh well, that’s what you get for learning how to program HTML while waiting to see if this Covid 19 thing blows over.  The good news is I have enough material now to get started on some of the details for these mods that were planned earlier in the spring of 2020.  The View is put away for the winter, so I have lots left to do when spring arrives – and I’ve already got more mods planned to make this a four season RV.  But for now, I’ll fill in some of the blanks for some of the mods listed below.</p>
+
+<p>Spring 2021 - After spending the winter thinking about the possibility of brighter days for RVing in 2021, we were launched into "RV Emergency Mode" by unexpected family issues out of town.  With the requirement to get on-site as soon as possible, I dug the View out of the snowbank in mid March and started into making it cold weather capable for dry camping.  I was able to get the wet bay insulated and heated, and also get some heat into the battery bay to keep the lithium batteries warm enough to accept a charge.  Those mods worked out great, and allowed us to dry camp in temperatures approaching -10 C.  With the cold weather behind us now, I'm looking forward to a more leisurely schedule for some more additions.</p>
+
 Thanks for your interest!
 
 <br>
