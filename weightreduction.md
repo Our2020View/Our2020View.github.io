@@ -38,6 +38,8 @@ So, back to a weight reduction program.  Is there anything on the View that we d
 
 Here is what we ended up doing to save some weight:
 
+(Working on this...)
+
 <br>
 
 [Back to Our 24J Modifications:](/ourmods/)
