@@ -107,6 +107,9 @@ I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is 
 
 As you have guessed, these mods do not make you bullet proof to cold weather.  You might want to dump your tanks!  Full disclosure - your dump valves certainly do freeze up in cold weather.  (The Winnebago tank heaters do not provide enough heat to warm the water down by the valves to keep them un-frozen.)  In the spring of '21 we were lucky enough to time our dumps when the daytime highs were above zero ... but you can see another cold weather mod coming along, one day.
 
+<br>
+
+[Back to Our 24J Modifications:](/ourmods/)
 
 
 
