@@ -42,6 +42,6 @@ Here is what we ended up doing to save some weight:
 
 <br>
 
-[Back to Our 24J Modifications:](/ourmods/)
+[Back to Our 24J Modifications](/ourmods/)
 
 
