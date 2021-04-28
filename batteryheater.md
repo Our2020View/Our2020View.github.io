@@ -46,6 +46,6 @@ Working as well as we hoped it would.
 
 <br>
 
-[Back to Our 24J Modifications:](/ourmods/)
+[Back to Our 24J Modifications](/ourmods/)
 
 
