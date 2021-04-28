@@ -42,4 +42,4 @@ All in all, we are very happy with this purchase.  Working as advertised.
 
 <br>
 
-[Back to Our 24J Modifications:](/ourmods/)
+[Back to Our 24J Modifications](/ourmods/)
