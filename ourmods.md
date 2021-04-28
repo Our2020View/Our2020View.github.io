@@ -32,6 +32,8 @@ permalink: /ourmods/
   
 <h1> Electrical </h1>
 
+So, here are the mods that we are currently working on.  This page is a work in progress, but hopefully it will give you some ideas:
+
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Electrical Info</h3>
