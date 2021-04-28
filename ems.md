@@ -18,4 +18,4 @@ Was it worth it?  Don’t know... I have not noticed any demonic electrical haza
 
 <br>
 
-[Back to Our 24J Modifications:](/ourmods/)
+[Back to Our 24J Modifications](/ourmods/)
