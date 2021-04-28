@@ -30,7 +30,7 @@ permalink: /ourmods/
 </head>
 <body>
   
-So, here are the mods that we have implemented, or are in the planning stages - This page is a work in progress, but hopefully it will give you some ideas...
+So, here are the mods that we have implemented, or have in the planning stages - This page is a work in progress, but hopefully it will give you some ideas...
   
 <h1> Electrical </h1>
 
