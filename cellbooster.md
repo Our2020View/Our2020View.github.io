@@ -44,4 +44,4 @@ Not much else to say, other than we mounted the hotspot cradle in behind the TV 
 
 <br>
 
-[Back to Our 24J Modifications:](/ourmods/)
+[Back to Our 24J Modifications](/ourmods/)
