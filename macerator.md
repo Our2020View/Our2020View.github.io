@@ -108,7 +108,7 @@ I keep all the components of the system in a bin I pull out of a locker:
 <img src="/assets/1maceratorweb.jpg"/>
 
 
-I store the black tank flush hose in tha same bin:
+I store the black tank flush hose in that same bin:
 
 <img src="/assets/2maceratorweb.jpg"/>
 
