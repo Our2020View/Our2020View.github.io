@@ -118,7 +118,7 @@ Here is the macerator and wiring to the remote controlled power switch:
 <img src="/assets/3maceratorweb.jpg"/>
 
 
-This is the whole setup ready to go:
+And, this is the whole setup ready to go:
 
 <img src="/assets/4maceratorweb.jpg"/>
 
