@@ -38,7 +38,7 @@ Fibregalss insulation was stuffed in the loose areas.  Insulation that was expos
 
 <img src="/assets/4batteryheatweb.jpg"/>
 
-The pad controller sits on top of the finished bed of insulation:  The plan is to remove the "auto off timer" at some point, and also install a handy 120V receptacle on the cabinet wall next to the step well.  In order to get the pad cable out of the battery box, the removable step is unlateched and the step is slid back about a half of an inch to allow the chord to poke out.  The step is plenty secure during these infrequent times when the battery heat is required. 
+The pad controller sits on top of the finished bed of insulation:  The plan is to remove the "auto off timer" at some point, and also install a handy 120V receptacle on the cabinet wall next to the step well.  In order to get the pad cable out of the battery box, the removable step is unlatched and the step is slid back about a half of an inch to allow the chord to poke out.  The step is plenty secure during these infrequent times when the battery heat is required. 
 
 <img src="/assets/3batteryheatweb.jpg"/>
 
