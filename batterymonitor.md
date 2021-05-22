@@ -16,8 +16,6 @@ I positioned the shunt on the riser of the step so that it was low enough not to
 
 I gave the decision to purchase the 712 instead of the 702 considerable thought, and elected on the Bluetooth connectivity feature.  I wasn’t sure if it would be useful, but ended up being sold on the easy method of updating the operating software.  And, it turns out; those software updates were very easy.  During the install, the first time I opened the app, it asked if I wanted to update and get things going.  Also, it turns out the decision go have the data on my phone was a very good idea.  The phone app provides a very intuitive interface, and allows for quick retrieval of information at a glance.  During the winter dry camping we did, I was constantly on the app monitoring what was going on to ensure we didn’t end up with a plumbing freeze up (see “Cold Weather Capability” and “Lithium Battery Heater”)
 
-I have not mounted the remote gauge yet, but plan on mounting it on the panel above the cook top – where the power switch for the tank heaters is and the inverter control.  To get there – I’ll route the Victron Ethernet cable from the battery box to the locker next door, up through the coach access the Xantrex XC uses to get under the sink, and then underneath the kitchen cupboard floor to the side of the fridge, up the side of the fridge and in behind the adjacent panel where the tank heater switch is.  (I will eventually get some photos of that process up on this page.) 
-
 Here is a view of the shunt install, looking straight down into the battery box:  
 
 You can see I positioned the shunt just off centre, in order to make the ground cables all fit comfortably.  There is one ground cable that comes from the coach into the battery box from the left side, and two ground cables that come from the coach into the battery box from the right side.  The fourth ground cable comes directly from the battery bank and is hooked up to the shunt input.  (The grey ground cable is the one from the battery bank, and there are three others in plactic looms that attach to the shunt output.  You can just see one of these cables from the right in this photo; and you can see the third one that comes from the left and is positioned underneath the grey cable)
@@ -37,6 +35,8 @@ So, I forgot to tell you that I purchased the temperature sensor as well.  I wan
 And finally, here is what the app is showing you if you purchase the BMV 712:
 
 <img src="/assets/BMVreading2web-.jpg"/>
+
+The Victron gauge install in the panel above the cooktop was a little more extensive than the EMS gauge install, but more or less the same idea.  From the battery box I fed the BMV cable out through the left hand side cable entry, and drilled a hole in the neighboring locker near where the cables feeding the inverter can be found. From there I fed the cable up through the protective guard and into the base of the sink cabinet, following the path that the cables from the inverter follow. (There is an access panel on the floor of the sink cabinet that makes this pretty straightforward.)  Once the cable was under the cabinet, I fed an electricians's cable puller from the water heater area, under the fridge, under the cabinet with the pullout drawers, and then under the sink cabinet to the access panel area.  Then, I pulled back the cable to the water heater area.  Next, I used the same technique as I did on the EMS install - 
 
 All in all, we are very happy with this purchase.  Working as advertised.
 
