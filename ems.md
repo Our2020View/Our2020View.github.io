@@ -52,7 +52,7 @@ I did this gauge install in conjuction with the gauge install for the Victron BM
 
 <img src="/assets/Finished-panel-web.jpg"/>
 
-The EMS works very well - on the first power up it caught the fact that the extension chord I was using from the garage did not have a ground prong attached.  I had to think about that for a minute, but then finally realized that the EMS was quite right - there was no ground.  Once I changed out the extension chord for one with a ground prong it allowed power to the coach and the EMS was quite happy.
+The EMS works very well - on the first power up it caught the fact that the extension chord I was using from the garage did not have a ground prong attached.  I had to think about that for a minute, but then finally realized that the EMS was quite right - there was no ground.  Once I changed out the extension chord for one with a ground prong - the EMS error code cleared, the box allowed power to the coach, and all was right in the electrical mod world again.
 
 Working as advertised.
 
