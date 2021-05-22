@@ -22,7 +22,7 @@ I elected to mount the EMS on a plywood base, just in case there was ever a plum
 
 Here is where I ended up putting it; the orange 10 guage cable is at the bottom of the photo:- (The other orange cables are extension chords for my plumbing heat mods)
 
-(overhead location)
+<img src="/assets/EMS-on-Plywood-web.jpg"/>
 
 This photo shows everthing hooked up:
 
