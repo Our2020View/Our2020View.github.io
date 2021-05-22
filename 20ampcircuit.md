@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 20 Amp Circuit
+title: Dedicated 20 Amp Circuit
 permalink: /ourmods/20ampcircuit/
 ---
 
