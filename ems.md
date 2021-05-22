@@ -22,15 +22,15 @@ I elected to mount the EMS on a plywood base, just in case there was ever a plum
 
 Here is where I ended up putting it; the orange 10 guage cable is at the bottom of the photo:- (The other orange cables are extension chords for my plumbing heat mods)
 
-<img src="/assets/EMS-on-Plywood-web.jpg"/>
+<img src="/assets/EMS-overhead-web.jpg"/>
 
 This photo shows everthing hooked up:
 
-(Everything hooked up)
+<img src="/assets/EMS-wired-up-web.jpg"/>
 
 And this one is the EMS all buttoned up:
 
-(buttoned up)
+<img src="/assets/EMS-buttoned-up-web.jpg"/>
 
 So, all in all, that was sort of the easy part.  (Well maybe not easy, as crouching under the bed to do the wiring was kinda annoying)  The part that took the longest was the mounting of the remote gauge in the location I wanted - in the cabinet where the Xantrex inverter control is.  The trick here was to remove the cover panel in the cabinet, unplug the inverter com cable and the DC inputs for the tank heater switch, and get access to the space above the refrigerator from the hole in the side of the cabinet. I tried two or three ways to get an electrician's cable puller into the area by the Truma water heater, and finally had success by starting the fishing expedition from on top of the refrigerator.  By removing the three screws on the fridge control panel, the whole cover panel slid out and revealed the top of the fridge.  I inserted a cable fisher in the back right corner and went straight down the back right side of the fridge.  The  cable fisher popped out down by the water heater.  Once I had the cable from the EMS on top of the fridge, it was easy to get it over to the the hole that opened into the cabinet above the cooktop.
 
