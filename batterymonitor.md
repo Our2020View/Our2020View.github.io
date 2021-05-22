@@ -36,7 +36,11 @@ Here is what the app is showing you if you purchase the BMV 712:
 
 <img src="/assets/BMVreading2web-.jpg"/>
 
-The Victron gauge install in the panel above the cooktop was a little more extensive than the EMS gauge install, but more or less the same idea.  From the battery box I fed the BMV cable out through the left hand side cable entry, and drilled a hole in the neighboring locker near where the cables feeding the inverter can be found.  (I filled the hole with silicon caulking to ensure the locker remained sealed.) From there I fed the cable up through the protective guard and into the base of the sink cabinet, following the path that the cables from the inverter follow. (There is an access panel on the floor of the sink cabinet that makes this pretty straightforward.)  
+The Victron gauge install in the panel above the cooktop was a little more extensive than the EMS gauge install, but more or less the same idea.  From the battery box I fed the BMV cable out through the left hand side cable entry, and drilled a hole in the neighboring locker near where the cables feeding the inverter can be found.  (I filled the hole with silicon caulking to ensure the locker remained sealed.) 
+
+<img src="/assets/BMVcableweb.jpg"/>
+
+From there I fed the cable up through the protective guard and into the base of the sink cabinet, following the path that the cables from the inverter follow. (There is an access panel on the floor of the sink cabinet that makes this pretty straightforward.)  
 
 <img src="/assets/fridge-panel-off-web.jpg"/>
 
