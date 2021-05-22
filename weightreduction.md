@@ -42,7 +42,7 @@ So, back to a weight reduction program.  Is there anything on the View that we d
 6.	How about those Ottomans? – They look good, but will we use them?
 7.	Remove the Onan Genset?  Do we dare?  That would save 172 pounds!
 
-So far, here is where we saved a bit of weight:
+So far, here is where we have saved a bit of weight so far:
 
 Lithium batteries - saved 53 lbs
 
