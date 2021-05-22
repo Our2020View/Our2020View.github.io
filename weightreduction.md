@@ -42,9 +42,14 @@ So, back to a weight reduction program.  Is there anything on the View that we d
 6.	How about those Ottomans? – They look good, but will we use them?
 7.	Remove the Onan Genset?  Do we dare?  That would save 172 pounds!
 
-Here is what we ended up doing to save some weight:
+So far, here is where we saved a bit of weight:
 
-(Working on this...)
+Lithium batteries - saved 53 lbs
+Cab cushions, ottoman removal, bedroom TV, and ladder - saved 36 lbs
+
+89 pounds... not very much; a medium sized child or a big dog.  I'd really like to remove the stabilizers, but I think I will wait until I can ask someone smarter than me about that one.  The Onan Genset?  That would be great, but it sure did come in handy when we were winter dry camping.  No, that one is a keeper.
+
+In the meantime, I'll keep thinking about this...
 
 <br>
 
