@@ -93,6 +93,8 @@ For the wireless side of the circuit, after finding a positive and negative term
 
 I mounted the wireless switch box on the divider wall between the wet bay and electrical bay with some adhesive backed Velcro, and essentially the macerator setup was complete.
 
+<img src="/assets/Macerator-Remote-web.jpg"/>
+
 The setup works as well as expected.  Currently I have the macerator and hose in a Roughtote bin that I pull from the locker beside the propane tank, hook up the macerator to the coach dump port, plug in the power plug, open the desired valve, my wife hits the switch on key remote for the pump power and I start dumping.  It is not quite as seamless as a built in system, but I really like the ability to be able to service the valves and use the system as intended in the event of a macerator failure.  It takes a few extra seconds to get hooked up, but I imagine it takes less time than using a conventional 3" hose hookup.  
 
 And... No mess, No fuss.
