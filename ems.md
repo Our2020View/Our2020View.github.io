@@ -18,7 +18,7 @@ The supplied installation instructions describing the install after the Onan Gen
 
 I elected to mount the EMS on a plywood base, just in case there was ever a plumbing leak in the area:
 
-<img src="/assets/1batteryheatweb.jpg"/>
+<img src="/assets/EMS-on-Plywood-web.jpg"/>
 
 Here is where I ended up putting it; the orange 10 guage cable is at the bottom of the photo:- (The other orange cables are extension chords for my plumbing heat mods)
 
