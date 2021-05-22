@@ -48,7 +48,7 @@ Once the cable was under the cabinet, I fed an electricians's cable puller from 
 
 <img src="/assets/fridge-panel-off-web.jpg"/>
 
-I inserted a cable fisher in the back right corner and went straight down the back right side of the fridge.  The  cable fisher popped out down by the water heater.  Once I had the cable from the EMS on top of the fridge, it was easy to get it over to the the hole that opened into the cabinet above the cooktop.
+I inserted a cable fisher in the back right corner and went straight down the back right side of the fridge.  The  cable fisher popped out down by the water heater.  
 
 Here is a shot of where I started the electician's cable puller down the back of the fridge:
 
