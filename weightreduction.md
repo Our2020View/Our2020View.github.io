@@ -26,7 +26,7 @@ Two hundred and thirty three pounds?  Yes, I’m serious.  This is one of the re
 
 We’ve had some salespeople actually tell us that the View has over 4,000 pounds of cargo carrying capacity.  In doing so, they were hoping that we didn’t know the difference between the Gross Combination Weight Rating and the Gross Vehicle Weight Rating.  That second rating, the GVWR, is that maximum Sprinter number up above – 11,030 pounds.  That first rating, the GCWR, is that maximum weight of the Sprinter (11,030 pounds) and the weight of something you are towing behind.  Your maximum loaded Sprinter and whatever you are towing behind cannot go over the GCWR.  For our 24J, that number is about 15,250 pounds.  But, you still can’t go over 11030 pounds on the View portion of that combination.  Again, the GCWR is a very big number, but is starts with a maximum weight of the View itself of 11,030 pounds.
 
-James from the FitRV has a great video on the topic of Class Cs built on the Sprinter chassis:
+James from the FitRV has a great video on this topic about Class Cs built on the Sprinter chassis and their weight limitations:
 
 [The FitRV weights explanation](https://www.thefitrv.com/rv-tips/how-much-can-you-tow-with-a-small-motorhome/)
 
