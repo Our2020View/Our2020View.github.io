@@ -32,11 +32,15 @@ Aother shot of the completed installation - this one has the temperture probe le
 
 So, I forgot to tell you that I purchased the temperature sensor as well.  I wanted to keep an eye on the battery temperature, knowing that we were venturing out into the cold.  It worked very well, and configuring the app to read this sensor was easy.  Now, you are just reading the temperature of one of the positive battery posts - but I guess that is pretty close to internal battery temperture.  I noticed that that the batteries start accepting a charge when my post temperture reaches -2 C.
 
-And finally, here is what the app is showing you if you purchase the BMV 712:
+Here is what the app is showing you if you purchase the BMV 712:
 
 <img src="/assets/BMVreading2web-.jpg"/>
 
-The Victron gauge install in the panel above the cooktop was a little more extensive than the EMS gauge install, but more or less the same idea.  From the battery box I fed the BMV cable out through the left hand side cable entry, and drilled a hole in the neighboring locker near where the cables feeding the inverter can be found. From there I fed the cable up through the protective guard and into the base of the sink cabinet, following the path that the cables from the inverter follow. (There is an access panel on the floor of the sink cabinet that makes this pretty straightforward.)  Once the cable was under the cabinet, I fed an electricians's cable puller from the water heater area, under the fridge, under the cabinet with the pullout drawers, and then under the sink cabinet to the access panel area.  Then, I pulled back the cable to the water heater area.  Next, I used the same technique as I did on the EMS install - the trick here was to remove the cover panel in the cabinet above the cooktop, unplug the inverter com cable and the DC inputs for the tank heater switch, and get access to the space above the refrigerator from the hole in the side of the cabinet. I tried two or three ways to get an electrician's cable puller into the area by the Truma water heater, and finally had success by starting the fishing expedition from on top of the refrigerator.  By removing the three screws on the fridge control panel, the whole cover panel slid out and revealed the top of the fridge.  
+The Victron gauge install in the panel above the cooktop was a little more extensive than the EMS gauge install, but more or less the same idea.  From the battery box I fed the BMV cable out through the left hand side cable entry, and drilled a hole in the neighboring locker near where the cables feeding the inverter can be found.  (I filled the hole with silicon caulking to ensure the locker remained sealed.) From there I fed the cable up through the protective guard and into the base of the sink cabinet, following the path that the cables from the inverter follow. (There is an access panel on the floor of the sink cabinet that makes this pretty straightforward.)  
+
+<img src="/assets/fridge-panel-off-web.jpg"/>
+
+Once the cable was under the cabinet, I fed an electricians's cable puller from the water heater area, under the fridge, under the cabinet with the pullout drawers, and then under the sink cabinet to the access panel area.  Then, I pulled back the cable to the water heater area.  Next, I used the same technique as I did on the EMS install - the trick here was to remove the cover panel in the cabinet above the cooktop, unplug the inverter com cable and the DC inputs for the tank heater switch, and get access to the space above the refrigerator from the hole in the side of the cabinet. I tried two or three ways to get an electrician's cable puller into the area by the Truma water heater, and finally had success by starting the fishing expedition from on top of the refrigerator.  By removing the three screws on the fridge control panel, the whole cover panel slid out and revealed the top of the fridge.  
 
 <img src="/assets/fridge-panel-off-web.jpg"/>
 
@@ -48,7 +52,15 @@ Here is a shot of where I started the electician's cable puller down the back of
 
 Once I got ahold of the BMV cable left in the water heater area, I pulled it up to the top of the fridge and then fed it into the area that the cabinet panel covers up.
 
-I did all of this at the same time as the EMS install, so here are some shots of 
+I did this gauge install in conjuction with the gauge install for the EMS, so I only had to do all of this once.  Here are some photos of my gauge layout, hole location, the various cables that needed plugging into the guages, and the end result:  (Winnebago chewed up the face plate holes a bit, so I changed out the screws and added some washers to make things look a bit better)
+
+<img src="/assets/gauge-layout-web.jpg"/>
+
+<img src="/assets/panel-holes-cut-web.jpg"/>
+
+<img src="/assets/cables-hanging-web.jpg"/>
+
+<img src="/assets/Finished-panel-web.jpg"/>
 
 All in all, we are very happy with this purchase.  Working as advertised.
 
