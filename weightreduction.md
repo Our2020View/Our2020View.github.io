@@ -28,11 +28,11 @@ We’ve had some salespeople actually tell us that the View has over 4,000 pound
 
 James from the FitRV has a great video on the topic of Class Cs built on the Sprinter chassis:
 
-https://www.thefitrv.com/rv-tips/how-much-can-you-tow-with-a-small-motorhome/
+[The FitRV weights explanation](https://www.thefitrv.com/rv-tips/how-much-can-you-tow-with-a-small-motorhome/)
 
 So, back to a weight reduction program.  Is there anything on the View that we don’t need, something that we would be carrying around with no use?  It turns out that there might be:
 
-1.	Lead Acid Coach Batteries – Replace them with Lithium and save about 90 lbs?
+1.	Lead Acid Coach Batteries – Replace them with Lithium and save about 60 lbs?
 2.	Remove the rear stabilizers – We can’t see ever using these
 3.	Remove the two TVs? – Well, maybe one TV.  We’ll see...
 4.	Remove the ladder to the front bunk?
