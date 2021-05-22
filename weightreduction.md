@@ -45,6 +45,7 @@ So, back to a weight reduction program.  Is there anything on the View that we d
 So far, here is where we saved a bit of weight:
 
 Lithium batteries - saved 53 lbs
+
 Cab cushions, ottoman removal, bedroom TV, and ladder - saved 36 lbs
 
 89 pounds... not very much; a medium sized child or a big dog.  I'd really like to remove the stabilizers, but I think I will wait until I can ask someone smarter than me about that one.  The Onan Genset?  That would be great, but it sure did come in handy when we were winter dry camping.  No, that one is a keeper.
