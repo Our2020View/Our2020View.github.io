@@ -129,14 +129,14 @@ Here are the mods that we have implemented, or have in the planning stages - thi
             onclick="location.href = '/ourmods/lithiumupgrade/'"> Read More </button>
      </div>
   <div class="column" style="background-color:white;">
-    <h3>Lithium Battery Upgrade</h3>
-    <p>Battle Born BB 10012 </p>
-    <img src="/assets/batteryinstall5web.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <h3>Additional 20 amp Circuit</h3>
+    <p>Electric Heater Use</p>
+    <img src="/assets/RVsitepostweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="background-color:green; color:white"
-            onclick="location.href = '/ourmods/lithiumupgrade/'"> Read More </button>
-     </div>
+            onclick="location.href = '/ourmods/20ampcircuit/'"> Read More </button>
+      </div>
   </div>
 
 <h1> Coach </h1>
