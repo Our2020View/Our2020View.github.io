@@ -42,7 +42,7 @@ The Victron gauge install in the panel above the cooktop was a little more exten
 
 From there I fed the cable up through the protective guard and into the base of the sink cabinet, following the path that the cables from the inverter follow. (There is an access panel on the floor of the sink cabinet that makes this pretty straightforward.)  
 
-<img src="/assets/fridge-panel-off-web.jpg"/>
+<img src="/assets/BMVsinkacessweb.jpg"/>
 
 Once the cable was under the cabinet, I fed an electricians's cable puller from the water heater area, under the fridge, under the cabinet with the pullout drawers, and then under the sink cabinet to the access panel area.  Then, I pulled back the cable to the water heater area.  Next, I used the same technique as I did on the EMS install - the trick here was to remove the cover panel in the cabinet above the cooktop, unplug the inverter com cable and the DC inputs for the tank heater switch, and get access to the space above the refrigerator from the hole in the side of the cabinet. I tried two or three ways to get an electrician's cable puller into the area by the Truma water heater, and finally had success by starting the fishing expedition from on top of the refrigerator.  By removing the three screws on the fridge control panel, the whole cover panel slid out and revealed the top of the fridge.  
 
