@@ -36,11 +36,17 @@ So, all in all, that was sort of the easy part.  (Well maybe not easy, as crouch
 
 Here is a shot of where I started the electician's cable puller down the back of the fridge:
 
-(cable puller)
+<img src="/assets/cable-fisher-web.jpg"/>
 
 I did this gauge install in conjuction with the gauge install for the Victron BMV 712, so I only had to do all of this once.  Here are some photos of my gauge layout, hole location, the various cables that needed plugging into the guages, and the end result:  (Winnebago chewed up the face plate holes a bit, so I changed out the screws and added some washers to make things look a bit better)
 
-(Four photos here)
+<img src="/assets/gauge-layout-web.jpg"/>
+
+<img src="/assets/panel-holes-cut-web.jpg"/>
+
+<img src="/assets/cables-hanging-web.jpg"/>
+
+<img src="/assets/Finished-panel-web.jpg"/>
 
 The EMS works very well - on the first power up it caught the fact that the extension chord I was using from the garage did not have a ground prong attached.  I had to think about that for a minute, but then finally realized that the EMS was quite right - there was no ground.  Once I changed out the extension chord for one with a ground prong it allowed power to the coach and the EMS was quite happy.
 
