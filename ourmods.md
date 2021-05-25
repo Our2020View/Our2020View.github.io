@@ -197,5 +197,26 @@ Here are the mods that we have implemented, or have in the planning stages - thi
             onclick="location.href = '/ourmods/rustproofing/'"> Read More </button>
      </div>
 </div>
+<div class="row">
+  <div class="column" style="background-color:white;">
+    <h3>Weight Reduction</h3>
+    <p>CCC increase of 200 pounds?</p>
+    <img src="/assets/scalecartoonweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/weightreduction/'"> Read More </button>
+     </div>
+  <div class="column" style="background-color:white;">
+    <h3>Stabilizer Removal</h3>
+    <p>Part of our weight reduction plan...</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/stabilizers/'"> Read More </button>
+     </div>
+</div>
+  
 </body>
 </html>
