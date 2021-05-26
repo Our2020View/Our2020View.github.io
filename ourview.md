@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our 24J View
+title: Buying a Winnebago View / Navion
 permalink: /our24jview/
 ---
 
