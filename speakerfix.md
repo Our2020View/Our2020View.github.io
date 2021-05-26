@@ -12,5 +12,6 @@ Is it much of an improvement?  Well, I'm no audiophile, but to me it made a sign
 
 <img src="/assets/speakerfixweb.jpg"/>
 
+>br
 
 [Back to Our 24J Modifications](/ourmods/)
