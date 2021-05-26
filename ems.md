@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Installing an RV Electrical Management System
+title: Electrical Management System
 permalink: /ourmods/ems/
 ---
 
