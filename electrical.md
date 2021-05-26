@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Electrical Information
+title: 2020 View / Navion Electrical Information
 permalink: /ourmods/electrical/
 ---
 
