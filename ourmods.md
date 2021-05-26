@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our View / Navion Modifications
+title: View / Navion Modifications
 permalink: /ourmods/
 ---
 
