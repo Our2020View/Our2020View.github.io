@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Winnebago View 24J
+title: Our View 24J
 permalink: /our24jview/
 ---
 
