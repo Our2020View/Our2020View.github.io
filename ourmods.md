@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our 24J Modifications
+title: Winnebago View / Navion Modifications
 permalink: /ourmods/
 ---
 
