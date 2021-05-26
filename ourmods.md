@@ -45,7 +45,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
             onclick="location.href = '/ourmods/electrical/'"> Read More </button>
   </div>
       <div class="column" style="background-color:white;">
-    <h3>Sprinter Battery Maintainer</h3>
+    <h3>Chassis Battery Maintainer</h3>
     <p>Amp - L - Start chassis battery maintainer</p>
     <img src="/assets/amplstartcloseviewweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
