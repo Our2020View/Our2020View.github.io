@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lithium Battery Upgrade
+title: Installing Lithium Batteries in an RV
 permalink: /ourmods/lithiumupgrade/
 ---
 
