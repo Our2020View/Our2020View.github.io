@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Winnebago View / Navion Modifications
+title: Our View / Navion Modifications
 permalink: /ourmods/
 ---
 
