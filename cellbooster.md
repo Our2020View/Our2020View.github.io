@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cellular Booster
+title: Installling a Cellular Booster
 permalink: /ourmods/cellbooster/
 ---
 
