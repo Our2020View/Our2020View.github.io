@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Installing a Battery Monitor
+title: Battery Monitor
 permalink: /ourmods/batterymonitor/
 ---
 
