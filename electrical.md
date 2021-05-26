@@ -45,6 +45,8 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 [Lithium Battery Upgrade](/ourmods/lithiumupgrade/)
 
+[Dedicated 20 Amp Circuit](/ourmods/20ampcircuit/)
+
 <br>
 
 [Back to Our 24J Modifications](/ourmods/)
