@@ -10,8 +10,7 @@ I used a plastic knife to pry off the speake grill, removed the speaker from its
 
 Is it much of an improvement?  Well, I'm no audiophile, but to me it made a significant difference.  No, I doubt that it is the same as driving around in a Mercedes touring coup listening to the Guess Who, but for a sound system in a van - it is way better than it was.  Very much worth the two minutes that it takes.
 
-
-
+<img src="/assets/speakerfixweb.jpg"/>
 
 
 [Back to Our 24J Modifications](/ourmods/)
