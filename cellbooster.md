@@ -28,7 +28,7 @@ This website has lots of good info:
 
 The physics makes sense, and the wave length calculation checks with their recommendation.  Don’t forget to use the speed of light in feet / second and the frequency in MHz, if you want to run the numbers.
 
-For our ground plane we used a circular 9” lid from a cookie tin, painted it white, mounted it with some silicon caulking, and then finished up with some Dicor lap sealant to make it look like we knew what we were doing.
+For our ground plane we used a circular 9” lid from a cookie tin, painted it white, mounted it with some silicon caulking, and then finished up with some Dicor lap sealant to make it look like we knew what we were doing.  (The jury is still out on that last part.)
 
 With Winnebago’s addition of the roof top access port, this addition was very straightforward.  James from the Fit RV has a good video of feeding a cable into the coach using this roof port, and can be found here:
 
