@@ -166,7 +166,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   <div class="column" style="background-color:white;">
     <h3>Truma Water Heater Bypass</h3>
     <p>Improvement to the Winnebago attempt</p>
-    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <img src="/assets/heaterbypass2web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="background-color:green; color:white"
