@@ -42,7 +42,7 @@ Here is a shot of where I started the electician's cable puller down the back of
 
 <img src="/assets/cable-fisher-web.jpg"/>
 
-I did this gauge install in conjuction with the gauge install for the Victron BMV 712, so I only had to do all of this once.  Here are some photos of my gauge layout, hole location, the various cables that needed plugging into the guages, and the end result:  (Winnebago chewed up the face plate holes a bit, so I changed out the screws and added some washers to make things look a bit better)
+I did this gauge install in conjuction with the gauge install for the Victron BMV 712, so I only had to do all of this once.  Here are some photos of my gauge layout, hole location, the various cables that needed plugging into the gauges, and the end result:  (Winnebago chewed up the face plate holes a bit, so I changed out the screws and added some washers to make things look a bit better)
 
 <img src="/assets/gauge-layout-web.jpg"/>
 
