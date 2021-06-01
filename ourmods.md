@@ -172,7 +172,16 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <button style="background-color:green; color:white"
             onclick="location.href = '/ourmods/waterinsulation/'"> Read More </button>
      </div>
-</div>
+  <div class="column" style="background-color:white;">
+    <h3>Water Tank Insulation</h3>
+    <p>Added peace of mind for those cold nights</p>
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/waterinsulation/'"> Read More </button>
+     </div>
+  </div>
 
 
 <h1> Sprinter Chassis </h1>
