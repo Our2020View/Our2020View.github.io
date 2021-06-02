@@ -37,6 +37,6 @@ Here is a closeup of the new valve installation:
 
 <img src="/assets/heaterbypass2web.jpg"/>
 
-<img src="/assets/trumadiagramweb.jpg"/>
+<img src="/assets/Trumadiagramweb.jpg"/>
 
 [Back to Our 24J Modifications](/ourmods/)
