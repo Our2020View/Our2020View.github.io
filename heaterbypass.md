@@ -37,6 +37,8 @@ Here is a closeup of the new valve installation:
 
 <img src="/assets/heaterbypass2web.jpg"/>
 
+This is the winterization diagram that is missing from the Truma owner's manual:  The valve I installed is valve "E" in this drawing.
+
 <img src="/assets/Trumadiagramweb.jpg"/>
 
 [Back to Our 24J Modifications](/ourmods/)
