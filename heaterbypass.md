@@ -14,7 +14,7 @@ So why the disconnect between the owner’s manual and what Winnebago’s Nation
 
 What is the fix?  Install a shutoff valve in the recirculation line intake to absolutely isolate the Truma from the coach plumbing system.
 
-Is it really needed?  Aren’t we just losing some cheap anti-freeze fluid each fall?  Well, it depends on how you use your motorhome.  If you don’t use the coach in cold weather, you are right.  But, if you want to be able to use the coach in sub-zero temperatures – completely isolating the Truma from the coach plumbing system will allow you to carry on without having to purchase the Truma Electric Anti-freeze Kit during situations where you can't feed propane to the water heater.
+Is it really needed?  Aren’t we just losing some cheap anti-freeze fluid each fall?  Well, it depends on how you use your motorhome.  If you don’t use the coach in cold weather, you are right.  But, if you want to be able to use the coach in sub-zero temperatures – completely isolating the Truma from the coach plumbing system will allow you to carry on without having to purchase the Truma Electric Anti-freeze Kit during situations where you can't burn propane in the water heater.
 
 [Truma Aqua Go Electric Anti-freeze Kit]( https://shop.truma.net/products/aquago-electric-antifreeze-kit)
 
