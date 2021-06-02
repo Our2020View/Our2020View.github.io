@@ -42,5 +42,6 @@ This is the winterization diagram that is missing from the Truma owner's manual:
 
 <img src="/assets/Trumadiagramweb.jpg"/>
 
+This was an easy mod to make, but just might be an all-star one day when needed.
 
 [Back to Our 24J Modifications](/ourmods/)
