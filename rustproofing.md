@@ -4,7 +4,7 @@ title: Rustproofing
 permalink: /ourmods/rustproofing/
 ---
 
-Details here
+Have not done this yet ...
 
 <br>
 
