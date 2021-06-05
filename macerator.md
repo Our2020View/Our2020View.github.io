@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Macerator System 
+title: RV Macerator System 
 permalink: /ourmods/macerator/
 ---
 
