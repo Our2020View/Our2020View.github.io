@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lithium Battery Heater
+title: RV Lithium Battery Heater
 permalink: /ourmods/batteryheater/
 ---
 As you know, the only down side to having lithium batteries is that they are not happy charging at sub-zero internal temperatures.  Most of the RV lithium battery applications have a battery management system built in that prevents the destructive effects of cold charging by inhibiting a charge cycle if the temperature is too low.  The Battle Borns that we installed have one of these battery management systems.
