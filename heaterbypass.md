@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Water Heater Bypass
+title: Truma Water Heater Bypass
 permalink: /ourmods/heaterbypass/
 ---
 
