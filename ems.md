@@ -56,14 +56,6 @@ The EMS works very well - on the first power up it caught the fact that the exte
 
 Working as advertised.
 
-
-
-
-
-
-
-
-
 <br>
 
-[Back to Our 24J Modifications](/ourmods/)
+[Back to Our RV Modifications](/ourmods/)
