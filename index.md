@@ -24,4 +24,4 @@ Thanks for your interest!
 [The Baseline Coach - our Winnebago View / Navion 24J](/our24jview/)
 
 
-[Our Modifications](/ourmods/)
+[Our RV Modifications](/ourmods/)
