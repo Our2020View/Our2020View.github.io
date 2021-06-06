@@ -12,4 +12,4 @@ In the meantime, have a look at where I got my inspiration from:
 
 <br>
 
-[Back to Our 24J Modifications](/ourmods/)
+[Back to Our RV Modifications](/ourmods/)
