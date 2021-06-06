@@ -10,5 +10,5 @@ Our View came with the same plastic valve stem extensions that our previous Clas
 
 <br>
 
-[Back to Our 24J Modifications](/ourmods/)
+[Back to Our RV Modifications](/ourmods/)
 
