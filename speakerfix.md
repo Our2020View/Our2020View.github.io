@@ -8,7 +8,7 @@ We were quite shocked at how poor the sound system quality was in the 2020 Sprin
 
 I used a plastic knife to pry off the speaker grill, removed the speaker from its retaining clips, located the purple wire connector, and pulled it free.  That's it - put it all back together and the overwhelming output from the centre speaker is gone.  Now, the left and right speakers can be discerned and be controlled normally using the audio system controls.
 
-Is it much of an improvement?  Well, I'm no audiophile, but to me it made a significant difference.  No, I doubt that it is the same as driving around in a Mercedes touring coup listening to the Guess Who, but for a sound system in a van - it is way better than it was.  Very much worth the two minutes that it takes.
+Is it much of an improvement?  Well, I'm no audiophile, but to me it made a significant difference.  No, I doubt that it is the same as driving around in a Mercedes touring coupe listening to the Guess Who, but for a sound system in a van - it is way better than it was.  Very much worth the two minutes that it takes.
 
 <img src="/assets/speakerfixweb.jpg"/>
 
