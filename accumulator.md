@@ -26,12 +26,12 @@ The in-the-box PEX in-line female dual coupler came to us without any gaskets, s
 
 Here is what our installation looks like – you can see the length of flexible braided nylon tubing I rigged up to allow the accumulator output to hook up to the cold water input to the faucet.  By the way, these female PEX couplings just need to be hand tight – I wouldn’t recommend using too much torque, and you can damage the rubber gasket in the coupling.
 
-Picture One here
+<img src="/assets/accumulator1web.jpg"/>
 
 The end result looks Ok – I tucked the accumulator in the wasted space of the vanity cupboard, up high.  You could install a curtain to cover it up if you didn’t want to look at it when you opened the door, but then nobody would know what a great job you did of installing an in-line water accumulator...
 
 I used a tie wrap to secure the tank to the coach plumbing, so it wouldn’t wobble around when on the road:
 
-Picture Two here
+<img src="/assets/accumulator2web.jpg"/>
 
 All in all – working as advertised and we’re very happy with its performance.
