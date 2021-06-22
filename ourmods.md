@@ -179,9 +179,9 @@ Here are the mods that we have implemented, or have in the planning stages - thi
             onclick="location.href = '/ourmods/heaterbypass/'"> Read More </button>
   </div>
   <div class="column" style="background-color:white;">
-    <h3>Truma Water Heater Bypass</h3>
-    <p>Improvement to the Winnebago attempt</p>
-    <img src="/assets/heaterbypass2web.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <h3>Accumulator Tank</h3>
+    <p>Stopping the rapid pump cycles</p>
+    <img src="/assets/accumulator3web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="background-color:green; color:white"
