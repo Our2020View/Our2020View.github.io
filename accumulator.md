@@ -24,7 +24,7 @@ Where to put the accumulator?  You will see from the instructions that you can i
 
 The in-the-box PEX in-line female dual coupler came to us without any gaskets, so was useless for this install.  I had to rig up a length of flexible braided nylon tubing (1/2”) and a couple of female PEX couplings, but the install was simple.  The cold water input to the sink is connected to one side of the accumulator, and essentially the input to the cold water side of the faucet is attached to the other side of the accumulator.  In essence, the accumulator was installed so it fits in-between the cold water line and the hookup to the cold faucet.
 
-Here is what our installation looks like – you can see the length of flexible braided nylon tubing I rigged up to allow the accumulator output to hook up to the cold water input to the faucet.  By the way, these female PEX couplings just need to be hand tight – I wouldn’t recommend using too much torque, and you can damage the rubber gasket in the coupling.
+Here is what our installation looks like – you can see the length of flexible braided nylon tubing I rigged up to allow the accumulator output to hook up to the cold water input to the faucet.  By the way, these PEX couplings just need to be hand tight – I wouldn’t recommend using too much torque, and you can damage the rubber gasket in the coupling.
 
 <img src="/assets/accumulator1web.jpg"/>
 
@@ -35,3 +35,8 @@ I used a tie wrap to secure the tank to the coach plumbing, so it wouldn’t wob
 <img src="/assets/accumulator2web.jpg"/>
 
 All in all – working as advertised and we’re very happy with its performance.
+
+<br>
+
+[Back to Our RV Modifications](/ourmods/)
+
