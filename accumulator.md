@@ -8,7 +8,7 @@ The requirement for this mod became apparent during a time when we were doing so
 
 My next thought was a vision I had of Grandpa Ron installing an accumulator in-line to his cold water plumbing.  The first 1:20 of this video shows his install:
 
-[Grandpa Ron’s Freshwater Basics] (https://www.youtube.com/watch?v=gio0fHM6KOQ&list=PLO_exesYX5ypdJr8pg5yb_kskRbeEk522&index=28&t=79s)
+[Grandpa Ron’s Freshwater Basics](https://www.youtube.com/watch?v=gio0fHM6KOQ&list=PLO_exesYX5ypdJr8pg5yb_kskRbeEk522&index=28&t=79s)
 
 What does an accumulator do?  Well, the way I think of it – the accumulator “assists” the pump in keeping the water line pressurized.  The RV water pump will turn on when the pressure drops, and turn off when the pressure gets high again.   But, if you have an accumulator installed, when you first open a faucet, the accumulator will provide its own source of pressure to keep the pump from seeing a pressure drop and turning itself back on.  Because of the accumulator, when you open that faucet and water flows out, the pressure in the line will not drop immediately.  Eventually the accumulator runs out of “muscle” and the pressure drops to the point where the pump cycles back on.  However, it’s this pressurized water flow before the pump cycles back on that you are paying for – the water flow out of the faucet without the aid of the pump is what saves electricity and wear and tear on the pump.
 
