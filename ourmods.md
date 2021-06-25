@@ -234,7 +234,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="background-color:green; color:white"
-            onclick="location.href = '/ourmods/coatrack/'"> Read More </button>
+            onclick="location.href = '/ourmods/miscmods/'"> Read More </button>
       </div>
   <div class="column" style="background-color:white;">
     <h3>Drink Holders</h3>
@@ -243,7 +243,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="background-color:green; color:white"
-            onclick="location.href = '/ourmods/drinkholder/'"> Read More </button>
+            onclick="location.href = '/ourmods/miscmods/'"> Read More </button>
      </div>
 </div>
     
