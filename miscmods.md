@@ -3,8 +3,9 @@ layout: page
 title: Miscellaneous Mods
 permalink: /ourmods/miscmods/
 ---
+Here is a list of some of the quick and easy ones we have done:
 
-
+Coat Rack
 
 <img src="/assets/coatrack1web.jpg"/>
 <img src="/assets/coatrack2web.jpg"/>
