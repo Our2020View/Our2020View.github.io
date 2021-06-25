@@ -224,12 +224,12 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   </div>
  </div>
   
-  <h1> Sprinter Chassis </h1>
+  <h1> Miscellaneous Mods</h1>
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h3>Quick Speaker Fix</h3>
-    <p>Improving the Sprinter Sound Quality</p>
+    <h3>Coat Rack</h3>
+    <p>Just Hanging Around</p>
     <img src="/assets/speakerfixweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
@@ -237,8 +237,8 @@ Here are the mods that we have implemented, or have in the planning stages - thi
             onclick="location.href = '/ourmods/speakerfix/'"> Read More </button>
       </div>
   <div class="column" style="background-color:white;">
-    <h3>Rustproofing</h3>
-    <p>Thoughts on the process</p>
+    <h3>Drink Holders</h3>
+    <p>Now, That is handy</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
