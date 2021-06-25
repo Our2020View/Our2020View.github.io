@@ -19,7 +19,9 @@ This was a great idea I found on another [View Website](http://www.thoseyoungguy
  <br>
 
 <img src="/assets/drinkholder1web.jpg"/>
+
 <br>
+
 <img src="/assets/drinkholder2web.jpg"/>
 <br>
 <br>
