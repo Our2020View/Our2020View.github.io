@@ -230,7 +230,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   <div class="column" style="background-color:white;">
     <h3>Coat Rack</h3>
     <p>Just Hanging Around</p>
-    <img src="/assets/speakerfixweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <img src="/assets/coatrack2web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="background-color:green; color:white"
@@ -238,8 +238,8 @@ Here are the mods that we have implemented, or have in the planning stages - thi
       </div>
   <div class="column" style="background-color:white;">
     <h3>Drink Holders</h3>
-    <p>Now, That is handy</p>
-    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <p>Now, THAT is handy</p>
+    <img src="/assets/drinkholder2web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="background-color:green; color:white"
