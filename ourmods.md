@@ -224,5 +224,18 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   </div>
  </div>
   
+  <h1> Sprinter Chassis </h1>
+  
+  <div class="row">
+  <div class="column" style="background-color:white;">
+    <h3>Quick Speaker Fix</h3>
+    <p>Improving the Sprinter Sound Quality</p>
+    <img src="/assets/speakerfixweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="background-color:green; color:white"
+            onclick="location.href = '/ourmods/speakerfix/'"> Read More </button>
+      </div>
+    
 </body>
 </html>
