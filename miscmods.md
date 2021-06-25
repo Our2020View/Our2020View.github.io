@@ -21,3 +21,5 @@ This was a great idea I found on another [View Website](http://www.thoseyoungguy
 <img src="/assets/drinkholder1web.jpg"/>
 <br>
 <img src="/assets/drinkholder2web.jpg"/>
+<br>
+Here is a link to the [Camco Drink Holders](https://www.amazon.ca/gp/product/B000EDQR4G/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1) that we installed.
