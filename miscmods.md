@@ -26,6 +26,7 @@ This was a great idea I found on another [View Website](http://www.thoseyoungguy
 <br>
 <br>
 Here is a link to the [Camco Drink Holders](https://www.amazon.ca/gp/product/B000EDQR4G/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1) that we installed.
+
 <h3>Closet Drawers</h3>
 
 We don't have the requirement to hang clothes, except for the coats at the front door.  I installed some shelves in the cloak closet that enabled us to haul clothes in and out of the house and stow them easily in the View.  I had a couple of storage totes in the basement, so modified the lids to make the shelves - now we load up the bins in the house and just drop them on the shelves when it is time to hit the road.
@@ -34,5 +35,18 @@ We don't have the requirement to hang clothes, except for the coats at the front
 
 <img src="/assets/closetdrawers3web.jpg"/>
 
+<h3>Compact DVD</h3>
+
+Our previous motorhomes had a DVD, and to be honest - we did not use it very often.  The exception was watching our "Fireplace DVD" on the TV when temperatures turned cool.  We searched for a DVD player that was ultra compact, considering it was going to be dead weight for most of the year.  We found one on Amazon that fit the bill:
+
+[Sylvania SDVD1073 DVD Player](https://www.bestbuy.ca/en-ca/product/sylvania-sdvd1073-progressive-scan-dvd-player/13014336)
+
+To keep things simple, I dropped it in vertically to the right of the paper towel holder, and locked it in place with some package cushioning.  It has been working great:
+
+<img src="/assets/dvdweb.jpg"/>
+
+
+
 <br>
+
 [Back to Our RV Modifications](/ourmods/)
