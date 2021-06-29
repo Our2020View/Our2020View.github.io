@@ -232,9 +232,13 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   
   <h3>Closet Drawers</h3>
   
+  <h3>Water Hammer Fix</h3>
   
+  <h3>Quiet the Blinds!</h3>
   
+  <h3>Quiet the Water Pump</h3>
   
+  <h3>Water Pump Quick Access</h3>
   
 <div class="row">
   <div class="column" style="background-color:white;">
