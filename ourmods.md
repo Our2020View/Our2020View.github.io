@@ -230,14 +230,8 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   <h4>Drink Holders</h4>
   <h4>Closet Drawers</h4>
   
-  
-<div class="row">
-  <div class="column" style="background-color:white;">
-    
-    <button style="background-color:green; color:white"
-            onclick="location.href = '/ourmods/miscmods/'"> Read More </button>
-      </div>
-  <div class="column" style="background-color:white;">
+  <div class="row">
+    <div class="column" style="background-color:white;">
     <h3>Drink Holders</h3>
     <p>Now, THAT is handy</p>
     <img src="/assets/drinkholder2web.jpg" title="Mod Thumbnail" width="217.25" height="163">
