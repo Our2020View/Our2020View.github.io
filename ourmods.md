@@ -225,13 +225,14 @@ Here are the mods that we have implemented, or have in the planning stages - thi
  </div>
   
   <h1> Miscellaneous Mods</h1>
-  <h4>Coat Rack</h3>
-  <h4>Drink Holders</h3>
-  <h4>Closet Drawers</h3>
-  <h4>Water Hammer Fix</h3>
-  <h4>Quiet the Blinds!</h3>
-  <h4>Quiet the Water Pump!</h3>
-  <h4>Water Pump Quick Access</h3>
+  
+  <h4>Coat Rack</h4>
+  <h4>Drink Holders</h4>
+  <h4>Closet Drawers</h4>
+  <h4>Water Hammer Fix</h4>
+  <h4>Quiet the Blinds!</h4>
+  <h4>Quiet the Water Pump!</h4>
+  <h4>Water Pump Quick Access</h4>
   
 <div class="row">
   <div class="column" style="background-color:white;">
