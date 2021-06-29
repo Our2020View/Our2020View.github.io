@@ -226,6 +226,16 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   
   <h1> Miscellaneous Mods</h1>
 
+  <h3>Coat Rack</h3>
+  
+  <h3>Drink Holders</h3>
+  
+  <h3>Closet Drawers</h3>
+  
+  
+  
+  
+  
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Coat Rack</h3>
