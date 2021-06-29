@@ -35,9 +35,9 @@ We don't have the requirement to hang clothes, except for the coats at the front
 
 <img src="/assets/closetdrawers3web.jpg"/>
 
-<h3>Compact DVD</h3>
+<h3>Compact DVD Player</h3>
 
-Our previous motorhomes had a DVD, and to be honest - we did not use it very often.  The exception was watching our "Fireplace DVD" on the TV when temperatures turned cool.  We searched for a DVD player that was ultra compact, considering it was going to be dead weight for most of the year.  We found one on Amazon that fit the bill:
+Our previous motorhomes had a DVD, and to be honest - we did not use it very often.  The exception was watching our "Fireplace DVD" on the TV when temperatures turned cool.  We searched for a DVD player that was ultra compact, considering it was going to be dead weight for most of the year.  We found one at BestBuy that fit the bill:
 
 [Sylvania SDVD1073 DVD Player](https://www.bestbuy.ca/en-ca/product/sylvania-sdvd1073-progressive-scan-dvd-player/13014336)
 
