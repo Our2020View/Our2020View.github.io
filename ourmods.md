@@ -229,6 +229,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   <h4>Coat Rack</h4>
   <h4>Drink Holders</h4>
   <h4>Closet Drawers</h4>
+  <h4>Compact DVD Player</h4>
   
   <div class="row">
     <div class="column" style="background-color:white;">
