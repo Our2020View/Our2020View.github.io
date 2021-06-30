@@ -61,7 +61,7 @@ This shot is a close up of the connections at each end of the extension loop:
 
 <img src="/assets/pressureregulator2web.jpg"/>
 
-After installation, the Truma water hammer was gone and the pump can be heard to be very quiet.
+After installation, the Truma water hammer was gone and the pump can be heard to be running very quietly.
 
 <br>
 
