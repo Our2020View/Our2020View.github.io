@@ -47,7 +47,21 @@ To keep things simple, I dropped it in vertically to the right of the paper towe
 
 <img src="/assets/dvdweb.jpg"/>
 
+<h3>Truma Water Hammer Fix</h3>
 
+Shortly after we got our View, we developed a very annoying "racket" associated with the water pump opertion.  I don't know exactly when it started, or why it started, but at first I thought it was the pump making the noise.  In the 24J, the water pump is tucked up under the bed, near the back wall.  I went in there to have a look, but discovered that while the bed was up I could trace the hammering to the Truma water heater.  (With the bed down, it was not initially apparent where the source of the problem really was.)  I tried my best to adjust the pressure switch on the pump to play with the cold water delivery pressure, but the best I could do was make the hammering intermittant.  I reached out to Truma for some help - and they advised me that they have seen this before - and they had a fix!  They told me that the water pressure was too HIGH, and I needed to install a pressure regulator just before the inlet to the water heater.  Yes... they did indeed sell one that would cure the problem - and they would ship one to me right away.  (This part is not available in their online store - you have to give them a call)
+
+The regulator, when combined with the PEX fittings you need, is about six inches long - too long to fit comfortably just before the cold water inlet to the heater in our 24J.  (I wanted to make sure that I installed it where it would only affect the water heater, and non of the other cold water taps.)  To compensate for the short PEX run available in this location, I compensated by adding an extension just downstream of the Winterization Valve # 1, using some RV 1/2" braided nylon flixible hose and looping it back into the inlet for the water heater.  Doeing it this way saved me re-designing the cold water run in that area of the RV.
+
+This photo shows the extension I added to the run between the Winterization Valve # 1 and the inlet to the water heater:
+
+<img src="/assets/pressureregulator1web.jpg"/>
+
+This shot is a close up of the connections at each end of the extension loop:
+
+<img src="/assets/pressureregulator2web.jpg"/>
+
+After installation, the Truma water hammer was gone and the pump can be heard to be very quiet.
 
 <br>
 
