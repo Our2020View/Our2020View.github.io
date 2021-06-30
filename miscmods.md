@@ -53,7 +53,7 @@ Shortly after we got our View, we developed a very annoying "racket" associated 
 
 The regulator, when combined with the PEX fittings you need, is about six inches long - too long to fit comfortably just before the cold water inlet to the heater in our 24J.  (I wanted to make sure that I installed it where it would only affect the water heater, and none of the other cold water users.)  To compensate for the short PEX run available in this location, I added an extension just downstream of the Winterization Valve # 1, using some RV 1/2" braided nylon flexible hose and looping it back into the inlet for the water heater.  Doing it this way saved me re-designing the cold water run in that area of the RV.
 
-This photo shows the extension I added to the run between the Winterization Valve # 1 and the inlet to the water heater, with the Truma pressure regulator in the centre of the loop:
+This photo shows the extension I added to the run between the Winterization Valve # 1 and the inlet to the water heater, with the Truma pressure regulator at the end of the loop:
 
 <img src="/assets/pressureregulator1web.jpg"/>
 
