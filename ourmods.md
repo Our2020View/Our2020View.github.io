@@ -225,6 +225,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
  </div>
   
   <h1> Miscellaneous Mods</h1>
+  <p>Mods are Go</p>
   <img src="/assets/mismodsimageweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
   
   <h4>Coat Rack</h4>
