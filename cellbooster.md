@@ -18,7 +18,7 @@ Also, this website is great for lots of info, and has data on antenna comparison
 
 [Roadtrek Life antennas](http://roadtreklife.blogspot.com/2017/01/weboost-drive-4g-x-cell-booster.html#more)
 
-Our modification in the View consists of installing a magnetic ground plane on the roof for the antenna, feeding the cable through the Winnebago roof access port, and then mounting the booster cradle in an optimum location.  I had to modify the cradle mount, as the articulating arm wore out over time in our last setup.  The cradle was installed on the end of the cupboard that houses our entertainment connections; this cupboard had both power and very easy access to the roof access port.
+Our modification in the View consists of installing a magnetic ground plane on the roof for the antenna, feeding the cable through the Winnebago roof access port, and then mounting the booster cradle in an optimum location.  I had to modify the cradle mount, as the articulating arm wore out over time in our last setup.  The cradle was installed on the inside of the media cupboard that houses our entertainment connections; this cupboard had both power and very easy access to the roof access port.
 
 The requirement for a ground plane was new to us, as our old Class B had a metallic roof and acted as the default ground plane for the antenna.  With our new fibreglass roof there is nothing for the magnetized antenna to hold on to, but more importantly, there is no metal surface to reflect the radio signals at the antenna.  After doing some research, we discovered that it was not a big deal to rig something up.
 
