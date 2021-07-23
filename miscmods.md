@@ -26,7 +26,7 @@ I seleted a coat rack that kinda matched the interior, and gave us lots of space
 
 <br>
 
-<img src="/assets/phoneholderweb.jpg"/>
+<img src="/assets/phoneholderwebr.jpg"/>
 
 <br>
 <br>
