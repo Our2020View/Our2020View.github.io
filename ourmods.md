@@ -229,7 +229,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   <img src="/assets/mismodsimageweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
   
   <h4>Coat Rack</h4>
-  <h4>Drink Holders</h4>
+  <h4>Drink / Phone Holders</h4>
   <h4>Closet Drawers</h4>
   <h4>Compact DVD Player</h4>
   <h4>Truma Water Hammer Fix</h4>
