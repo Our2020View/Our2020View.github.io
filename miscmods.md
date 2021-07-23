@@ -13,7 +13,7 @@ This was a great idea I found on another [View Website](http://www.thoseyoungguy
 <br>
 <img src="/assets/coatrack2web.jpg"/>
 <br>
- <h3>Drink Holders</h3>
+ <h3>Drink  / Phone Holders</h3>
 
  When sitting at the dinette table, either eating or playing games, I always seemed to be looking for somewhere to put my beverage.  I added two drink holders on either side of the dinette window - both were fastened with the scews that came with the holders, and are secured firmly to the face panel that makes up the surface of the interior wall.  The only placement consideration was to ensure that the blinds operated without impacting the functionality of the holder.
  <br>
