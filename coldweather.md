@@ -11,7 +11,7 @@ But ... then I found this video by the Newstate Nomads:
 
 This was great to discover, as I had been wondering about the wet bay design and how that spaghetti box of exposed plumbing made its way into the heated area of the coach.  However, just watching this video, I couldn’t visualize exactly where the heat was being applied to solve the problem.  Looking at the drawings helped a bit, but they do leave quite a bit to the imagination.
 
-Here is a drawing of the plumbing directly behind the wet bay panel you see from the street ... it is very easy to see why things freeze up when temperatures drop.
+Here is a drawing of the internal plumbing directly behind the wet bay panel you see from the street ... it is very easy to see why things freeze up when temperatures drop.
 
 <img src="/assets/wetbaydrawingweb.jpg"/>
 
