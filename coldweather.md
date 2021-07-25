@@ -4,7 +4,8 @@ title: RV Cold Weather Capability
 permalink: /ourmods/coldweather/
 ---
 One of the reasons we chose a View / Navion was because we felt the goal of being able to camp during cold temperatures was within reach.  We were impressed that the fresh water tank and associated delivery plumbing was above the floor in the coach, and the Truma hot water system had a recirculation feature that would take care of any potential for the hot water lines to get cold.  The general feeling was that if we could keep warm in the winter – the plumbing system was likely to be Ok as well.  There are many reports on the web of being able to camp successfully in a View / Navion in the winter, so we crossed out fingers and hoped that those early spring and late fall nights could be tolerated, and cruising down the highway when the temperatures were below zero would be Ok as well.
-And ... then I found this video:
+
+But ... then I found this video:
 
 [View/Navion wet bay freeze up](https://www.youtube.com/watch?v=2ZOGvqfBxvw&t=189s)
 
