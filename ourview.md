@@ -39,7 +39,7 @@ The Disadvantages for us:
 1.	No macerator system – we fixed that ourselves
 2.	Passenger seating - not as comfy as Captain’s chairs
 3.	Only one table – we added our own for the cab seating area
-4.	Higher fuel consumption – not too much higher, all things considered
+4.	Higher fuel consumption – not too much higher, all things considered (I'm told less than a Honda SUV pulling a 17' Travel Lite!)
 5.	Unable to fit a dedicated chest freezer – we had a 65 quart chest freezer in our Class B
 
 A pretty small list of disadvantages, when stacked up against the advantages.  
