@@ -4,7 +4,7 @@ title: Our View 24J
 permalink: /our24jview/
 ---
 
-<img src="/assets/View24JDesertweb.jpg"/>
+<img src="/assets/OurViewweb.jpg"/>
 
 No, that's not us sitting beside our View in the dessert of Arizona... that would be nice - maybe someday.  You will recognize this photo from the Winnebago website; credit to them.
 
