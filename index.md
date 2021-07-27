@@ -5,8 +5,8 @@ layout: page
 <img src="/assets/vandrawingweb.jpg"/>
 
 <h1>Welcome to our RV Motorhome Mod Site</h1>
-
-Winnebago View / Navion Mods
+<br>
+<h2>Winnebago View / Navion Mods</h2>
 <br>
 Hello - **Our 2020 View** website is dedicated to giving RV Enthusiasts ideas based on what we have done to modify our Winnebago View motorhome.  This is not a “How To” website, but rather a “How We Did It” website. 
 
