@@ -68,6 +68,12 @@ This shot is a close up of the connections at each end of the extension loop:
 
 After installation, the Truma water hammer was gone and the pump can be heard to be running very quietly.
 
+<h3>More Locker Space</h3>
+
+We had an annoying vibration going on while driving, that seemed to be comming from the driver's side exterior.  I traced it to a sheet metal false wall that was not secured correctly in the centre locker, but while getting ready to secure it so it did not rattle I decided to look and see what it was protecting.  It turns out it was only there to protect a small run of electrical cable, so I secured the cables out of the way and did away with the false wall.  The entire locker is now available to us for storage.  The photo shows the screw line where the wall was secured to the floor, and the zip tie I used to keep the cables out of the way:
+
+<img src="/assets/morelockerroomweb.jpg"/>
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
