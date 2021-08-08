@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our RV Modifications
+title: Winnebago View / Navion RV Mods
 permalink: /ourmods/
 ---
 
