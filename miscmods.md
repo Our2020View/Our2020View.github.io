@@ -80,8 +80,9 @@ On the topic of annoying noises, whenever going over a bump we'd get a "clank" f
 
 <img src="/assets/tirerackbumper2web.jpg"/>
 
-
 <img src="/assets/tirerackbumper1web.jpg"/>
+
+As a side note, the plastic twist nuts that were supposed to allow you to undo the cradle and lower the tire to the ground were seized on the threaded rods.  I was able to get one of the twist nuts off, but the other stripped on the inside locknut.  Luckily, because of all of the play in the cradle, it was relatively easy to remove the threaded rods from their support posts.  I removed the plastic twist caps from the locknuts, and threw them alway.  Before I put the locknuts back on after I had inserted my foam pieces, I brushed on some anti-seize compound onto the threaded rods to allow for tire removal in a time of need.  It would not make any sense at all to not be able to access your spare tire when required.
 
 <br>
 
