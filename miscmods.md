@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Miscellaneous Mods
+title: RV Miscellaneous Mods
 permalink: /ourmods/miscmods/
 ---
 Here is a list of some of the quick and easy ones we have done:
