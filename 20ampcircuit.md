@@ -10,6 +10,8 @@ In the meantime, have a look at where I got my inspiration from:
 
 [RVgeeks and their dedicated 20 amp circuit](https://www.youtube.com/watch?v=w1ZO5RxKoq8&t=407s)
 
+<img src="/assets/web20Amp1.jpg"/>
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
