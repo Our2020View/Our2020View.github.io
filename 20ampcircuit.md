@@ -38,7 +38,7 @@ In the meantime, have a look at where I got my inspiration from:
 
 <img src="/assets/web20Amp22.jpg"/>
 
-<img src="/assets/web20Amp23.jpg"/>
+<img src="/assets/web20Amp24.jpg"/>
 
 <br>
 
