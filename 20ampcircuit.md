@@ -28,8 +28,6 @@ In the meantime, have a look at where I got my inspiration from:
 
 <img src="/assets/web20Amp18.jpg"/>
 
-<img src="/assets/web20Amp9.jpg"/>
-
 <img src="/assets/web20Amp20.jpg"/>
 
 <img src="/assets/web20Amp21.jpg"/>
