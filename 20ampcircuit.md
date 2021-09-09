@@ -6,7 +6,7 @@ permalink: /ourmods/20ampcircuit/
 
 I have not got all of the description on this page yet, just some photos to begin with.  
 
-In the meantime, have a look at where I got my inspiration from:
+In the meantime, have a look at where I got this great idea from:
 
 [RVgeeks and their dedicated 20 amp circuit](https://www.youtube.com/watch?v=w1ZO5RxKoq8&t=407s)
 
