@@ -70,7 +70,7 @@ More on the "bonus" circuit I wired up to this receptacle - As I mentioned earli
 
 <img src="/assets/web20Amp17.jpg"/>
 
-All working as planned.
+Happy to say all working as planned.
 
 <br>
 
