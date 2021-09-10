@@ -46,19 +46,21 @@ For the wiring running aft towards the electrical bay, again starting from the T
 
 <img src="/assets/web20Amp25.jpg"/>
 
-The last piece of the mod is the installation of the 20 amp rated Inlet.  To make the installation easy, I mounted the inlet box on a piece of painted 1/2" plywood, and used two part "Gorilla" epoxy to mount it to the plastic divider between the wet and electrical bays.  The plywood base sits comfortably on the lip of the base that holds the automatic transfer switch, and I positioned it as much forward as I could for ease of access.
+The last piece of the mod is the installation of the 20 amp rated Inlet.  To make the installation easy, I mounted the inlet box on a piece of painted 1/2" plywood, and used two part "Gorilla" epoxy to mount it to the plastic divider between the wet and electrical bays.  The plywood base sits comfortably on the lip of the base that holds the automatic transfer switch, and I positioned it as outboard as I could for ease of access.  (The other wiring and 12 volt plugs in the area is associated with our macerator pump system.)
 
 <img src="/assets/web20Amp9.jpg"/>
 
 <img src="/assets/web20Amp18.jpg"/>
 
-
+The next three photos show the inlet, with the extension cord plugged in and its exit point that is shared with the coach's 30 amp cord.
 
 <img src="/assets/web20Amp20.jpg"/>
 
 <img src="/assets/web20Amp21.jpg"/>
 
 <img src="/assets/web20Amp22.jpg"/>
+
+For the times when the additional campground post power is only 15 amps, I picked up a 20 amp to 15 amp block adapter to make the connection universal.
 
 <img src="/assets/web20Amp24.jpg"/>
 
