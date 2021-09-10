@@ -32,17 +32,17 @@ These first four photos show the yellow 12/2 20 amp cable run towards the entry 
 
 <img src="/assets/web20Amp4.jpg"/>
 
-From the base of the sink cabinet, the cable runs up the side wall to the receptacle mounted up high on the wall.  I wanted to get the receptacle out of the way of any items that would be stored under the sink.
+From the base of the sink cabinet, the cable runs up the side wall to the receptacle mounted up high on the cabinet side.  I wanted to get the receptacle out of the way of any items that would be stored under the sink.
 
 <img src="/assets/web20Amp13.jpg"/>
 
 <img src="/assets/web20Amp14.jpg"/>
 
-This photo shows were I mounted the receptacle: I chose this location to allow the heater's cord to be out of the way, and also because I wanted to be able to use this plug for the lithium battery heater that also needs 120 volts.  But, I didn't want to have the lithium battery heater to only be available when parked in a campground, so I wired the bottom plug on this recepatacle to the View's 120 volt system.  The top plug is the "glorified extension chord" available only when parked, and the bottom plug is part of the coach power system that can be used while driving using the inverter.  More on this "bonus" circuit a bit later.
+This photo shows were I mounted the receptacle: I chose this location to allow the heater's cord to be out of the way, and also because I wanted to be able to use this plug for the lithium battery heater that also needs 120 volts.  But, I didn't want to have the lithium battery heater only available when parked in a campground, so I wired the bottom plug on this recepatacle to the View's 120 volt system.  The top plug is the "glorified extension chord" available only when parked, and the bottom plug is part of the coach power system that can be used while driving using the inverter or when plugged into shore power.  More on this "bonus" circuit a bit later.
 
 <img src="/assets/web20Amp17.jpg"/>
 
-For the wiring running aft towards the electrical bay, again starting from the Truma heater bay, I simply laid the cable in the under-bed equipment trough and turned the corner to the square cutout in the floor below the shower.  From here, you have made it to the electrical bay.  (The visualize this, have a look at the "Cold Weather Capability" description found on the mods page.)  I covered up the yellow 12/2 20 amp cable with some wire loom to complete this portion of the run.
+For the wiring running aft towards the electrical bay, again starting from the Truma heater bay, I simply laid the cable in the under-bed equipment trough and turned the corner to the square cutout in the floor below the shower.  From here, you have made it to the electrical bay.  (To visualize this area, have a look at the "Cold Weather Capability" description found on the mods page.)  I covered up the yellow 12/2 20 amp cable with some wire loom to complete this portion of the run.
 
 <img src="/assets/web20Amp25.jpg"/>
 
@@ -64,9 +64,11 @@ For the times when the additional campground post power is only 15 amps, I picke
 
 <img src="/assets/web20Amp24.jpg"/>
 
-Again, this mod was not difficult, but is not super quick becuase of the long cable run required.  I highly recommend this one for RVers in the north who rely on supplementary electric heat, as it frees up the plug juggling that you sometimes have to do.
+Again, this mod was not difficult, but is not super quick becuase of the long cable run required.  It really is worth doing, and I highly recommend this one for RVers in the north who rely on supplementary electric heat as it frees up the plug juggling that you sometimes have to do.
 
 More on the "bonus" circuit I wired up to this receptacle - As I mentioned earlier, the induction cooktop has a dedicated 20 amp plug under the sink.  This 20 amp coach circuit is shared with the microwave.  We don't usually operate with the induction cooktop plugged in, as we found it a nuisance to have it beeping at us everytime it powered up after using the microwave.  (Also, it fired up one time when we left something metal on it surface.  Yikes.)  It is tempting to use this plug as another source of power for something else, but it is defintitely not in a handy location.  Knowing we would only use one plug of the glorified extension cord circuit, I hooked up the other plug on this receptacle to the induction cooktop circuit.  If someone is working on a laptop while seated on a cab chair, or if we need to run the lithium battery heater, the bottom plug can be utilized for coach power.  The yellow dot in the photo is for the auxillary extension chord circuit, and the green dot is for coach power available on either the inverter or campground shore power.  I've got another receptacle I'd like to add in the dinette area, so I'll make another mod page for these two additions a bit later.
+
+<img src="/assets/web20Amp17.jpg"/>
 
 All working as planned.
 
