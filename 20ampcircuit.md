@@ -46,7 +46,7 @@ For the wiring running aft towards the electrical bay, again starting from the T
 
 <img src="/assets/web20Amp25.jpg"/>
 
-The last piece of the mod is the installation of the 20 amp rated Inlet.  To make the installation easy, I mounted the inlet box on a piece of painted 1/2" plywood, and used two part "Gorilla" epoxy to mount it to the plastic divider between the wet and electrical bays.  The plywood base sits comfortably on the lip of the base that holds the automatic transfer switch, and I positioned it as outboard as I could for ease of access.  (The other wiring and 12 volt plugs in the area is associated with our macerator pump system.)
+The last piece of the mod is the installation of the 20 amp rated Inlet.  To make the installation easy, I mounted the inlet box on a piece of painted 1/2" plywood, and used two part "Gorilla" epoxy to mount it to the plastic divider between the wet and electrical bays.  The plywood base sits comfortably on the lip of the base that holds the automatic transfer switch, and I positioned it as outboard as I could for ease of access.  (The other bits of wiring and 12 volt plugs in the area are associated with our macerator pump system.)
 
 <img src="/assets/web20Amp9.jpg"/>
 
