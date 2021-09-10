@@ -36,11 +36,15 @@ From the base of the sink cabinet, the cable runs up the side wall to the recept
 
 <img src="/assets/web20Amp13.jpg"/>
 
-
-
 <img src="/assets/web20Amp14.jpg"/>
 
+The location for the receptacle was also designed to be handy for the plug in for the lithium battery heater that utilizes the bottom plug hooked into coach power.  So, the top plug is the "glorified extension chord" and the bottom plug is part of the coach power system.  More on this additional circuit a bit later.
+
+For the wiring running aft towards the electrical bay, again starting from the Truma heater bay, I simply laid the cable in the under-bed equipment trough and turned the corner to the square cutout in the floor below the shower.  From here, you have made it to the electrical bay.  The visualize this, have a look at the "Cold Weather Capability" found on the mods page.
+
 <img src="/assets/web20Amp17.jpg"/>
+
+
 
 <img src="/assets/web20Amp25.jpg"/>
 
