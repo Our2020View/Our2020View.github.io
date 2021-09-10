@@ -42,13 +42,17 @@ This photo shows were I mounted the receptacle: I chose this location to allow t
 
 <img src="/assets/web20Amp17.jpg"/>
 
-For the wiring running aft towards the electrical bay, again starting from the Truma heater bay, I simply laid the cable in the under-bed equipment trough and turned the corner to the square cutout in the floor below the shower.  From here, you have made it to the electrical bay.  The visualize this, have a look at the "Cold Weather Capability" found on the mods page.
+For the wiring running aft towards the electrical bay, again starting from the Truma heater bay, I simply laid the cable in the under-bed equipment trough and turned the corner to the square cutout in the floor below the shower.  From here, you have made it to the electrical bay.  (The visualize this, have a look at the "Cold Weather Capability" description found on the mods page.)  I covered up the yellow 12/2 20 amp cable with some wire loom to complete this portion of the run.
 
 <img src="/assets/web20Amp25.jpg"/>
+
+The last piece of the mod is the installation of the 20 amp rated Inlet.  To make the installation easy, I mounted the inlet box on a piece of painted 1/2" plywood, and used two part "Gorilla" epoxy to mount it to the plastic divider between the wet and electrical bays.  The plywood base sits comfortably on the lip of the base that holds the automatic transfer switch, and I positioned it as much forward as I could for ease of access.
 
 <img src="/assets/web20Amp9.jpg"/>
 
 <img src="/assets/web20Amp18.jpg"/>
+
+
 
 <img src="/assets/web20Amp20.jpg"/>
 
