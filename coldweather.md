@@ -69,9 +69,6 @@ The trouble lamp itself was inserted from the electrical storage side of the loc
 
 With the trouble light sitting on the bed of insulation, with the bulb positioned up to the plumbing, I closed off the wet bay area from the electrical area with more pink insulation.
 
-<img src="/assets/8wetbaywithheatweb.jpg"/>
-
-
 <img src="/assets/webNewwetbayheat.jpg"/>
 
 It works very, very, well.  With outside temperatures approaching – 13 C, the wet bay was maintained well above freezing with a 60W incandescent light bulb.  The rating on the trouble lamp is 75W, but up here in Canada you can’t buy incandescent light bulbs any longer of that wattage.  All I could find was 50W or 60W “rough service” bulbs, so I’ll keep my eye open for other options when on the road.
