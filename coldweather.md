@@ -91,7 +91,7 @@ On previous motorhomes, we had a big six gallon propane water heater that was no
 
 <img src="/assets/webTrumaheat4.jpg"/>
 
-Installation was easy, and operation is simple.  Here are some pictures of the heat cannister installed:
+Installation was easy, and operation is simple.  Here are some pictures of the heat cannister wiring hooked up, the intake flue inserted, and the the reminder that the protection system is installed:
 
 <img src="/assets/webTrumaheat1.jpg"/>
 
