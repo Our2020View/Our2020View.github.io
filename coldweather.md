@@ -99,7 +99,7 @@ It turns out it was all very worthwhile.  In the spring of '21 during the Pandem
 
 Yes, it works as we hoped it would.  These were pretty easy mods to make, but change the game considerably on being able to use the motorhome when the temperature drops.  You can keep your plumbing warm while driving across areas of sub-zero tempertures, or even use the coach to camp with both types of power options.  
 
-I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is the temperature measuring kit I purchased - I mounted one probe in the propane locker to get an outside air temperature, one in the wet bay, and one near the water pump:
+I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is the temperature measuring kit I purchased - I mounted one sensor in the propane locker to get an outside air temperature, one in the wet bay, and one near the water pump:
 
 [Temperature Monitoring System](https://www.amazon.ca/gp/product/B01BICMM1I/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
 
