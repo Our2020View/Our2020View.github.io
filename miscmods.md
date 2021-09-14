@@ -110,7 +110,7 @@ And then ran it into the new recepacle where it was hooked up to the botoom plug
 
 New receptacle under counter:
 
-As explained in the "Dedicated 20 Amp Circuit" description, the location for the new receptacl was partially chosen for its convenient proximity to the lithium battery heater:
+As explained in the "Dedicated 20 Amp Circuit" description, the location for the new receptacle was partially chosen for its convenient proximity to the lithium battery heater:
 
 New receptacle location:
 
