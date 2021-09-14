@@ -35,15 +35,19 @@ Here is another view, looking into the locker from the street:
 
 So, after giving this some thought, and remembering how we keep warm while camping, some areas requiring consideration started to become clear.
 
-When using shore power, we use independent electric heat to warm the coach.  Winnebago has used the propane furnace duct system to provide warmth to the plumbing, and even has a loose duct underneath the bed in the aft equipment bay that can be directed at the water pump or under the shower (but it is not long enough to get to the wet bay!).  However, when using electric heat, the plumbing pipes don’t get direct warmth from the furnace ducts.
+When using shore power, we use independent electric heat to warm the coach.  Winnebago has used the propane furnace duct system to provide warmth to the plumbing, and even has a loose duct underneath the bed in the aft equipment bay that can be directed at the water pump or under the shower - but it is not long enough to get to the wet bay!  However, when using a standalone electric heater like we do, the plumbing pipes don’t get direct warmth from the furnace ducts.
 
-Consideration 1 – The wet bay needs to be heated regardless of which type of heat is used.
+Consideration 1 – The wet bay needs to be heated regardless of which type of heat is used - neither the propane furnace nor a standalone electric heater is going to be able to get heat to the area.
 
-Consideration 2 – Experiments I did in early spring showed that electric heat in the coach was not good enough to penetrate the bed area and heat the area of the water tank and water pump.  Some sort of heating is required for the water pump and feed lines.
+Consideration 2 – Experiments I did in early spring showed that electric heat in the coach was not good enough to penetrate the bed area and heat the area of the water tank and water pump - some sort of heating is required for the water pump and associated feed lines.
 
 Consideration 3 – If the Truma is powered up and in “comfort” mode, there is no need to worry.  But, if DRIVING in cold weather, either the Truma needs to be drained, or the commercially available “Truma auxillary electric heating system” needs to be installed to keep the Truma system from freezing.
 
-Consideration 4 – Can I power whatever I come up with while dry camping, with no shore power plugged in?
+Consideration 4 - We can't forget about heating the lithium batteries - if we are going to operate in cold weather while dry camping, we will need to ensure the  batteries can accept a charge.
+
+Consideration 5 - Winnebago has provide 12 volt electric heat to the grey and black tanks, but the heat is not sufficient to warm the water down at the gate valves.  As a result, the gate valves do freeze up when exposed to prolonged subzero tempertures.  Waiting until spring to dump is not a practical option!  The dump system plumbing needs to be heated.
+
+Consideration 6 – Can I successfully power whatever I come up with for solutions to all of this - while dry camping, with no shore power plugged in?
 
 Some things to think about!  Here is what I came up with:
 
