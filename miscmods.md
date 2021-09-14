@@ -106,7 +106,7 @@ I ran the new circuit along the underside of the countertop:
 
 <img src="/assets/web20Amp12.jpg"/>
 
-And then ran it into the new recepacle where it was hooked up to the botom plug:
+And then ran it into the new receptacle where it was hooked up to the botom plug:
 
 <img src="/assets/web20Amp15.jpg"/>
 
