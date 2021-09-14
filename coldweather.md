@@ -47,7 +47,7 @@ Consideration 4 – Can I power whatever I come up with while dry camping, with 
 
 Some things to think about!  Here is what I came up with:
 
-Consideration 1 – heating the wet bay
+**Consideration 1** – heating the wet bay
 
 After spending a considerable amount of time coming up with exceptionally clever, but overly complex and unrealistically impractical, ways to insulate and heat that area, I opted for the same method that is shown in the video above:  a trouble lamp with an old fashioned incandescent light bulb.  Knowing that a 75W bulb was enough to thaw the frozen PEX in the video, I figured that the same would be enough to keep the area warm and prevent freezing in the first place.  A low wattage light bulb – simple and safe... I like simple and safe...
 
