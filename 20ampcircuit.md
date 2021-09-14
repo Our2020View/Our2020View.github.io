@@ -66,9 +66,13 @@ For the times when the additional campground post power is only 15 amps, I picke
 
 Again, this mod was not difficult, but is not super quick becuase of the long cable run required.  It really is worth doing, and I highly recommend this one for RVers in the north who rely on supplementary electric heat as it frees up the plug juggling that you sometimes have to do.
 
-More on the "bonus" circuit I wired up to this receptacle - As I mentioned earlier, the induction cooktop has a dedicated 20 amp plug under the sink.  This 20 amp coach circuit is shared with the microwave.  We don't usually operate with the induction cooktop plugged in, as we found it a nuisance to have it beeping at us everytime it powered up after using the microwave.  (Also, it fired up one time when we left something metal on it surface.  Yikes.)  It is tempting to use this plug as another source of power for something else, but it is defintitely not in a handy location.  Knowing we would only use one plug of the glorified extension cord circuit, I hooked up the other plug on this receptacle to the induction cooktop circuit.  If someone is working on a laptop while seated on a cab chair, or if we need to run the lithium battery heater, the bottom plug can be utilized for coach power.  The yellow dot in the photo is for the auxillary extension chord circuit, and the green dot is for coach power available on either the inverter or campground shore power.  I've got another receptacle I'd like to add in the dinette area, so I'll make another mod page for these two additions a bit later.
+More on the "bonus" circuit I wired up to this receptacle - As I mentioned earlier, the induction cooktop has a dedicated 20 amp plug under the sink.  This 20 amp coach circuit is shared with the microwave.  We don't usually operate with the induction cooktop plugged in, as we found it a nuisance to have it beeping at us everytime it powered up after using the microwave.  (Also, it fired up one time when we left something metal on it surface.  Yikes.)  It is tempting to use this plug as another source of power for something else, but it is defintitely not in a handy location.  Knowing we would only use one plug of the glorified extension cord circuit, I hooked up the other plug on this receptacle to the induction cooktop circuit.  If someone is working on a laptop while seated on a cab chair, or if we need to run the lithium battery heater, the bottom plug can be utilized for coach power.  The yellow dot in the photo is for the auxillary extension chord circuit, and the green dot is for coach power available on either the inverter or campground shore power.  
 
 <img src="/assets/web20Amp17.jpg"/>
+
+The details for this "bonus" outlet mod can be found here:
+
+
 
 Happy to say all working as planned.
 
