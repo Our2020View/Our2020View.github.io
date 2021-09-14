@@ -92,7 +92,31 @@ This mod was done in conjuction with the dedicated 20 amp circuit we installed t
 
 We only used one of the plugs in the receptacle for that dedicated circuit, so by making this a split circuit - by removing the hot terminals connecting tab - we had a free receptacle that we decided to hook up to the coach's 30 amp electrical system.  As explained in the "Dedicated 20 Amp Circuit" description, we elected to feed this new receptacle from the circuit that powers the induction cooktop.  The induction cooktop is powered from a 20 amp receptacle under the right hand sink.  
 
-Winnebago has used a slimline RV receptacle for the cooktop plug, and to be honest, I didn't see how it was going to be possible to get in there to add extra wiring to feed the new plug.  Instead, I chose to sever the feed to the cooktop plug, install a junction box under the counterop, and wire in the new 12/2 cable inbetween the feed and the old plug.
+Winnebago has used a slimline RV receptacle for the cooktop plug, and to be honest, I didn't see how it was going to be possible to get in there to add extra wiring to feed the new plug.  Instead, I chose to sever the feed to the cooktop plug, install a junction box under the counterop, and wire in the new 12/2 cable inbetween the feed and the old plug.  So feed line IN to the junction box, and old 12/2 cable OUT to the induction cooktop plug along with new 12/2 cable OUT to the new plug.
+
+Here is a shot of the junction box mounted to the wall, with the feed line to the induction cooktop ready to be severed (To mount the junction box to the wall, I started with mounting it to a piece of painted 1/2" plywood, and then used two part structural expoxy to glue the plywood to the wall):
+
+Unsevered feed line:
+
+With the feed line entering the junction box from the bottom, the two lines going to the cooktop plug and the new plug come out the top:
+
+Lines coming out:
+
+I ran the new circuit along the underside of the countertop:
+
+Under the countertop:
+
+And then ran it into the new recepacle where it was hooked up to the botoom plug:
+
+New receptacle under counter:
+
+As explained in the "Dedicated 20 Amp Circuit" description, the location for the new receptacl was partially chosen for its convenient proximity to the lithium battery heater:
+
+New receptacle location:
+
+
+
+
 
 <br>
 
