@@ -93,6 +93,11 @@ On previous motorhomes, we had a big six gallon propane water heater that was no
 
 Installation was easy, and operation is simple.  Here are some pictures of the heat cannister installed:
 
+<img src="/assets/webTrumaheat1.jpg"/>
+
+<img src="/assets/webTrumaheat2.jpg"/>
+
+<img src="/assets/webTrumaheat3.jpg"/>
 
 Don’t forget to include the steps to install the exterior air intake flue and select the anti-freeze system on the in-coach Truma rotary control knob prior to travel in cold weather - to your departure checklist!  And, when back to normal operations and you can use propane to heat water again, don't forget to remove the exterior air intake flue prior to selecting any normal position on the in-coach rotary knob.
 
