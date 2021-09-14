@@ -90,7 +90,9 @@ This mod was done in conjuction with the dedicated 20 amp circuit we installed t
 
 [Dedicated 20 Amp Circuit](/ourmods/20ampcircuit/)
 
-We only used one of the plugs in the receptacle for that dedicated circuit, so we had a free receptacle that we decided to hook up to the coach's 30 amp electrical system.
+We only used one of the plugs in the receptacle for that dedicated circuit, so by making this a split circuit - by removing the hot terminals connecting tab - we had a free receptacle that we decided to hook up to the coach's 30 amp electrical system.  As explained in the "Dedicated 20 Amp Circuit description, we elected to feed this new receptacle from the circuit that powers the induction cooktop.  The induction cooktop is powered from a 20 amp receptacle under the right hand sink.  
+
+Winnebago has used a slimline RV receptacle for the cooktop plug, and to be honest, I didn't see how it was going to be possible to get in there to add extra wiring to feed the new plug.  Instead, I chose to sever the feed to the cooktop plug, install a junction box under the counterop, and wire in the new 12/2 cable inbetween the feed and the old plug.
 
 <br>
 
