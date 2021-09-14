@@ -86,9 +86,11 @@ As a side note, the plastic twist nuts that were supposed to allow you to undo t
 
 <h3>Bonus Electrical Outlet"</h3>
 
-This mod was done in conjuction with our:
+This mod was done in conjuction with the dedicated 20 amp circuit we installed to allow us to run an electric heater independent of the coach's 30 amp electrical system.
 
-[Dedicated 20 Amp Circuit](
+[Dedicated 20 Amp Circuit](/ourmods/heaterbypass/)
+
+We only used one of the plugs in the receptacle for that circuit, so we had a free receptacle that we decided to hook up to the coach's electrical system.
 
 <br>
 
