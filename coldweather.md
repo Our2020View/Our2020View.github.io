@@ -47,7 +47,7 @@ Consideration 4 – Can I power whatever I come up with while dry camping, with 
 
 Some things to think about!  Here is what I came up with:
 
-**Consideration 1** – heating the wet bay
+**Consideration 1** – Heating the wet bay
 
 After spending a considerable amount of time coming up with exceptionally clever, but overly complex and unrealistically impractical, ways to insulate and heat that area, I opted for the same method that is shown in the video above:  a trouble lamp with an old fashioned incandescent light bulb.  Knowing that a 75W bulb was enough to thaw the frozen PEX in the video, I figured that the same would be enough to keep the area warm and prevent freezing in the first place.  A low wattage light bulb – simple and safe... I like simple and safe...
 
@@ -73,13 +73,13 @@ With the trouble light sitting on the bed of insulation, with the bulb positione
 
 It works very, very, well.  With outside temperatures approaching – 13 C, the wet bay was maintained well above freezing with a 60W incandescent light bulb.  The rating on the trouble lamp is 75W, but up here in Canada you can’t buy incandescent light bulbs any longer of that wattage.  All I could find was 50W or 60W “rough service” bulbs, so I’ll keep my eye open for other options when on the road.
 
-Consideration 2 – heating the water pump area
+**Consideration 2** – Heating the water pump area
 
 Well, a trouble light in the wet bay worked so well, why not a trouble light near the water pump?  I hung a couple of lights above the pump, and during spring tests was able to keep the area well above freezing when the coach was sub-zero.  I resorted to two lights, as all I could find were 50W “rough service” bulbs in our area.  I plugged one light into the other, and then fed the remaining chord along the same path as I had used for the wet bay heat.  Two 50W bulbs was plenty of heat, so sometimes I turned one light off and just had one bulb powered.  (I put velcro on this water pump acess panel to make entry easier)  In the right side of this picture, you can see the orange chord coming from the wet bay trouble light, and also the loose propane furnace heat duct that you can position  as you see fit.  I have ours aimed at the water pump feed area.
 
 <img src="/assets/waterpumpheatweb.jpg"/>
 
-Consideration 3 – keeping the Truma happy during sub-zero travel
+**Consideration 3** – Keeping the Truma happy during sub-zero travel
 
 On previous motorhomes, we had a big six gallon propane water heater that was not going to freeze during transit through cold weather.  But, as with a standard hot water tank system, you can’t run the propane to keep the Truma happy while driving.  To solve this one, I resorted to purchasing the Truma Aqua Go Electric Anti-freeze Kit.
 
@@ -89,7 +89,7 @@ Installation was easy, and operation is simple.  Don’t forget to include the s
 
 Now - there is another option, other than purchasing this component, but it involves fixing a flaw in the Winnebago winterization procedure associated with the Truma system.  If fixed, you can easily drain the Truma without winterizing the rest of the coach plumbing system.  It is a very easy fix – if you are interested, have a look at the mod page I did for this one.
 
-Consideration 4 – Can I power this stuff while dry camping, with no shore power plugged in?
+**Consideration 4** – Can I power this stuff while dry camping, with no shore power plugged in?
 
 While sitting at a campsite with shore power, powering the trouble lamps in the wet bay and pump area is no problem.  But, while dry camping, you will have to power the outlet at the foot of the bed with inverter power.  The inverter itself draws about two amps, and plan on about five amps for each bulb you have lit in your heating system.  (Don’t forget that even though a 60W light bulb only pulls a half of an amp on household hydro, you are creating that household power via the inverter powered from your 12V batteries.  Amps go way up when produced from the low voltage of a 12V battery system.)  When combined with the fridge and other overnight dry camping electrical draws, you will be temporarily closing in on 20 amps when the fridge is in its duty cycle pulling about 5 amps.  Have a close look to see if your battery system can handle this.  Our 200 amp hours of Lithium power can easily take this draw for more than 10 hours, but the standard lead acid batteries from Winnebago will find this challenging.  Supplementing the batteries with the generator might be warranted if you have to dry camp with the heat on for any length of time.  
 
