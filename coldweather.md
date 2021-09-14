@@ -101,7 +101,7 @@ Installation was straightforward.  Here are some pictures of the heat cannister 
 
 <img src="/assets/webTrumaheat3.jpg"/>
 
-Now - there is another option, other than purchasing this component, but it involves fixing a flaw in the Winnebago winterization procedure associated with the Truma system.  If fixed, you can easily drain the Truma without winterizing the rest of the coach plumbing system.  It is a very easy, and less expensive, fix – if you are interested, have a look at the mod page I did for this one:
+Now - there is another option, other than purchasing this component, but it involves fixing a flaw in the Winnebago winterization procedure associated with the Truma system.  If fixed, you can easily drain the Truma without winterizing the rest of the coach plumbing system.  It is a very easy, and less expensive, option – if you are interested, have a look at the mod page I did for this one:
 
 [Truma Water Heater Bypass](/ourmods/heaterbypass/)
 
