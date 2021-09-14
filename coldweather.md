@@ -37,7 +37,7 @@ So, after giving this some thought, and remembering how we keep warm while campi
 
 When using shore power, we use independent electric heat to warm the coach.  Winnebago has used the propane furnace duct system to provide warmth to the plumbing, and even has a loose duct underneath the bed in the aft equipment bay that can be directed at the water pump or under the shower - but it is not long enough to get to the wet bay!  So, when using a stand-alone electric heater like we do, the plumbing pipes don’t get direct warmth from the cold furnace ducts and no heat of any kind will make it to the wet bay.
 
-Consideration 1 – The wet bay needs to be heated regardless of which type of heat is used - neither the propane furnace nor a standalone electric heater is going to be able to get heat to the area.
+Consideration 1 – The wet bay needs to be heated regardless of which type of heat is used - neither the propane furnace nor a stand-alone electric heater is going to be able to get heat to the area.
 
 Consideration 2 – Experiments I did in early spring showed that electric heat in the coach was not good enough to penetrate the bed area and heat the area of the water tank and water pump - some sort of heating is required for the water pump and associated feed lines.
 
