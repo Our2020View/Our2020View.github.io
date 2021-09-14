@@ -100,19 +100,19 @@ Here is a shot of the junction box mounted to the wall, with the feed line to th
 
 With the feed line entering the junction box from the bottom, the two lines going to the cooktop plug and the new plug come out the top:
 
-Lines coming out:
+<img src="/assets/web20Amp8.jpg"/>
 
 I ran the new circuit along the underside of the countertop:
 
-Under the countertop:
+<img src="/assets/web20Amp12.jpg"/>
 
 And then ran it into the new recepacle where it was hooked up to the botoom plug:
 
-New receptacle under counter:
+<img src="/assets/web20Amp15.jpg"/>
 
 As explained in the "Dedicated 20 Amp Circuit" description, the location for the new receptacle was partially chosen for its convenient proximity to the lithium battery heater:
 
-New receptacle location:
+<img src="/assets/web20Amp17.jpg"/>
 
 
 
