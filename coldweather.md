@@ -89,7 +89,10 @@ On previous motorhomes, we had a big six gallon propane water heater that was no
 
 [Truma Aqua Go Electric Anti-freeze Kit]( https://shop.truma.net/products/aquago-electric-antifreeze-kit)
 
-Installation was easy, and operation is simple.  Don’t forget to include the steps to install the exterior air intake flue and select the anti-freeze system on the in-coach Truma rotary control knob prior to travel in cold weather - to your departure checklist!  And, when back to normal operations and you can use propane to heat water again, don't forget to remove the exterior air intake flue prior to selecting any normal position on the in-coach rotary knob.
+Installation was easy, and operation is simple.  Here are some pictures of the heat cannister installed:
+
+
+Don’t forget to include the steps to install the exterior air intake flue and select the anti-freeze system on the in-coach Truma rotary control knob prior to travel in cold weather - to your departure checklist!  And, when back to normal operations and you can use propane to heat water again, don't forget to remove the exterior air intake flue prior to selecting any normal position on the in-coach rotary knob.
 
 Now - there is another option, other than purchasing this component, but it involves fixing a flaw in the Winnebago winterization procedure associated with the Truma system.  If fixed, you can easily drain the Truma without winterizing the rest of the coach plumbing system.  It is a very easy fix – if you are interested, have a look at the mod page I did for this one.
 
