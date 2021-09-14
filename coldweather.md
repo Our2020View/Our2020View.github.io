@@ -105,6 +105,10 @@ Now - there is another option, other than purchasing this component, but it invo
 
 [Truma Water Heater Bypass](/ourmods/heaterbypass/)
 
+**Consideration 4** - We needed to ensure the  batteries could accept a charge when we woke up the next morning after a night of dry camping.  Here is how we got some heat on the batteries to accomplish this goal:
+
+[Truma Water Heater Bypass](/ourmods/heaterbypass/)
+
 **Consideration 4** – Can I power this stuff while dry camping, with no shore power plugged in?
 
 While sitting at a campsite with shore power, powering the trouble lamps in the wet bay and pump area is no problem.  But, while dry camping, you will have to power the outlet at the foot of the bed with inverter power.  The inverter itself draws about two amps, and plan on about five amps for each bulb you have lit in your heating system.  (Don’t forget that even though a 60W light bulb only pulls a half of an amp on household hydro, you are creating that household power via the inverter powered from your 12V batteries.  Amps go way up when produced from the low voltage of a 12V battery system.)  When combined with the fridge and other overnight dry camping electrical draws, you will be temporarily closing in on 20 amps when the fridge is in its duty cycle pulling about 5 amps.  Have a close look to see if your battery system can handle this.  Our 200 amp hours of Lithium power can easily withstand this draw for an overnight, but the standard lead acid batteries from Winnebago will find this challenging.  Supplementing the batteries with the generator might be warranted if you have to dry camp with the heat on for any length of time.  
