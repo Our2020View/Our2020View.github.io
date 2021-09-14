@@ -45,7 +45,7 @@ Consideration 3 – If the Truma is powered up and in “comfort” mode, there 
 
 Consideration 4 - We couldn't forget about heating the lithium batteries - if we were going to operate in cold weather while dry camping, we needed to ensure the  batteries could accept a charge.
 
-Consideration 5 - Winnebago has provide 12 volt electric heat to the grey and black tanks, but the heat is not sufficient to warm the water down at the gate valves.  As a result, the gate valves do freeze up when exposed to prolonged subzero tempertures.  Waiting until spring to dump is not a practical option!  The dump system plumbing needed to be heated.
+Consideration 5 - Winnebago has provided 12 volt electric heat to the grey and black tanks, but the heat is not sufficient to warm the water down at the gate valves.  As a result, the gate valves do freeze up when exposed to prolonged subzero tempertures.  Waiting until spring to dump is not a practical option!  The dump system plumbing needed to be heated.
 
 Consideration 6 – Could we successfully power whatever we came up with for solutions to all of this - while dry camping, with no shore power plugged in?
 
