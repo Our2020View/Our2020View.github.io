@@ -111,7 +111,7 @@ Now - there is another option, other than purchasing this component, but it invo
 
 **Consideration 5** - The dump system plumbing needed to be heated.  Late last winter we were able to time our dumps for days when daytime temperatures were above freezing.  This winter will be different, so this mod is on my list to do in the next few weeks.  Here is the great YouTube video that has given me my inspiration:
 
-[Grand Adventure - How to keep your Dump Valves from freezing](https://www.youtube.com/watch?v=KABF205es_U&t=380s)
+[Grand Adventure - How to keep your RV Dump Valves from freezing](https://www.youtube.com/watch?v=KABF205es_U&t=380s)
 
 More on this in a bit...
 
