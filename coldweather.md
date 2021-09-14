@@ -89,11 +89,11 @@ On previous motorhomes, we had a big six gallon propane water heater that was no
 
 [Truma Aqua Go Electric Anti-freeze Kit]( https://shop.truma.net/products/aquago-electric-antifreeze-kit)
 
-This kit is NOT an electric option to heat water.  This kit only provides enough electric heat to the internal Truma water system to prevent the heater from freezing up - used in conditions when you can't run propane to keep it warm.  Once the kit is installed, it is pretty easy to flip back and forth between freeze prevention and normal operations.  The only thing you have to do on the outside is install the intake flue when electric heat is required, or remove it when back to normal operations.  The rotary knob is used to provide the in-coach selection of either function - freeze prevention or normal operations.
+This kit is NOT an electric option to heat water.  This kit only provides enough electric heat to the internal Truma water system to prevent the heater from freezing up - used in conditions when you can't run propane to keep it warm.  Once the kit is installed, it is pretty easy to flip back and forth between freeze prevention and normal operations.  The only thing you have to do on the outside is install the intake flue plug when electric heat is required, or remove it when back to normal operations.  The rotary knob is used to provide the in-coach selection of either function - freeze prevention or normal operations.
 
 <img src="/assets/webTrumaheat4.jpg"/>
 
-Installation was straightforward.  Here are some pictures of the heat cannister wiring hooked up, the intake flue inserted, and the the reminder that the protection system is installed:
+Installation was straightforward.  Here are some pictures of the heat cannister wiring hooked up, the intake flue plug inserted, and the the reminder that the protection system is installed:
 
 <img src="/assets/webTrumaheat1.jpg"/>
 
