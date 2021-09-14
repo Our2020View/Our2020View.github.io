@@ -110,7 +110,7 @@ And then ran it into the new receptacle where it was hooked up to the botom plug
 
 <img src="/assets/web20Amp15.jpg"/>
 
-As explained in the "Dedicated 20 Amp Circuit" description, the location for the new receptacle was partially chosen for its convenient proximity to the lithium battery heater:
+As explained in the "Dedicated 20 Amp Circuit" description, the location for the new receptacle was partially chosen for its convenient proximity to the lithium battery heater and cab seating:
 
 <img src="/assets/web20Amp17.jpg"/>
 
