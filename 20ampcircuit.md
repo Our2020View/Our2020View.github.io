@@ -72,7 +72,7 @@ More on the "bonus" circuit I wired up to this receptacle - As I mentioned earli
 
 The details for this "bonus" outlet mod can be found here:
 
-
+[RV Miscellaneous Mods](/ourmods/miscmods/)
 
 Happy to say all working as planned.
 
