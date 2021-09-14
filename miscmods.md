@@ -106,7 +106,7 @@ I ran the new circuit along the underside of the countertop:
 
 <img src="/assets/web20Amp12.jpg"/>
 
-And then ran it into the new recepacle where it was hooked up to the botoom plug:
+And then ran it into the new recepacle where it was hooked up to the botom plug:
 
 <img src="/assets/web20Amp15.jpg"/>
 
@@ -114,9 +114,7 @@ As explained in the "Dedicated 20 Amp Circuit" description, the location for the
 
 <img src="/assets/web20Amp17.jpg"/>
 
-
-
-
+The top "yellow" plug is for the glorified extension chord of the "Dedicated 20 Amp Circuit", and the bottom "green" plug is hooked up to the coach's 30 amp electrical system.
 
 <br>
 
