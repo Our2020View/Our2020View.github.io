@@ -109,9 +109,11 @@ Now - there is another option, other than purchasing this component, but it invo
 
 [Lithium Battery Heater](/ourmods/batteryheater/)
 
-**Consideration 5** - The dump system plumbing needed to be heated.  Late last winter we were able to time our dumps for days when daytime temperatures were above freezing.  This winter will be different, so this mod is on my list to do in the next few weeks.  Here is where I have taken my inspiration from:
+**Consideration 5** - The dump system plumbing needed to be heated.  Late last winter we were able to time our dumps for days when daytime temperatures were above freezing.  This winter will be different, so this mod is on my list to do in the next few weeks.  Here is the great YouTube vidio that has given me my inspiration:
 
+[Grand Adventure](https://www.youtube.com/watch?v=KABF205es_U&t=380s)
 
+More on this in a bit...
 
 **Consideration 6** – Can I power this stuff while dry camping, with no shore power plugged in?
 
