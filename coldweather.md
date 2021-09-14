@@ -33,7 +33,7 @@ Here is another view, looking into the locker from the street:
 
 <img src="/assets/3backofelecbayweb.jpg"/>
 
-So, after giving this some thought, and remembering how we keep warm while camping, some areas requiring careful consideration started to become clear.
+So, after giving this some thought, and remembering how we keep warm while camping, some areas requiring careful consideration started to become clear if we were going to be able to camp in sub-zero temperatures for any length of time.
 
 When using shore power, we use independent electric heat to warm the coach.  Winnebago has used the propane furnace duct system to provide warmth to the plumbing, and even has a loose duct underneath the bed in the aft equipment bay that can be directed at the water pump or under the shower - but it is not long enough to get to the wet bay!  So, when using a stand-alone electric heater like we do, the plumbing pipes don’t get direct warmth from the cold furnace ducts and no heat of any kind will make it to the wet bay.
 
