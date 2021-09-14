@@ -96,7 +96,7 @@ Winnebago has used a slimline RV receptacle for the cooktop plug, and to be hone
 
 Here is a shot of the junction box mounted to the wall, with the feed line to the induction cooktop ready to be severed (To mount the junction box to the wall, I started with mounting it to a piece of painted 1/2" plywood, and then used two part structural expoxy to glue the plywood to the wall):
 
-Unsevered feed line:
+<img src="/assets/web20Amp6.jpg"/>
 
 With the feed line entering the junction box from the bottom, the two lines going to the cooktop plug and the new plug come out the top:
 
