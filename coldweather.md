@@ -43,11 +43,11 @@ Consideration 2 – Experiments I did in early spring showed that electric heat 
 
 Consideration 3 – If the Truma is powered up and in “comfort” mode, there is no need to worry.  But, if DRIVING in cold weather, either the Truma needs to be drained, or the commercially available “Truma auxillary electric heating system” needs to be installed to keep the Truma system from freezing.
 
-Consideration 4 - We can't forget about heating the lithium batteries - if we are going to operate in cold weather while dry camping, we will need to ensure the  batteries can accept a charge.
+Consideration 4 - We couldn't forget about heating the lithium batteries - if we were going to operate in cold weather while dry camping, we needed to ensure the  batteries could accept a charge.
 
-Consideration 5 - Winnebago has provide 12 volt electric heat to the grey and black tanks, but the heat is not sufficient to warm the water down at the gate valves.  As a result, the gate valves do freeze up when exposed to prolonged subzero tempertures.  Waiting until spring to dump is not a practical option!  The dump system plumbing needs to be heated.
+Consideration 5 - Winnebago has provide 12 volt electric heat to the grey and black tanks, but the heat is not sufficient to warm the water down at the gate valves.  As a result, the gate valves do freeze up when exposed to prolonged subzero tempertures.  Waiting until spring to dump is not a practical option!  The dump system plumbing needed to be heated.
 
-Consideration 6 – Can I successfully power whatever I come up with for solutions to all of this - while dry camping, with no shore power plugged in?
+Consideration 6 – Could we successfully power whatever we came up with for solutions to all of this - while dry camping, with no shore power plugged in?
 
 Some things to think about!  Here is what I came up with:
 
