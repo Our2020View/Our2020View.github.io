@@ -105,7 +105,7 @@ Now - there is another option, other than purchasing this component, but it invo
 
 [Truma Water Heater Bypass](/ourmods/heaterbypass/)
 
-**Consideration 4** - We needed to ensure the  batteries could accept a charge when we woke up the next morning after a night of dry camping.  Here is how we got some heat on the batteries to accomplish this goal:
+**Consideration 4** - We needed to ensure the  batteries could accept a charge when we woke up the next morning after a cold night of dry camping.  Here is how we got some heat on the batteries to accomplish this goal:
 
 [Lithium Battery Heater](/ourmods/batteryheater/)
 
