@@ -28,6 +28,9 @@ These shots show the weight comparison of the lead acid vs the Battle Born lithi
 Replicating what Winnebago had done regarding cable placement got us up and running fairly quickly.
 
 <img src="/assets/batteryinstall5web.jpg"/>
+
+<br>
+
 <img src="/assets/batteryinstall6web.jpg"/>
 
 So, how do we like these batteries?  Well, we are thrilled with them.  In a load test I did, the advertised amp hour rating was shown to be conservative and the performance was jaw dropping compared to my experience with lead acid batteries, even AGM batteries.  (The factory batteries were not AGM batteries, so this is a huge step up in performance.)
