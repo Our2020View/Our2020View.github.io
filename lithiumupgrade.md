@@ -23,6 +23,9 @@ You can see that the batteries are essentially open to the outside world, in ord
 These shots show the weight comparison of the lead acid vs the Battle Born lithium batteries.  Not quite a 50% reduction in weight, but pretty close:
 
 <img src="/assets/batteryinstall3web.jpg"/>
+
+<br>
+
 <img src="/assets/batteryinstall4web.jpg"/>
 
 Replicating what Winnebago had done regarding cable placement got us up and running fairly quickly.
