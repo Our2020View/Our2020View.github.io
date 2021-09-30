@@ -26,7 +26,7 @@ The supplies were pretty much as the RVgeeks listed them:
 
 <img src="/assets/web20ampsupplies.jpg"/>
 
-These first four photos show the yellow 12/2 20 amp cable run towards the entry door recepatacle.  I started in the Truma heater bay, worked under the fridge in front of the propane furnace, underneath the heater ducts, and then along the side wall into the base of the sink cabinet.  From there it was an easy run to the access panel where the inverter cables come up from the basement locker.  I eventually added some wire loom and secured the cable to the back of the sink cabinet.
+These next four photos show the yellow 12/2 20 amp cable run towards the entry door recepatacle.  I started in the Truma heater bay, worked under the fridge in front of the propane furnace, underneath the heater ducts, and then along the side wall into the base of the sink cabinet.  From there it was an easy run to the access panel where the inverter cables come up from the basement locker.  I eventually added some wire loom and secured the cable to the back of the sink cabinet.
 
 <img src="/assets/web20Amp1.jpg"/>
 
