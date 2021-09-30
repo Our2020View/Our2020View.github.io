@@ -15,10 +15,6 @@ Here is a drawing of the internal plumbing directly behind the wet bay panel you
 
 <img src="/assets/wetbaydrawingweb.jpg"/>
 
-And, here is a partial photo of what the area behind the wet bay panel looks like:
-
-<img src="/assets/1abehindwetbayweb.jpg"/>
-
 Here is a view of under the shower - You can see the square hole cut in the floor just above the wet bay:
 
 <img src="/assets/1undershowerweb.jpg"/>
