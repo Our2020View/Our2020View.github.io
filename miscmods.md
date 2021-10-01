@@ -3,7 +3,7 @@ layout: page
 title: RV Miscellaneous Mods
 permalink: /ourmods/miscmods/
 ---
-Here is a list of some of the quick and easy ones we have done:
+Here is a list of some of the miscellaneous ones we have done:
 
   <h3>Coat Rack</h3>
 
