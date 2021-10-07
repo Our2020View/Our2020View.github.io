@@ -109,7 +109,7 @@ Now - there is another option, other than purchasing this component, but it invo
 
 [Lithium Battery Heater](/ourmods/batteryheater/)
 
-**Consideration 5** - The dump system plumbing needed to be heated.  Late last winter we were able to time our dumps for days when daytime temperatures were above freezing.  This winter will be different, so this mod is on my list to do in the next few weeks.  Here is a YouTube video that gave me lots to think about:
+**Consideration 5** - The dump system plumbing needed to be heated.  Late last winter we were able to time our dumps for days when daytime temperatures were above freezing.  Future winters will be different, so this mod had to be done.  Here is a YouTube video that gave me lots to think about:
 
 [Grand Adventure - How to keep your RV Dump Valves from freezing](https://www.youtube.com/watch?v=KABF205es_U&t=380s)
 
