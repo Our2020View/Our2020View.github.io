@@ -74,18 +74,6 @@ We had an annoying vibration going on while driving, that seemed to be comming f
 
 <img src="/assets/morelockerroomweb.jpg"/>
 
-<h3>Spare Tire "Rattle" and "Thump"</h3>
-
-On the topic of annoying noises, whenever going over a bump we'd get a "clank" followed by a "thump", and lots of "rattling" when driving on roads that were not smooth.    It turns out the spare tire cradle and tire are not secured very well, and have quite a bit of vertical play - the cradle is held securely to the threaded rods, but because the threaded rods have not been positioned correctly on their support posts, the cradle is not compressing the tire against the roof brace stubs as I assume it was intended.  The result is the cradle rattles around and the tire is free to jump when going over a bump.  On our View there is only about 1/4" of thread on the rods to play with, but it was enough to be able to lower the cradle a bit and jam in a piece of 2" closed cell foam to take up the space between the tire sidewall and the brace stubs.  When the cradle was raised a bit using the threads left over on the rods, it was enough to firmly hold the tire in place.  But, even with this adjustment, the rod supporting the cradle still had enough residual vertical play in its connection to the suupport post to allow the rattle to continue to be a pain when driving on a rough road.  We still sounded like a gravel truck when driving through small towns!  I finally settled on the a winning solution - ratchet straps from the cross brace above to the cradle corners.  That did the trick.
-
-The first photo shows an example of a threaded rod as I found it - the threaded rod is suspended too low on the support post to hold the tire up against the brace stubs.  The second photo shows one of the 2" closed cell foam pieces I inserted to take up the space and compress the tire in place, on both halves of the tire.  
-
-<img src="/assets/tirerackbumper2web.jpg"/>
-
-<img src="/assets/tirerackbumper1web.jpg"/>
-
-As a side note, the plastic twist nuts that were supposed to allow you to undo the cradle and lower the tire to the ground were seized on the threaded rods.  I was able to get one of the twist nuts off, but the other stripped on the inside locknut.  Luckily, because of all of the play in the cradle, it was relatively easy to remove the threaded rods from their support posts.  I removed the plastic twist caps from the locknuts, and threw them alway.  Before I put the locknuts back on after I had inserted my foam pieces, I brushed on some anti-seize compound onto the threaded rods to allow for nut removal in a time of need.  It would not make any sense at all to not be able to access your spare tire when required, so I recommend you check the nuts on your tire cradle too.
-
 <h3>"Bonus" Electrical Outlet</h3>
 
 This mod was done in conjuction with the dedicated 20 amp circuit we installed to allow us to run an electric heater independent of the coach's 30 amp electrical system.  See that one here:
