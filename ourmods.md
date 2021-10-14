@@ -234,7 +234,6 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   <h4>Compact DVD Player</h4>
   <h4>Truma Water Hammer Fix</h4>
   <h4>More Locker Space</h4>
-  <h4>Spare Tire "Rattle" and "Thump"</h4>
   <h4>"Bonus" Electrical Outlet</h4>
   
   <div class="row">
