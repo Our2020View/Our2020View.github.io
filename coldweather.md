@@ -119,15 +119,28 @@ I bought the supplies to replicate this mod, but in the end, elected not to do i
 
 More on this in a bit...
 
-**Consideration 6** – Can I power this stuff while dry camping, with no shore power plugged in?
+**Consideration 6** – Can we power all of this stuff while dry camping, with no shore power plugged in?
 
-While sitting at a campsite with shore power, powering the trouble lamps in the wet bay and pump area is no problem.  But, while dry camping, you will have to power the outlet at the foot of the bed with inverter power.  The inverter itself draws about two amps, and plan on about five amps for each bulb you have lit in your heating system.  (Don’t forget that even though a 60W light bulb only pulls a half of an amp on household hydro, you are creating that household power via the inverter powered from your 12V batteries.  Amps go way up when produced from the low voltage of a 12V battery system.)  When combined with the fridge and other overnight dry camping electrical draws, you will be temporarily closing in on 20 amps when the fridge is in its duty cycle pulling about 5 amps.  Have a close look to see if your battery system can handle this.  Our 200 amp hours of Lithium power can easily withstand this draw for an overnight, but the standard lead acid batteries from Winnebago will find this challenging.  Supplementing the batteries with the generator might be warranted if you have to dry camp with the heat on for any length of time.  
+After thinking about all of the above, you can see that these various 12 volt draws do indeed add up.  Let's look at the scoresheet for these DC amps:
+
+1. Wet bay heat - 5 amps 
+2. Water pump area heat - 5 amps
+3. Truma auxillary electric heat - 5 amps
+4. Battery heater - 5 amps
+5. Grey and black tank heaters - 10 amps
+6. Dump valve heaters - 5 amps
+7. Inverter - 2 amps
+8. Fridge and other "normal" coach loads - 5 to 10 amps?
+
+That is a lot of DC amps potentially drawing down our batteries, if we are dry camping.  But, not all of these apply at the same time - depending on what the temperatures are out there, we might only have a few of these on to cater for the current situation.  The Truma heat won't be on if we are camping (normal use of the hot water system allows the Truma to take care of itself), if we are using propane heat the water pump area heat is not neeeded, we'd only use the dump valve heaters for a few hours before we headed to the dump station, and if the tanks are getting full we'd likely not turn on the tank heaters for extended periods of time.  Now, when plugged into shore power, this loads issue goes away as the converter can easily keep up with the necessary charging of the batteries.
+
+All that to say, we have "armed" ourselves with this capability, as we just might need it in a pinch.
 
 So, how did all of this turn out?
 
-It turns out it was all very worthwhile.  In the spring of '21 during the Pandemic, a family emergency forced us to dig the View out of a snow bank and dry camp in sub zero temperatures out of town at a Walmart.  We don’t use the propane heat while sleeping, instead we prefer to stay warm in our winter bags and then use the furnace to come back up to temperature in the morning.  With the light bulbs powered to keep the wet bay and water pump area warm, the Truma circulating hot water throughout the kitchen and bath plumbing systems, the lithium battery heater powered, and with other coach normal system current draws, we used about 40% of our batteries capability overnight.  Once we were up in the morning and had the furnace powered, we could unplug the water pump heat and just leave the wet bay heat and battery heat on.  With the generator running during breakfast, we brought the batteries up to close to full charge again.  For information on our lithium battery heater installation - check out the Mods page.
+It turns out it was all very worthwhile.  In the spring of '21 during the Pandemic, a family emergency forced us to dig the View out of a snow bank and dry camp in sub zero temperatures out of town at a Walmart.  We don’t use the propane heat while sleeping, instead we prefer to stay warm in our winter bags and then use the furnace to come back up to temperature in the morning.  With the light bulbs powered to keep the wet bay and water pump area warm, the Truma circulating hot water throughout the kitchen and bath plumbing systems, the lithium battery heater powered, and with other coach normal system current draws, we used about 40% of our batteries capability overnight.  Once we were up in the morning and had the furnace powered, we could unplug the water pump heat and just leave the wet bay heat and battery heat on.  With the generator running during breakfast, we brought the batteries up to close to full charge again.  
 
-Yes, it works as we hoped it would.  These were pretty easy mods to make, but change the game considerably on being able to use the motorhome when the temperature drops.  You can keep your plumbing warm while driving across areas of sub-zero tempertures, or even use the coach to camp with both types of power options.  
+Yes, it works as we hoped it would.  Some of these were pretty easy mods to make, but they change the game considerably on being able to use the motorhome when the temperature drops.  We can keep your plumbing warm while driving across areas of sub-zero tempertures, or even use the coach to camp with both types of power options.  
 
 I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is the temperature measuring kit I purchased - I mounted one sensor in the propane locker to get an outside air temperature, one in the wet bay, and one near the water pump:
 
