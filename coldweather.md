@@ -134,9 +134,9 @@ After thinking about all of the above, you can see that these various 12 volt dr
 
 That is a lot of DC amps potentially drawing down our batteries, if we are dry camping.  But, not all of these apply at the same time - depending on what the temperatures are out there, we might only have a few of these on to cater for the current situation.  The Truma heat won't be on if we are camping (normal use of the hot water system allows the Truma to take care of itself), if we are using propane heat the water pump area heat is not neeeded, we'd only use the dump valve heaters for a few hours before we headed to the dump station, and if the tanks are getting full we'd likely not turn on the tank heaters for extended periods of time.  Now, when plugged into shore power, this loads issue goes away as the converter can easily keep up with the necessary charging of the batteries.
 
-All that to say, we have "armed" ourselves with this capability, as we just might need it in a pinch.
+All that to say, we have "armed" ourselves with this capability, as we have been in situations where we have needed some of this heat.
 
-So, how did all of this turn out?
+So, during the times when we did need the help, how did all of this turn out?
 
 It turns out it was all very worthwhile.  In the spring of '21 during the Pandemic, a family emergency forced us to dig the View out of a snow bank and dry camp in sub zero temperatures out of town at a Walmart.  We don’t use the propane heat while sleeping, instead we prefer to stay warm in our winter bags and then use the furnace to come back up to temperature in the morning.  With the light bulbs powered to keep the wet bay and water pump area warm, the Truma circulating hot water throughout the kitchen and bath plumbing systems, the lithium battery heater powered, and with other coach normal system current draws, we used about 40% of our batteries capability overnight.  Once we were up in the morning and had the furnace powered, we could unplug the water pump heat and just leave the wet bay heat and battery heat on.  With the generator running during breakfast, we brought the batteries up to close to full charge again.  
 
