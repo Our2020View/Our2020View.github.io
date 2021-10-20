@@ -57,7 +57,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/batterymaintainer/'"> Read More </button>
+            onclick="location.href = '/ourmods/batterymaintainer/'"> READ MORE </button>
   </div>
 </div>
 
@@ -69,7 +69,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <p>EMS - HW30C Hardwired</p>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/ems/'"> Read More </button>
+            onclick="location.href = '/ourmods/ems/'"> READ MORE </button>
   </div>
   <div class="column" style="background-color:white;">
     <h3>Macerator System</h3>
@@ -78,7 +78,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <p>Remco 9911 - 02 RV Waste Pump</p>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/macerator/'"> Read More </button>
+            onclick="location.href = '/ourmods/macerator/'"> READ MORE </button>
   </div>
 </div>
 
@@ -90,7 +90,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/cellbooster/'"> Read More </button>
+            onclick="location.href = '/ourmods/cellbooster/'"> READ MORE </button>
      </div>
   <div class="column" style="background-color:white;">
     <h3>Battery Monitor</h3>
@@ -99,7 +99,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/batterymonitor/'"> Read More </button>
+            onclick="location.href = '/ourmods/batterymonitor/'"> READ MORE </button>
      </div>
 </div>
 
@@ -111,7 +111,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/batteryheater/'"> Read More </button>
+            onclick="location.href = '/ourmods/batteryheater/'"> READ MORE </button>
      </div>
   <div class="column" style="background-color:white;">
     <h3>Cold Weather Capability</h3>
@@ -120,7 +120,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/coldweather/'"> Read More </button>
+            onclick="location.href = '/ourmods/coldweather/'"> READ MORE </button>
      </div>
 </div>
 
@@ -132,7 +132,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/lithiumupgrade/'"> Read More </button>
+            onclick="location.href = '/ourmods/lithiumupgrade/'"> READ MORE </button>
      </div>
   <div class="column" style="background-color:white;">
     <h3>Dedicated 20 amp Circuit</h3>
@@ -141,7 +141,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/20ampcircuit/'"> Read More </button>
+            onclick="location.href = '/ourmods/20ampcircuit/'"> READ MORE </button>
       </div>
   </div>
 
@@ -155,7 +155,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/weightreduction/'"> Read More </button>
+            onclick="location.href = '/ourmods/weightreduction/'"> READ MORE </button>
      </div>
   <div class="column" style="background-color:white;">
     <h3>Stabilizer Removal</h3>
@@ -164,7 +164,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/stabilizers/'"> Read More </button>
+            onclick="location.href = '/ourmods/stabilizers/'"> READ MORE </button>
      </div>
 </div>
 
@@ -176,7 +176,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/heaterbypass/'"> Read More </button>
+            onclick="location.href = '/ourmods/heaterbypass/'"> READ MORE </button>
   </div>
   <div class="column" style="background-color:white;">
     <h3>Accumulator Tank</h3>
@@ -185,7 +185,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/accumulator/'"> Read More </button>
+            onclick="location.href = '/ourmods/accumulator/'"> READ MORE </button>
   </div>
 </div>
 
@@ -200,7 +200,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/speakerfix/'"> Read More </button>
+            onclick="location.href = '/ourmods/speakerfix/'"> READ MORE </button>
       </div>
   <div class="column" style="background-color:white;">
     <h3>Rustproofing</h3>
@@ -209,7 +209,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/rustproofing/'"> Read More </button>
+            onclick="location.href = '/ourmods/rustproofing/'"> READ MORE </button>
      </div>
 </div>
 <div class="row">
@@ -220,7 +220,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/valvestems/'"> Read More </button> 
+            onclick="location.href = '/ourmods/valvestems/'"> READ MORE </button> 
   </div>
  </div>
   
@@ -240,7 +240,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <div class="column" style="background-color:white;">
    
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/miscmods/'"> Read More </button>
+            onclick="location.href = '/ourmods/miscmods/'"> READ MORE </button>
      </div>
 </div>
     
