@@ -48,7 +48,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="background-color:green; color:white"
-            onclick="location.href = '/ourmods/electrical/'"> Read More </button>
+            onclick="location.href = '/ourmods/electrical/'"> <h3>Read More </button>
   </div>
       <div class="column" style="background-color:white;">
     <h3>Chassis Battery Maintainer</h3>
