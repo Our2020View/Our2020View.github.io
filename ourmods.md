@@ -56,7 +56,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/amplstartcloseviewweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/batterymaintainer/'"> Read More </button>
   </div>
 </div>
@@ -68,7 +68,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <p>EMS - HW30C Hardwired</p>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/ems/'"> Read More </button>
   </div>
   <div class="column" style="background-color:white;">
@@ -77,7 +77,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <p>Remco 9911 - 02 RV Waste Pump</p>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/macerator/'"> Read More </button>
   </div>
 </div>
@@ -89,7 +89,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/cellbooster1web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/cellbooster/'"> Read More </button>
      </div>
   <div class="column" style="background-color:white;">
@@ -98,7 +98,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/Victronweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/batterymonitor/'"> Read More </button>
      </div>
 </div>
@@ -110,7 +110,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/heatingpadweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/batteryheater/'"> Read More </button>
      </div>
   <div class="column" style="background-color:white;">
@@ -119,7 +119,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/coldweatherweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/coldweather/'"> Read More </button>
      </div>
 </div>
@@ -131,7 +131,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/batteryinstall5web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/lithiumupgrade/'"> Read More </button>
      </div>
   <div class="column" style="background-color:white;">
@@ -140,7 +140,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/RVsitepostweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/20ampcircuit/'"> Read More </button>
       </div>
   </div>
@@ -154,7 +154,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/scalecartoonweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/weightreduction/'"> Read More </button>
      </div>
   <div class="column" style="background-color:white;">
@@ -163,7 +163,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/stabilizers/'"> Read More </button>
      </div>
 </div>
@@ -175,7 +175,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/heaterbypass2web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/heaterbypass/'"> Read More </button>
   </div>
   <div class="column" style="background-color:white;">
@@ -184,7 +184,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/accumulator3web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/accumulator/'"> Read More </button>
   </div>
 </div>
@@ -199,7 +199,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/speakerfixweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/speakerfix/'"> Read More </button>
       </div>
   <div class="column" style="background-color:white;">
@@ -208,7 +208,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/rustproofing/'"> Read More </button>
      </div>
 </div>
@@ -219,7 +219,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
     <br>
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/valvestems/'"> Read More </button> 
   </div>
  </div>
