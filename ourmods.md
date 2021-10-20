@@ -239,7 +239,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   <div class="row">
     <div class="column" style="background-color:white;">
    
-    <button style="background-color:green; color:white"
+    <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/miscmods/'"> Read More </button>
      </div>
 </div>
