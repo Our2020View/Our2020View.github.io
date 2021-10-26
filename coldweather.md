@@ -113,7 +113,7 @@ Now - there is another option, other than purchasing this component, but it invo
 
 [Grand Adventure - How to keep your RV Dump Valves from freezing](https://www.youtube.com/watch?v=KABF205es_U&t=380s)
 
-I bought the supplies to replicate this mod, but in the end, elected not to do it this way.  Instead, I purchased some RV gate valve heating pads for the dump valves and some lower power heating pads to wrap around the "tower" that holds the valve when it is open.  The vendor I used was Ultraheat, and their products can be found here:
+I bought the supplies to replicate this mod, but in the end, elected NOT to do it this way.  Instead, I purchased some RV gate valve heating pads for the dump valves and some lower power heating pads to wrap around the "tower" that holds the valve when it is open.  The vendor I used was Ultraheat, and their products can be found here:
 
 [Ultraheat RV plumbing heaters](https://www.ultraheat.com/lets-talk-products)
 
