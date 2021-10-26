@@ -121,7 +121,7 @@ Here is what they look like:
 
 <img src="/assets/webultraheatpads.jpg"/>
 
-I opted for just heating the gate valves because I was not real crazy about the idea of heating an empty PVC pipe – the manufacturer of the heat cable I originally bought was very clear that this was not a good idea – so I elected to buy something that was designed for the job I needed to get done.  Now, there were some advantages to going with the idea of an 120 volt AC heating cable – simplicity was among them – but in the end I decided that wiring up the gate RV valve heaters to the coach’s 12 volt system would give us some flexibility and result in less power consumption.
+I opted for just heating the gate valves because I was not real crazy about the idea of heating an empty PVC pipe – the manufacturer of the heat cable I originally bought was very clear that this was not a good idea – so I elected to buy something that was designed for the job I needed to get done.  Now, there were some advantages to going with the idea of an 120 volt AC heating cable – simplicity was among them – but in the end I decided that wiring up the RV gate valve heaters to the coach’s 12 volt system would give us some flexibility and result in less power consumption.
 
 The general concept for the installation was adding a fuse and wiring to the 12 volt fuse panel, running the wires under the bed, under the shower, and then down into the electrical cord storage bay, sticking on the adhesive backed heaters, adding a couple of switches in the wet bay to be able to control the gate valve and gate tower heat independently, wiring it all up, and then adding some insulation and weather protection to the gate valve areas.
 
