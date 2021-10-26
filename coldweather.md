@@ -131,7 +131,7 @@ The wires from the fuse panel came into the electrical bay via the hole in the f
 
 and then went to the switches in the wet bay ...
 
-<img src="/assets/webswitchepanel2.jpg"/>
+<img src="/assets/webswitchpanel2.jpg"/>
 
 and then back outside the electrical bay via a hole I drilled in the back wall:
 
