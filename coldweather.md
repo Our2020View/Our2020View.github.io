@@ -125,6 +125,8 @@ I opted for just heating the gate valves because I was not real crazy about the 
 
 The general concept for the installation was adding a fuse and wiring to the 12 volt fuse panel, running the wires under the bed, under the shower, and then down into the electrical cord storage bay, sticking on the adhesive backed heaters, adding a couple of switches in the wet bay to be able to control the gate valve and gate tower heat independently, wiring it all up, and then adding some insulation and weather protection to the gate valve areas.
 
+A few pictures to make things clearer:
+
 The wires from the fuse panel came into the electrical bay via the hole in the floor under the shower ...
 
 <img src="/assets/webdumpvalveheat2.jpg"/>
@@ -133,19 +135,23 @@ and then went to the switches in the wet bay ...
 
 <img src="/assets/webswitchpanel2.jpg"/>
 
-and then back outside the electrical bay via a hole I drilled in the back wall:
+and then back outside the electrical bay to connect to the heaters via a hole I drilled in the back wall:
 
 <img src="/assets/webdumpvalveheat3.jpg"/>
 
-After the heating pad installation, their wires were all gathered up and connected to their associated power wires and ground wires exiting the electrical bay from that hole.  Here is what one of the gate valves looked like while doing the wiring.
+After the heating pad installation, the wires were all gathered up and connected to their associated power wires and ground wires coming from the electrical bay.  Here is what one of the gate valves looked like while doing the wiring.
 
 <img src="/assets/webvalveheat1.jpg"/>
 
-After it was all tested, I added some Reflectix insulation and enclosed it in a plactic wrap:
+After it was all tested, I added some Reflectix insulation and enclosed both valves in a plactic wrap:
 
 <img src="/assets/webvalveheat2.jpg"/>
 
 <img src="/assets/webvalveheat3.jpg"/>
+
+This was, without a doubt, the highest workload mod I had done so far due to the amount of wiring that needed to be connected - all while lying on my back underneath the coach.  Would I do all of this again?  Well, not sure.  I guess it will depend on how well these things work, when giving a real life test.  This project was intended to be insurance for the times when we were forced to be camping off season when we would rather be inside the house surfing the internet - planning for next years travel.
+
+I'll let you know how all of this turned out!
 
 
 **Consideration 6** – Can we power all of this stuff while dry camping, with no shore power plugged in?
