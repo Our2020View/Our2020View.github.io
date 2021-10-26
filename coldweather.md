@@ -149,7 +149,7 @@ After it was all tested, I added some Reflectix insulation and enclosed both val
 
 <img src="/assets/webvalveheat3.jpg"/>
 
-This was, without a doubt, the highest workload mod I had done so far due to the amount of wiring that needed to be connected - all while lying on my back underneath the coach.  Would I do all of this again?  Well, not sure.  I guess it will depend on how well these things work, when giving a real life test.  This project was intended to be insurance for the times when we were forced to be camping off season when we would rather be inside the house surfing the internet - planning for next years travel.
+This was, without a doubt, the highest workload mod I had done so far due to the amount of wiring that needed to be connected - all while lying on my back underneath the coach.  Would I do all of this again?  Well, not sure.  I guess it will depend on how well these things work, when given a real life test.  This project was intended to be insurance for the times when we were forced to be camping off season when we would rather be inside the house surfing the internet - planning for next years travel.
 
 I'll let you know how all of this turned out!
 
