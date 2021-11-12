@@ -4,7 +4,7 @@ title: RV Macerator System
 permalink: /ourmods/macerator/
 ---
 
-What is a Macerator System, and why is it in the Electrical section of this webpage?  A macerator pump is a marine sewage pump hooked up downstream of your black and grey water discharge system, and is responsible for delivering liquid black tank stuff and grey tank contents to the dump station inlet.  The manufacturer of our previous Class B motor homes used to advertise “No mess, No fuss”.  It turns out this advertising was actually very true, and we have considered a macerator pump to be a necessity for any motor home we drive.
+What is a Macerator System, and why is it in the Electrical section of this website?  A macerator pump is a marine sewage pump hooked up downstream of your black and grey water discharge system, and is responsible for delivering liquid black tank stuff and grey tank contents to the dump station inlet.  The manufacturer of our previous Class B motor homes used to advertise “No mess, No fuss”.  It turns out this advertising was actually very true, and we have considered a macerator pump to be a necessity for any motor home we drive.
 
 The View, as of 2020 / 21, does not have a true macerator pump setup on any of its View / Navion lineup.  The closest Winnebago comes to a true setup is a macerator pump installed in the grey water dump line of the 24V model.  On this model, its purpose is to pump grey water from the tank, as they have some geometry challenges with relying on gravity to get the job done.  (I seem to recall they have to get the line over the rear axle.)  But, c’mon... grey water?  Isn’t that a waste of a macerator pump?
 
