@@ -4,7 +4,7 @@ title: Electrical Information
 permalink: /ourmods/electrical/
 ---
 
-<h1>Electrical System Highlights of the “Stock” 2020 View</h1>
+<h1>Electrical System Highlights of the “Stock” 2020 View / Navion</h1>
 
 First, let’s talk about what came out of the factory.  For the 2020 model year on the View / Navion, Winnebago made some significant electrical changes as a result of their LifePO4 option, requests from Mercedes Benz, and the feedback from owners.  After weighing the additions and deletions, I believe the changes enhance the capability of the motor home tremendously:
 
