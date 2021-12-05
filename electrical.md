@@ -47,7 +47,7 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 [Dedicated 20 Amp Circuit](/ourmods/20ampcircuit/)
 
-[Bonus Electrical Outlet](/ourmods/20ampcircuit/)
+[Bonus Electrical Outlet](/ourmods/miscmods/)
 
 <br>
 
