@@ -29,6 +29,8 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 <h2>Electrical Mods</h2>
 
+[Lithium Battery Upgrade](/ourmods/lithiumupgrade/)
+
 [Battery Maintainer](/ourmods/batterymaintainer/)
 
 [Electrical Management System](/ourmods/ems/)
@@ -42,8 +44,6 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 [Lithium Battery Heater](/ourmods/batteryheater/)
 
 [Cold Weather Capability](/ourmods/coldweather/)
-
-[Lithium Battery Upgrade](/ourmods/lithiumupgrade/)
 
 [Dedicated 20 Amp Circuit](/ourmods/20ampcircuit/)
 
