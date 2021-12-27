@@ -48,7 +48,7 @@ Our previous motorhomes had a DVD, and to be honest - we did not use it very oft
 
 [Sylvania SDVD1073 DVD Player](https://www.bestbuy.ca/en-ca/product/sylvania-sdvd1073-progressive-scan-dvd-player/13014336)
 
-To keep things simple, I dropped it in vertically to the right of the paper towel holder, and locked it in place with some package cushioning.  It has been working great:
+To keep things simple, I dropped it in vertically to the left of the paper towel holder, and locked it in place with some package cushioning.  It has been working great:
 
 <img src="/assets/dvdweb.jpg"/>
 
