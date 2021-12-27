@@ -52,6 +52,8 @@ To keep things simple, I dropped it in vertically to the right of the paper towe
 
 <img src="/assets/dvdweb.jpg"/>
 
+<img src="/assets/webfireplace.jpg"/>
+
 <h3>Truma Water Hammer Fix</h3>
 
 Shortly after we got our View, we developed a very annoying "racket" associated with the water pump operation.  I don't know exactly when it started, or why it started, but at first I thought it was the pump making the noise.  In the 24J, the water pump is tucked up under the bed, near the back wall.  I went in there to have a look, but discovered that while the bed was up I could trace the hammering to the Truma water heater.  (With the bed down, it was not initially apparent where the source of the problem really was.)  I tried my best to adjust the pressure switch on the pump to play with the cold water delivery pressure, but the best I could do was make the hammering intermittant.  I reached out to Truma for some help - and they advised me that they had seen this before - and they had a fix!  They told me that the water pressure was too HIGH, and I needed to install a pressure regulator just before the inlet to the water heater.  Yes... they did indeed sell one that would cure the problem - and they would ship one to me right away.  (This part is not available in their online store - you have to give them a call.)
