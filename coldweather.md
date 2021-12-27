@@ -184,7 +184,7 @@ One interesting note on the Truma electric antifreeze kit - while driving around
 Anything else to mention?  Well, our thermal curtain between the cab and coach worked very well, the rootop heat pump gave us useful heat down to a few degrees below freezing, the kitchen fan did a great job of removing humidity while we were cooking, our dedicated 20 amp circuit allowed us to use an electric heater to supplement the heat pump and propane furnace, and keeping the slide IN greatly reduced the volume of coach we needed to heat and resulted in very comfortable living temperatures.  
 
 
-Yes, it all worked as we hoped it would.  Some of these mods mentioned above were pretty easy mods to make, but they changed the game considerably on being able to use the motorhome when the temperature droped.  We were able to keep our plumbing warm while driving across areas of sub-zero tempertures, and used the coach to camp with both types of power options - batteries only or when using shore power.  
+Yes, it all worked as we hoped it would.  Some of these mods mentioned above were pretty easy mods to make, but they changed the game considerably on being able to use the motorhome when the temperature droped.  We were able to keep our hot water plumbing warm while driving in sub-zero tempertures, and used the coach to camp with both types of power options - batteries only or when using shore power.  
 
 I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is the temperature measuring kit I purchased - I mounted one sensor in the propane locker to get an outside air temperature, one in the wet bay, and one near the water pump:
 
