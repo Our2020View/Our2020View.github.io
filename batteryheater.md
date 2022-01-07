@@ -13,7 +13,7 @@ During our first spring of dry camping in cold temperatures I found that ... yes
 
 Now, there is a fairly big drawback using the Sunbeam heating pad I had in the basement – the pad controller has an auto shutoff set for two hours.  That meant that we had to remember to keep resetting it, and overnight we were out of luck for heated batteries.  After recently doing the arithmetic, and measuring the resistance of the heating pad itself, I noted that the wattage of the heating pad was independent of the control circuit.  So, once the controller is removed for next season, the pad will be left to operate full time at the manufacturer's rated wattage and amperage.
 
-I added a receptacle on the entry side wall of the kitchen base cabinet so I could easily plug in the pad.   The receptacle has a split circuit – one plug is a dedicated 20 amp circuit for an electric heater, and the other plug is tied to the house 15 amp receptacles using the existing inverter capable supply.
+I added a receptacle on the entry side wall of the kitchen base cabinet so I could easily plug in the pad.   The receptacle has a split circuit – one plug is a dedicated 20 amp circuit for an electric heater, and the other plug is tied to the house receptacles using the existing inverter capable supply.
 
 The details for this "bonus" outlet mod can be found here:
 
