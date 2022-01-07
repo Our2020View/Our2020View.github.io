@@ -37,7 +37,8 @@ And this is one of the batteries loosely positioned.  The pad was tucked up furt
 Fibregalss insulation was stuffed in the loose areas.  Insulation that was exposed to the outside elements is protected by plastic bags, and the pink insulation you can see here is sitting on top of those protected areas:
 
 <img src="/assets/4batteryheatweb.jpg"/>
-The loose cord sits on top of the finished bed of top insulation: In order to get the pad cable out of the battery box, the removable step is unlatched and the step is slid back about a half of an inch to allow the cord to poke out.  The step is plenty secure during these infrequent times when the battery heat is required. 
+
+The loose cord sits on top of the finished bed of top insulation.  In order to get the pad cable out of the battery box, the removable step is unlatched and the step is slid back about a half of an inch to allow the cord to poke out.  The step is plenty secure during these infrequent times when the battery heat is required. 
 
 <img src="/assets/3batteryheatweb.jpg"/>
 
