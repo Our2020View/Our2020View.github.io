@@ -116,7 +116,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   <div class="column" style="background-color:white;">
     <h3>Cold Weather Capability</h3>
     <p>Four Season Functionality </p>
-    <img src="/assets/coldweatherweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <img src="/assets/webspring2021.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
