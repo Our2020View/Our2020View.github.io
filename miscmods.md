@@ -114,6 +114,8 @@ On the web you will find many examples of thermal blankets that RVers have fabri
 
 <img src="/assets/webthermalblanket.jpg"/>
 
+<img src="/assets/Dec2021web.jpg"/>
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
