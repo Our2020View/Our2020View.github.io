@@ -42,7 +42,7 @@ In the test I did, at the recommnedation of the vendor who sold me the  batterie
 
 <img src="/assets/BMVreading1web-.jpg"/>
 
-We have done a bunch of dry camping in mid spring conditions, and are extremely happy with the battery capacity and charging rate provided by the generator.  I have the Xantrex XC converter / inverter set to a max charge rate of 60 amps, and we get pretty close to this when the generator is charging them up.
+We have done a bunch of dry camping in early spring and late December conditions, and are extremely happy with the battery capacity and charging rate provided by the generator.  I have the Xantrex XC converter / inverter set to a max charge rate of 60 amps, and we get pretty close to this when the generator is charging them up.
 
 Working as advertised.
 
