@@ -57,7 +57,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/batterymaintainer/'"> READ MORE </button>
+            onclick="location.href = '/ourmods/lithiumupgrade/'"> READ MORE </button>
   </div>
 </div>
 
@@ -69,7 +69,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/lithiumupgrade/'"> READ MORE </button>
+            onclick="location.href = '/ourmods/batterymaintainer/'"> READ MORE </button>
   </div>
   <div class="column" style="background-color:white;">
     <h3>Dedicated 20 amp Circuit</h3>
