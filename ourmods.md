@@ -51,9 +51,9 @@ Here are the mods that we have implemented, or have in the planning stages - thi
             onclick="location.href = '/ourmods/electrical/'"> READ MORE </button>
   </div>
   <div class="column" style="background-color:white;">
-    <h3>Chassis Battery Maintainer</h3>
-    <p>Amp - L - Start chassis battery maintainer</p>
-    <img src="/assets/amplstartcloseviewweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <h3>Lithium Battery Upgrade</h3>
+    <p>Battle Born BB 10012 </p>
+    <img src="/assets/batteryinstall5web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
@@ -63,9 +63,9 @@ Here are the mods that we have implemented, or have in the planning stages - thi
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h3>Lithium Battery Upgrade</h3>
-    <p>Battle Born BB 10012 </p>
-    <img src="/assets/batteryinstall5web.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <h3>Chassis Battery Maintainer</h3>
+    <p>Amp - L - Start chassis battery maintainer</p>
+    <img src="/assets/amplstartcloseviewweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
