@@ -63,6 +63,27 @@ Here are the mods that we have implemented, or have in the planning stages - thi
 
 <div class="row">
   <div class="column" style="background-color:white;">
+    <h3>Lithium Battery Upgrade</h3>
+    <p>Battle Born BB 10012 </p>
+    <img src="/assets/batteryinstall5web.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="height:40px;width:200px;background-color:green; color:white"
+            onclick="location.href = '/ourmods/lithiumupgrade/'"> READ MORE </button>
+  </div>
+  <div class="column" style="background-color:white;">
+    <h3>Dedicated 20 amp Circuit</h3>
+    <p>50 Amp Motorhome</p>
+    <img src="/assets/RVsitepostweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="height:40px;width:200px;background-color:green; color:white"
+            onclick="location.href = '/ourmods/20ampcircuit/'"> READ MORE </button>
+  </div>
+</div>  
+  
+<div class="row">
+  <div class="column" style="background-color:white;">
     <h3>Electrical Management</h3>
     <img src="/assets/emsimageweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
