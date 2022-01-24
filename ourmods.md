@@ -50,7 +50,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/electrical/'"> READ MORE </button>
   </div>
-      <div class="column" style="background-color:white;">
+  <div class="column" style="background-color:white;">
     <h3>Chassis Battery Maintainer</h3>
     <p>Amp - L - Start chassis battery maintainer</p>
     <img src="/assets/amplstartcloseviewweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
@@ -91,7 +91,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/cellbooster/'"> READ MORE </button>
-     </div>
+  </div>
   <div class="column" style="background-color:white;">
     <h3>Battery Monitor</h3>
     <p>Victron 712 with Bluetooth </p>
@@ -100,7 +100,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/batterymonitor/'"> READ MORE </button>
-     </div>
+  </div>
 </div>
 
 <div class="row">
@@ -112,7 +112,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/batteryheater/'"> READ MORE </button>
-     </div>
+  </div>
   <div class="column" style="background-color:white;">
     <h3>Cold Weather Capability</h3>
     <p>Four Season Functionality </p>
@@ -121,7 +121,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/coldweather/'"> READ MORE </button>
-     </div>
+  </div>
 </div>
 
 <div class="row">
@@ -133,7 +133,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/lithiumupgrade/'"> READ MORE </button>
-     </div>
+  </div>
   <div class="column" style="background-color:white;">
     <h3>Dedicated 20 amp Circuit</h3>
     <p>50 Amp Motorhome</p>
@@ -142,8 +142,8 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/20ampcircuit/'"> READ MORE </button>
-      </div>
   </div>
+</div>
 
 <h1> Coach </h1>
 
@@ -156,7 +156,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/weightreduction/'"> READ MORE </button>
-     </div>
+  </div>
   <div class="column" style="background-color:white;">
     <h3>Stabilizer Removal</h3>
     <p>Part of our weight reduction plan...</p>
@@ -165,7 +165,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/stabilizers/'"> READ MORE </button>
-     </div>
+  </div>
 </div>
 
 <div class="row">
@@ -201,7 +201,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/speakerfix/'"> READ MORE </button>
-      </div>
+  </div>
   <div class="column" style="background-color:white;">
     <h3>Rustproofing</h3>
     <p>Thoughts on the process</p>
@@ -210,8 +210,9 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/rustproofing/'"> READ MORE </button>
-     </div>
+  </div>
 </div>
+  
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Valve Stem Extensions</h3>
@@ -222,7 +223,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/valvestems/'"> READ MORE </button> 
   </div>
- </div>
+</div>
   
   <h1> Miscellaneous Mods</h1>
   <p>Mods are Go</p>
@@ -242,7 +243,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
    
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/miscmods/'"> READ MORE </button>
-     </div>
+    </div>
 </div>
     
 <br>
