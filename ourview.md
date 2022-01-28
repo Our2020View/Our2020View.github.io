@@ -22,7 +22,7 @@ Before we get into the modifications, maybe I should tell you why we opted for t
 8.	Big 2000 watt inverter – Now allows the microwave to run off of battery power – new for 2020
 9.	Tankless water heater – no longer carrying around 60 lbs of water - new for 2020
 10.	Tank sensors that work – sensors on the outside of tanks, what a concept!
-11.	Freshwater above the floor – no more frozen fresh water lines in the spring and fall
+11.	Freshwater above the floor – no more frozen fresh water lines when it gets cold
 12.	Heated holding tanks – useful for those morning departure dumps in the spring and fall
 13.	Black tank flush – always wanted one of these!
 14.	Dump valves that can be maintained – ease of access and servicing
