@@ -31,7 +31,7 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 [Lithium Battery Upgrade](/ourmods/lithiumupgrade/)
 
-[Battery Maintainer](/ourmods/batterymaintainer/)
+[Chassis Battery Maintainer](/ourmods/batterymaintainer/)
 
 [Electrical Management System](/ourmods/ems/)
 
