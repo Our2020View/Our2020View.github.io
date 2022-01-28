@@ -147,22 +147,22 @@ Here are the mods that we have implemented, or have in the planning stages - thi
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h3>Lithium Battery Heater</h3>
-    <p>Low Cost Heating Pad</p>
-    <img src="/assets/heatingpadweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <h3>Winter Battery Disconnect</h3>
+    <p>No questions disconnect</p>
+    <img src="/assets/webbattdisc2.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/batteryheater/'"> READ MORE </button>
+            onclick="location.href = '/ourmods/batterydisconnect/'"> READ MORE </button>
   </div>
   <div class="column" style="background-color:white;">
-    <h3>Cold Weather Capability</h3>
-    <p>Four Season Functionality </p>
-    <img src="/assets/webspring2021.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <h3>Roof Solar Off Switch</h3>
+    <p>A safer way to isolate solar </p>
+    <img src="/assets/websolaroff2.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/coldweather/'"> READ MORE </button>
+            onclick="location.href = '/ourmods/solaroff/'"> READ MORE </button>
   </div>
 </div>
   
