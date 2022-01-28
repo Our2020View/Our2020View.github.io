@@ -19,7 +19,7 @@ Before we get into the modifications, maybe I should tell you why we opted for t
 5.	Large shower – when compared to a Class B!
 6.	Residential mattress – full time setup - ease of access
 7.	Electric heat pump – less use of a portable micro heater
-8.	Big 2000 watt inverter – Now allows the microwave to run off of battery power – new for 2020
+8.	Big 2000 watt inverter – now allows the microwave to run off of battery power – new for 2020
 9.	Tankless water heater – no longer carrying around 60 lbs of water - new for 2020
 10.	Tank sensors that work – sensors on the outside of tanks, what a concept!
 11.	Freshwater above the floor – no more frozen fresh water lines when it gets cold
