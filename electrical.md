@@ -49,6 +49,12 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 ["Bonus" Electrical Outlet](/ourmods/miscmods/)
 
+[Winter Battery Disconnect](/ourmods/batterydisconnect/)
+
+[Roof Solar Off Switch](/ourmods/solaroff/)
+
+[Tank Heater Ammeter](/ourmods/ammeter/)
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
