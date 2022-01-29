@@ -9,7 +9,7 @@ I have decided that “better way” is to install an in-coach switch.  Later in
 
 This is the switch I have chosen:
 
-https://www.amazon.ca/gp/product/B097JHCXD5/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&th=1
+[I Litton battery disconnect switch](https://www.amazon.ca/gp/product/B097JHCXD5/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&th=1)
 
 The switch will only see about 10 amps maximum from our two 100 watt panels, but I will use #10 / 30 amp wire to match the controller and the original Winnebago installation.  In addition, the current rating on this switch is more than plenty for the loads that will be routinely seen.
 
