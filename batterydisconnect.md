@@ -16,3 +16,5 @@ Come spring time, the plan is to install this on the ground cable that comes off
 I’m thinking that the only challenge here will be to find a good spot to put the switch – things are getting a bit tight in the battery box...
 
 I’ll report back when done with the installation.
+
+[Back to Our RV Modifications](/ourmods/)
