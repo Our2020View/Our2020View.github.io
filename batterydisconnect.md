@@ -13,6 +13,6 @@ But, all of that is a bit of a pain; especially since it never gets done when th
 
 Come spring time, the plan is to install this on the ground cable that comes off the battery bank, and then add another cable to continue on, as before, to the Victron BMV712 shunt.  (Hence my choice of a black switch)  Essentially, I will be interrupting the ground path for the battery circuit – ensuring that no stray electrons can leave the batteries over the winter.  (Bundling up the positive cables and adding a disconnect in that path would work too, but this is much simpler and has the added safety benefit that disconnecting the grounding cable provides.)  Keep in mind that I needed to get a switch that could handle the near 200 amps that routinely is pulled out of the batteries when using high load appliances via the inverter.  This switch can handle that current.
 
-I’m thinking that the only challenge here will be to find a good spot to put the switch – things are getting a bit tight in the battery box.
+I’m thinking that the only challenge here will be to find a good spot to put the switch – things are getting a bit tight in the battery box...
 
 I’ll report back when done with the installation.
