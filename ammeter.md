@@ -25,6 +25,10 @@ The left hand bronze terminal takes the new second power wire from the switch ou
 
 (I checked to see if this thing was going to work by hooking up a test 12 volt light bulb circuit in the basement, and am happy to say that it correctly showed a voltage and an appropriate load.)
 
-The web reports that these Therma Heat holding tank heater pads have a thermostat that controls operation with a turn on temperature of 45 degrees F (7 degrees C) and a turn off temperature of 67 degrees F (19 degrees C).  My assumption in all of this is I have a wiring issue, and not a problem associated with the two thermostats.
+The web reports that these Therma Heat holding tank heater pads have a thermostat that controls operation with a turn on temperature of 45 degrees F (7 degrees C) and a turn off temperature of 67 degrees F (19 degrees C).  My assumption in all of this is that I have a wiring issue, and not a problem associated with the two thermostats.
 
 Time will tell.  I’ll report back when I get this one working.
+
+<br>
+
+[Back to Our RV Modifications](/ourmods/)
