@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tank Heater Ammeter
+title: Holding Tank Heater Ammeter
 permalink: /ourmods/ammeter/
 ---
 
