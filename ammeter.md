@@ -19,9 +19,12 @@ Come spring time, the plan will be to check the wiring at the pads themselves, a
 
 The vendor I purchased my ammeter from did not provide any instructions, but I found the info I needed on another vendor’s advertisement of the same type of product.  Here is an illustration of how the ammeter gets connected:
 
-(Ammeterdiagram.jpg)
+<img src="/assets/webammeterdiagram.jpg"/>
 
 The left hand bronze terminal takes the new second power wire from the switch output, the middle silver terminal takes the ground wire from the heating pads, and the right hand silver terminal takes the new ground wire that goes back to the grounding post on the fuse box.  
+
 (I checked to see if this thing was going to work by hooking up a test 12 volt light bulb circuit in the basement, and am happy to say that it correctly showed a voltage and an appropriate load.)
-The web reports that these Therma Heat holding tank heater pads have a thermostat that controls operation with a turn on temperature of 45 degrees F (7 degrees C) and a turn off temperature of 67 degrees F (19 degrees C).  My assumption in all of this is I have a wiring issue, and not a problem associated with the two thermostats.  Time will tell.
-I’ll report back when I get this one working.
+
+The web reports that these Therma Heat holding tank heater pads have a thermostat that controls operation with a turn on temperature of 45 degrees F (7 degrees C) and a turn off temperature of 67 degrees F (19 degrees C).  My assumption in all of this is I have a wiring issue, and not a problem associated with the two thermostats.
+
+Time will tell.  I’ll report back when I get this one working.
