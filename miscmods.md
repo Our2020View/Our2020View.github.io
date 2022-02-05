@@ -118,7 +118,7 @@ On the web you will find many examples of thermal blankets that RVers have fabri
 
 <h3>Larger Dining Table</h3>
 
-We found the dining table that came with the View a bit too small.  We wanted it a little wider for times when it is being used for a games table, and the length longer to allow for a more relaxed seating position.  I found a table top from IKEA that made for a pretty simple swap out, with only a little bit of effort:
+We found the dining table that came with the View a bit too small.  We wanted it a little wider for times when it is being used for a games table, and the length longer to allow for a more relaxed seating position.  I found a table top from IKEA that made for a pretty simple swap out, with only a little bit of effort.  It is four inches longer, and 3 and a quarter inches wider:
 
 [IKEA Linnmon Table Top](https://www.ikea.com/ca/en/p/linnmon-tabletop-white-00251135/)
 
