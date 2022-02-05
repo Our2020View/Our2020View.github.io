@@ -106,7 +106,7 @@ As explained in the "Dedicated 20 Amp Circuit" description, the location for the
 
 <img src="/assets/web20Amp17.jpg"/>
 
-The top "yellow" plug is for the glorified extension chord of the "Dedicated 20 Amp Circuit", and the bottom "green" plug is hooked up to the coach's 30 amp electrical system.
+The top "yellow" plug is for the glorified extension chord of the "Dedicated 20 Amp Circuit", and the bottom "green" bonus plug is hooked up to the coach's 30 amp electrical system.
 
 <h3>Easy Thermal Blanket</h3>
 
