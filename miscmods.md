@@ -116,6 +116,30 @@ On the web you will find many examples of thermal blankets that RVers have fabri
 
 <img src="/assets/Dec2021web.jpg"/>
 
+<h3>Larger Dining Table</h3>
+
+We found the dining table that came with the View a bit too small.  We wanted it a little wider for times when it is being used for a games table, and the length longer to allow for a more relaxed seating position.  I found a table top from IKEA that made for a pretty simple swap out, with only a little bit of effort:
+
+[IKEA Linnmon Table Top](https://www.ikea.com/ca/en/p/linnmon-tabletop-white-00251135/)
+
+The aesthetics work out, as the colour is the same as the tables used to be during the 2020 model year.  It matches the coach’s interior well, but there are a few drawbacks... because the table is 3 and a quarter inches wider, the side bench top does not open fully without having to remove the table top.  We don’t keep many things in there anyway, so for us it wasn’t a showstopper.  Also, because I had to make a platform for the table base to attach too – the table sits a little less than one inch higher than the Winnebago table.  Again, not a big deal for us.  The last one concerns the original Winnebago table’s use as a piece of the bed support when the dinette is used for sleeping.  With the new dimensions of the table, it cannot do that double duty any longer.  If we really want to use the dinette for sleeping, we’ll have to carry the old table or make a lighter weight substitute support piece to do the job.  Probably cutting a piece of ½” plywood is what I will do for those very odd occasions when we have four on board.
+
+Here is a comparison of the size – The difference is not huge, but enough to make the table more comfortable in all ways.
+
+<img src="/assets/webtable2.jpg"/>
+
+Because the table is hollow with not a lot for the base mounting screws to grab onto, I elected to make a ¾” plywood base plate to make the mounting sturdier.  This base plate is 8” x 8”, and was attached using wood glue.  It is a solid grip.  The thin particle board backing tended to be a bit concave, giving the base plate some trouble with a good seal -  so I had to put about 20 pounds on the plate to ensure that all of the glue found table backing to adhere to.
+
+<img src="/assets/webtable4.jpg"/>
+
+Once the backing plate was secure, swapping out the table attachment was easy:
+
+Table 5<img src="/assets/webtable5.jpg"/>
+
+I have not dug out the RV yet, but in a few weeks I’ll install it and get a finished photo to pass along.
+
+<img src="/assets/webtable6.jpg"/>
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
