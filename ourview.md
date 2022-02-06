@@ -45,7 +45,7 @@ The Disadvantages for us:
 3.	Only one table – we added our own for the cab seating area
 4.	Higher fuel consumption – not too much higher, all things considered (We are averaging 15.5 mpg)
 5.	Unable to fit a dedicated chest freezer – we had a 65 quart chest freezer in our Class B
-6.	It has a slide - just something else to maintain.  (But, it is handy with guests on board)
+6.	It has a slide - just something else to maintain  (But, it is handy with guests on board)
 
 A pretty small list of disadvantages, when stacked up against the advantages.  
 
