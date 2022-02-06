@@ -134,7 +134,7 @@ Because the table is hollow with not a lot for the base mounting screws to grab 
 
 Once the backing plate was secure, swapping out the table attachment was easy:
 
-Table 5<img src="/assets/webtable5.jpg"/>
+<img src="/assets/webtable5.jpg"/>
 
 I have not dug out the RV yet, but in a few weeks I’ll install it and get a finished photo to pass along.
 
