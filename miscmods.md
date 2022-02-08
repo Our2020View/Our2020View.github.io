@@ -138,7 +138,7 @@ Once the backing plate was secure, swapping out the table attachment was easy:
 
 I have not dug out the RV yet, but in a few weeks I’ll install it and get a finished photo to pass along.
 
-<img src="/assets/webtable6.jpg"/>
+<img src="/assets/webtable7.jpg"/>
 
 <br>
 
