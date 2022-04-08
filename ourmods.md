@@ -238,7 +238,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   <div class="column" style="background-color:white;">
     <h3>Rustproofing</h3>
     <p>Thoughts on the process</p>
-    <img src="/assets/Krown.jpg" title="Mod Thumbnail" width="217.25" height="143">
+    <img src="/assets/Krown.jpg" title="Mod Thumbnail" width="217.25" height="133">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
