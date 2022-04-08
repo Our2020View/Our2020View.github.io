@@ -10,7 +10,7 @@ We took the View to our local Krown Rust Control dealer, and I am very happy to 
 
 The appointment took about 45 minutes, and the bill was 180.00 tax in.
 
-I'm always a bit nervous when I see someone else driving our motorhome away to accomplish some sort of servicing ("you guys backed it into what?"), but this particular dealer had an observation area where I could keep an eye on the whole process.  It looked like they really knew what they were doing, and they demonstrated that they knew how to drive large trucks without damaging them (unlike our Mercedes dealer).
+I'm always a bit nervous when I see someone else driving our motorhome away to accomplish some sort of servicing ("you guys backed it into what?"), but this particular dealer had an observation area where I could keep an eye on the whole process.  It looked like they really knew what they were doing, and they demonstrated that they knew how to drive large trucks without damaging them - unlike our Mercedes dealer (twice).
 
 All in all, very pleased.
 
