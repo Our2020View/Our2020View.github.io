@@ -271,6 +271,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   <h4>"Bonus" Electrical Outlet</h4>
   <h4>Easy Thermal Blanket</h4>
   <h4>Larger Dining Table</h4>
+  <h4>Privacy Curtain</h4>
   
   <div class="row">
     <div class="column" style="background-color:white;">
