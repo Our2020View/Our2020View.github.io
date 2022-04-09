@@ -140,6 +140,8 @@ I'm likely biased, but I think it looks great...
 
 <img src="/assets/webtable7.jpg"/>
 
+<h3>Privacy Curtain</h3>
+
 
 <br>
 
