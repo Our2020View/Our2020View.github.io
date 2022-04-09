@@ -10,4 +10,4 @@ permalink: /ourmods/curtain/
 
 <img src="/assets/Curtain3web.jpg"/>
 
-<img src="/assets/Curtrain4web.jpg"/>
+<img src="/assets/Curtain4web.jpg"/>
