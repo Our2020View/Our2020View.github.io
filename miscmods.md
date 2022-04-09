@@ -142,6 +142,28 @@ I'm likely biased, but I think it looks great...
 
 <h3>Privacy Curtain</h3>
 
+The View J model is a really great floorplan, but it does have its limitations when it comes down to trying to find somewhere to change with a little bit of privacy.  Grandpa Ron had the same issue, and solved the problem by putting up a privacy curtain.  Here is his simple fix, which we copied:
+
+[Grandpa Ron's Privacy Curtain](https://www.youtube.com/watch?v=rNSykmJNWes)
+
+We used a shower curtain that matched the Winnebago decor, and bought a shower tension bar that was long enough for the width of the coach.  (The tension bar spans the width of the coach, independent of the postion of the slide.)  As Grandpa Ron demonstrated, it was an easy install after that.
+
+The curtain works great with the slide in...
+
+<img src="/assets/Curtain1aweb.jpg"/>
+
+Or with the slide out...
+
+<img src="/assets/Curtain2web.jpg"/>
+
+The tension bar's grip points are shown in these next two photos:
+
+<img src="/assets/Curtain3web.jpg"/>
+
+<img src="/assets/Curtain4web.jpg"/>
+
+Works great!
+
 
 <br>
 
