@@ -162,7 +162,7 @@ The tension bar's grip points are shown in these next two photos:
 
 <img src="/assets/Curtain4web.jpg"/>
 
-Nothing more to reveal about this mod...
+Working as planned.
 
 
 <br>
