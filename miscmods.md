@@ -146,7 +146,7 @@ The View J model is a really great floorplan, but it does have its limitations w
 
 [Grandpa Ron's Privacy Curtain](https://www.youtube.com/watch?v=rNSykmJNWes)
 
-We used a fabric shower curtain cover that matched the Winnebago decor, and bought a shower tension bar that was long enough for the width of the coach.  (The tension bar spans the width of the coach, independent of the postion of the slide.)  As Grandpa Ron demonstrated, it was an easy install after that.
+We used a fabric shower curtain cover that matched the Winnebago decor, and bought a shower tension bar that was long enough for the width of the coach.  (The tension bar spans the width of the coach, independent of the postion of the slide.  I seem to recall I bought the 52" - 86" version.)  As Grandpa Ron demonstrated, it was an easy install after that.
 
 The curtain works great with the slide in...
 
