@@ -248,7 +248,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
   
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h3>Valve Stem Extensions</h3>
+    <h3>Extra Long Valve Stems</h3>
     <p>Resistance is Futile</p>
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
     <br>
