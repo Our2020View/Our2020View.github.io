@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Borg Extra Long Valve Stem Extensions
+title: Borg Extra Long Valve Stems
 permalink: /ourmods/valvestems/
 ---
 
