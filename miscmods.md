@@ -76,6 +76,8 @@ We had an annoying vibration going on while driving, that seemed to be comming f
 
 <img src="/assets/morelockerroomweb.jpg"/>
 
+If you choose to do this mod, I have a caution to offer regarding what you store in that area - the large cable plastic protector loom that you can see in the picture to the top right dissapears up into the floor of the slideout... and actually increases in length as the slideout is extended.  I'm not storing anything too tall in that area, to provide for room for the cable loom to "slide" out of the hole in the floor as the slideout is extended.  You want the cable loom to have room to travel in and out and not get interfered with.  
+
 <h3>"Bonus" Electrical Outlet</h3>
 
 This mod was done in conjuction with the dedicated 20 amp circuit we installed to allow us to run an electric heater independent of the coach's 30 amp electrical system.  See that one here:
