@@ -44,6 +44,8 @@ In the test I did, at the recommnedation of the vendor who sold me the  batterie
 
 We have done a bunch of dry camping in early spring and late December conditions, and are extremely happy with the battery capacity and charging rate provided by the generator.  I have the Xantrex XC Inverter / Charger set to a max charge rate of 60 amps, and we get pretty close to this when the generator is charging them up.
 
+To give you and idea of a typical warm weather battery drain we can see on the Battle Borns - arriving into camp with the batteries topped off to 100% - after using the microwave to thaw and heat up dinner, watching some TV, using some lights for nightime prep, having the fridge running all night on normal mode, and then running the microwave in the morning for about 10 minutes to cook breakfast - we usually hit the road with around 60% state of charge.  (I've seen it as low as 40% if we have used the induction cooktop the night before for an extended period.)  With the factory charging system from the Sprinter alternator, using a conservative charging rate of 25 amps, it takes three to four hours to recover the SOC.  (For example, 50% SOC, 100 out of 200 amp/hr, charging at a rate of 25 amps for four hours reclaims the lost 100 amp/hrs of battery capacity.)  It will be half that time if on shore power and the Xantrex is charging at its 50 - 60 amps.
+
 Working as advertised.
 
 <br>
