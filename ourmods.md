@@ -85,19 +85,19 @@ Here are the mods that we have implemented, or have in the planning stages - thi
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Electrical Management</h3>
+    <p>EMS - HW30C Hardwired</p>
     <img src="/assets/emsimageweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <p>EMS - HW30C Hardwired</p>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/ems/'"> READ MORE </button>
   </div>
   <div class="column" style="background-color:white;">
     <h3>Macerator System</h3>
+    <p>Remco 9911 - 02 RV Waste Pump</p>
     <img src="/assets/1-maincomponents.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <p>Remco 9911 - 02 RV Waste Pump</p>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/macerator/'"> READ MORE </button>
   </div>
