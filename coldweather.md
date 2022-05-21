@@ -4,13 +4,9 @@ title: RV Cold Weather Capability
 permalink: /ourmods/coldweather/
 ---
 <img src="/assets/webcoldweatherheader.jpg"/>
-
 <br>
-
 <i>Icefields Parkway Visitor Centre - Jasper, Alberta - Yes, you can camp there!</i>
-
 <br>
-
 One of the reasons we chose a View / Navion was because we felt the goal of being able to camp during cold temperatures was within reach.  We were impressed that the fresh water tank and associated delivery plumbing was above the floor in the coach, and the Truma hot water system had a recirculation feature that would take care of any potential for the hot water lines to get cold.  The general feeling was that if we could keep warm in the winter – the plumbing system was likely to be Ok as well.  There are many reports on the web of being able to camp successfully in a View / Navion in the winter, so we crossed out fingers and hoped that those early spring and late fall nights could be tolerated, and cruising down the highway when the temperatures were below zero would be Ok as well.
 
 But ... then I found this video by the Newstate Nomads:
