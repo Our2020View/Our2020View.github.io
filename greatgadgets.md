@@ -22,8 +22,6 @@ PepWave Surf On – The – Go
 <img src="/assets/webpepwave.jpg"/>
 <i>No cell signal out here, but a visitor centre 1200' away...</i>
 
-<br>
-
 This compact travel router has been a communication staple in our motorhomes since it was first recommended to us many years ago.  Similarly to your router at home, it allows you to create a local area network using a wired internet signal – but here is where it really pays for itself in an RV – and also allows you to capture a weak wireless WiFi signal and boost it to useable signal strength.  Its capture range is really quite remarkable when looking for a weak campground or coffee shop WiFi signal.  We’ve seen this thing capture a signal from hundreds and hundreds of yards away, when no signal of any kind is displayed on our devices, and then provide a streaming quality signal for use in the motorhome.  If you have been in a campground where the check-in staff tell you that you will need to come to the office to get on the internet, give this type of device some consideration.  This router / WiFi booster, or one similar, can be a connectivity lifesaver.
 
 I see that our particular travel router is no longer in production, but this old link might give you some ideas as to the type of device to research for your RV:
