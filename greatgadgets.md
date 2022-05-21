@@ -27,7 +27,6 @@ I see that our particular travel router is no longer in production, but this old
 
 [WiFi Signal Booster](https://www.amazon.ca/Peplink-Pepwave-Wi-Fi-Router-SUS-AGN1/dp/B007BD6GDE)
 
-<br>
 
 <h3>Google Chromecast </h3>
 
