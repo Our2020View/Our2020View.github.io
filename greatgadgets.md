@@ -27,3 +27,14 @@ This compact travel router has been a communication staple in our motorhomes sin
 I see that our particular travel router is no longer in production, but this old link might give you some ideas as to the type of device to research for you RV:
 
 https://www.amazon.ca/Peplink-Pepwave-Wi-Fi-Router-SUS-AGN1/dp/B007BD6GDE
+
+<br>
+
+<h3>Google Chromecast </h3>
+
+<img src="/assets/webchromecast.jpg"/>
+
+I was a bit dubious when it was suggested that a Google Chromecast would be a worthy addition to our View.  We had been using an Apple TV to stream content from the internet, but, admittedly, it has always been a bit of a pain to keep getting it hooked up as we moved around, and its lack of streaming options was cumbersome.  So, we gave the Chromecast a try... good thing, too.  It is easy to install, easy to use, inexpensive, and pretty operationally bullet proof.  If you’ve got something you want to watch, I believe its streaming and casting options make this a good fit for RVers on the go.
+
+https://store.google.com/ca/product/chromecast_google_tv?gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQJfrCQMsqD8nNwEPY7bdn4H9ZxmzDx3uhOoj1a2kYOGj-9AZhfLki4aAoRKEALw_wcB&gclsrc=aw.ds&pli=1&hl=en-GB
+
