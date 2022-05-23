@@ -281,32 +281,25 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     </div>
 </div>
     
-<h1> Miscellaneous Mods</h1>
-  <p>Mods are Go</p>
-  <img src="/assets/mismodsimageweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
+<h1> Great Gadgets</h1>
+  <p>Handy Additions</p>
+  <img src="/assets/wepspot.jpg" title="Mod Thumbnail" width="217.25" height="163">
   
-  <h4>Coat Rack</h4>
-  <h4>Drink / Phone Holders</h4>
-  <h4>Closet Drawers</h4>
-  <h4>Compact DVD Player</h4>
-  <h4>Truma Water Hammer Fix</h4>
-  <h4>More Locker Space</h4>
-  <h4>"Bonus" Electrical Outlet</h4>
-  <h4>Easy Thermal Blanket</h4>
-  <h4>Larger Dining Table</h4>
-  <h4>Privacy Curtain</h4>
-  
+  <h4>GPS Tracker</h4>
+  <h4>WiFi Booster</h4>
+  <h4>Google Chromecast</h4>
+    
   <div class="row">
     <div class="column" style="background-color:white;">
    
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/miscmods/'"> READ MORE </button>
+            onclick="location.href = '/ourmods/greatgadgets/'"> READ MORE </button>
     </div>
 </div>
   
-  <br>
-  
 </body>
 </html>
+
+<br>
 
 [Back to Our RV Modifications](/ourmods/)  
