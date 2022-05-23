@@ -283,7 +283,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     
 <h1> Great Gadgets</h1>
   <p>Handy Additions</p>
-  <img src="/assets/wepspot.jpg" title="Mod Thumbnail" width="217.25" height="163">
+  <img src="/assets/webspot.jpg" title="Mod Thumbnail" width="217.25" height="163">
   
   <h4>GPS Tracker</h4>
   <h4>WiFi Booster</h4>
