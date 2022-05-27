@@ -45,7 +45,7 @@ I was a bit dubious when it was suggested that a Google Chromecast would be a wo
 
 Are these gadgets?  Well, not sure... maybe exterior use gadgets, I guess.
 
-Twist on gate valve
+<u>Twist on gate valve<u>
 
 I was surprised to find out the hard way that even brand new gate valves leaked a bit, so this product caught my attention.  It does not get any easier to install, yet provides a line of defence for leaky, or malfunctioning, gate valves.  I have heard lots of stories about really unpleasant surprises at the dump station when that dust cap is removed in preparation for hooking up the dump hose.  This twist on gate valve eliminates those potential surprises.  
   
@@ -54,7 +54,7 @@ I was surprised to find out the hard way that even brand new gate valves leaked 
 NOTE:  I do not use this gate valve in the winter, as it cannot be heated by our winter mods and will freeze up if any leakage occurs from the black or grey tank.
 
 
-Grey tank quick drain
+<u>Grey tank quick drain<u>
   
 There have been times when, after a morning of long showers for everyone, I’ve wanted to drain only the grey tank prior to hitting the road.  Instead of hooking up the macerator system and going through that exercise, hooking up the garden hose to the dump port and gravity dumping the grey has been a simple and quick way to get the job done.  The garden hose I use doubles as the black tank flush hose I keep with the dump kit.  Again, easy to install but adds some great functionality to the View.
   
