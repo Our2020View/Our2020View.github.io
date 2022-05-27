@@ -38,6 +38,29 @@ I was a bit dubious when it was suggested that a Google Chromecast would be a wo
 
 [Google Chromecast Internet Streamer](https://store.google.com/ca/product/chromecast_google_tv?gclid=Cj0KCQjw1ZeUBhDyARIsAOzAqQJfrCQMsqD8nNwEPY7bdn4H9ZxmzDx3uhOoj1a2kYOGj-9AZhfLki4aAoRKEALw_wcB&gclsrc=aw.ds&pli=1&hl=en-GB)
 
-<br>
+
+<h3>Dumping Accessories </h3>
+
+<img src="/assets/webgatevalve.jpg"/>
+
+Are these gadgets?  Well, not sure... maybe exterior use gadgets, I guess.
+
+<h1>Twist on gate valve<h1>
+
+I was surprised to find out the hard way that even brand new gate valves leaked a bit, so this product caught my attention.  It does not get any easier to install, yet provides a line of defence for leaky, or malfunctioning, gate valves.  I have heard lots of stories about really unpleasant surprises at the dump station when that dust cap is removed in preparation for hooking up the dump hose.  This twist on gate valve eliminates those potential surprises.  
+  
+[Additional Gate Valve](https://www.amazon.ca/Valterra-T58-Twist-On-Waste-Valve/dp/B000BGHYJS)
+  
+NOTE:  I do not use this gate valve in the winter, as it cannot be heated by our winter mods and will freeze up if any leakage occurs from the black or grey tank.
+
+
+<h1>Grey tank quick drain<h1>
+  
+There have been times when, after a morning of long showers for everyone, I’ve wanted to drain only the grey tank prior to hitting the road.  Instead of hooking up the macerator system and going through that exercise, hooking up the garden hose to the dump port and gravity dumping the grey has been a simple and quick way to get the job done.  The garden hose I use doubles as the black tank flush hose I keep with the dump kit.  Again, easy to install but adds some great functionality to the View.
+  
+[Garden Hose grey tank dump](https://www.amazon.ca/Camco-39463-X-Sewer-Hose-Connection/dp/B000BQKBP2)
+
+
+  <br>
 
 [Back to Our RV Modifications](/ourmods/)
