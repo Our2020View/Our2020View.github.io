@@ -14,6 +14,7 @@ Our particular Spot product has been upgraded to this current version:
 
 [Spot GPS Tracker](https://www.findmespot.com/en-us/products-services/spot-gen4)
 
+<br>
 
 <h3>WiFi Signal Booster</h3>
 
