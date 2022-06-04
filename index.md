@@ -13,7 +13,7 @@ If you are like me, you might enjoy scouring the web to find out what other RVer
 
 I don't have all of the mods advertised on this site completed yet, but am slowing working through my list.  
 
-If you have any questions, feel free to drop me a line at the email found at the very bottom.  Thanks for your interest!
+If you have any questions or comments, feel free to drop me a line at the email found at the very bottom.  Thanks for your interest!
 
 <br>
 
