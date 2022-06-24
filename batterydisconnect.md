@@ -34,7 +34,7 @@ Here is a photo of the completed mod with one of the new cables coming off the l
 
 A couple of notes:
 
-1 – As explained in previous battery mods, I chose AWG 2/0 welder’s cable for replacement cables in the battery box.  The coach came with AWG 3/0 cables, but my research has showed that the 3/0 cables are oversized for the loads that the inverter is sized to pull.  AWG 2/0 cables are good to almost 200 amps, or close to 50 amps more than the max current the inverter pulls when powering the kitchen appliances.
+1 – As explained in previous battery mods, I chose AWG 2/0 welder’s cable for replacement cables in the battery box.  The coach came with AWG 3/0 cables, but my research has showed that the 3/0 cables are very conservative for the loads that the inverter is sized to pull.  AWG 2/0 cables are good to almost 200 amps, or close to 50 amps more than the max current the inverter pulls when powering the kitchen appliances.
 
 2 – The last photo above also shows the three Winnebago grounding cables that had to be re-configured for the previous Victron BMV712 mod.  One comes out of the left hand hole in the battery box (seen just below the beige ethernet cable plugged into the shunt), the second and third come from the right hand hole in the battery box and enter the picture from the lower right, and all three are grouped together and attached to the right hand terminal of the shunt.  It is this grounding cable configuration that allows for the lone grounding cable to come off the Victron shunt and makes it the logical place to add a battery disconnect switch prior to re-attaching to the top left negative terminal of the battery bank.
 
