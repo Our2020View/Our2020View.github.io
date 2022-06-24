@@ -17,7 +17,7 @@ The installation was generally straightforward, but there was some workload invo
 
 I started by heading up to the roof to unplug the two solar panels from the plug box.  (This is a highly recommended step, as depending where you are on the planet and what your current weather is ... your panels could be outputting quite a bit of current.)  Back down in the coach, I confirmed that there was no solar input to the controller.  
 
-This first photo shows what the monitor will look like with solar available, and the next photo shows the absence of the solar panel icon in the top left corner of the screen and the power and charging LEDs are not illuminated:
+This first photo shows what the monitor will look like with solar available, and the next photo shows the absence of solar input with the solar panel icon in the top left corner of the screen missing and the power and charging LEDs not illuminated:
 
 <img src="/assets/websolaroff6.jpg"/>
 
