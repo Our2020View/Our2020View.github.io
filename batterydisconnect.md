@@ -23,7 +23,7 @@ Options as where to put the switch were few and far between, because of the tigh
 
 <img src="/assets/webbattdisc3.jpg"/>
 
-I chose to buy a couple of 8” AWG 2/0 cables to make things work  (The Winnebago 3/0 cable in the photo that I chose to re-use for the Victron BMV712 mod was a bit stiff and awkward to use).  This photo shows the two 2/0 cables into, and out of, the disconnect switch.
+I chose to buy a couple of 8” AWG 2/0 cables to make things work  (The Winnebago 3/0 cable in the above photo that I chose to re-use for the Victron BMV712 mod was a bit stiff and awkward to use).  This next photo shows the two 2/0 cables into, and out of, the disconnect switch.
 
 <img src="/assets/webbattdisc5.jpg"/>
 
