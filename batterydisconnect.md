@@ -13,7 +13,7 @@ But, all of that is a bit of a pain; especially since it never gets done when th
 
 The installation concept is pretty straightforward, because I took advantage of the previous installation of a Victron BMV712 and its ground cable reconfiguration to place the switch on the lone ground cable attached to the battery bank.  
 
-See previous Victron BMV712 mod here:
+[See previous Victron BMV712 mod here](/ourmods/batterymonitor/)
 
 (Bundling up the positive cables and adding a disconnect in that path would work too, but this is much simpler and has the added safety benefit that disconnecting the grounding cable provides.)  
 
