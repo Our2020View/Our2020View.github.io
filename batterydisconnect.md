@@ -11,11 +11,34 @@ But, all of that is a bit of a pain; especially since it never gets done when th
 
 [Blue Sea Systems battery disconnect switch](https://www.amazon.ca/gp/product/B00558LSJE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
-Come spring time, the plan is to install this on the ground cable that comes off the battery bank, and then add another cable to continue on, as before, to the Victron BMV712 shunt.  (Hence my choice of a black switch)  Essentially, I will be interrupting the ground path for the battery circuit – ensuring that no stray electrons can leave the batteries over the winter.  (Bundling up the positive cables and adding a disconnect in that path would work too, but this is much simpler and has the added safety benefit that disconnecting the grounding cable provides.)  Keep in mind that I needed to get a switch that could handle the near 200 amps that routinely is pulled out of the batteries when using high load appliances via the inverter.  This switch can handle that current.
+The installation concept is pretty straightforward, because I took advantage of the previous installation of a Victron BMV712 and its ground cable reconfiguration to place the switch on the lone ground cable attached to the battery bank.  
 
-I’m thinking that the only challenge here will be to find a good spot to put the switch – things are getting a bit tight in the battery box...
+See previous Victron BMV712 mod here:
 
-I’ll report back when done with the installation.
+(Bundling up the positive cables and adding a disconnect in that path would work too, but this is much simpler and has the added safety benefit that disconnecting the grounding cable provides.)  
+
+If you still have the Winnebago battery cable configuration because you have not installed a battery monitor, then this mod shown below likely does not apply to you.
+
+Options as where to put the switch were few and far between, because of the tight confines in the battery box.  In the end, I chose to put the switch on top of the left hand battery; this photo shows its loose location, and the adjacent grounding cable that I eventually replaced:
+
+webbattdisc3.jpg
+
+I chose to buy a couple of 8” AWG 2/0 cables to make things work  (The Winnebago 3/0 cable in the photo that I chose to re-use for the Victron BMV712 mod was a bit stiff and awkward to use).  This photo shows the two 2/0 cables into, and out of, the disconnect switch.
+
+webbattdisc5.jpg
+
+In order to give the switch some rigidity on top of the battery, I mounted it on a piece of ½” plywood and sandwiched the base under the left hand battery retention strap.  Once completed, the foot well step clears the switch by a little bit, and even with the battery box insulation re-installed, it all fits together well.
+Here is a photo of the completed mod with one of the new cables coming off the left hand terminal of the Victron shunt at the bottom of the photo, entering the switch, and then the other new cable coming out of the switch and hooked up to the negative terminal of the battery bank in the top left corner: 
+
+webbattdisc6.jpg
+
+A couple of notes:
+
+1 – As explained in previous battery mods, I chose AWG 2/0 welder’s cable for replacement cables in the battery box.  The coach came with AWG 3/0 cables, but my research has showed that the 3/0 cables are oversized for the loads that the inverter is sized to pull.  AWG 2/0 cables are good to almost 200 amps, or close to 50 amps more than the max current the inverter pulls when powering the kitchen appliances.
+
+2 – The last photo above also shows the three Winnebago grounding cables that had to be re-configured for the previous Victron BMV712 mod.  One comes out of the left hand hole in the battery box (seen just below the beige ethernet cable plugged into the shunt, the second and third come from the right hand hole in the battery box and enter the picture from the lower right, and all three are grouped together and attached to the right hand terminal of the shunt.  It is this grounding cable configuration that allows for the lone grounding cable to come off the Victron shunt and makes it the logical place to add a battery disconnect switch prior to re-attaching to the top left negative terminal of the battery bank.
+
+This “no second guessing” battery disconnect switch works as planned.
 
 <br>
 
