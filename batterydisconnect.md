@@ -11,7 +11,7 @@ But, all of that is a bit of a pain; especially since it never gets done when th
 
 [Blue Sea Systems battery disconnect switch](https://www.amazon.ca/gp/product/B00558LSJE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
-The installation concept is pretty straightforward, because I took advantage of the previous installation of a Victron BMV712 and its ground cable reconfiguration to place the switch on the lone ground cable attached to the battery bank.  
+The installation concept was pretty straightforward, because I took advantage of the previous installation of a Victron BMV712 and its ground cable reconfiguration to place the switch on the lone ground cable attached to the battery bank.  
 
 [See previous Victron BMV712 mod here](/ourmods/batterymonitor/)
 
