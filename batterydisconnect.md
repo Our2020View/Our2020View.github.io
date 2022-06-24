@@ -21,16 +21,16 @@ If you still have the Winnebago battery cable configuration because you have not
 
 Options as where to put the switch were few and far between, because of the tight confines in the battery box.  In the end, I chose to put the switch on top of the left hand battery; this photo shows its loose location, and the adjacent grounding cable that I eventually replaced:
 
-webbattdisc3.jpg
+<img src="/assets/webbattdisc3.jpg"/>
 
 I chose to buy a couple of 8” AWG 2/0 cables to make things work  (The Winnebago 3/0 cable in the photo that I chose to re-use for the Victron BMV712 mod was a bit stiff and awkward to use).  This photo shows the two 2/0 cables into, and out of, the disconnect switch.
 
-webbattdisc5.jpg
+<img src="/assets/webbattdisc5.jpg"/>
 
 In order to give the switch some rigidity on top of the battery, I mounted it on a piece of ½” plywood and sandwiched the base under the left hand battery retention strap.  Once completed, the foot well step clears the switch by a little bit, and even with the battery box insulation re-installed, it all fits together well.
 Here is a photo of the completed mod with one of the new cables coming off the left hand terminal of the Victron shunt at the bottom of the photo, entering the switch, and then the other new cable coming out of the switch and hooked up to the negative terminal of the battery bank in the top left corner: 
 
-webbattdisc6.jpg
+<img src="/assets/webbattdisc6.jpg"/>
 
 A couple of notes:
 
