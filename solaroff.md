@@ -15,7 +15,9 @@ The switch will only see about 15 amps maximum from our two 100 watt panels, but
 
 The installation was generally straightforward, but there was some workload involved with fishing the switch wires, and splicing the connections to the solar input wire.  Overall, the concept involved finding the solar input wire to the controller, cutting it, splicing two new wires to the severed ends, and then running them in tandem to the remote location of the switch under the bed.
 
-I started by heading up to the roof to unplug the two solar panels from the plug box.  (This is a highly recommended step, as depending where you are on the planet and what your current weather is ... your panels could be outputting quite a bit of current.)  Back down in the coach, I confirmed that there was no solar input to the controller.  This first photo shows what the monitor will look like with solar available, and the next photo will show the absence of the solar panel icon in the top left corner of the screen and the power and charging LEDs are not illuminated:
+I started by heading up to the roof to unplug the two solar panels from the plug box.  (This is a highly recommended step, as depending where you are on the planet and what your current weather is ... your panels could be outputting quite a bit of current.)  Back down in the coach, I confirmed that there was no solar input to the controller.  
+
+This first photo shows what the monitor will look like with solar available, and the next photo will show the absence of the solar panel icon in the top left corner of the screen and the power and charging LEDs are not illuminated:
 
 <img src="/assets/websolaroff6.jpg"/>
 
