@@ -19,7 +19,7 @@ The installation concept is pretty straightforward, because I took advantage of 
 
 If you still have the Winnebago battery cable configuration because you have not installed a battery monitor, then this mod shown below likely does not apply to you.
 
-Options as where to put the switch were few and far between, because of the tight confines in the battery box.  In the end, I chose to put the switch on top of the left hand battery; this photo shows its loose location, and the adjacent grounding cable that I eventually replaced:
+Options as where to put the switch were few and far between, because of the tight confines in the battery box.  In the end, I chose to put the switch on top of the left hand battery; this photo shows its loose location, and the lower adjacent grounding cable that I subsequently replaced:
 
 <img src="/assets/webbattdisc3.jpg"/>
 
