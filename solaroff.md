@@ -23,7 +23,7 @@ This first photo shows what the monitor will look like with solar available, and
 
 <img src="/assets/websolaroff7.jpg"/>
 
-Finding the solar input wire to the controller was simple:  It is the black # 8 wire that hooks up to the extreme left hand terminal (when looking at the front of the controller), or the extreme right hand terminal (when looking at the back of the controller).  This solar input wire has been co-located with a yellow # 10 Winnebago power wire, so there is no mistaking.  It is the only black and yellow combination on the back of the controller.  On this diagram below, it is the extreme left hand black # 8 wire:
+Finding the solar input wire to the controller was simple:  It is the black # 8 wire that hooks up to the extreme left hand terminal (when looking at the front of the controller), or the extreme right hand terminal (when looking at the back of the controller).  This solar input wire has been co-located with a yellow # 10 Winnebago power wire, so there is no mistaking.  It is the only black and yellow combination on the back of the controller.  On this diagram below, it is the extreme left hand line:
 
 <img src="/assets/websolardiagram.jpg"/>
 
