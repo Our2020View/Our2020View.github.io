@@ -53,7 +53,7 @@ I finished up the splice job by taping the wire nuts to ensure they stayed in pl
 
 <img src="/assets/websolaroff11.jpg"/>
 
-Note:  The solar controller wiring on our View did not have much slack inside the cabinet, so it was slightly awkward to do this splicing.
+Note:  The solar controller wiring on our View did not have much slack stored inside the cabinet, so it was a bit of a pain to do this splicing.
 
 The last part of the job was to hook up each red wire, both waiting down under the bed, to the terminals on the disconnect switch - and mount it in a convenient location in the Truma box area.  I positioned mine on the fridge wall, left hand side of the Truma box area when looking in, using a couple of wood screws.  This location allows you to reach in the hole of the cover panel and operate the switch easily:
 
