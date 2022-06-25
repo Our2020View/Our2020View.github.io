@@ -69,8 +69,7 @@ Notes:
 
 [Earlier Model year View / Navions](https://www.viewnavion.com/mods/solar-disconnect-switch)
 
-Having said all of that – this mod is working as planned.
-
+I'm looking forward to not having to climb onto the roof to disconnect the solar panels!
 
 <br>
 
