@@ -69,7 +69,7 @@ Notes:
 
 [Earlier Model year View / Navions](https://www.viewnavion.com/mods/solar-disconnect-switch)
 
-I'm looking forward to not having to climb onto the roof to disconnect the solar panels!
+Happy Disconnecting!
 
 <br>
 
