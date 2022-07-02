@@ -32,6 +32,8 @@ This is the outer faceplate that is attached by four screws visible and accessed
 
 When this outer panel is removed, the inner panel is visible.  In these next two photos, you can see the exhaust duct aperture that is taped off on the inner panel using foil tape – both sides of the aperture have been taped off to completely eliminate cold air from dumping directly out from the air conditioner:
 
+<img src="/assets/aircond2web.jpg"/>
+
 <img src="/assets/aircond5web.jpg"/>
 
 With this second panel removed you can see the intake and exhaust plenums, and a divider of rigid insulation that separates the two flow paths.  Our divider was not centred very well, and actually was allowing some mixing of intake and exhaust air – likely adding to some of the objectionable noise.  I centred the divider, and used the foil tape to ensure it stayed in place.  
