@@ -30,7 +30,7 @@ This is the outer faceplate that is attached by four screws visible and accessed
 
 <img src="/assets/aircond8web.jpg"/>
 
-When this outer panel is removed, the inner panel is visible.  In these next two photos, you can see the exhaust duct aperture that is taped off on the inner panel using foil tape – both sides of the aperture have been taped off to completely eliminate cold air from dumping directly out from the air conditioner:
+When this outer panel is removed, the inner panel is visible and can be removed by another four screws.  In these next two photos, you can see the exhaust duct aperture that is taped off on the inner panel using foil tape – both sides of the aperture have been taped off to completely eliminate cold air from dumping directly out from the air conditioner:
 
 <img src="/assets/aircond2web.jpg"/>
 
