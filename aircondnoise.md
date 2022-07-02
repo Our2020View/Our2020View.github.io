@@ -5,7 +5,7 @@ permalink: /ourmods/aircondnoise/
 ---
 We have a Coleman Mach 10 air conditioner in our View, and were a bit startled when we realized we couldn’t sit at the table and have a normal conversation when the unit was cooling the coach.  It certainly was dumping out cool air, but the noise level associated with its use was not acceptable.  I started looking for a solution when we found ourselves debating if we really needed to run the AC or just use some fans...
 
-I had some hope that there might be a fix out there when the Winnie Owner’s forum took up the cause, and researched a new product on the market that was advertised as an easy retrofit, and supposed to improve performance and quieten things down.  This product’s main performance enhancement is due to the elimination of the cold air flood dump functionality, and the enhancement of the flow that is directed to the coach’s overhead cooling ducts.  If you don’t have distributed overhead cooling ducts, this product would not be for you.  
+I had some hope that there might be a fix out there when the Winnie Owner’s forum took up the cause, and researched a new product on the market that was advertised as an easy retrofit, and was supposed to improve performance and quieten things down.  This product’s main performance enhancement is due to the elimination of the cold air flood dump functionality, and the enhancement of the flow that is directed to the coach’s overhead cooling ducts.  If you don’t have distributed overhead cooling ducts, this product would not be for you.  
 
 Here is a link to the product that the Winnie Owner’s Forum discussed at great length:
 
