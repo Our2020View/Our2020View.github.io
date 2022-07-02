@@ -230,7 +230,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/ammeter/'"> READ MORE </button>
+            onclick="location.href = '/ourmods/aircondnoise/'"> READ MORE </button>
   </div>
 </div>
     
