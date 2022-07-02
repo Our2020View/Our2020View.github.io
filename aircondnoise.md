@@ -65,3 +65,7 @@ Now, here is another post from the FitRV with a subsequent review of the RV Airf
 Whatever method you are contemplating to help improve noise and performance in your air conditioner, buy a ready-made kit, or tap your own mod creativity to come up with something yourself, don’t forget to have a look at the intake plenum as well.  The warm air being drawn into the intake is the same speed as the cold air exiting – any disruptions in there might just be a source of objectionable flow noise.  Hopefully your installation did not leave as many loose wires in the intake as ours did. 
 
 This mod is working better than anticipated. 
+
+<br>
+
+[Back to Our RV Modifications](/ourmods/)
