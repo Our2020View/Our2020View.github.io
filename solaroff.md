@@ -59,7 +59,7 @@ The last part of the job was to hook up each red wire, both waiting down under t
 
 <img src="/assets/websolaroff15.jpg"/>
 
-Adding some plastic protective loom to the start of the wire run gave it a finished look.
+Adding some plastic protective loom to the start of the wire run gave the mod a Winnebago look.
 
 Notes:
 
