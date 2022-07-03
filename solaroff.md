@@ -59,13 +59,15 @@ The last part of the job was to hook up each red wire, both waiting down under t
 
 <img src="/assets/websolaroff15.jpg"/>
 
-I selected the switch to OFF during this installation, so after I climbed back onto the roof to plug in the solar panels I could monitor the Zamp controller’s activation via use of the new switch when back in the coach.
+Adding some plastic protective loom to the start of the wire run gave it a finished look.
 
 Notes:
 
-1 - What is that yellow Winnebago power wire that is also connected to the terminal of the Zamp solar input wire?  Good question.  It is not part of the Zamp installation process, so I asked Winnebago the question.  They told me that it is hooked up to the solar breaker on the panel underneath the passenger seat... and then it returns to the controller. ?  And, the white wire on the terminal ring with the Zamp green solar panel wire is grounded to the battery... ?  I can’t visualize how a circuit breaker on a separate wire serves the purpose of protecting an over-current  from solar panels connected directly to the controller via that black # 8 power wire, but it you’ve got an idea drop me a line and explain it to me - many thanks.
+1 - I selected the switch to OFF during this installation, so after I climbed back onto the roof to plug in the solar panels I could monitor the Zamp controller’s activation via use of the new switch when back in the coach.
 
-2 – If you have an earlier model View or Navion, it is possible that the installation of a solar disconnect switch might be slightly more straightforward.  The website link below will take you to a View / Navion website that details an installation that appears to have to deal with only the wires shown in the Zamp installation diagram above - and finding that black # 8 solar input wire appears to be the only challenge, and a minor one at that.  And on earlier models there might be some slack available in the cabinet as well!
+2 - What is that yellow Winnebago power wire that is also connected to the terminal of the Zamp solar input wire?  Good question.  It is not part of the Zamp installation process, so I asked Winnebago the question.  They told me that it is hooked up to the solar breaker on the panel underneath the passenger seat... and then it returns to the controller. ?  And, the white wire on the terminal ring with the Zamp green solar panel wire is grounded to the battery... ?  I can’t visualize how a circuit breaker on a separate wire serves the purpose of protecting an over-current  from solar panels connected directly to the controller via that black # 8 power wire, but it you’ve got an idea drop me a line and explain it to me - many thanks.
+
+3 – If you have an earlier model View or Navion, it is possible that the installation of a solar disconnect switch might be slightly more straightforward.  The website link below will take you to a View / Navion website that details an installation that appears to have to deal with only the wires shown in the Zamp installation diagram above - and finding that black # 8 solar input wire appears to be the only challenge, and a minor one at that.  And on earlier models there might be some slack available in the cabinet as well!
 
 [Earlier model year View / Navions](https://www.viewnavion.com/mods/solar-disconnect-switch)
 
