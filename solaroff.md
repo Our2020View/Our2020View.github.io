@@ -57,7 +57,7 @@ The last part of the job was to hook up each red wire, both waiting down under t
 
 <img src="/assets/websolaroff12.jpg"/>
 
-<img src="/assets/websolaroff13.jpg"/>
+<img src="/assets/websolaroff15.jpg"/>
 
 I selected the switch to OFF during this installation, so after I climbed back onto the roof to plug in the solar panels I could monitor the Zamp controller’s activation via use of the new switch when back in the coach.
 
