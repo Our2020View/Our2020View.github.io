@@ -69,7 +69,7 @@ Notes:
 
 3 – If you have an earlier model View or Navion, it is possible that the installation of a solar disconnect switch might be slightly more straightforward.  The website link below will take you to a View / Navion website that details an installation that appears to have to deal with only the wires shown in the Zamp installation diagram above - and finding that black # 8 solar input wire appears to be the only challenge, and a minor one at that.  And on earlier models there might be some slack available in the cabinet as well!
 
-[Earlier model year View / Navions](https://www.viewnavion.com/mods/solar-disconnect-switch)
+[Another approach - earlier model year View / Navions](https://www.viewnavion.com/mods/solar-disconnect-switch)
 
 Happy Disconnecting!
 
