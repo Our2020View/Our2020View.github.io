@@ -11,7 +11,7 @@ This is the switch I chose:
 
 [I Litton battery disconnect switch](https://www.amazon.ca/gp/product/B097JHCXD5/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&th=1)
 
-The switch will only see about 15 amps maximum from our two 100 watt panels, but I used #10 / 30 amp wire to give plenty of margin and to match the controller's rating.  (The Zamp solar kit that is supplied to Winnebago uses #8 / 40 amp wire, to cater for higher current systems that some RVs install.)  In addition, the current rating on this switch is more than plenty for the loads that will be routinely seen.
+The switch will see less than 15 amps from our two 100 watt panels, but I used #10 / 30 amp wire to give plenty of margin and to match the controller's rating.  (The Zamp solar kit that is supplied to Winnebago uses #8 / 40 amp wire, to cater for higher current systems that some RVs install.)  In addition, the current rating on this switch is more than plenty for the loads that will be routinely seen.
 
 The installation was generally straightforward, but there was some workload involved with fishing the switch wires, and splicing the connections to the solar input wire.  Overall, the concept involved finding the solar input wire to the controller, cutting it, splicing two new wires to the severed ends, and then running them in tandem to the remote location of the switch under the bed.
 
