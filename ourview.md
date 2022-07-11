@@ -35,7 +35,7 @@ Before we get into the modifications, maybe I should tell you why we opted for t
 19.	Easy Lithium upgrade – new for 2020
 20.	Roof is easily accessible via ladder
 21.	The Satellite radio antenna is on the roof – full time signal reception!  Go Figure!
-22.	The entire coach is accessible with the slide in - perfect for being “on the go”
+22.	The entire coach is accessible with the slide in - perfect for being “on the go” or winter camping
 23.	The propane solenoid shutoff valve has been removed – no parasitic battery drain -  new for 2020
 24.	A fairly decent occupant and cargo carrying capacity (OCCC) - around 1300 lbs for us
 25.	An OCCC that allowed Winnebago to included a spare tire
