@@ -15,6 +15,8 @@ I don't have all of the mods advertised on this site completed yet, but am slowi
 
 If you have any questions or comments, feel free to drop me a line at the email found at the very bottom.  Thanks for your interest!
 
+Wherever your travels take you, here's hoping that the view out your front windscreen is always 2020. 
+
 <br>
 
 [The Baseline Coach - our Winnebago View / Navion 24J](/our24jview/)
