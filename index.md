@@ -11,7 +11,7 @@ layout: page
 We have been RVing for nearly 30 years, with the last many years being in a series of Class B camper vans.  Our latest motorhome is the one this website is focused on – Our 2020 Winnebago View / Navion 24J Class C motor home.
 If you are like me, you might enjoy scouring the web to find out what other RVers have done to improve the functionality of their rigs.  If there is anything on these pages that give you some ideas, we are glad to share.  The web is full of really great content supplied by very skilled modifiers, so I’ll try to point out where I got some help along the way as we accomplished these pretty straighforward mods.    
 
-I don't have all of the mods advertised on this site completed yet, but am slowing working through my list.  
+I don't have everything advertised on this site completed yet, but am slowing working through my list.  
 
 If you have any questions or suggestions, feel free to drop me a line at the email found at the very bottom.  Thanks for your interest!
 
