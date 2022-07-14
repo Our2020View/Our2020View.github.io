@@ -42,9 +42,11 @@ Fibregalss insulation was stuffed in the loose areas.  Insulation that was expos
 
 <img src="/assets/4batteryheatweb.jpg"/>
 
-The loose cord sits on top of the finished bed of top insulation.  In order to get the pad cable out of the battery box, the removable step is unlatched and the step is slid back about a half of an inch to allow the cord to poke out.  The step is plenty secure during these infrequent times when the battery heat is required. 
+The loose cord sits on top of the finished bed of top insulation.  In this next photo you can see the switch I added, and a white plug I scavenged off of some christmas tree lights that contained a 3 amp fuse.  The draw from the heat pad is only about a half of an amp, so the 3 amp fuse is plenty - and simple to incorporate.
 
 <img src="/assets/webfinalbattheatchord.jpg"/>
+
+In order to get the pad cable out of the battery box, the removable step is unlatched and the step is slid back about a half of an inch to allow the cord to poke out.  The step is plenty secure during these infrequent times when the battery heat is required. 
 
 Working as well as we hoped it would.
 
