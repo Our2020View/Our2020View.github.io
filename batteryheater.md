@@ -44,7 +44,7 @@ Fibregalss insulation was stuffed in the loose areas.  Insulation that was expos
 
 The loose cord sits on top of the finished bed of top insulation.  In order to get the pad cable out of the battery box, the removable step is unlatched and the step is slid back about a half of an inch to allow the cord to poke out.  The step is plenty secure during these infrequent times when the battery heat is required. 
 
-<img src="/assets/3batteryheatweb.jpg"/>
+<img src="/assets/webfinalbattheatchord.jpg"/>
 
 Working as well as we hoped it would.
 
