@@ -7,8 +7,6 @@ Our View out of the factory came with a large smudge on the inside of the backup
 
 I took the camera fairing off, and using a mirror to help me unscrew the camera from the fairing support bracket, I wondered if I could unscrew the lens cap to allow me to clean the inside of the lens.  Things were pretty awkward there, so after consulting with the factory and being told the connector was right up at the camera, I did my best to unplug the unit.  Well, that was bad info, as there is no connector there.  During my attempts to get it disconnected, I evidently broke some wires rendering the camera completely inoperative.  Great.  Just great.  That smudge was looking pretty good.
 
-
-
 After going back to the factory to see what was up with the info they gave me, they indicated the original info was incorrect, and the connector for the camera is actually buried in the back wall - accessible only by removing the top rear roof cap.  Oh Really?
 
 Well, that put this project on hold for close to two years, as I researched just what exactly what were my chances of being able to remove the top rear roof cap, change out the camera, then put it all back together again correctly - without any leaks.  In the meantime, I found a replacement camera on Ebay that was one half of the price of the Mercedes dealer’s price, so optimistically had it shipped up.  (I looked at alternative methods of hooking up an aftermarket camera, but deep down knew that every time I used it I would be cursing the fact that our big 10” Sprinter MBUX centre display would just be sitting there doing... nothing.)
@@ -21,7 +19,7 @@ Here is the replacement part and info:
 
 After close to two years of backing into some pretty crazy places to go camping, both my wife (human backup camera) and I agreed that things would be safer if we had a camera.  So, I steadied my nerves, and got into this project.  
 
-I’ve decided to write this camera replacement up, as there were a number of things I learnt that I really wish I’d known about in advance.  There is a better way to do this, so there are some considerations that might be helpful before you start this one.  At any rate, here is how it all unfolded:
+I’ve decided to document this camera replacement, as there were a number of things I learnt that I really wish I’d known about in advance.  There is a better way to do this, so there are some considerations that might be helpful before you start this one.  At any rate, here is how it all unfolded:
 
 After you remove the camera fairing, eventually remove the camera from the support bracket, and then clean out the caulking from the wall, here is what you are left with.
 
@@ -29,7 +27,7 @@ After you remove the camera fairing, eventually remove the camera from the suppo
 
 Tip number 1 – don’t remove the camera from the fairing just yet.  It is not worth the hassle of getting at the tiny screws holding the camera bracket to the fairing; wait until you’ve got some slack in the line, or until you cut loose the old camera.  If you are intent on replacing the camera, I see no harm in just cutting the old camera away to make it easier to remove the caulking.
 
-Hoping that I could replace the camera, I started looking for a way to get it disconnected from Winnebago’s wiring.  I stuck a scope down the back wall to discover that there was no connector in sight – the wire bundle disappears into a block of what looked like insulation:
+Here is the view looking looking in the wall, as you can see the wire bundle disappears into a block of what looked like insulation.  There are no connectors in sight:
 
 <img src="/assets/webwiringinwall.jpg"/>
 
