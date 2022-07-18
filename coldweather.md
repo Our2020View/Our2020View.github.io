@@ -75,7 +75,7 @@ With the trouble light sitting on the bed of insulation, with the bulb positione
 
 <img src="/assets/webNewwetbayheat.jpg"/>
 
-During cold weather I install a batt of insulation inside the web bay door, up against the wet bay panel:
+During cold weather I install a batt of insulation inside the wet bay door, up against the wet bay panel:
 
 <img src="/assets/webwetbayinsulation.jpg"/>
 
