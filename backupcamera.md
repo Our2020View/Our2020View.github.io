@@ -41,7 +41,7 @@ You will see that the roof / back wall seam is pretty well sealed with what look
 
 So, what can you now see?  Well you can see where the Mercedes connections to the Winnebago wiring is, for starters.  No, the connections are not in the wall, they are back out of the wall and lay in the end cap cavity.  It is now obvious why tugging on the camera lead was not going to help me find the connections!  Also, you will see the mini coaxial cable connector, and the fact that the Winnebago power and control wires do not have a connector that interfaces with a Mercedes connector – instead they cut off the Mercedes connector and use butt splices to join the wires:
 
-<img src="/assets/webconnectinsfrombackwall.jpg"/>
+<img src="/assets/webconnectionsfrombackwall.jpg"/>
 
 I called our local car audio shop to enquire about that female connector that Winnebago chose not to use, and was told that Mercedes do not sell that connector as a standalone part.  You can get that connector, but you have to buy a bunch of cable that is attached to it too.  I’m guessing that this is the reason for Winnebago just splicing together the wires – cost.  Now, the mini coaxial connector is an industry standard part, and it does connect up to the Mercedes end with no issues.
 
