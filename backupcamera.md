@@ -69,7 +69,7 @@ With a bigger fairing, you’d be able to pull some of that four feet of cable s
 
 <img src="/assets/webcablespulledthru.jpg"/>
 
-For the next camera replacement, all you would have to do is remove the fairing.  What a concept.  If you could check out earlier model motor homes, you might find one that fits the bill and would be available from a Winnebago parts department.  That is what I would do next time.
+For the next camera replacement, all you would have to do is remove the fairing.  What a concept.  If you could check out earlier model motorhome fairings, you might find one that fits the bill and would be available from a Winnebago parts department.  That is what I would do next time.
 
 Ok, now for some drama to the story... before I got too far in the closing up phase, I tested the camera to see if it worked.  And... it didn’t work.  Nope, the MBUX just continued to ignore any attempts of mine to will it to create a picture of my garage.  Imagine that.  Taking apart your roof, hooking up your new camera, and finding that it didn’t work.  I sat down in the garage and went over things for many minutes trying to see if I had made a mistake – Ok, I hadn’t used one of these for a couple of years, but what could I be doing wrong?  Seat belt?  Park brake?  Foot on the brake?  With no luck on any of those considerations, it looked like I had just learnt a big lesson about ordering things from Ebay.  Not a good feeling.
 
