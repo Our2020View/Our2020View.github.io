@@ -29,7 +29,7 @@ Here is the view looking looking in the wall, as you can see the wire bundle dis
 
 <img src="/assets/webwiringinwall.jpg"/>
 
-I removed the rear top roof cap next.  I did not have any experience with roof sealant prior to this job, so this took me some time.  I used a plastic razor blade tool that worked well, and mineral spirits did a nice job of cleaning up the residue.  The caulking on the corners of the end cap looks to be the same product that is used on the roof radius.  It appears that once the roof radius was sealed along the sides of the roof, the installer simply caulked up the ends of the top rear trim cap.  This sealant is tougher to remove than the self leveling lap sealant that is used on the top cap.
+I removed the rear top roof cap next.  I did not have any experience with roof sealant prior to this job, so this took me some time.  I used a plastic razor blade tool that worked well, and mineral spirits did a nice job of cleaning up the residue.  The caulking on the corners of the end cap looks to be the same product that is used on the roof radius.  It appears that once the roof radius was sealed along the sides of the motorhome, the installer simply caulked up the ends of the top rear trim cap.  This sealant is tougher to remove than the self leveling lap sealant that is used on the top cap.
 
 There are three screws that are hidden by those esthetic screw cap covers on the back wall of the trim moulding.  The screws are actually about three inches away, so you’ll need a Phillips head with a longer than normal small diameter shaft.  When you unscrew these, they no doubt will fall into the cap itself and have to be retrieved later.
 
