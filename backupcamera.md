@@ -82,3 +82,7 @@ The only bit of workload on getting the end cap back on concerns those three scr
 The remaining part of the project was drama fee, except for maybe not having the requisite skills to do a nice job applying the self sealing lap sealant on the roof.  It is on, it won’t leak, but you can tell Lichtsinn didn’t do it.  It has rookie written all over it.  Maybe next time I’ll watch some YouTube videos before doing that job.  I caulked the cap ends with the recommended roof radius product.
 
 We’ve got a backup camera again, and it has a very nice, crisp, picture.  Bring on those back-in sites!
+
+<br>
+
+[Back to Our RV Modifications](/ourmods/)
