@@ -1,6 +1,6 @@
 ---
 layout: page
-title: View / Navion Backup Camera
+title: View / Navion Backup Camera Replacement
 permalink: /ourmods/backupcamera/
 ---
 Our View out of the factory came with a large smudge on the inside of the backup camera lens, which made the picture somewhat unusable.  After backing into a low handing tree limb and doing some damage to our top rear roof trim cap - on our very first camping trip - I decided that we’d need to get a better picture out of the camera.  The dealer was quoting a 6 – 8 week booking delay, and then indicated that they would have the motor home for about a month.  Not ideal...
