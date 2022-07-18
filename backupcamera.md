@@ -3,7 +3,7 @@ layout: page
 title: View / Navion Backup Camera Replacement
 permalink: /ourmods/backupcamera/
 ---
-Our View out of the factory came with a large smudge on the inside of the backup camera lens, which made the picture somewhat unusable.  After backing into a low handing tree limb and doing some damage to our top rear roof trim cap - on our very first camping trip - I decided that we’d need to get a better picture out of the camera.  The dealer was quoting a 6 – 8 week booking delay, and then indicated that they would have the motor home for about a month.  Not ideal...
+Our View out of the factory came with a large smudge on the inside of the backup camera lens, which made the picture somewhat unusable.  After backing into a low hanging tree limb and doing some damage to our top rear roof trim cap - on our very first camping trip - I decided that we’d need to get a better picture out of the camera.  The dealer was quoting a 6 – 8 week booking delay, and then indicated that they would have the motor home for about a month.  Not ideal...
 
 I took the camera fairing off, and using a mirror to help me unscrew the camera from the fairing support bracket, I wondered if I could unscrew the lens cap to allow me to clean the inside of the lens.  Things were pretty awkward there, so after consulting with the factory and being told the connector was right up at the camera, I did my best to unplug the unit.  Well, that was bad info, as there is no connector there.  During my attempts to get it disconnected, I evidently broke some wires rendering the camera completely inoperative.  Great.  Just great.  That smudge was looking pretty good.
 
