@@ -7,9 +7,7 @@ Our View out of the factory came with a large smudge on the inside of the backup
 
 I took the camera fairing off, and using a mirror to help me unscrew the camera from the fairing support bracket, I wondered if I could unscrew the lens cap to allow me to clean the inside of the lens.  Things were pretty awkward there, so after consulting with the factory and being told the connector was right up at the camera, I did my best to unplug the unit.  Well, that was bad info, as there is no connector there.  During my attempts to get it disconnected, I evidently broke some wires rendering the camera completely inoperative.  Great.  Just great.  That smudge was looking pretty good.
 
-Hoping that I could replace the camera, I started looking for a way to get it disconnected from Winnebago’s wiring.  I stuck a scope down the back wall to discover that there was no connector in sight – the wire bundle disappears into a block of what looked like insulation:
 
-<img src="/assets/webwiringinwall.jpg"/>
 
 After going back to the factory to see what was up with the info they gave me, they indicated the original info was incorrect, and the connector for the camera is actually buried in the back wall - accessible only by removing the top rear roof cap.  Oh Really?
 
@@ -30,6 +28,10 @@ After you remove the camera fairing, eventually remove the camera from the suppo
 <img src="/assets/webcamerainwall.jpg"/>
 
 Tip number 1 – don’t remove the camera from the fairing just yet.  It is not worth the hassle of getting at the tiny screws holding the camera bracket to the fairing; wait until you’ve got some slack in the line, or until you cut loose the old camera.  If you are intent on replacing the camera, I see no harm in just cutting the old camera away to make it easier to remove the caulking.
+
+Hoping that I could replace the camera, I started looking for a way to get it disconnected from Winnebago’s wiring.  I stuck a scope down the back wall to discover that there was no connector in sight – the wire bundle disappears into a block of what looked like insulation:
+
+<img src="/assets/webwiringinwall.jpg"/>
 
 Removing the rear top roof cap is next.  I did not have any experience with roof sealant prior to this job, so this took me some time.  I used a plastic razor blade tool that worked well, and mineral spirits did a nice job of cleaning up the residue.  The caulking on the corners of the end cap looks to be the same product that is used on the roof radius.  It appears that once the roof radius was sealed along the sides of the roof, the installer simply caulked up the ends of the top rear trim cap.  This sealant is tougher to remove than the self leveling lap sealant that is used on the top cap.
 
