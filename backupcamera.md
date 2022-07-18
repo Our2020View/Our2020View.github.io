@@ -9,7 +9,7 @@ I took the camera fairing off, and using a mirror to help me unscrew the camera 
 
 After going back to the factory to see what was up with the intel they gave me, they indicated the original info was incorrect, and the connector for the camera is actually buried in the back wall - accessible only by removing the top rear roof cap.  Oh Really?
 
-Well, that put this project on hold for close to two years, as I researched just what exactly what were my chances of being able to remove the top rear roof cap, change out the camera, then put it all back together again correctly - without any leaks.  In the meantime, I found a replacement camera on Ebay that was one half of the price of the Mercedes dealer’s price, so optimistically had it shipped up.  (I looked at alternative methods of hooking up an aftermarket camera, but deep down knew that every time I used it I would be cursing the fact that our big 10” Sprinter MBUX centre display would just be sitting there doing... nothing.)
+Well, that put this project on hold for close to two years, as I researched just what exactly what were my chances of being able to remove the top rear roof cap, change out the camera, then put it all back together again correctly - without any leaks.  In the meantime, I found a replacement camera on Ebay that was one half of the price of the Mercedes dealer’s price, so optimistically had it shipped up.  (I looked at alternative methods of hooking up an aftermarket camera, but deep down knew that every time I used it I would be cursing the fact that our big 10” Sprinter MBUX centre display would just be sitting there ... doing nothing.)
 
 Here is the replacement part and info:
 
