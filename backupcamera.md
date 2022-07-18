@@ -9,7 +9,7 @@ I took the camera fairing off, and using a mirror to help me unscrew the camera 
 
 Hoping that I could replace the camera, I started looking for a way to get it disconnected from Winnebago’s wiring.  I stuck a scope down the back wall to discover that there was no connector in sight – the wire bundle disappears into a block of what looked like insulation:
 
-<img src="/assets/webwiringinwall.jpg.jpg"/>
+<img src="/assets/webwiringinwall.jpg"/>
 
 After going back to the factory to see what was up with the info they gave me, they indicated the original info was incorrect, and the connector for the camera is actually buried in the back wall - accessible only by removing the top rear roof cap.  Oh Really?
 
