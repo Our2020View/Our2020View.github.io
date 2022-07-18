@@ -17,9 +17,7 @@ Here is the replacement part and info:
 
 <img src="/assets/webpartnumber.jpg"/>
 
-After close to two years of backing into some pretty crazy places to go camping, both my wife (human backup camera) and I agreed that things would be safer if we had a camera.  So, I steadied my nerves, and got into this project.  
-
-I’ve decided to document this camera replacement, as there were a number of things I learnt that I really wish I’d known about in advance.  There is a better way to do this, so there are some considerations that might be helpful before you start this one.  At any rate, here is how it all unfolded:
+After close to two years of backing into some pretty crazy places to go camping, both my wife (human backup camera) and I agreed that things would be safer if we had a camera.  So, I steadied my nerves, and got into this project.  I’ve decided to document this camera replacement, as there were a number of things I learnt that I really wish I’d known about in advance.  There is a better way to do this, so there are some considerations that might be helpful before you start this one.  At any rate, here is how it all unfolded:
 
 After you remove the camera fairing, eventually remove the camera from the support bracket, and then clean out the caulking from the wall, here is what you are left with.
 
