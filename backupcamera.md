@@ -9,7 +9,7 @@ I took the camera fairing off, and using a mirror to help me unscrew the camera 
 
 Hoping that I could replace the camera, I started looking for a way to get it disconnected from Winnebago’s wiring.  I stuck a scope down the back wall to discover that there was no connector in sight – the wire bundle disappears into a block of what looked like insulation:
 
-webwiringinwall.jpg
+<img src="/assets/webwiringinwall.jpg.jpg"/>
 
 After going back to the factory to see what was up with the info they gave me, they indicated the original info was incorrect, and the connector for the camera is actually buried in the back wall - accessible only by removing the top rear roof cap.  Oh Really?
 
@@ -17,9 +17,9 @@ Well, that put this project on hold for close to two years, as I researched just
 
 Here is the replacement part and info:
 
-webcamera.jpg
+<img src="/assets/webcamera.jpg"/>
 
-webpartnumber.jpg
+<img src="/assets/webpartnumber.jpg"/>
 
 After close to two years of backing into some pretty crazy places to go camping, both my wife (human backup camera) and I agreed that things would be safer if we had a camera.  So, I steadied my nerves, and got into this project.  
 
@@ -27,7 +27,7 @@ I’ve decided to write this camera replacement up, as there were a number of th
 
 After you remove the camera fairing, eventually remove the camera from the support bracket, and then clean out the caulking from the wall, here is what you are left with.
 
-webcamerainwall.jpg
+<img src="/assets/webcamerainwall.jpg"/>
 
 Tip number 1 – don’t remove the camera from the fairing just yet.  It is not worth the hassle of getting at the tiny screws holding the camera bracket to the fairing; wait until you’ve got some slack in the line, or until you cut loose the old camera.  If you are intent on replacing the camera, I see no harm in just cutting the old camera away to make it easier to remove the caulking.
 
@@ -41,19 +41,19 @@ You will see that the roof / back wall seam is pretty well sealed with what look
 
 So, what can you now see?  Well you can see where the Mercedes connections to the Winnebago wiring is, for starters.  No, the connections are not in the wall, they are back out of the wall and lay in the end cap cavity.  It is now obvious why tugging on the camera lead was not going to help me find the connections!  Also, you will see the mini coaxial cable connector, and the fact that the Winnebago power and control wires do not have a connector that interfaces with a Mercedes connector – instead they cut off the Mercedes connector and use butt splices to join the wires:
 
-webconnectinsfrombackwall.jpg
+<img src="/assets/webconnectinsfrombackwall.jpg"/>
 
 I called our local car audio shop to enquire about that female connector that Winnebago chose not to use, and was told that Mercedes do not sell that connector as a standalone part.  You can get that connector, but you have to buy a bunch of cable that is attached to it too.  I’m guessing that this is the reason for Winnebago just splicing together the wires – cost.  Now, the mini coaxial connector is an industry standard part, and it does connect up to the Mercedes end with no issues.
 
 You will have to get a second wad of caulk out of that wall now, and when you disconnect the coaxial and cut the power and control wire butt connectors free from the Winnebago wiring, you can pull out the camera lead and be left with this:
 
-webtwoholes.jpg
+<img src="/assets/webtwoholes.jpg"/>
 
 From this point, there are a few options that present themselves.  The first option is to reproduce what the factory had done; feed up the new camera lead, cut off the Mercedes four wire connector, butt splice the wires, connect the mini coaxial cable, and prep the hole for caulking as Winnebago had done.  But, it sure would be nice if you didn’t have to take apart the rear part of the roof to replace a camera!  This first option guarantees you will have to do this again, if you ever have another camera failure.  If only there was enough slack in the cables so you could pull them through the wall without taking off the roof.  Is there enough slack in the cables?
 
 Well, yes there is:
 
-webcableslack.jpg
+<img src="/assets/webcableslack.jpg"/>
 
 Crazy, but true.  There is at least four feet of slack that Winnebago has tucked in the end cap.  
 
@@ -69,7 +69,7 @@ The second option is one I thought of afterwards.  Of course.  This is the one I
 
 With a bigger fairing, you’d be able to pull some of that four feet of slack cable down that wall slot, out the bottom hole, and tuck it away.  Here is what I originally wanted to do, but had not thought of finding a bigger fairing:
 
-webcablespulledthru.jpg
+<img src="/assets/webcablespulledthru.jpg"/>
 
 For the next camera replacement, all you would have to do is remove the fairing.  What a concept.  If you could check out earlier model motor homes, you might find one that fits the bill and would be available from a Winnebago parts department.  That is what I would do next time.
 
