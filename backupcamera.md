@@ -65,7 +65,7 @@ I attached the camera to the fairing, fed the camera lead bundle up the slot, cu
 
 The better second option is one I thought of afterwards.  Of course.  This is the one I would recommend to anyone thinking of going through all of this trouble to replace the camera - Tip number 2 - ditch the fairing that came with the motor home, and find another one out there that is larger and able to accommodate the camera lead, cable connections, and cable slack.  Before the days of these miniature cameras, the backup camera fairings were much larger and likely would make an easy modification that would solve the problem of having to take apart the roof to replace a camera.  
 
-With a bigger fairing, you’d be able to pull some of that four feet of slack cable down that wall slot, out the bottom hole, and tuck it away.  Here is what I originally wanted to do, but had not thought of finding a bigger fairing:
+With a bigger fairing, you’d be able to pull some of that four feet of cable slack down that wall slot, out the bottom hole, hook up the connections, and tuck it all away.  Here is what I originally wanted to do, but had not thought of finding a bigger fairing:
 
 <img src="/assets/webcablespulledthru.jpg"/>
 
