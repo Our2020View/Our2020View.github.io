@@ -43,7 +43,7 @@ Here are the mods that we have implemented, or have in the planning stages - thi
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Electrical Info</h3>
-    <p>Key features "out of the factory"</p>
+    <p>Key Features "out of the factory"</p>
     <img src="/assets/elecimage.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
