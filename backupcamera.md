@@ -77,7 +77,7 @@ Well... how about a fuse?  Is it possible that the camera has a fuse?  Is it pos
 
 The only remaining bit of workload for getting the end cap back on concerns those three screws that you have to access via the snap cap cover screw holes.  I chose to insert the screws through their tabs first, and then drive them in a bit, one at a time – before driving in the screws in the roof.  I felt that using this method I would have a better chance of getting them aligned and back in their original holes.  It worked, but took some time.
 
-The remaining part of the project was drama fee, except for maybe not having the required skills to do a nice job applying the self sealing lap sealant on the roof.  It is on, it won’t leak, but you can tell Lichtsinn wasn't on site.  It has rookie written all over it.  Maybe next time I’ll watch some YouTube videos before doing that job.  I caulked the cap ends with the recommended roof radius product - and called it a wrap.
+The remaining part of the project was drama fee, except for maybe not having the required skills to do a nice job applying the self leveling lap sealant on the roof.  It is on, it won’t leak, but you can tell Lichtsinn wasn't on site.  It has rookie written all over it.  Maybe next time I’ll watch some YouTube videos before doing that job.  I caulked the cap ends with the recommended roof radius product - and called it a wrap.
 
 We’ve got a backup camera again, and it has a very nice, crisp, picture.  Bring on those back-in sites!
 
