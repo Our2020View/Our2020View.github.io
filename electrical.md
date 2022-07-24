@@ -59,6 +59,8 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 [Tank Heater Ammeter](/ourmods/ammeter/)
 
+[More Power Outlets](/ourmods/morepower/)
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
