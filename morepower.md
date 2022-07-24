@@ -32,7 +32,7 @@ Here are the basic components I started with:
 
 <img src="/assets/webmorepower1.jpg"/>
 
-Deciding where to put the power strip and USB button was straightforward, with the only consideration to keep things away from the cabinetry structure – and remembering not to use a level to mark the slot for the power strip.  The motorhome is not level sitting on the driveway, so instead I used the cabinet structure as the level reference point.
+Deciding where to put the power strip and USB button was straightforward, with the only considerations being to keep things away from the cabinetry structure – and remembering not to use a level to mark the slot for the power strip.  The motorhome is not level sitting on the driveway, so instead I used the cabinet structure as the level reference point.
 
 <img src="/assets/webmorepower2.jpg"/>
 
