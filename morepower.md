@@ -26,7 +26,7 @@ The USB charger button I had on hand was similar to this:
 
 [USB Charger Socket](https://www.amazon.ca/LinkStyle-Waterproof-Indicator-Charging-Motorcycle/dp/B07GF18DS4/ref=sr_1_5?crid=2LAO9SEGOFPP0&keywords=12+volt+usb+charger+port&qid=1658687421&sprefix=12+volt+usb+charger+port%2Caps%2C202&sr=8-5)
 
-For the times we would be on shore power, or using the inverter, the power strip from Amazon will provide both household 120 volt power and fast charging Type A and C USB ports to charge devices.  For the times we would be dry camping, similar to the Winnebago USB ports in the coach, the addition of the new USB button via the hot 12 volt lead I found would increase our charging options.
+For the times we would be on shore power, or using the inverter, the power strip from Amazon will provide both household 120 volt power and fast charging Type A and C USB ports to charge devices.  For the times we would be dry camping, similar to the Winnebago USB ports in other areas of the coach, the addition of the new USB button via the hot 12 volt lead I found would increase our charging options.
 
 Here are the basic components I started with:
 
