@@ -68,7 +68,7 @@ I think the finished product looks pretty good, and certainly will be handy:
 
 Notes:
 
-1 - The power strip is not rated for heavy duty use.  This particular one I purchased is rated for only 12.5 amps maximum, so Ok for laptop recharging – but not Ok for heavy loads like a heater.  I plan on adding a placard to the area advising of “LAPTOP CHARGING ONLY”.
+1 - The power strip is not rated for heavy duty use.  This particular one I purchased is rated for only 12.5 amps maximum, so Ok for laptop charging – but not Ok for heavy loads like a heater.  I plan on adding a placard to the area advising of “LAPTOP CHARGING ONLY”.
 
 2 – If you would like some information on basic receptacle wiring in an RV, I can recommend this video from "All About RV’s", and Jared Gillis:
 
