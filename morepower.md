@@ -50,7 +50,7 @@ An electrical box was mounted on a piece of ½” plywood, which was glued to th
 
 <img src="/assets/webmorepower8.jpg"/>
 
-For the 12 volt lines, I elected to run them through the back wall slot and into the area at the end of the forward facing bench storage area.   You can see that there is a 12 volt wire bundle stored back there, of which the 12 volt connector leads are part of.  Doing this allowed more room to work while making the butt connector splices:
+For the 12 volt lines, I elected to run them through the back wall slot and into the area at the end of the forward facing bench storage area.   You can see that there is a 12 volt wire bundle stored back there, of which the 12 volt connector leads are part of.  Doing this allowed more room to work while making the eventual butt connector splices:
 
 <img src="/assets/webmorepower9.jpg"/>
 
