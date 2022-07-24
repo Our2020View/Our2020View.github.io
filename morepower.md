@@ -40,7 +40,7 @@ The storage box wall is very thin 1/8” paneling, so an oscillating saw and a 1
 
 <img src="/assets/webmorepower3.jpg"/>
 
-I ran some # 14 AWG wiring for the USB button, and the cable for the power strip, along the floor to the left hand end of the storage box, enclosed in some PEX tubing secured to the storage box by some SharkBite PEX clips:
+I ran some # 14 AWG wiring for the USB button, and the cable for the power strip, along the floor to the left hand end of the storage box - enclosed in some PEX tubing secured to the storage box by some SharkBite PEX clips:
 
 <img src="/assets/webmorepower6.jpg"/>
 
