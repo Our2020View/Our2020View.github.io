@@ -4,7 +4,7 @@ title: RV Extra Power Outlets
 permalink: /ourmods/morepower/
 ---
 
-I don’t know about you, but I’ve always wished I had some power plugs at both ends of the table.  In the View / Navion, the left end of the table has plenty of 12 volt power in the bottom of the cabinetry and has 120 volt household power under the left end of the side bench seat.  However, with two working at the table, someone is always "borrowing" power from the other end to keep their laptop running and their devices charged.  
+I don’t know about you, but I’ve always wished I had some power plugs at both ends of the table.  In the View / Navion, the left end of the table has plenty of 12 volt power in the bottom of the overhead cabinetry and also has 120 volt household power under the left end of the side bench seat.  However, with two working at the table, someone is always "borrowing" power from the other end to keep their laptop running and their devices charged.  
 
 The plan to get 12 volt and 120 volt household power to the front end of the table has evolved over the last while.  Originally I was going to just install another 120 volt receptacle in a mirrored location to the Winnebago one, and install some USB power buttons in the bottom of the cabinetry similar to the current design.  When it became clear that it was going to be more work than I wanted to do to get 12 volt power to the front end of the dinette cabinets, I came up with the idea to get one of those 120 volt receptacles with the built in USB ports.  The down side to this decision would be that I’d need shore power or the inverter on to get USB power from that outlet.  Not ideal, but I moved ahead with researching how all of that would play out.
 
