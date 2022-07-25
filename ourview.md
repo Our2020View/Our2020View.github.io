@@ -41,7 +41,7 @@ Before we get into the modifications, maybe I should tell you why we opted for t
 25.	An OCCC that allowed Winnebago to included a spare tire
 26.	An OCCC that gave Winnebago the capability to allow three passengers in the coach
 
-The Disadvantages for us:
+The disadvantages for us:
 
 1.	No macerator system – we fixed that ourselves
 2.	Passenger seating - not as comfy as Captain’s chairs
