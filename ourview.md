@@ -52,7 +52,7 @@ The Disadvantages for us:
 
 A pretty small list of disadvantages, when stacked up against the advantages.  
 
-I hope you enjoy the material; it certainly has been fun making the changes to what was already a very capable motor home.
+I hope you enjoy the material; it certainly has been fun making the changes to what was already a very capable motorhome.
 
 Here are [Our RV Modifications](/ourmods/)
 
