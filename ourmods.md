@@ -36,7 +36,7 @@ permalink: /ourmods/
   <br>
   <br>
   
-Here are the mods that we have implemented, or have in the planning stages - this page is a work in progress, but it will give you an idea of what we have done to our '21 View 24J ...
+Here are the mods that we have implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
   
 <h1> Electrical </h1>
 
