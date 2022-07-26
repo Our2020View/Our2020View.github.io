@@ -44,7 +44,7 @@ I ran some # 14 AWG wiring for the USB button, and the cable for the power strip
 
 <img src="/assets/webmorepower6.jpg"/>
 
-Adding a protective box around the new hardware finished up this end of the storage area.
+Adding a protective box around the new hardware finished up this end of the storage area:
 
 <img src="/assets/webmorepower15.jpg"/>
 
