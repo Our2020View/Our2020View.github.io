@@ -70,7 +70,7 @@ I think the finished product looks pretty good, and certainly will be handy:
 
 Notes:
 
-1 - The power strip is not rated for heavy duty use.  This particular one I purchased is rated for only 12.5 amps maximum, so Ok for laptop charging – but not Ok for heavy loads like a heater.  I plan on adding a placard to the area advising of “LAPTOP CHARGING ONLY”.  These two new 120 volt recepatacles are on the same line as the  Winnebago plug at the other end of the table, so care must be taken to not exceed the rated amperage of that coach circuit.
+1 - The power strip is not rated for heavy duty use.  This particular one I purchased is rated for only 12.5 amps maximum, so Ok for laptop charging – but not Ok for heavy loads like a heater.  I plan on adding a placard to the area advising of “LAPTOP CHARGING ONLY”.  These two new 120 volt recepatacles are on the same line as the  Winnebago plug at the other end of the table, so care must be taken to not exceed the rated 15 Amps of that existing coach circuit.
 
 2 – If you would like some information on basic receptacle wiring in an RV, I can recommend this video from "All About RV’s", and Jared Gillis:
 
