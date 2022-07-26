@@ -46,6 +46,8 @@ I ran some # 14 AWG wiring for the USB button, and the cable for the power strip
 
 Adding a protective box around the new hardware finished up this end of the storage area.
 
+<img src="/assets/webmorepower15.jpg"/>
+
 Down at the other end, an electrical box was mounted on a piece of ½” plywood, which was glued to the box sidewall.  The power cable from the new power strip was spliced into a break in the 120 volt power cable input I cut, and all the splices were stored in the electrical box.  This shot shows the power cable to the existing Winnebago receptacle exiting the box (the bottom cable), the new cable from the power strip exiting the box (the middle cable), the 12 volt lines coming from the USB button, independent of the 120 volt cables, and the Winnebago 120 volt feed line entering the box on the right hand side.
 
 <img src="/assets/webmorepower8.jpg"/>
