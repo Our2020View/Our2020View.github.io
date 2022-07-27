@@ -176,7 +176,7 @@ Is this really a mod?  Well, officially it fits the definition - because I had t
 
 <img src="/assets/webcounter2.jpg"/>
 
-We keep the knob in a drawer in case we ever need it, and store the counter surface underneath the sink when travelling.  If the shelf had not worked out, my Plan B was to find a cutting board of similar dimensions and stain it to match the interior.
+We keep the knob in a drawer in case we ever need it, and store the counter surface underneath the sink when travelling.  If the shelf had not worked out, my Plan B was to find a cutting board of similar dimensions and stain it to match the interior.  We had been using one of the sink covers to do this job, but having a surface of larger dimensions has made for a more practical work area.
 
 <br>
 <br>
