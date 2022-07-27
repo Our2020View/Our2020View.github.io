@@ -166,6 +166,18 @@ The tension bar's grip points are shown in these next two photos:
 
 Working as planned.
 
+<h3>Helpful Counter Space</h3>
+
+Here is an easy one that improved the flow of kitchen prep for us significantly.  We don’t use the propane grill often, if ever, so had been wishing that we could re-claim the counter space that it was taking up.  (We have counter top envy when thinking about the 24D model.)  I saw an idea in a Motorhome magazine that used a large cutting board on rubber feet to cover up the grill AND the induction cooktp, but that seemed a bit excessive for our needs.  Instead, I found an old shelf that sort-of matched the decor, and fit the dimensions of the grill top:
+
+<img src="/assets/webcounter1.jpg"/>
+
+Is this really a mod?  Well, officially it fits the definition - because I had to remove the rheostat knob in order to allow the new counter surface to lie flat and not cause the propane to start flowing:
+
+<img src="/assets/webcounter2.jpg"/>
+
+We keep the knob in a drawer in case we ever need it, and store the counter surface underneath the sink when travelling.
+
 <br>
 <br>
 
