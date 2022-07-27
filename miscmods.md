@@ -170,11 +170,11 @@ Here is an easy one that improved the flow of kitchen prep for us significantly.
 
 <img src="/assets/webcounter1.jpg"/>
 
-Is this really a mod?  Well, officially it fits the definition - because I had to remove the rheostat knob in order to allow the new counter surface to lie flat and not cause the propane to start flowing:
+C'mon, is this really a mod?  Well, officially it fits the definition - because I had to remove the rheostat knob in order to allow the new counter surface to lie flat and not cause the propane to start flowing:
 
 <img src="/assets/webcounter2.jpg"/>
 
-We keep the knob in a drawer in case we ever need it, and store the counter surface underneath the sink when travelling.  If the shelf had not worked out, my Plan B was to find a cutting board of similar dimensions and stain it to match the interior.  (We had been using one of the sink covers to do this job, but having a surface of larger dimensions has made for a more practical work area.)  There might be a mod to this mod coming up - You'll note that if the surface was a bit longer, it would nicely capture some of the unuseable counter top at the edge.  Maybe a suitable cutting board, stained to match, with a foot at each end for stability?  Hmmmm....
+We keep the knob in a drawer in case we ever need it, and store the counter surface underneath the sink when travelling.  If the shelf had not worked out, my Plan B was to find a cutting board of similar dimensions and stain it to match the interior.  (We had been using one of the sink covers to do this job, but having a surface of larger dimensions has made for a more practical work area.)  There might be a mod to this mod coming up - you'll note that if the surface was a bit longer, it would nicely capture some of the unuseable counter top at the edge.  Maybe a suitable cutting board, stained to match, with a foot at each end for stability?  Hmmmm....
 
 <br>
 <br>
