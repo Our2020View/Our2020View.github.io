@@ -48,7 +48,7 @@ Adding a protective box around the new hardware finished up this end of the stor
 
 <img src="/assets/webmorepower15.jpg"/>
 
-Down at the other end, an electrical box was mounted on a piece of ½” plywood, which was glued to the storage bin sidewall.  The power cable from the new power strip was spliced into a break in the 120 volt power cable input I cut, and all the splices were stored in the electrical box.  This shot shows the power cable to the existing Winnebago receptacle exiting the box (the bottom cable), the new cable from the power strip exiting the box (the middle cable), the 12 volt lines coming from the USB button, independent of the 120 volt cables, and the Winnebago 120 volt feed line entering the box on the right hand side.
+Down at the other end, an electrical box was mounted on a piece of ½” plywood, which was glued to the storage bin sidewall.  The power cable from the new power strip was spliced into a break in the 120 volt power cable input I cut, and all the splices were stored in the electrical box.  This shot shows the Winnebago input power cable entering the box from the right, the existing line to the the Winnebago outlet at the bottom left, the new line to the power strip at the middle left, and the 12 volt line from the USB button laying over top of 120 volt box.
 
 <img src="/assets/webmorepower8.jpg"/>
 
