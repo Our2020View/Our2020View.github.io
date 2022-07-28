@@ -51,7 +51,7 @@ Here are the mods that we have implemented, or have in the planning stages, to i
             onclick="location.href = '/ourmods/electrical/'"> READ MORE </button>
   </div>
   <div class="column" style="background-color:white;">
-    <h3>Lithium Battery Upgrade</h3>
+    <h3>Lithium Batteries</h3>
     <p>Battle Born BB 10012 </p>
     <img src="/assets/batteryinstall5web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
