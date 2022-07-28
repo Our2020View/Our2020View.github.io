@@ -202,7 +202,7 @@ Here are the mods that we have implemented, or have in the planning stages, to i
   <div class="column" style="background-color:white;">
     <h3>Stabilizer Removal</h3>
     <p>Part of our weight reduction plan...</p>
-    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="113.5">
+    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
