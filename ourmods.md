@@ -33,7 +33,7 @@ permalink: /ourmods/
   
 <img src="/assets/webmodpageheader.jpg"/>
   
- <i>Monck Provincial Park, Merritt, British Columbia</i> 
+ <i>Monck Provincial Park - Merritt, British Columbia</i> 
   
   <br>
   <br>
