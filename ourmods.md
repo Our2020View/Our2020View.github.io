@@ -31,7 +31,7 @@ permalink: /ourmods/
 <body>
   
   
-<img src="/assets/modpageheaderweb.jpg"/>
+<img src="/assets/webmodpageheader.jpg"/>
   
   <br>
   <br>
