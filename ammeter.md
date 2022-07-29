@@ -37,7 +37,7 @@ The picture for this circuit was starting to become clearer:
 
 4 – Because of the thermostats at the heating pads, you can’t test the wiring downstream of the wetbay connector until the pads are cold enough to close the pad contactors.  Checking the voltage at the wetbay connector just tells you the relay has closed.
 
-5 – I assumed that when the thermostats close, and current flows through the pads and then to a coach ground, pulling the tank heater fuse would illuminate the flown fuse light on the panel.  Maybe.  Don't know, but it is logical.
+5 – I assumed that when the thermostats close, and current flows through the pads and then to a coach ground, pulling the tank heater fuse would illuminate the blown fuse light on the panel.  Maybe.  Don't know, but it is logical.
 
 After I put some ice on the pad wiring, or wait until the cool weather, I’ll be able to determine if my problem was a corroded relay, a loose connector, or something else.  If it is the “something else”, I think my only recourse will be to replace the wiring to the pads downstream of the connector.
 
