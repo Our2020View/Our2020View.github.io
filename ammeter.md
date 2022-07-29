@@ -63,7 +63,7 @@ The left hand bronze terminal takes Wire #1 from the output of the relay down in
 
 The web reports that these Therma Heat holding tank heater pad thermostats close their contactor at a temperature of 45 degrees F (7 degrees C) as things cool, and have a turn off temperature of 67 degrees F (19 degrees C) as things warm.  As I mentioned before, my assumption in all of this has been that I have a wiring issue, and not a problem associated with these two thermostats.
 
-So, that is where I am as of July 2022.  Hopefully I will be able to continue my tank heater troubleshooting as some point soon.  I will not bother installing the ammeter until I have made sure I can get the tank heaters working.  If you have made it through to the end of this page and have a problem similar to mine, hopefully the troubleshooting I have done so far is of some help.
+So, that is where I am as of July 2022.  Hopefully I will be able to continue my tank heater troubleshooting as some point soon.  I will not bother installing the ammeter until I have made sure I can get the tank heaters working.  
 
 <br>
 
