@@ -29,7 +29,7 @@ After completing this cleanup, I poked around some more in the wetbay and discov
 
 The picture for this circuit was starting to become clearer:
 
-1 – The tank heater switch is powered from the circuit associated with the water pump.  It does not directly turn on the heaters, and the light simply indicates that the switch has changed positions.  The switch operates a relay, located in the wetbay in our View, which in turn opens a contact to allow electricity from the tank heater circuit to flow to the pads.  
+1 – The tank heater switch is powered from the circuit associated with the water pump.  It does not directly turn on the heaters, and the light simply indicates that the switch has changed positions.  The switch operates a relay, located in the wetbay in our View, which in turn closes a contact to allow electricity from the tank heater circuit to flow to the pads.  
 
 2 – The relay uses a little less than 2 amps when it use, whether or not the pads are actually energized.
 
