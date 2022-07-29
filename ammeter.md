@@ -4,6 +4,8 @@ title: Holding Tank Heater Ammeter
 permalink: /ourmods/ammeter/
 ---
 
+Note:  I have not done this mod yet - I'm still troubleshooting a wiring snag that came from the factory.  But, I'm almost there so hope to have this hooked up soon...
+
 During some past late December dry camping, we needed the protection from the Winnebago installed holding tank heaters.  When I turned them on and watched my Victron app to take note of the amperage change, I noted that they were only pulling between 1 and 2 amps.  Those heaters are supposed to pull about 5 amps each at temperatures well below freezing, so I suspected we had a problem.  Doing a tactile check on the pads confirmed my suspicions, as I could not detect any heat on the pads anywhere.  
 I can’t say that they have ever worked – the only other time I used them we were popping up above freezing during the daytime hours, so the risk to the tanks was low - but thinking about it later, the current draw at that time was only about 2 amps as well.   
 
