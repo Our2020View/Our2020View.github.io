@@ -14,6 +14,8 @@ If you are swapping out your batteries to lithium or AGM, then this install fits
 
 Have a look at the next photo - in the View / Navion there are a total of four existing ground wires that have to be taken into account.  One of the existing Winnebago grounding cables comes out of the left hand hole in the battery box (Gnd 1) , the second and third existing grounding cables come from the right hand hole in the battery box (Gnd 2 & 3), and all three will be grouped together and attached to the right hand terminal of the shunt.  The fourth is the paralleling ground wire between the two batteries - this one stays where it is.
 
+Original Winnebago cable configuration:
+
 <img src="/assets/webgroundcablestext.jpg"/>
 
 Here is a view of the shunt install, looking straight down into the battery box:  
