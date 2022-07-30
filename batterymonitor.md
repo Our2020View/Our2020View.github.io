@@ -32,11 +32,7 @@ Aother shot of the completed installation - this one has the temperture probe le
 
 <img src="/assets/1victronweb.jpg"/>
 
-So, I forgot to tell you that I purchased the temperature sensor as well.  I wanted to keep an eye on the battery temperature, knowing that we were venturing out into the cold.  It worked very well, and configuring the app to read this sensor was easy.  Now, you are just reading the temperature of one of the positive battery posts - but I guess that is pretty close to internal battery temperture.  I noticed that that the batteries start accepting a charge when my post temperture reaches -2 C.
-
-Here is what the app is showing you if you purchase the BMV 712:
-
-<img src="/assets/BMVreading2web-.jpg"/>
+(So, I forgot to tell you that I purchased the temperature sensor as well.  I wanted to keep an eye on the battery temperature, knowing that we were venturing out into the cold.  It worked very well, and configuring the app to read this sensor was easy.  Now, you are just reading the temperature of one of the positive battery posts - but I guess that is pretty close to internal battery temperture.  I noticed that that the batteries start accepting a charge when my post temperture reaches -2 C.)
 
 The Victron gauge install in the panel above the cooktop was a little more extensive than the EMS gauge install, but more or less the same idea.  From the battery box I fed the BMV cable out through the left hand side cable entry, and drilled a hole in the neighboring locker near where the cables feeding the inverter can be found.  (I filled the hole with silicon caulking to ensure the locker remained sealed.) 
 
@@ -69,6 +65,10 @@ I did this gauge install in conjuction with the gauge install for the EMS, so I 
 <img src="/assets/Finished-panel-web.jpg"/>
 
 I gave the decision to purchase the 712 instead of the 702 considerable thought, and elected on the Bluetooth connectivity feature.  I wasn’t sure if it would be useful, but ended up being sold on the easy method of updating the operating software.  And, it turns out, those software updates were very easy.  During the install, the first time I opened the app, it asked if I wanted to update and get things going.  Also, it turns out the decision go have the data on my phone was a very good idea.  The phone app provides a very intuitive interface, and allows for quick retrieval of information at a glance.  During the winter dry camping we did, I was constantly on the app monitoring what was going on to ensure we didn’t end up with a plumbing freeze up (see “Cold Weather Capability” and “Lithium Battery Heater”)
+
+Here is what the app is showing you if you purchase the BMV 712:
+
+<img src="/assets/BMVreading2web-.jpg"/>
 
 All in all, we are very happy with this purchase.  Working as advertised.
 
