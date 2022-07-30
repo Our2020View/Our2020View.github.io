@@ -22,7 +22,7 @@ Here is a view of the shunt install, looking straight down into the battery box:
 
 <img src="/assets/web2victrontextV2.jpg"/>
 
-You can see I positioned the shunt just off centre, in order to make the ground cables all fit comfortably.  The ground cable that comes from the coach into the battery box from the left side is in a plastic loom, as are the two ground cables that come from the coach into the battery box from the right side -  and all are attached to the right post of the shunt.  The fourth ground cable on the left post of the shunt is NEW, and is not in a plastic loom.  It hooks up directly to the negative post of the left battery and is the only external ground cable that connects to the battery bank.  
+You can see I positioned the shunt just off centre, in order to make the ground cables all fit comfortably.  The ground cable that comes from the coach into the battery box from the left side is in a plastic loom, as are the two ground cables that come from the coach into the battery box from the right side -  and all are attached to the right post of the shunt.  The ground cable on the left post of the shunt is NEW, and is not in a plastic loom.  It hooks up directly to the negative post of the left battery and is the only external ground cable that connects to the battery bank.  
 
 Here is a shot of the stair riser, or the front of the battery box, with the bolt heads that attach the Victron shunt to the inside of the step riser:
 
