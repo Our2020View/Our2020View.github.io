@@ -6,4 +6,4 @@ permalink: /imagetestpage/
 
 This is a test page
 
-<img src="/assets/webammeterdiagramV4.jpg"/>
+<img src="/assets/webgroundcablestext.jpg"/>
