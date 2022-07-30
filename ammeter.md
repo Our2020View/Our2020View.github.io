@@ -61,6 +61,10 @@ The left hand bronze terminal takes Wire #1 from the output of the relay down in
 
 (I checked to see if this thing was going to work by hooking up a test 12 volt light bulb circuit in the basement, and am happy to say that it correctly showed a voltage and an appropriate load.)
 
+Here is a wireing diagram of what I think I will end up with - I left out all of the irrelevant ground wires, and concentrated just on the new wires I will need to add:
+
+<img src="/assets/webammeterdiagramV5.jpg"/>
+
 The web reports that these Therma Heat holding tank heater pad thermostats close their contactor at a temperature of 45 degrees F (7 degrees C) as things cool, and have a turn off temperature of 67 degrees F (19 degrees C) as things warm.  As I mentioned before, my assumption in all of this has been that I have a wiring issue, and not a problem associated with these two thermostats.
 
 So, that is where I am as of July 2022.  Hopefully I will be able to continue my tank heater troubleshooting at some point soon.  
