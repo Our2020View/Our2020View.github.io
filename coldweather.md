@@ -133,6 +133,12 @@ I opted for just heating the gate valves because I was not real crazy about the 
 
 The general concept for the installation was adding a fuse and wiring to the 12 volt fuse panel, running the wires under the bed, under the shower, and then down into the electrical cord storage bay, sticking on the adhesive backed heaters, adding a couple of switches in the wet bay to be able to control the gate valve and gate tower heat independently, wiring it all up, and then adding some insulation and weather protection to the gate valve areas.
 
+Here is how I wired things up:
+
+<img src="/assets/webgateheatdiagram.jpg"/>
+
+I wired the two types of heating pads up independently, at the recommendation of Ultra Heat.  They said the gate valve heaters were higher power, and were designed to be used only for a short period of time to prevent damage to the gate valve.  My experiments did not support this, as they pulled the same current as the elbow heaters I used on the gate body.  The total draw when both switches are on is about 5 amps, and all four pads are providing only a gentle heat.  As a result, I have been turning the heat pads on about an hour in advance of a dump and things have been working out just fine.
+
 A few pictures to make things clearer:
 
 The wires from the fuse panel came into the electrical bay via the hole in the floor under the shower ...
