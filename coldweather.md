@@ -137,7 +137,7 @@ Here is how I wired things up:
 
 <img src="/assets/webgateheatdiagram.jpg"/>
 
-I wired the two types of heating pads up independently, at the recommendation of Ultra Heat.  They said the gate valve heaters were higher power, and were designed to be used only for a short period of time to prevent damage to the gate valve.  The product packaging reflects this intent, but my experiments did not support this - as they pulled the same current as the elbow heaters I used on the gate body.  The total draw when both switches are on is about 5 amps, and all four pads are providing only a gentle heat.  As a result, I have been turning the heat pads on about an hour in advance of a dump and things have been working out just fine.
+I wired the two types of heating pads up independently, at the recommendation of Ultra Heat.  They said the gate valve heaters were higher power, and were designed to be used only for a short period of time to prevent damage to the gate valve.  The product packaging reflects this intent, but my experiments did not support this -  they pulled the same current as the elbow heaters I used on the gate body.  The total draw when both switches are on is about 5 amps, and all four pads are providing only a gentle heat.  As a result, I have been turning the heat pads on about an hour in advance of a dump and things have been working out just fine.
 
 A few pictures to make things clearer:
 
