@@ -13,7 +13,7 @@ This is the switch I chose:
 
 The switch will see less than 15 amps from our two 100 watt panels, but I used #10 / 30 amp wire to give plenty of margin and to match the controller's rating.  (The Zamp solar kit that is supplied to Winnebago uses #8 / 40 amp wire, to cater for higher current systems that some RVs install.)  In addition, the current rating on this switch is more than plenty for the loads that will be routinely seen.
 
-This drawing shows how the switch was wired up:
+This drawing shows how the switch was wired up - the red wires are the only addition to the Winnebago setup:
 
 <img src="/assets/websolardrawing.jpg"/>
 
