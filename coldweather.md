@@ -157,7 +157,7 @@ After the heating pad installation, the wires were all gathered up and connected
 
 <img src="/assets/webvalveheat1.jpg"/>
 
-After it was all tested, I added some Reflectix insulation and enclosed both valves in a plactic wrap:
+After it was all tested, I added some insulation and enclosed both valves in a plactic wrap:
 
 <img src="/assets/webvalveheat2.jpg"/>
 
