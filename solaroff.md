@@ -15,7 +15,7 @@ The switch will see less than 15 amps from our two 100 watt panels, but I used #
 
 This drawing shows how the switch was wired up (only the input side of the controller is shown) - the red wires are the only addition to the Winnebago setup:
 
-<img src="/assets/websolardrawing.jpg"/>
+<img src="/assets/websolardrawingV2.jpg"/>
 
 The installation was generally straightforward, but there was some workload involved with fishing the switch wires, and splicing the connections to the solar input wire.  Overall, the concept involved finding the solar input wire to the controller, cutting it, splicing two new wires to the severed ends, and then running them in tandem to the remote location of the switch under the bed.
 
