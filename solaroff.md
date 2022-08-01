@@ -47,7 +47,7 @@ The other wires involved were new, and I needed about 15’ of red # 10 wire to 
 
 Once I had the two new red wires running from the Truma area to the top of the fridge, I cut the black Zamp # 8 solar input wire and proceeded to splice each red # 10 wire to each end of the severed solar input wire.  Due to the size of the wires concerned (a # 8 and a # 10 splice), this was a bit awkward.  Ideally I would have liked to use splice connectors that a pro would have been proud of, but I couldn’t find a handy source locally that made this practical.  I resorted to using wire nuts, even though I knew that RV professionals frown on this method due to the possibility of the wire nut backing off during potential road vibration.  However, I did some research online and was eventually comforted by the technique this video gave me:
 
-[Large diameter Wire Splicing](https://www.youtube.com/watch?v=Ha2KEKzvJL8)
+[Large diameter Stranded Wire Splicing](https://www.youtube.com/watch?v=Ha2KEKzvJL8)
 
 The wire nuts used in the above video are similar to these:
 
