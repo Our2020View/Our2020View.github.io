@@ -145,11 +145,11 @@ The wires from the fuse panel came into the electrical bay via the hole in the f
 
 <img src="/assets/webdumpvalveheat2.jpg"/>
 
-and then went to the switches in the wet bay ...
+and then went to the switches in the wet bay through the holes where my stabilizer switches were once located.  You could drill a hole here easily enough ...
 
 <img src="/assets/webswitchpanel2.jpg"/>
 
-and then back outside the electrical bay to connect to the heaters via a hole I drilled in the back wall:
+and then the wiring went back outside the electrical bay to connect to the heaters via a hole I drilled in the back wall:
 
 <img src="/assets/webdumpvalveheat3.jpg"/>
 
