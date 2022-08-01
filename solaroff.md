@@ -13,6 +13,10 @@ This is the switch I chose:
 
 The switch will see less than 15 amps from our two 100 watt panels, but I used #10 / 30 amp wire to give plenty of margin and to match the controller's rating.  (The Zamp solar kit that is supplied to Winnebago uses #8 / 40 amp wire, to cater for higher current systems that some RVs install.)  In addition, the current rating on this switch is more than plenty for the loads that will be routinely seen.
 
+This drawing shows how the switch was wired up:
+
+<img src="/assets/websolardrawing.jpg"/>
+
 The installation was generally straightforward, but there was some workload involved with fishing the switch wires, and splicing the connections to the solar input wire.  Overall, the concept involved finding the solar input wire to the controller, cutting it, splicing two new wires to the severed ends, and then running them in tandem to the remote location of the switch under the bed.
 
 I started by heading up to the roof to unplug the two solar panels from the plug box.  (This is a highly recommended step, as depending where you are on the planet and what your current weather is ... your panels could be outputting quite a bit of current.)  Back down in the coach, I confirmed that there was no solar input to the controller.  
