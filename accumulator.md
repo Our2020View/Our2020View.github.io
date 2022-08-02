@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Accumulator Tank
+title: RV Accumulator Tank | RV Mods
 permalink: /ourmods/accumulator/
 ---
 
