@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Truma Water Heater Bypass
+title: Truma Water Heater Bypass | RV Mods
 permalink: /ourmods/heaterbypass/
 ---
 
