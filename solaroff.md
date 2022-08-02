@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Roof Solar Off Switch
+title: Roof Solar Off Switch | RV Mods
 permalink: /ourmods/solaroff/
 ---
 Our View did not come with a method to easily isolate the rooftop solar panels from the coach.  During the times when I wanted to ensure the solar was not attempting to push current into the batteries – puttering around in the battery box, attempting to quantify the amount of load a system was pulling, or closing up the coach for the winter – I had to resort to climbing up onto the roof and pulling the plugs on the two panels.  Ok, not a big deal when the roof is dry, but a whole different story when the roof is ice or frost covered!  Earlier this winter, as I was sliding back to the rear of the motorhome with no control of my trajectory and potential impending doom, I started thinking ... “there must be a better way!”
