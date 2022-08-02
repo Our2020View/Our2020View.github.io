@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Electrical Information
+title: Electrical Information | RV Mods
 permalink: /ourmods/electrical/
 ---
 
