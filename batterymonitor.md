@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Battery Monitor
+title: RV Battery Monitor | RV Mods
 permalink: /ourmods/batterymonitor/
 ---
 
