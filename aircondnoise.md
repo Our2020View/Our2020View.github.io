@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Quieter Cooling
+title: RV Quieter Cooling | RV Mods
 permalink: /ourmods/aircondnoise/
 ---
 We have a Coleman Mach 10 air conditioner in our View, and were a bit startled when we realized we couldn’t sit at the table and have a normal conversation when the unit was cooling the coach.  It certainly was dumping out cool air, but the noise level associated with its use was not acceptable.  I started looking for a solution when we found ourselves debating if we really needed to run the AC or just use some fans...
