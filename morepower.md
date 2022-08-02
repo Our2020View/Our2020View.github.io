@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Extra Power Outlets
+title: RV Extra Power Outlets | RV Mods
 permalink: /ourmods/morepower/
 ---
 
