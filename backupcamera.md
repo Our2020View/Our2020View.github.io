@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Backup Camera Replacement | RV Mods
+title: RV Camera Replacement | RV Mods
 permalink: /ourmods/backupcamera/
 ---
 Our Winnebago View came out of the factory with a large smudge on the inside of the backup camera lens, which made the picture somewhat unusable.  After backing into a low hanging tree limb and doing some damage to our top rear roof trim cap - on our very first camping trip - I decided that we’d need to get a better picture out of the camera.  The dealer was quoting a 6 – 8 week booking delay, and then indicated that they would have the motor home for about a month.  Not ideal...
