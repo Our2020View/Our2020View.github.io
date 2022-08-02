@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Borg Extra Long Valve Stems
+title: RV Borg Extra Long Valve Stems | RV Mods
 permalink: /ourmods/valvestems/
 ---
 
