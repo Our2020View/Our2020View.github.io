@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Weight Reduction
+title: RV Weight Reduction | RV Mods
 permalink: /ourmods/weightreduction/
 ---
 
