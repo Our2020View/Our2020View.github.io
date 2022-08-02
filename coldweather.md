@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Cold Weather Capability
+title: RV Cold Weather Capability | RV Mods
 permalink: /ourmods/coldweather/
 ---
 <img src="/assets/webcoldweatherheader.jpg"/>
