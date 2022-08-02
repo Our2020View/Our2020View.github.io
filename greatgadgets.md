@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Great Gadgets
+title: RV Great Gadgets | RV Mods
 permalink: /ourmods/greatgadgets/
 ---
 <h3>Spot GPS Transmitter / Messenger</h3>
