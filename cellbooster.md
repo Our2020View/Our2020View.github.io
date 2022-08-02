@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Cellular Booster
+title: RV Cellular Booster | RV Mods
 permalink: /ourmods/cellbooster/
 ---
 
