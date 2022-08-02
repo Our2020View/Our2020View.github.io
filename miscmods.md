@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Miscellaneous Mods
+title: RV Miscellaneous Mods | RV Mods
 permalink: /ourmods/miscmods/
 ---
 Here are some mods that did not qualify for their own page:
