@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Better Sprinter Sound Quality
+title: Better Sprinter Sound Quality | RV Mods
 permalink: /ourmods/speakerfix/
 ---
 
