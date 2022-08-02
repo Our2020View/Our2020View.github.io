@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rustproofing
+title: RV Rustproofing | RV Mods
 permalink: /ourmods/rustproofing/
 ---
 
