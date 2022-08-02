@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dedicated 20 Amp RV Circuit
+title: Dedicated 20 Amp RV Circuit RV Mods
 permalink: /ourmods/20ampcircuit/
 ---
 
