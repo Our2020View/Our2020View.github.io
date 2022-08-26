@@ -44,6 +44,8 @@ This diagram shows my understanding of the original Winnebago system:
 
 After I put some ice on the pad wiring, or wait until the cool weather, I’ll be able to determine if my problem was a corroded relay, a loose connector, or something else.  If it is the “something else”, I think my only recourse will be to replace the wiring to the pads downstream of the connector.
 
+The Mod
+
 Back to the ammeter mod this page is supposed to be about.  Now knowing the system has a relay has saved me a bunch of time and trouble.  My old plan of hooking up the ammeter was never going to work, so on to Plan B.
 
 I still would like to put the gauge in the cabinet above the cooktop, so here is what I need to do:
