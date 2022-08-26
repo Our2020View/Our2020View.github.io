@@ -62,7 +62,7 @@ Doing all of this really only leaves the wetbay connector performing one job –
 
 The vendor I purchased my ammeter from did not provide any instructions, but I found the info I needed on another vendor’s advertisement of the same type of product.  Here is an illustration of how the ammeter gets connected:
 
-<img src="/assets/webammeterdiagram.jpg"/>
+<img src="/assets/webammeterdiagram2.jpg"/>
 
 The left hand bronze terminal takes Wire #1 from the output of the relay down in the wetbay, the middle silver terminal takes the new ground Wire #2 from the heating pads, and the right hand silver terminal takes the new ground Wire #3 that goes down to the grounding post on the fuse box.  
 
