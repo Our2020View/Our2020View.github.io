@@ -4,7 +4,7 @@ title: Holding Tank Heater Ammeter | RV Mods
 permalink: /ourmods/ammeter/
 ---
 
-Note:  I have not completely finished this mod yet - I'm still troubleshooting a wiring snag that came from the factory.  But, I'm almost there so hope to have this hooked up soon... Christmas is coming.  I've detailed the troubleshooting process in case you ended up on this page due to a snag of your own involving the tank heaters from Winnebago.
+Note:  I have not completely finished this mod yet - I'm still troubleshooting a wiring snag that came from the factory.  But, I'm almost there so hope to have this hooked up soon... Christmas is coming.  I've detailed the troubleshooting process in case you ended up on this page due to a snag of your own involving the tank heaters from Winnebago.  If your tank heaters are working, go ahead and scroll down to the details of the mod...
 
 <h3>Trouble-shooting the factory snag</h3>
 
