@@ -66,8 +66,6 @@ The vendor I purchased my ammeter from did not provide any instructions, but I f
 
 The left hand bronze terminal takes Wire #1 from the output of the relay down in the wetbay, the middle silver terminal takes the new ground Wire #2 from the heating pads, and the right hand silver terminal takes the new ground Wire #3 that goes down to the grounding post on the fuse box.  
 
-(I checked to see if this thing was going to work by hooking up a test 12 volt light bulb circuit in the basement, and am happy to say that it correctly showed a voltage and an appropriate load.)
-
 Here is a wiring diagram of what I think I will end up with - I left out all of the irrelevant ground wires, and concentrated just on the new wires I will need to add:
 
 <img src="/assets/webammeterdiagramV5.jpg"/>
