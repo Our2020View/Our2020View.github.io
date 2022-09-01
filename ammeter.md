@@ -48,7 +48,9 @@ After I put some ice on the pad wiring, or wait until the cool weather, I’ll b
 
 <h3>The Ammeter Mod</h3>
 
-Back to the ammeter mod this page is supposed to be about.  Now knowing the system has a relay has saved me a bunch of time and trouble.  My old plan of hooking up the ammeter was never going to work, so on to Plan B.
+Back to the ammeter mod this page is supposed to be about.  Figuring out the system has a relay saved me a bunch of time and trouble.  My old plan of hooking up the ammeter was never going to work, so on to Plan B.
+
+As discussed above, how do you know the holding tank heaters are actually working?  The light in the switch just tells you that the switch has changed positions, and maybe water pump circuit power is being sent to the holding tank heater relay down in the wet bay area.  Having a gauge that lights up only if the relay allows holding tank heater circuit power to flow to the pads, and will only show a current draw if the pad thermostats are allowing power to the pads, is what this mod is all about...
 
 I still would like to put the gauge in the cabinet above the cooktop, so here is what I need to do:
 
