@@ -54,7 +54,7 @@ As discussed above, how do you know the holding tank heaters are actually workin
 
 I still would like to put the gauge in the cabinet above the cooktop, so here is what I need to do:
 
-1 – Power the gauge from the output of the relay, so the voltage will show up on the gauge only when the switch is thrown and the relay tries to send power to the pads.  Doing it this way will always confirm if the relay has worked.  I’ll need to splice into the relay output downstream of the connector, and send the wire out of the wetbay via the hole in the floor under the shower, under the bed, up to the top of the fridge, and then into the cooktop cabinet to be connected to the gauge.  Let's call this Wire #1.
+1 – Power the gauge from the output of the relay, so the gauge will only light up when the switch is thrown and the relay actually sends power to the pads.  Doing it this way will always confirm if the relay has worked.  I’ll need to splice into the relay output downstream of the connector, and send the wire out of the wetbay via the hole in the floor under the shower, under the bed, up to the top of the fridge, and then into the cooktop cabinet to be connected to the gauge.  Let's call this Wire #1.
 
 2 – Take the ground exiting the pads, sever its return path through the wetbay connector, splice it to a new grounding wire, have it follow the same path as the power wire described above, and connect it to the gauge.  Let' call this Wire #2.
 
