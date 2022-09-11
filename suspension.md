@@ -37,7 +37,7 @@ Here are the installation instructions for each mod:
 
 [Hellwig Sway Bar for VS30 Sprinter]( https://www.hellwigproducts.com/wp-content/uploads/product-digital-assets/135007777.PDF)
 
-Well, I got ‘er done in about six hours – both the shock and sway bar installation.  However - it was an awful lot of restricted area manoeuvring with the View flat on the driveway – tool manipulation was tough due to limited options caused by the chassis being so low to the ground – using a floor jack to compress the shock was very tricky without a helper – and that sway bar is pretty heavy to be jostling around in a confined area and difficult to get started with just one hand.  Would I do it again?  Probably not.  No, I think if I had to do it again I would just pay the 300 bucks to have the local garage do it for me.  But, that’s just me.
+Well, I got ‘er done in about six hours – both the shock and sway bar installation.  However - it was an awful lot of restricted area extremely awkward manoeuvring with the View flat on the driveway – tool manipulation was tough due to limited options caused by the chassis being so low to the ground – using a floor jack to compress the shock was very tricky without a helper – and that sway bar is pretty heavy to be jostling around in a confined area and difficult to get started with just one hand.  Would I do it again?  Probably not.  No, I think if I had to do it again I would just pay the 300 bucks to have the local garage do it for me.  But, that’s just me.
 
 <h4>Performance</h4>
 
