@@ -176,6 +176,24 @@ C'mon, is this really a mod?  Well, officially it fits the definition - because 
 
 We keep the knob in a drawer in case we ever need it, and store the counter surface underneath the sink when travelling.  If the shelf had not worked out, my Plan B was to find a cutting board of similar dimensions and stain it to match the interior.  (We had been using one of the sink covers to do this job, but having a surface of larger dimensions has made for a more practical work area.)  Now, there might be a mod to this mod coming up - you'll note that if the surface was a bit longer, it would nicely capture some of the unuseable counter top at the edge.  Maybe a suitable cutting board, stained to match, with a foot at each end for stability?  Hmmmm....
 
+<h3> Shower Cold Water Blast Fix</h3>
+
+This was an easy fix for a very annoying problem – that blast of cold water you get when you turn the shower head back on as you start to rinse off.  I’d gotten in the habit of turning the shower head off and then aiming the shower head at the wall, to prepare for eventually turning it back on.  But, why waste the water?  And you still get sprayed a bit by the initial blast of cold water...
+
+So, as usual, James at the FitRV has been way ahead of me for years.  I knew he had solved the problem a while back, but I only recently got around to searching for his fix.  His solution involves two components: a shutoff valve that does not intentionally leak, and a one-way check valve attached to the hot water line.  My solution does not involve the one-way check valve on the hot water line, but have a look at this post from the FitRV to see James’ full mod:
+
+[The FitRV Solution to shower cold water blasts](https://www.thefitrv.com/rv-tips/how-to-fix-the-cold-water-blast-in-your-rv-shower/)
+
+I purchased both of the recommended components, but while I was waiting for delivery - I did some more thinking.  With a shutoff valve that is intentionally designed to leak, I can see how higher pressure cold water would continue to force itself up the shower head hose and leak out.  The result is the shower head hose gets full of cold water (if your RV, like ours, has higher cold water delivery pressure than the hot) and upon opening the shutoff valve to rinse off, the hose has to empty of the cold water before you get some hot water back in the hose.  Sure, I get that.
+
+But, we’ve got a Moen residential type shower faucet control in our View... so why would that be any different than our shower at home when it comes to requiring a check valve in the hot water supply?  As a test, I installed the new shutoff valve on a home shower to check this theory, and sure enough, found that both hot and cold water remained in the shower hose and the plumbing leading up to the faucet control, just has it had been left.  I’m thinking that James’ shower controls on his Travato might have set him up for needing a check valve installed in the hot water line, but on our View it is not required – all we needed was a real shutoff valve.  No more leaking shower head with a hose that is filling with cold water – this new shutoff valve is a solid closure and traps shower temperature water in the hose.  And, our View’s plumbing configuration does not somehow let the cold water overpower / back-drive the hot water in the coach’s plumbing system, so no matter how long your lather-up is you will always have shower temperature water when you open up this new shutoff valve.
+
+If you’ve got a View / Navion there is a good chance all you will need is one of these to solve your “blast of cold water in the shower” problem:
+
+Photo of valve
+
+[Shower Head Shutoff Valve]( https://www.amazon.ca/gp/product/B00VCL5DRG/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
+
 <br>
 <br>
 
