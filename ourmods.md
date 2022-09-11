@@ -287,7 +287,16 @@ Here are the mods that we have implemented, or have in the planning stages, to i
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/valvestems/'"> READ MORE </button> 
   </div>
-</div>
+  <div class="column" style="background-color:white;">
+    <h3>Rustproofing</h3>
+    <p>The Process</p>
+    <img src="/assets/Krown.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="height:40px;width:200px;background-color:green; color:white"
+            onclick="location.href = '/ourmods/rustproofing/'"> READ MORE </button>
+  </div>
+ </div>
   
   <h1> Miscellaneous Mods</h1>
   <p>Mods are Go</p>
