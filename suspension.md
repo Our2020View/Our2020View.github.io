@@ -27,7 +27,7 @@ It looks like the Newstate Nomads did these mods with their View flat on the gro
 
 [Newstate Nomads suspension upgrades](https://www.youtube.com/watch?v=qAgmxMrXjSQ)
 
-And here is another helpful video from “rv life diy” that makes the sway bar install look pretty straightforward, but note he has used his leveling system to get some extra room under there...
+And here is another helpful video from “rv life diy” that makes the sway bar install look pretty straightforward, but note he has used his coach leveling system to get some extra room under there...
 
 [rv life diy Hellwig Sway Bar install](https://www.youtube.com/watch?v=boZY0rIXuFM&t=110s)
 
