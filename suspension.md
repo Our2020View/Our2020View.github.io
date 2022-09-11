@@ -23,8 +23,6 @@ I got lucky on the parts and found sources for each up here in Canada, and recei
 
 Everything I have read regarding the DIY installation of both of these components has indicated that it is not too bad of a job.  There are lots of videos on YouTube for each of these installations, and certainly with the capability to get the rear end elevated a bit – I’m guessing that the job is made quite a bit easier.  Our installation was done with the View flat on the driveway, with no elevation of any kind.  Also, I did not have a helper for either job, and I had no prior experience doing chassis mods like these.
 
-Well, I got ‘er done in about six hours – both the shock and sway bar installation.  However - it was an awful lot of restricted area manoeuvring with the View flat on the driveway – tool manipulation was tough due to limited options caused by the chassis being so low to the ground – using a floor jack to compress the shock was very tricky without a helper – and that sway bar is pretty heavy to be jostling around in a confined area and difficult to get started with just one hand.  Would I do it again?  Probably not.  No, I think if I had to do it again I would just pay the 300 bucks to have the local garage do it for me.  But, that’s just me.
-
 It looks like the Newstate Nomads did it with their View flat on the ground too; here is the video that gave me reason to give both these installations a try:
 
 [Newstate Nomads suspension upgrades](https://www.youtube.com/watch?v=qAgmxMrXjSQ)
@@ -38,6 +36,8 @@ Here are the installation instructions for each mod:
 [Agile Off Road AO Fox 2.5 shocks]( https://agileoffroad.com/wp-content/uploads/2022/05/Sprinter-3500-Rear-Shock-Installation-Guide2.pdf)
 
 [Hellwig Sway Bar for VS30 Sprinter]( https://www.hellwigproducts.com/wp-content/uploads/product-digital-assets/135007777.PDF)
+
+Well, I got ‘er done in about six hours – both the shock and sway bar installation.  However - it was an awful lot of restricted area manoeuvring with the View flat on the driveway – tool manipulation was tough due to limited options caused by the chassis being so low to the ground – using a floor jack to compress the shock was very tricky without a helper – and that sway bar is pretty heavy to be jostling around in a confined area and difficult to get started with just one hand.  Would I do it again?  Probably not.  No, I think if I had to do it again I would just pay the 300 bucks to have the local garage do it for me.  But, that’s just me.
 
 <h4>Performance</h4>
 
