@@ -11,13 +11,13 @@ Sumo Springs, Koni shocks, Hellwig sway bars, Agile Off Road Fox shocks, Bilstei
 
 The information found on the above page was very helpful, and when taking into account the other information on the Winnebago Forum, it became an easy decision for me:
 
-1 – Agile Off Road AO Fox 2.5 Sprinter 3500 rear shocks
+ <h3>1 – Agile Off Road AO Fox 2.5 Sprinter 3500 rear shocks</h3>
 
-2 – Hellwig sway bar for a VS30 Sprinter (2019 – to present) Part number 7777  (Part number 7254 for the pre 2019  Sprinter 3500 chassis)
+<h3>2 – Hellwig sway bar for a VS30 Sprinter (2019 – to present) Part number 7777  (Part number 7254 for the pre 2019  Sprinter 3500 chassis)</h3>
 
 I got lucky on the parts and found sources for each up here in Canada, and received them within a week of ordering them.
 
-Installation
+<h3>Installation</h3>
 
 Everything I have read regarding the DIY installation of both of these components has indicated that it is not too bad of a job.  There are lots of videos on YouTube for each of these installations, and certainly with the capability to get the rear end elevated a bit – I’m guessing that the job is made quite a bit easier.  Our installation was done with the View flat on the driveway, with no elevation of any kind.  Also, I did not have a helper for either job, and I had no prior experience doing chassis mods like these.
 
@@ -37,6 +37,6 @@ Here are the installation instructions for each mod:
 
 [Hellwig Sway Bar for VS30 Sprinter]( https://www.hellwigproducts.com/wp-content/uploads/product-digital-assets/135007777.PDF)
 
-Performance
+<h3>Performance</h3>
 
 It is still too early for us to determine if these mods have helped the wind and semi truck sway issues at highway speeds as much as everyone else has reported, but the testing we have done in parking lots and city streets over speed bumps taken on the diagonal have indicated that the reduction in lateral damping is phenomenal compared to what it used to be.  Things are looking good.  I’ll update this page when we have got some miles under our belts and real world highway experience.
