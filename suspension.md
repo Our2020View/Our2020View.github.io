@@ -41,4 +41,4 @@ Well, I got ‘er done in about six hours – both the shock and sway bar instal
 
 <h4>Performance</h4>
 
-It is still too early for us to determine if these mods have helped the wind and semi truck sway issues at highway speeds as much as everyone else has reported, but the testing we have done in parking lots and city streets over speed bumps taken on the diagonal have indicated that the reduction in lateral damping is phenomenal compared to what it used to be.  Things are looking good.  I’ll update this page when we have got some miles under our belts and real world highway experience.
+It is still too early for us to determine if these mods have helped the wind and semi truck sway issues at highway speeds as much as everyone else has reported, but the testing we have done in parking lots and city streets over speed bumps taken on the diagonal have indicated that the reduction in lateral sway is phenomenal compared to what it used to be.  Things are looking good.  I’ll update this page when we have got some miles under our belts and real world highway experience.
