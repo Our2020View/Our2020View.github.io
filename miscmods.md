@@ -190,9 +190,11 @@ But, we’ve got a Moen residential type shower faucet control in our View... so
 
 If you’ve got a View / Navion there is a good chance all you will need is one of these to solve your “blast of cold water in the shower” problem:
 
+[Shower Hose Shutoff Valve]( https://www.amazon.ca/gp/product/B00VCL5DRG/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
+
 <img src="/assets/webshutoffvalve2.jpg"/>
 
-[Shower Hose Shutoff Valve]( https://www.amazon.ca/gp/product/B00VCL5DRG/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
+It works great!
 
 <br>
 <br>
