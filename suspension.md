@@ -11,9 +11,9 @@ Sumo Springs, Koni shocks, Hellwig sway bars, Agile Off Road Fox shocks, Bilstei
 
 The information found on the above page was very helpful, and when taking into account the other information on the Winnebago Forum, it became an easy decision for me:
 
- <h5>1 – Agile Off Road AO Fox 2.5 Sprinter 3500 rear shocks</h5>
+1 – Agile Off Road AO Fox 2.5 Sprinter 3500 rear shocks
 
-<h5>2 – Hellwig sway bar for a VS30 Sprinter (2019 – to present) Part number 7777  (Part number 7254 for the pre 2019  Sprinter 3500 chassis)</h5>
+2 – Hellwig sway bar for a VS30 Sprinter (2019 – to present) Part number 7777  (Part number 7254 for the pre 2019  Sprinter 3500 chassis)
 
 I got lucky on the parts and found sources for each up here in Canada, and received them within a week of ordering.
 
