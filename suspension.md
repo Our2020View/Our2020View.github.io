@@ -7,7 +7,7 @@ After coming home from a two month trip where we faced extremely strong crosswin
 
 Sumo Springs, Koni shocks, Hellwig sway bars, Agile Off Road Fox shocks, Bilstein shocks... there are a number of options out there that are recommended as easy upgrades.  But which to choose?  The Winnebago Forum seems to have an overwhelming majority vote for the Agile Off Road Fox 2.5 shocks as a must have, and then folks seem to either upgrade the sway bar or replace the factory rubber stop blocks with Sumo Springs.  I always look for well presented facts when surfing for RV mod info, and not surprisingly this particular site had a very good story for the suspension upgrade configuration that was chosen for their View:
 
-[View Navion | website suspension mod](https://www.viewnavion.com/mods/suspension)
+[View Navion website suspension mod](https://www.viewnavion.com/mods/suspension)
 
 The information found on the above page was very helpful, and when taking into account the other information on the Winnebago Forum, it became an easy decision for me:
 
