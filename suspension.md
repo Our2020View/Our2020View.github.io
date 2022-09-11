@@ -23,7 +23,7 @@ I got lucky on the parts and found sources for each up here in Canada, and recei
 
 Everything I have read regarding the DIY installation of both of these components has indicated that it is not too bad of a job.  There are lots of videos on YouTube for each of these installations, and certainly with the capability to get the rear end elevated a bit – I’m guessing that the job is made quite a bit easier.  Our installation was done with the View flat on the driveway, with no elevation of any kind.  Also, I did not have a helper for either job, and I had no prior experience doing chassis mods like these.
 
-It looks like the Newstate Nomads did it with their View flat on the ground too; here is the video that gave me reason to give both these installations a try:
+It looks like the Newstate Nomads did these mods with their View flat on the ground too; here is the video that gave me reason to give both these installations a try:
 
 [Newstate Nomads suspension upgrades](https://www.youtube.com/watch?v=qAgmxMrXjSQ)
 
