@@ -3,7 +3,7 @@ layout: page
 title: RV Sprinter Suspension Upgrades | RV Mods
 permalink: /ourmods/suspension/
 ---
-After coming home from a two month trip where we faced extremely strong crosswinds while crossing the prairies, and excessive amounts of daily activations of the dreaded crosswind assist and stability control “features” of the Sprinter chassis, I started thinking about those Sprinter suspension upgrades that the Internet is so fond of.
+After coming home from a two month trip where we faced extremely strong crosswinds while crossing the prairies, and excessive amounts of daily activations of the dreaded crosswind assist and stability control “features” of the Sprinter chassis, I started thinking about those Sprinter suspension upgrades that the Internet is so fond of...
 
 Sumo Springs, Koni shocks, Hellwig sway bars, Agile Off Road Fox shocks, Bilstein shocks... there are a number of options out there that are marketed as easy upgrades.  But which to choose?  The Winnebago Forum seems to have an overwhelming majority vote for the Agile Off Road Fox 2.5 shocks as a must have, and then folks seem to either upgrade the sway bar or replace the factory rubber stop blocks with Sumo Springs.  I always look for well presented facts when surfing for RV mod info, and not surprisingly this particular site had a good story for the suspension upgrade configuration that was chosen for their View:
 
