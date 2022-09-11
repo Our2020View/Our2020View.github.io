@@ -9,7 +9,7 @@ Sumo Springs, Koni shocks, Hellwig sway bars, Agile Off Road Fox shocks, Bilstei
 
 [View Navion website suspension mod](https://www.viewnavion.com/mods/suspension)
 
-The information found on the above page was very helpful, and when taking into account the other information on the Winnebago Forum, it became an easy decision for me:
+The real world experience information found on the above page was valuable, and when taking into account the other information on the Winnebago Forum, it became an easy decision for me:
 
 1 – Agile Off Road AO Fox 2.5 Sprinter 3500 rear shocks
 
