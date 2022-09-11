@@ -289,7 +289,7 @@ Here are the mods that we have implemented, or have in the planning stages, to i
   </div>
   <div class="column" style="background-color:white;">
     <h3>Suspension</h3>
-    <p>Shocks and Swaybar</p>
+    <p>Shocks and Sway Bar</p>
     <img src="/assets/webshocks.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
