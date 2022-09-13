@@ -3,7 +3,9 @@ layout: page
 title: Stabilizer Removal | RV Mods
 permalink: /ourmods/stabilizers/
 ---
-Have not done this yet ...
+Just finished this one.  I'll have the details up in a bit.
+
+(It wa easy...)
 
 <br>
 
