@@ -35,7 +35,7 @@ James from the FitRV has a great writeup on this topic about Class Cs built on t
 So, back to a weight reduction program.  Is there anything on the View that we don’t need, something that we would be carrying around with no use?  It turns out that there might be:
 
 1.	Lead Acid Coach Batteries – Replace them with Lithium and save about 60 lbs?
-2.	Remove the rear stabilizers – We can’t see ever using these
+2.	Remove the rear stabilizers – We have never used these
 3.	Remove the two TVs? – Well, maybe one TV.  We’ll see...
 4.	Remove the ladder to the front bunk?
 5.	Remove the Sprinter cab booster seats? – Not required
@@ -48,9 +48,11 @@ Lithium batteries - saved 53 lbs
 
 Cab cushions, ottoman removal, bedroom TV, and ladder - saved 36 lbs
 
-89 pounds... not very much; a medium sized child or a big dog.  I'd really like to remove the stabilizers, but I think I will wait until I can ask someone smarter than me about that one.  The Onan Genset?  That would be great, but it sure did come in handy when we were winter dry camping.  No, that one is a keeper.
+Rear stabilizers - saved 40 lbs
 
-In the meantime, I'll keep thinking about this - I'm a long way from my 200 pounds weight savings goal...
+129 pounds... a big child or small adult...  
+
+I'm getting closer to my 200 pounds weight savings goal, but not there yet.  More to come, hopefully...
 
 <br>
 
