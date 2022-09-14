@@ -26,7 +26,7 @@ The vertical bolt in this shot is one of the four that needs to be removed:
 
 <img src="/assets/webstabilizer2.jpg"/>
 
-Once the four bolts are out, retracting the legs will drop the assembly to clear the chassis structure:
+Once the four bolts are out, retracting the legs manually will drop the assembly to clear the chassis structure:
 
 <img src="/assets/webstabilizer5.jpg"/>
 
