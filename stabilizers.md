@@ -3,7 +3,7 @@ layout: page
 title: RV Stabilizer Removal | RV Mods
 permalink: /ourmods/stabilizers/
 ---
-After a couple of years of travel in our View, we still had not used the rear stabilizers at all.  Not even once.  We decided that they were dead weight, and getting rustier by the minute.  Digging around on the Winnebago Forum revealed that occasionally someone else out there wanted to remove theirs, too.  I found a thread from a Minnie Winnie that dealt with the same MORryde stabilizers, and the info was very useful. If you are on this page because you are looking to remove your stabilizers on a View / Navion, based on what I did - here is what I would recommend:
+After a couple of years of travel in our View, we still had not used the rear stabilizers at all.  Not even once.  We decided that they were dead weight, and getting rustier by the minute.  Digging around on the Winnebago Forum revealed that occasionally someone else out there wanted to remove theirs, too.  I found a thread from a Minnie Winnie that dealt with the same MORryde stabilizers, and the info was very useful. If you are on this page because you are looking to remove your stabilizers on a View / Navion, here is what might work for you too:
 
 1 - Extend the legs normally, if your electrical circuit is working. If not, they can be manually cranked down with a 3/4" socket or wrench.
 
