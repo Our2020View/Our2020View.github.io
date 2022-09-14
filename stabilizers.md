@@ -40,7 +40,7 @@ Once the unit is clear of the chassis structure, it should support itself if you
 
 A few of points of interest: The power to the leg switches in the ceiling of the wet bay or electrical bay is still present. If you want to have a rear end, exterior, source of 12 volts, disconnecting the switches from the connectors will give you two sources of 12 volts. (I previously wired this power for a portable macerator pump we use.) The other interesting thing is this source of 12 volts is from the Sprinter battery. I'm guessing that Winnebago wanted the stabilizers to function electrically and provide the "legs down warning" regardless of the state of the coach batteries. 
 
-The removed stabilizer unit weighed in at 39.5 pounds.  Based on other’s reports, I was hoping for more of a weight saving.  Maybe some of that structure that was surrounding the stabilizer assembly is there only for protection of the stabilizer assembly?  I’ll go back and have a closer look to see if it can come off too... but for now, I’ll take the 40 pounds.
+The removed stabilizer unit weighed in at 39.5 pounds.  Based on other’s reports, I was hoping for more of a weight saving.  Maybe some of the structure that was surrounding the stabilizer assembly is there only for its protection?  I’ll go back and have a closer look to see if it can come off too... but for now, I’ll take the 40 pounds.
 
 <br>
 
