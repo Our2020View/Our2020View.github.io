@@ -30,7 +30,7 @@ Once the four bolts are out, retracting the legs manually will drop the assembly
 
 <img src="/assets/webstabilizer5.jpg"/>
 
-Keep an eye on your tool and the tailpipe of the Onan, as you might end up supporting that end with the tailpipe:
+Keep an eye on your tool and the tailpipe of the Onan, as you might end up supporting that end with the tailpipe as you retract the leg:
 
 <img src="/assets/webstabilizer4.jpg"/>
 
