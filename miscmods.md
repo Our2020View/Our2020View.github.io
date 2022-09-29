@@ -46,7 +46,7 @@ We don't have the requirement to hang clothes, except for the coats at the front
 
 Our previous motorhomes had a DVD, and to be honest - we did not use it very often.  The exception was watching our "Fireplace DVD" on the TV when temperatures turned cool.  We searched for a DVD player that was ultra compact, considering it was going to be dead weight for most of the year.  We found one online that fit the bill:
 
-[Sylvania SDVD1073 DVD Player](https://curtis-sylvania.com/product/sdvd1073-fd-pl)
+[Sylvania SDVD1073 DVD Player](https://www.amazon.ca/Sylvania-Progressive-Player-Function-Control/dp/B06Y5B8CNF)
 
 To keep things simple, I dropped it in vertically to the left of the paper towel holder, and locked it in place with some package cushioning.  It has been working great:
 
