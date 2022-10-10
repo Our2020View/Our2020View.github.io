@@ -3,6 +3,9 @@ layout: page
 title: RV Lithium Battery Upgrade | RV Mods
 permalink: /ourmods/lithiumupgrade/
 ---
+<img src="/assets/webindysilentlake.jpg"/>
+
+<i>Dry Camping at Silent Lake Provincial Park, Bancroft, Ontario</i>
 
 Our lithium upgrade to two Battle Born BB10012 100 amp hour batteries was the first mod we did – and we chose this mod for a few reasons.  I wanted the weight reduction it would give us, as we have plans to pick the kids up every now and then and travel as a family of four.  With four in the coach, and loaded for an epic adventure, there is very little margin to the Sprinter’s max weight of 11,030 pounds.  Every pound counts.  Another reason, of course, was we wanted to capitalize on the advertised increase in useful battery capacity – at least double the available power?  That sounds good!  And the last reason, but not the least, was to stop the painful exercise of removing the batteries for the winter and hauling them into the basement to keep warm.  The AGMs in our last Class B were mounted up in the top right hand corner of the Sprinter’s engine compartment, and were a real bear to remove.  Weighing in at close to 60 pounds each, it took two of us to remove them and every year would result in some form of back pain that would stick with me for weeks.  Sure... we didn’t have to remove them, but we have lost batteries over the winter at the temperatures we get up here so I started that practice many years ago.  Following this procedure, for both our coach and chassis batteries, they became problem free each year (but not my back).  Now, with the lithium coach batteries, I can leave them in all winter and not have any worries.  
 
