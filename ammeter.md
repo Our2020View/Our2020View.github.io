@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Holding Tank Heater Ammeter | RV Mods
+title: RV Holding Tank Heater Ammeter | RV Mods
 permalink: /ourmods/ammeter/
 ---
 
