@@ -54,7 +54,7 @@ Once you have got this hooked up, if it is warm outside and the pad thermostats 
 
 <img src="/assets/webammeter16.jpg"/>
 
-The switch, powered by the water pump circuit, has passed voltage to the tank heater relay in the wet bay, and the relay is allowing power to be passed on to the heat pads.  The thermostats have not closed, so there is no current flowing through the pads.
+The switch, powered by the water pump circuit, has passed voltage to the tank heater relay in the wet bay, and the relay is allowing power to be passed on to the heat pads and the ammeter guage.  The thermostats have not closed, so there is no current flowing through the pads.
 
 If it is cold enough outside, or both of your pads have duff thermostats and are  allowing a token amount of current to pass regardless of temperature, you will see the ammeter register some current:  (for two good heating pads you should see about 9 amps register on the ammeter – this is a picture illustrating my tank heater snag)
 
