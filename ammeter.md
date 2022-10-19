@@ -5,6 +5,7 @@ permalink: /ourmods/ammeter/
 ---
 
 So, good news / bad news on this one.  The good news is that the mod I had been waiting to get finished is finally done, and works like a champ.  The bad news is that the new mod has definitively, conclusively, and unceremoniously, confirmed that my Winnebago installed tank heaters have never worked.  In the process of the installing the mod, I tested the heat pads in cold temperatures, using numerous methods, and ended up concluding what I have always suspected: they were installed without being tested and given to us hoping that if they didn’t work, we would never notice.  At any rate, if you’d like to know if your tank heaters are really working, read on below.  If you wound up on this page because your tank heaters are currently not working, scroll down to the history section to see if any of the information there is of any use to your troubleshooting.
+
 <h3>The Ammeter Mod</h3>
 
 How do you know the holding tank heaters are actually working?  The light in the switch just tells you that the switch has changed positions, and maybe power is being sent to the holding tank heater relay down in the wet bay area.  Having an ammeter gauge that lights up only if the relay allows holding tank heater circuit power to flow to the pads, and will only show a current draw if the pad thermostats are allowing power to the pads, is what this mod is all about...
