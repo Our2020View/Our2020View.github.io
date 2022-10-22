@@ -17,6 +17,8 @@ This drawing shows how the switch was wired up (only the input side of the contr
 
 <img src="/assets/websolardiagramV2.jpg"/>
 
+Note:  The power output of the Zamp controller goes underneath the passenger seat, through a 30 amp circuit breaker, and then directly to the battery bank in the stepwell.  If you could pull this circuit breaker, this mod would not be as handy.  Unfortunately, you can't operate this circuit breaker, so are left looking for a different way to isolate solar from the roof.
+
 The installation was generally straightforward, but there was some workload involved with fishing the switch wires, and splicing the connections to the solar input wire.  Overall, the concept involved finding the solar input wire to the controller, cutting it, splicing two new wires to the severed ends, and then running them in tandem to the remote location of the switch under the bed.
 
 I started by heading up to the roof to unplug the two solar panels from the plug box.  (This is a highly recommended step, as depending where you are on the planet and what your current weather is ... your panels could be outputting quite a bit of current.)  Back down in the coach, I confirmed that there was no solar input to the controller.  
