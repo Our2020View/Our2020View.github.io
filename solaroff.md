@@ -17,7 +17,7 @@ This drawing shows how the switch was wired up (only the input side of the contr
 
 <img src="/assets/websolardiagramV2.jpg"/>
 
-Note:  The power OUTPUT of the Zamp controller goes underneath the passenger seat, through a 30 amp circuit breaker, and then directly to the battery bank in the stepwell.  If you could pull this circuit breaker, this mod would not be as handy as it is.  Unfortunately, you can't operate this circuit breaker, so are left looking for a different way to stop the solar from reaching the batteries.  Also in support of this mod, if you could pull this circuit breaker - you would not be isolating the roof INPUT to the Zamp controller
+Note:  The power OUTPUT of the Zamp controller goes underneath the passenger seat, through a 30 amp circuit breaker, and then directly to the battery bank in the stepwell.  If you could pull this circuit breaker, this mod would not be as handy as it is.  Unfortunately, you can't operate this circuit breaker, so are left looking for a different way to stop the solar from reaching the batteries.  Also in support of this mod, if you could pull this circuit breaker - you would not be isolating the roof INPUT to the Zamp controller.
 
 The installation was generally straightforward, but there was some workload involved with fishing the switch wires, and splicing the connections to the solar input wire.  Overall, the concept involved finding the solar input wire to the controller, cutting it, splicing two new wires to the severed ends, and then running them in tandem to the remote location of the switch under the bed.
 
