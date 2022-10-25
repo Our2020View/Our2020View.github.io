@@ -41,7 +41,7 @@ Well, I got ‘er done in about six hours – both the shock and sway bar instal
 
 <h4>Performance</h4>
 
-It is still too early for us to determine if these mods have helped the wind and semi truck sway issues at highway speeds as much as everyone else has reported, but the testing we have done in parking lots and city streets over speed bumps taken on the diagonal have indicated that the reduction in lateral sway and wallow is phenomenal compared to what it used to be.  Things are looking good.  I’ll update this page when we have got some miles under our belts and real world highway experience.
+We've got a few thousand miles on these new components, and so far are very, very, happy.  We tested the low speed handling over speed bumps taken on the diagonal, and the reduction in lateral sway and slow to damp wallow is phenomenal compared to what it used to be.  The View handles much better in crosswinds at highway speeds, with a marked decrease in body roll - so much in fact, that the onset of the crosswind assist and corrections from the enhanced stability program are now almost non-existent.  Prior to these supension mods, while cruising in stiff crosswinds, we were continually being subjected to countless activations of these annoying, distracting, systems.  The real test will be spring winds while traversing the prairies, so I'll provide some more feedback when I've go some.  But, so far, things are looking good.
 
 <br>
 
