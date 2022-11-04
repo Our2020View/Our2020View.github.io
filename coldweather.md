@@ -73,7 +73,7 @@ The trouble lamp itself was inserted from the electrical storage side of the loc
 
 With the trouble light sitting on the bed of insulation, with the bulb positioned up to the plumbing, I closed off the wet bay area from the electrical area with more pink insulation.
 
-<img src="/assets/webNewwetbayheat.jpg"/>
+<img src="/assets/webNewwetbayheat2.jpg"/>
 
 During cold weather I install a batt of insulation inside the wet bay door, up against the wet bay panel:
 
