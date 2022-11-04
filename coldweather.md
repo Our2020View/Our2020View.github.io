@@ -147,7 +147,7 @@ The wires from the fuse panel came into the electrical bay via the hole in the f
 
 <img src="/assets/webdumpvalveheat2.jpg"/>
 
-and then went to the switches in the wet bay through the holes where my stabilizer switches were once located.  You could drill a hole here easily enough ...
+and then went to the new heat pad switches in the wet bay through the holes where my stabilizer switches were once located...  
 
 <img src="/assets/webswitchpanel2.jpg"/>
 
@@ -165,10 +165,9 @@ After it was all tested, I added some insulation and enclosed both valves in a p
 
 <img src="/assets/webvalveheat3.jpg"/>
 
-This was, without a doubt, the highest workload mod I had done so far due to the amount of wiring that needed to be connected - all while lying on my back underneath the coach.  Would I do all of this again?  Well, not sure.  I guess it will depend on how well these things work, when given a real life test.  This project was intended to be insurance for the times when we were forced to be camping off season when we would rather be inside the house surfing the internet - planning for next years travel.
+How did they work during our first Christmas camp?  They worked great.  I turned the heaters on about 30 - 60 minutes prior to a winter dump, and the operation went as smoothly as during the summer.  (I did have some RV antifreeze in the tanks because our tank heaters were inoperative at the time, so that might have helped a bit too.)
 
-Report Back - The dump valve mods worked great.  I turned the heaters on about 30 - 60 minutes prior to a winter dump, and the operation went as smoothly as during the summer.  I did have some RV antifreeze in the tanks because our tank heaters were inoperative at the time, so that might have helped a bit too.
-
+This was, without a doubt, the highest workload electrical mod I had done so far due to the amount of wiring that needed to be connected - all while lying on my back underneath the coach.  Would I do all of this again?  Well, yes I would.  This project was intended to be insurance; an additional measure to go with the tank heaters and the use of RV antifreeze.  Heading into our third winter now, with our tank heaters still not working, the combination of RV antifreeze and these gate valve heaters gives us a good measure of peace of mind.
 
 **Consideration 6** – Can we power all of this stuff while dry camping, with no shore power plugged in?
 
