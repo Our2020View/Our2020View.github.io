@@ -66,7 +66,7 @@ The last thing I did was notch the corner of the protective box, in order to all
 
 I think the finished product looks pretty good, and certainly will be handy:
 
-<img src="/assets/webmorepower13.jpg"/>
+<img src="/assets/webmorepower13a.jpg"/>
 
 Notes:
 
