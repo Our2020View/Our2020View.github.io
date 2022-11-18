@@ -29,7 +29,7 @@ Here is the view looking looking in the wall, as you can see the wire bundle dis
 
 <img src="/assets/webwiringinwall.jpg"/>
 
-I removed the rear top roof cap next.  It is the full width end trim piece above the camera that protects the rear wall and roof seam, and houses the high coach running lights.  This image from Winnebago highlights where the camera wiring is located inside the rear end cap:
+I removed the rear top roof cap next.  It is the full width end trim piece above the camera that protects the rear wall and roof seam, and houses the high coach running lights.  This image from Winnebago highlights where the actual camera wiring connectors are located inside the rear end cap:
 
 <img src="/assets/webrearroofendcap.jpg"/>
 
