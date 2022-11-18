@@ -29,11 +29,15 @@ Here is the view looking looking in the wall, as you can see the wire bundle dis
 
 <img src="/assets/webwiringinwall.jpg"/>
 
-I removed the rear top roof cap next.  I did not have any experience with roof sealant prior to this job, so this took me some time.  I used a plastic razor blade tool that worked well, and mineral spirits did a nice job of cleaning up the residue.  The caulking on the corners of the end cap looks to be the same product that is used on the roof radius.  It appears that once the roof radius was sealed along the sides of the motorhome, the installer simply caulked up the ends of the top rear trim cap.  This sealant is tougher to remove than the self leveling lap sealant that is used on the top cap.
+I removed the rear top roof cap next.  It is the full width end trim piece above the camera that protects the rear wall and roof seam, and houses the high coach running lights.  This image from Winnebago highlights where the camera wiring is located:
 
-There are three screws that are hidden by those esthetic screw cap covers on the back wall of the trim moulding.  The screws are actually about three inches away, so you’ll need a Phillips head with a longer than normal small diameter shaft.  When you unscrew these, they no doubt will fall into the cap itself and have to be retrieved later.
+<img src="/assets/webrearroofendcap.jpg"/>
 
-When the top screws are removed, the trim cap is free to fall.  It has a bit of weight to it, so I’d recommend some sort of plan to keep it up high.  Unless you want to remove the ladder (I did not), the trim cap is now a bit awkward to work with.  The motor home running lights are all still connected; I didn’t want to put any weight on those connections, so used packing tape to support the RH end cap from the top of the ladder, and to attach the LH end cap to the skylight.
+I did not have any experience with roof sealant prior to this job, so it took me some time to remove the sealant to expose the vertical screws on the roof holding the end cap down.  I used a plastic razor blade tool that worked well, and mineral spirits did a nice job of cleaning up the residue.  The caulking on the corners of the end cap looks to be the same product that is used on the roof radius.  It appears that once the roof radius was sealed along the sides of the motorhome, the installer simply caulked up the ends of the top rear trim cap.  This sealant is tougher to remove than the self leveling lap sealant that is used on the top cap.
+
+In addition to the screws on the roof, there are three screws that are hidden by those esthetic screw cap covers on the back wall of the trim moulding.  The screws are actually about three inches away, so you’ll need a Phillips head with a longer than normal small diameter shaft.  When you unscrew these, they no doubt will fall into the cap itself and have to be retrieved later.
+
+When the top vertical screws and the three rear horizontal end screws are removed, the trim cap is free to fall.  It has a bit of weight to it, so I’d recommend some sort of plan to keep it up high.  Unless you want to remove the ladder (I did not), the trim cap is now a bit awkward to work with.  The motor home running lights are all still connected; I didn’t want to put any weight on those connections, so used packing tape to support the RH end cap from the top of the ladder, and to attach the LH end cap to the skylight.
 
 You will see that the roof / back wall seam is pretty well sealed with what looks like an eternabond tape type of product.  That was a bit of a confidence booster for me, knowing that the end cap sealing is really another layer of belt and braces.  
 
