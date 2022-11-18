@@ -31,7 +31,7 @@ Here is the view looking looking in the wall, as you can see the wire bundle dis
 
 I removed the rear top roof cap next.  It is the full width end trim piece above the camera that protects the rear wall and roof seam, and houses the high coach running lights.  This image from Winnebago highlights where the camera wiring is located:
 
-<img src="/assets/webrearroofendcap.png"/>
+<img src="/assets/webrearroofendcap.jpg"/>
 
 I did not have any experience with roof sealant prior to this job, so it took me some time to remove the sealant to expose the vertical screws on the roof holding the end cap down.  I used a plastic razor blade tool that worked well, and mineral spirits did a nice job of cleaning up the residue.  The caulking on the corners of the end cap looks to be the same product that is used on the roof radius.  It appears that once the roof radius was sealed along the sides of the motorhome, the installer simply caulked up the ends of the top rear trim cap.  This sealant is tougher to remove than the self leveling lap sealant that is used on the top cap.
 
