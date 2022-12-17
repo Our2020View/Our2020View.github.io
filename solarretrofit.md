@@ -49,7 +49,7 @@ So, with a long winter ahead to change direction and plan an installation using 
 
 <img src="/assets/websolarretrofit9.jpg"/>   
 
-<strong.Renogy 100w solar panels</strong>
+<strong>Renogy 100w solar panels</strong>
 
 https://www.amazon.ca/gp/product/B08Y598Q3T/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
