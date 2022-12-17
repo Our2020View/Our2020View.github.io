@@ -47,7 +47,7 @@ I have always envied those that have roof racks that can be used as the supports
 
 So, with a long winter ahead to change direction and plan an installation using Utility T Track, aside from the T Tracks, here is what my supplies list ended up being:
 
-<img src="/assets/websolarretrofit9.jpg"/>   Photo of supplies on work bench
+<img src="/assets/websolarretrofit9.jpg"/>   
 
 Renogy 100w solar panels
 
@@ -79,9 +79,9 @@ https://www.tegstools.com/rok-44166-4-ft-aluminum-mitre-track
 
 All of the installations online that I researched had used ¾” Utility T Track, but I chose 1 ¼” T Track to allow the use of a full wide strip of 1” VHB tape.  ¾” VHB tape is not as easy to find, and I liked the idea of more adhesion footprint.
 
-<img src="/assets/websolarretrofit5.jpg"/>  Photo of T Track packaging
+<img src="/assets/websolarretrofit5.jpg"/>  
 
-<img src="/assets/websolarretrofit5a.jpg"/>   Photo of T Track dimensions
+<img src="/assets/websolarretrofit5a.jpg"/>   
 
 Utility Track bolt fasteners
 
@@ -89,7 +89,7 @@ https://thetoolstore.ca/products/blackjack-11038-t-track-mount-5-pk-20065?_pos=1
 
 The T Track I chose really lends itself to needing some sort of bolt anchor, due to the width of the track.  A ¾” track would allow just a bolt insert, but the 1 ¼” wide track is too wide for that practically.  Here is a photo of the mounts I purchased, being used in a carpentry application:
 
-<img src="/assets/websolarretrofit10.jpg"/>   Photo of anchors being used in carpentry
+<img src="/assets/websolarretrofit10.jpg"/>   
 
 ¼” – 20 ½” bolts, nuts, lock washers, all stainless steel – These bolts are more heavy-duty than the bolts that attach the feet to the panels, so I considered going a bit smaller to match those bolts ... but in the end I went with these ¼” – 20 bolts, as they are pretty easy to find.
 
