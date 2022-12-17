@@ -3,6 +3,8 @@ layout: page
 title: RV Solar Retrofit | RV Mods
 permalink: /ourmods/solarretrofit/
 ---
+Note:  This mod is not complete.  I have to wait for warmer temperatures to do the installation.
+
 I’ve got mixed feelings on this one – I’m glad to be adding some more solar capability to the View, but I’m disappointed that I have to replace the existing flex panels after only a couple of years of use.  People have been reporting that the factory 100 watt Sunpower panels have been scorching their thin Filon fibreglass veneer on the View’s roof, and I’ve noticed a drop in performance of our factory panels over the short period that we have been using them.  So, time to fix both those issues while increasing our charging capability to the lithium coach batteries.
 
 The general concept for this mod involved removing the two 100 watt Sunpower flex panels that were screwed into the roof, and replacing them with four 100 watt rigid panels mounted on a track system – without having to modify the Winnebago solar roof port system or Zamp solar controller.
@@ -33,7 +35,7 @@ Grandpa Ron added a new panel using the AM Solar method – his installation vid
 
 Grandpa Ron sounds pretty confident in the use of the tape; it sounds like he has industry experience that has formed that opinion.  Between Grandpa Ron, AM Solar, and a bazillion other RVers out there who have installed panels using VHB 4950 tape, the tape / no holes method was looking like a winner.  
 
-However, there was one last piece of confidence I wanted to find before I settled on the VHB tape option: how much wind do these panels really see?  Lots of RVers use the VHB tape, but then go ahead and screw them down anyway.  Why bother with the tape, then?  The use of screws and well nuts seems to be a common practice for those that don’t trust the tape, but do we really expect these panels to “fly away” at highway speeds?  Do the panels actually see highway speeds?  If you are interested in the answer to this question, see my airflow survey results at the end of this page.  Maybe you will be surprised.
+However, there was one last piece of confidence I wanted to find before I settled on the VHB tape option: how much wind do these panels really see?  Lots of RVers use the VHB tape, but then go ahead and screw them down anyway.  Why bother with the tape, then?  The use of screws and well nuts seems to be a common practice for those that don’t trust the tape, but do we really expect these panels to “fly away” at highway speeds?  Do the panels actually experience the airflow associated with highway speeds?  If you are interested in the answer to this question, I'll post the results of some airspeed testing I plan on doing before starting into all of this.  I think we will be pleasantly surprised.  
 
 Ok, I made the decision to use the VHB tape and started into the same type of installation that Grandpa Ron had done – but elected to use six feet, instead of just four.  (This would have given me a 50% increase in factor of safety compared to the AM Solar method)  I came very close to getting up on the roof and starting into it, but due to the onset of a cool fall season, I ran out of consistent ambient temperatures that fell within the VHB tape installation parameters.  I had everything ready to go, but was forced to drop tools and sit on the installation until the next spring and the arrival of warmer temperatures.
 
