@@ -57,23 +57,23 @@ https://www.amazon.ca/gp/product/B08Y598Q3T/ref=ppx_yo_dt_b_asin_title_o00_s00?i
 
 https://www.amazon.ca/gp/product/B07S8VZZ2D/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1
 
-**SAE connector with fuse
+**SAE connector with fuse**
 
 https://www.amazon.ca/gp/product/B0B87FQYZJ/ref=ppx_yo_dt_b_asin_title_o00_s03?ie=UTF8&psc=1
 
 Do you need a fuse on the direct output of a solar panel?  Well, good question.  Our View has a 15 amp fuse on each of the current panels on the roof – I assume that Winnebago and Zamp decided this was necessary to protect the input to the controller.  (The battery charge wiring output from the controller is protected by the 30 amp solar circuit breaker under the passenger seat.)  Using the Winnebago and Zamp guidance, a 20 amp fuse to protect the combination of the output of the additional two panels made sense.
 
-**Renogy Z brackets for panel mounting
+**Renogy Z brackets for panel mounting**
 
 https://www.amazon.ca/gp/product/B00W49ZPPK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 
 I chose the Renogy feet to keep things simple - as they were designed for their panels.
 
-**3m 4950 VHB mounting tape
+**3m 4950 VHB mounting tape**
 
 https://www.amazon.ca/gp/product/B08PK9HX54/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1
 
-**1 ¼” Utility T track
+**1 ¼” Utility T track**
 
 https://www.tegstools.com/rok-44166-4-ft-aluminum-mitre-track
 
@@ -83,7 +83,7 @@ All of the installations online that I researched had used ¾” Utility T Track
 
 <img src="/assets/websolarretrofit5a.jpg"/>   
 
-**Utility Track bolt fasteners
+**Utility Track bolt fasteners**
 
 https://thetoolstore.ca/products/blackjack-11038-t-track-mount-5-pk-20065?_pos=1&_sid=0dcbcaf73&_ss=r
 
@@ -93,7 +93,7 @@ The T Track I chose really lends itself to needing some sort of bolt anchor, due
 
 **¼” – 20 ½” bolts, nuts, lock washers, all stainless steel** – These bolts are more heavy-duty than the bolts that attach the feet to the panels, so I considered going a bit smaller to match those bolts ... but in the end I went with these ¼” – 20 bolts, as they are pretty easy to find.
 
-**#12 AWG wire, butt splice connectors, and shrink wrap tubes, sealant
+**#12 AWG wire, butt splice connectors, and shrink wrap tubes, sealant**
 
 How much extra did this all weigh?  The panels and feet are 15 lbs each, the Utility T Tracks per panel add another 3 lbs, and the miscellaneous wiring, connectors, and sealant was probably about 3 lbs total.  I took credit for the weight saving of removing the flex panels; about 8 lbs.  That all comes in around 67 lbs, but when taking credit for the rear stabilizers that I removed, the net additional weight totals about 27 lbs.  I rationalized this as a good deal for a theoretical 400 watts of solar capacity that actually had a good chance of working for awhile.
 
