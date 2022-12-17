@@ -53,7 +53,7 @@ So, with a long winter ahead to change direction and plan an installation using 
 
 https://www.amazon.ca/gp/product/B08Y598Q3T/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
-**MC4 connectors and Y branches
+**MC4 connectors and Y branches**
 
 https://www.amazon.ca/gp/product/B07S8VZZ2D/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1
 
