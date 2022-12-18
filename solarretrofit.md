@@ -49,9 +49,7 @@ So, with a long winter ahead to change direction and plan an installation using 
 
 <img src="/assets/websolarretrofit9.jpg"/>   
 
-**Renogy 100w rigid solar panels**
-
-https://www.amazon.ca/gp/product/B08Y598Q3T/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+[**Renogy 100w rigid solar panels**](https://www.amazon.ca/gp/product/B08Y598Q3T/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
 **MC4 connectors and Y branches**
 
