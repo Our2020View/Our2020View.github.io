@@ -49,4 +49,4 @@ Here are the mods that we have implemented, or have in the planning stages, to i
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/electrical/'"> READ MORE </button>
+            onclick="location.href = '/ourmods/electrical/'"> READ PREVIEW </button>
