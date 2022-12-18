@@ -51,29 +51,19 @@ So, with a long winter ahead to change direction and plan an installation using 
 
 [**Renogy 100w rigid solar panels**](https://www.amazon.ca/gp/product/B08Y598Q3T/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
 
-**MC4 connectors and Y branches**
+[**MC4 connectors and Y branches**](https://www.amazon.ca/gp/product/B07S8VZZ2D/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1)
 
-https://www.amazon.ca/gp/product/B07S8VZZ2D/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1
-
-**SAE connector with fuse**
-
-https://www.amazon.ca/gp/product/B0B87FQYZJ/ref=ppx_yo_dt_b_asin_title_o00_s03?ie=UTF8&psc=1
+[**SAE connector with fuse**](https://www.amazon.ca/gp/product/B0B87FQYZJ/ref=ppx_yo_dt_b_asin_title_o00_s03?ie=UTF8&psc=1)
 
 Do you need a fuse on the direct output of a solar panel?  Well, good question.  Our View has a 15 amp fuse on each of the current panels on the roof – I assume that Winnebago and Zamp decided this was necessary to protect the input to the controller.  (The battery charge wiring output from the controller is protected by the 30 amp solar circuit breaker under the passenger seat.)  Using the Winnebago and Zamp guidance, a 20 amp fuse to protect the combination of the output of the additional two panels made sense.
 
-**Renogy Z brackets for panel mounting**
-
-https://www.amazon.ca/gp/product/B00W49ZPPK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+[**Renogy Z brackets for panel mounting**](https://www.amazon.ca/gp/product/B00W49ZPPK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
 I chose the Renogy feet to keep things simple - as they were designed for their panels.
 
-**3m 4950 VHB mounting tape**
+[**3m 4950 VHB mounting tape**](https://www.amazon.ca/gp/product/B08PK9HX54/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1)
 
-https://www.amazon.ca/gp/product/B08PK9HX54/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1
-
-**1 ¼” Utility T track**
-
-https://www.tegstools.com/rok-44166-4-ft-aluminum-mitre-track
+[**1 ¼” Utility T track**](https://www.tegstools.com/rok-44166-4-ft-aluminum-mitre-track)
 
 All of the installations online that I researched had used ¾” Utility T Track, but I chose 1 ¼” T Track to allow the use of a full wide strip of 1” VHB tape.  ¾” VHB tape is not as easy to find, and I liked the idea of more adhesion footprint.
 
@@ -81,9 +71,7 @@ All of the installations online that I researched had used ¾” Utility T Track
 
 <img src="/assets/websolarretrofit5a.jpg"/>   
 
-**Utility Track bolt fasteners**
-
-https://thetoolstore.ca/products/blackjack-11038-t-track-mount-5-pk-20065?_pos=1&_sid=0dcbcaf73&_ss=r
+[**Utility Track bolt fasteners**](https://thetoolstore.ca/products/blackjack-11038-t-track-mount-5-pk-20065?_pos=1&_sid=0dcbcaf73&_ss=r)
 
 The T Track I chose really lends itself to needing some sort of bolt anchor, due to the width of the track.  A ¾” track would allow just a bolt insert, but the 1 ¼” wide track is too wide for that practically.  Here is a photo of the mounts I purchased, being used in a carpentry application:
 
