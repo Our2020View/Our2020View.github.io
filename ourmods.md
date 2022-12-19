@@ -284,8 +284,8 @@ Here are the mods that we have implemented, or have in the planning stages, to i
     <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/valvestems/'"> READ MORE </button> 
+    <button style="height:40px;width:200px;background-color:yellow; color:black"
+            onclick="location.href = '/ourmods/valvestems/'"> READ PREVIEW </button> 
   </div>
   <div class="column" style="background-color:white;">
     <h3>Suspension</h3>
