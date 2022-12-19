@@ -77,7 +77,7 @@ The T Track I chose really lends itself to needing some sort of bolt anchor, due
 
 <img src="/assets/websolarretrofit10.jpg"/>   
 
-**¼” – 20 ½” bolts, nuts, lock washers, all stainless steel** – These bolts are more heavy-duty than the bolts that attach the feet to the panels, so I considered going a bit smaller to match those bolts ... but in the end I went with these ¼” – 20 bolts, as they are pretty easy to find.
+**¼” – 20 ½” bolts, nuts, lock washers, all stainless steel** – These bolts are more heavy-duty than the bolts that attach the feet to the panels, so I considered going a bit smaller to match those bolts ... but in the end I went with these ¼” – 20 bolts, as they were pretty easy to find and fit the track fasteners nicely.
 
 **#12 AWG wire, butt splice connectors, and shrink wrap tubes, sealant**
 
