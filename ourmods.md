@@ -188,8 +188,20 @@ Here are the mods that we have implemented, or have in the planning stages, to i
             onclick="location.href = '/ourmods/morepower/'"> READ MORE </button>
     </div>
   </div>
+   
+  <div class="row">
+    <div class="column" style="background-color:white;">
+    <h3>Solar Retrofit</h3>
+    <p>★ Waiting for Spring</p>
+    <img src="/assets/websolarthumbnail.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="height:40px;width:200px;background-color:yellow; color:black"
+            onclick="location.href = '/ourmods/solarretrofit/'"> READ PREVIEW </button>
+    </div
+  </div
     
-    <h1> Coach </h1>
+      <h1> Coach </h1>
 
 <div class="row">
   <div class="column" style="background-color:white;">
