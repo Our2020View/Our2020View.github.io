@@ -201,7 +201,7 @@ Here are the mods that we have implemented, or have in the planning stages, to i
     </div>
    </div>
     
-      <h1> Coach </h1>
+ <h1> Coach </h1>
 
 <div class="row">
   <div class="column" style="background-color:white;">
