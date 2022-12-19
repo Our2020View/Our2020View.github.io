@@ -3,7 +3,7 @@ layout: page
 title: RV Solar Retrofit | RV Mods
 permalink: /ourmods/solarretrofit/
 ---
-Note:  This mod is not complete.  I have to wait for warmer temperatures to do the installation.
+Note:  This mod is waiting for spring to install.
 
 I’ve got mixed feelings on this one – I’m glad to be adding some more solar capability to the View, but I’m disappointed that I have to replace the existing flex panels after only a couple of years of use.  People have been reporting that the factory 100 watt Sunpower panels have been scorching their thin Filon fibreglass veneer on the View’s roof, and I’ve noticed a drop in performance of our factory panels over the short period that we have been using them.  So, time to fix both those issues while increasing our charging capability to the lithium coach batteries.
 
@@ -21,7 +21,7 @@ Installation Considerations:
 
 Here is what I came up with...
 
-After looking at numerous installations on both YouTube and the Winnebago owner’s forum, I settled on the 3M 4950 VHB double sided tape option for securing them to the roof.  AM Solar out of Springfield, Oregon, has pioneered the use of VHB tape for solar panel retention and offers this as a vote of confidence:
+After looking at numerous installations on both YouTube and the Winnebago owner’s forum, I settled on the 3M 4950 VHB double sided tape option for securing the panels to the roof.  AM Solar out of Springfield, Oregon, has pioneered the use of VHB tape for solar panel retention and offers this as a vote of confidence:
 
 <i>“Fiberglass roofs – We have been using a type of 3M double-sided tape on our mounts since the mid 1990’s, and we have never lost a panel.  As long as the tape is properly installed on a clean surface at the correct temperature, it will hold.  As an added level of protection, we use a layer of Dicor self-leveling sealant around the entire perimeter of the mount, and cover the screw holes/heads as well.  The sealant protects the tape and any potential roof penetrations from water intrusion and decay.  Some customers use the screws for an added layer of protection on fiberglass roofs, but we haven’t found that to be necessary.”</i>
 
