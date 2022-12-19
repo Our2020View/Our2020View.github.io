@@ -199,7 +199,7 @@ Here are the mods that we have implemented, or have in the planning stages, to i
     <button style="height:40px;width:200px;background-color:yellow; color:black"
             onclick="location.href = '/ourmods/solarretrofit/'"> READ PREVIEW </button>
     </div>
- 
+   </div>
     
       <h1> Coach </h1>
 
