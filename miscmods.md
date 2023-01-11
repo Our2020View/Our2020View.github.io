@@ -170,7 +170,7 @@ Here is an easy one that improved the flow of kitchen prep for us significantly.
 
 <img src="/assets/webcounter1.jpg"/>
 
-C'mon, is this really a mod?  Well, officially it fits the definition - because I had to remove the rheostat knob in order to allow the new counter surface to lie flat and not cause the propane to start flowing:
+C'mon, is this really a mod?  Well, officially it fits the definition - because, I had to remove the rheostat knob in order to allow the new counter surface to lie flat and not cause the propane to start flowing:
 
 <img src="/assets/webcounter2.jpg"/>
 
