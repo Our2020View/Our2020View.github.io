@@ -326,7 +326,7 @@ Here are the mods that we have implemented, or have in the planning stages, to i
   <h4>Privacy Curtain</h4>
   <h4>Helpful Counter Space</h4>
   <h4>Shower Cold Water Blast Fix</h4>
-  <h4>Blinds "Thumping" Fix</h4>
+  <h4>Roller Shades "Thumping" Fix</h4>
   
   <div class="row">
     <div class="column" style="background-color:white;">
