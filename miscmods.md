@@ -198,7 +198,7 @@ It works great!
 
 <h3> Roller Shades "Thumping" Fix</h3>
 
-Here is another easy one - stop those shades from thumping on the window frame as you drive around on your adventures.  Adding a square of adhesive back foam to the metal frame solved this one.  We also had the same problem while sleeping at night, with the bedroom window open and the blind down.  Sometimes the wind would cause the blind to bounce around and cause the same annoying distraction.  Same problem, same fix!
+Here is another easy one - stop those shades from thumping on the window frame as you drive around on your adventures.  Adding a square of adhesive back foam to the metal frame solved this one.  We also had the same problem while sleeping at night, with the bedroom window open and the blind down.  Sometimes the wind would cause the blind to bounce around and cause the same annoying distraction.  Same problem, same fix!  (This also worked well on the kitchen blinds, too.)
 
 <img src="/assets/rubberbumper1web.jpg"/>
 
