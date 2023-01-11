@@ -5,7 +5,7 @@ permalink: /ourmods/solarretrofit/
 ---
 Note:  I'm waiting for warm temperatures in the spring to install this one.
 
-I’ve got mixed feelings on this one – I’m glad to be adding some more solar capability to the View, but I’m disappointed that I have to replace the existing flex panels after only a couple of years of use.  People have been reporting that the factory 100 watt Sunpower panels have been scorching their thin Filon fibreglass veneer on the View’s roof, and I’ve noticed a drop in performance of our factory panels over the short period that we have been using them.  So, time to fix both those issues while increasing our charging capability to the lithium coach batteries.
+I’ve got mixed feelings on this mod – I’m glad to be adding some more solar capability to the View, but I’m disappointed that I have to replace the existing flex panels after only a couple of years of use.  People have been reporting that the factory 100 watt Sunpower panels have been scorching their thin Filon fibreglass veneer on the View’s roof, and I’ve noticed a drop in performance of our factory panels over the short period that we have been using them.  So, time to fix both those issues while increasing our charging capability to the lithium coach batteries.
 
 The general concept for this mod involved removing the two 100 watt Sunpower flex panels that were screwed into the roof, and replacing them with four 100 watt rigid panels mounted on a track system – without having to modify the Winnebago solar roof port system or Zamp solar controller.
 
