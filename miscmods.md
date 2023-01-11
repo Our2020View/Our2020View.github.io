@@ -198,7 +198,7 @@ It works great!
 
 <h3> Blinds "Thumping" Fix</h3>
 
-Here is another easy one - stop those blinds from thumping on the wall as you drive around on your adventures.  Adding a square of adhesive back foam to the window frame solved this one.  We also had the same problem while sleeping at night, with the bedroom window open and the blind down.  Sometimes the wind would cause the blind to bounce around and cause the same thumping.  Same problem, same fix!
+Here is another easy one - stop those blinds from thumping on the wall as you drive around on your adventures.  Adding a square of adhesive back foam to the window frame solved this one.  We also had the same problem while sleeping at night, with the bedroom window open and the blind down.  Sometimes the wind would cause the blind to bounce around and cause the same annoying distraction.  Same problem, same fix!
 
 <img src="/assets/rubberbumper1web.jpg"/>
 
