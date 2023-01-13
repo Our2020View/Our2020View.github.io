@@ -124,7 +124,7 @@ And, this is the whole setup ready to go:
 
 <img src="/assets/4maceratorweb.jpg"/>
 
-So far, working as planned.
+Working as planned.
 
 <br>
 
