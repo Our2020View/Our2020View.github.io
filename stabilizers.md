@@ -37,7 +37,7 @@ Once the unit is clear of the chassis structure, it should support itself if you
 
 <img src="/assets/webstabilizer6.jpg"/>
 
-They cleaned up and painted nicely, for re-sale:
+The stabilizer assembly cleaned up and painted nicely, for re-sale:
 
 <img src="/assets/webstabilizer7a.jpg"/>
 
