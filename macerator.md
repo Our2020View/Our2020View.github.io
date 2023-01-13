@@ -36,7 +36,7 @@ So, here is what we purchased to build our macerator setup:
 
 •	14 gauge wire and connectors
 
-The electrical part of the setup was the only challenge, but not difficult.  As part of the weight reduction program we plan on removing the rear stabilizers, and saving some weight.  This decision gave us access to 12 volts that was hooked up to the power switches for the legs.  We removed the two leg actuator switches located in the top righthand corner of the wet  bay, and added two 12V sockets to the bracket that guards the electrical side of that same locker area.  After connecting them to the old wiring for the leg switches, I wired in the 30A wireless remote control switch in between the 12V feed and one of the new sockets.  To cater for the possibility that the remote control switch might inconveniently fail someday out at the dump station, the second 12V connector is hooked up directly to one of the old leg switch wiring bundles, thereby getting 12V directly to the macerator pump to get the dump done in the event that the remote switch ever does fail.  Interesting bit of trivia - these wire bundles that were hooked up to the stabilzer leg switches are powered by the Sprinter chassis battery... who knew?
+The electrical part of the setup was the only challenge, but not difficult.  As part of the weight reduction program we removed the rear stabilizers, and saved some weight.  This decision gave us access to 12 volts that was hooked up to the power switches for the legs.  We removed the two leg actuator switches located in the top righthand corner of the wet  bay, and added two 12V sockets to the bracket that guards the electrical side of that same locker area.  After connecting them to the old wiring for the leg switches, I wired in the 30A wireless remote control switch in between the 12V feed and one of the new sockets.  To cater for the possibility that the remote control switch might inconveniently fail someday out at the dump station, the second 12V connector is hooked up directly to the other old leg switch wiring bundles, thereby getting 12V directly to the macerator pump to get the dump done in the event that the remote switch ever does fail.  
 
 Here is a diagram of the above explanation:
 
@@ -46,7 +46,7 @@ Advantages to our macerator setup?
 
 •	Speed of operation during the dump process
 
-•	The traditional 3” dump hose option is still fully available should we have a macerator pump system failure.  (Not unheard of... 2010 in St. Johns Newfoundland – We had a pump failure on our Class B dump system and had to limp home while getting very creative to rig up a hose system using its emergency cleanout port.  Lots of mess, lots of fuss.
+•	The traditional 3” dump hose option is still fully available should we have a macerator pump system failure.  (Not unheard of... 2010 in St. Johns Newfoundland – We had a pump failure on our Class B dump system and had to limp home while getting very creative to rig up a hose system using its emergency cleanout port.  Lots of mess, lots of fuss.  (That failure was a corroded wiring connector at the pump; the pump itself was fine.)
 
 •	The sewage drain outlet can still be used as per normal during tank and valve cleaning, and the likes.
 
