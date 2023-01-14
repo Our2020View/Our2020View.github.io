@@ -188,7 +188,7 @@ I purchased both of the recommended components, but while I was waiting for deli
 
 But, we’ve got a Moen residential type shower faucet control in our View... so why would that be any different than our shower at home when it comes to requiring a check valve in the hot water supply?  As a test, I installed the new shutoff valve on a home shower to check this theory, and sure enough, found that both hot and cold water remained in the shower hose and the plumbing leading up to the faucet control, just has it had been left.  I’m thinking that James’ shower controls on his Travato might have set him up for needing a check valve installed in the hot water line, but on our View it is not required – all we needed was a real shutoff valve.  No more leaking shower head with a hose that is filling with cold water – this new shutoff valve is a solid closure and traps shower temperature water in the hose.  And, our View’s plumbing configuration does not somehow let the cold water overpower / back-drive the hot water in the coach’s plumbing system, so no matter how long your lather-up is you will always have shower temperature water when you open up this new shutoff valve.
 
-If you’ve got a View / Navion there is a good chance all you will need is one of these to solve your “blast of cold water in the shower” problem:
+If you’ve got a View / Navion there is a good chance all you will need is one of these, from the link below, to solve your “blast of cold water in the shower” problem:
 
 [Shower Hose Shutoff Valve]( https://www.amazon.ca/gp/product/B00VCL5DRG/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
 
