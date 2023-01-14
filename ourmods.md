@@ -226,7 +226,7 @@ Here are the mods that we have implemented, or have in the planning stages, to i
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h3>Truma Water Heater Bypass</h3>
+    <h3>Water Heater Bypass</h3>
     <p>Improvement to the Winnebago attempt</p>
     <img src="/assets/heaterbypass2web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
