@@ -61,7 +61,7 @@ Do you need a fuse on the direct output of a solar panel?  Well, good question. 
 
 I chose the Renogy feet to keep things simple - as they were designed for their panels.
 
-[**3m 4950 VHB mounting tape**](https://www.amazon.ca/gp/product/B08PK9HX54/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1)
+[**3M 4950 VHB mounting tape**](https://www.amazon.ca/gp/product/B08PK9HX54/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1)
 
 [**1 ¼” Utility T track**](https://www.tegstools.com/rok-44166-4-ft-aluminum-mitre-track)
 
