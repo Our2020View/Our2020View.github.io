@@ -86,3 +86,7 @@ How much extra did this all weigh?  The panels and feet are 15 lbs each, the Uti
 Was 400 watts going to be enough?  I saw that some View owners were coming up with 600 watts for their retrofits – but I did notice one significant drawback to this concept – available real estate on the roof to walk around and maintain things.  At some point I’ll have all of that roof sealant to replace, and I felt I should plan for a comfortable work environment to do that and other roof maintenance jobs without having to remove the panels.    Also, our Zamp solar controller is only rated for 510 watts total, and they recommend only a maximum of 450 watts on the roof to allow some margin for the ground based 150 watt panel you can add via the port in the electrical bay – I didn’t want to get involved in adding a different solar controller – so, no, 400 watts capability / 20 amps of charging was about all I felt we needed.
 
 With the supplies in the basement and a plan in hand, all I have to do now is wait for warmer temperatures in the spring to do the retrofit.  I'll let you know how it all goes...
+
+<br>
+
+[Back to Our RV Modifications](/ourmods/)
