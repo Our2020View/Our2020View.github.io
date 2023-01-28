@@ -33,7 +33,7 @@ I removed the rear top roof cap next.  It is the full width end trim piece above
 
 <img src="/assets/webrearroofendcap.jpg"/>
 
-I did not have any experience with roof sealant prior to this job, so it took me some time to remove the sealant to expose the vertical screws on the roof holding the end cap down.  I used a plastic razor blade tool that worked well, and mineral spirits did a nice job of cleaning up the residue.  This is a photo of one of the screws I found buried under the sealant, before I cleaned things up:
+I did not have any experience with roof sealant prior to this job, so it took me some time to remove the sealant to expose the vertical screws on the roof holding the end cap down.  I used a plastic razor blade tool that worked well, and mineral spirits did a nice job of cleaning up the residue.  Before I cleaned up the cap edge, I took this photo of one of the screws I found buried underneath the sealant:
 
 <img src="/assets/webtopcapscrewedge.jpg"/>
 
