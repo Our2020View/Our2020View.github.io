@@ -33,7 +33,11 @@ I removed the rear top roof cap next.  It is the full width end trim piece above
 
 <img src="/assets/webrearroofendcap.jpg"/>
 
-I did not have any experience with roof sealant prior to this job, so it took me some time to remove the sealant to expose the vertical screws on the roof holding the end cap down.  I used a plastic razor blade tool that worked well, and mineral spirits did a nice job of cleaning up the residue.  The caulking on the corners of the end cap looks to be the same product that is used on the roof radius.  It appears that once the roof radius was sealed along the sides of the motorhome, the installer simply caulked up the ends of the top rear trim cap.  This sealant is tougher to remove than the self leveling lap sealant that is used on the top cap.
+I did not have any experience with roof sealant prior to this job, so it took me some time to remove the sealant to expose the vertical screws on the roof holding the end cap down.  I used a plastic razor blade tool that worked well, and mineral spirits did a nice job of cleaning up the residue.  This is a photo of one of the screws I found buried under the sealant:
+
+<img src="/assets/webtopcapscrewedge.jpg"/>
+
+The caulking on the corners of the end cap looks to be the same product that is used on the roof radius.  It appears that once the roof radius was sealed along the sides of the motorhome, the installer simply caulked up the ends of the top rear trim cap.  This sealant is tougher to remove than the self leveling lap sealant that is used on the top cap.
 
 In addition to the screws on the roof, there are three screws that are hidden by those esthetic screw cap covers on the back wall of the trim moulding.  (To remove the screw cap covers I inserted a tiny flat head screwdriver into the slot on the "lid" - they just pop off and can be resused.  Next time I will put a piece of tape on half of the "lid", as they have thoughts of their own as where they want to end up.)  The screws are actually about three inches away, so you’ll need a Phillips head with a longer than normal small diameter shaft.  When you unscrew these, they no doubt will fall into the cap itself and have to be retrieved later.
 
