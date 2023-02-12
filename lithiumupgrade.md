@@ -23,8 +23,6 @@ Do you need to install a DC - DC charger as part of a lithium battery upgrade?  
 
 <a href = "https://www.youtube.com/watch?v=KXG7-EegNV0" target="_blank">Grandpa Ron and DC - DC Chargers for your View / Navion</a>
 
-[Grandpa Ron and DC - DC Chargers for your View / Navion](https://www.youtube.com/watch?v=KXG7-EegNV0)
-
 The lithium battery install was very straightforward, with only one snag popping up:  The Winnebago paralleling cables connecting the batteries were not quite long enough for the terminal post locations on the new Battle Borns, so I had to drop tools and go hunt down some new cables.  I bought a couple of 2/0 AWG 18” cables with 3/8” connectors, and they worked fine.  (The wire gauge is super important - when the microwave is being fed from the batteries via the inverter, you are pulling around 160 amps!  Don’t skimp!)
 
 I did not take the time to investigate flipping the batteries around so the posts were at the bottom: I just emulated the battery configuration that Winnebago settled on, thinking that my best chance of using their cables would be if I did the same layout.  The Battle Born terminal posts are a bit of a pain; it would have been nicer to have the option to mount the cables with a bit more room to get tools on the lug bolts.  But, the initial install was relatively quick, aside from the search for new paralleling cables...
