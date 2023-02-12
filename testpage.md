@@ -58,4 +58,4 @@ Here are the mods that we have implemented, or have in the planning stages, to i
 
 <!--   Does this work? -->
     
-[How to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy/targtet="_blank"[How to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy/)
+<p>Solacity <a href="https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy" target="_blank"
