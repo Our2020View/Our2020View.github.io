@@ -15,8 +15,6 @@ Before we invested in two LiFePO4 batteries we did our research on the web, read
 
 <a href = "https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy/ " target="_blank">How to find happiness with LiFePO4 batteries</a>
 
-[How to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy/)
-
 And, here is a link to the user's manual for the Battle Born Batteries we chose:
 
 <a href = "https://battlebornbatteries.com/wp-content/uploads/2022/10/BB10012-Manual-Edition.PIM_BB10012Rev019_09062022-1.pdf" target="_blank">Battle Born BB10012 Users's Manual</a>
