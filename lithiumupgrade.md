@@ -13,6 +13,8 @@ Our lithium upgrade to two Battle Born BB10012 105 amp hour batteries was the fi
 
 Before we invested in two LiFePO4 batteries we did our research on the web, read a bunch of reviews, and got as many facts as we could on the advantages of making the switch.  Here is a lithium battery article that was very helpful, written by a company up here in Canada that specializes in off - grid systems:
 
+<a href = "https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy/ " target="_blank">How to find happiness with LiFePO4 batteries</a>
+
 [How to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy/)
 
 And, here is a link to the user's manual for the Battle Born Batteries we chose:
