@@ -15,6 +15,10 @@ Before we invested in two LiFePO4 batteries we did our research on the web, read
 
 [How to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy/)
 
+And, here is a link to the user's manual for the Battle Born Batteries we chose:
+
+<a href = "https://battlebornbatteries.com/wp-content/uploads/2022/10/BB10012-Manual-Edition.PIM_BB10012Rev019_09062022-1.pdf" target="_blank">Battle Born BB10012 Users's Manual</a>
+
 Do you need to install a DC - DC charger as part of a lithium battery upgrade?  Well, that depends on what you are trying to do... Winnebago has already taken care of protecting the post 2019 model View / Navion's Sprinter alternators from damage due to potential high charge rates that a lithium battery can withstand.  But, if you  consider the factory alternator charge rate too low on these newer View and Navions ... then perhaps a DC - DC charger installation that bypasses the Charge Mate Pro 40's factory protection is worth considering.  For our operations we have not needed any more charge rate than what the 2020 and newer production alternator system typically provides.  By the time we get to our next destination, after a number of hours of highway cruising, the coach batteries are nicely topped off, even after a night of dry camping.  We just have not needed more than the 25 - 30 amps of alternator charging that came out of the factory.  If you have a View / Navion that was made prior to 2020 and before the introduction of the factory installed Charge Mate Pro 40, have a look at this video from Grandpa Ron.  He discusses the issue of alternator protection and charging rates in-depth.  This video might answer your DC - DC charger questions:
 
 [Grandpa Ron and DC - DC Chargers for your View / Navion](https://www.youtube.com/watch?v=KXG7-EegNV0)
