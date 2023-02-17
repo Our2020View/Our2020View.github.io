@@ -30,7 +30,7 @@ I wanted to put an ammeter gauge in the cabinet above the cooktop, beside the ta
 
 1 – Find an ammeter that would be appropriate for the job.  I settled on this one:
 
-[12 Volt Ammeter](https://www.amazon.ca/gp/product/B08FX7JZ5D/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1)
+<a href = "https://www.amazon.ca/gp/product/B08FX7JZ5D/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1 " target="_blank">12 Volt Ammeter </a>
 
 2 – Power the gauge from the output of the relay, so the gauge will only light up when the switch is thrown and the relay actually sends power to the pads.  Doing it this way will always confirm if the relay has worked.  I needed to splice into the relay power output, and then send the wire out of the wetbay via the hole in the floor under the shower, under the bed, up to the top of the fridge, and then into the cooktop cabinet to be connected to the gauge.  Let's call this Wire #1.
 
