@@ -24,25 +24,15 @@ So, here is what we purchased to build our macerator setup:
 
 •	<a href = "https://www.amazon.ca/Remco-99110212-Water-Pump/dp/B00T36PIKO/ref=sr_1_1?dchild=1&keywords=remco+macerator+pump&qid=1611439499&sr=8-1 " target="_blank">Remco 9911-02-12 Portable RV Waste Pump (Amazon) </a>
 
-•	[Remco 9911-02-12 Portable RV Waste Pump (Amazon)](https://www.amazon.ca/Remco-99110212-Water-Pump/dp/B00T36PIKO/ref=sr_1_1?dchild=1&keywords=remco+macerator+pump&qid=1611439499&sr=8-1)
-
 • <a href = "https://www.amazon.ca/Valterra-Products-T1020-2VP-Carded-Bayonet/dp/B0006MRSC0/ref=sr_1_1?dchild=1&keywords=Valterra+Products+T1020-2VP+Carded+Bayonet+Fit+Drain+Hose+Drip+Cap&qid=1611508501&sr=8-1 " target="_blank">Valterra Products T1020-2VP Carded Bayonet Fit Drain Hose Drip Cap (Amazon) </a>
 
-•	[Valterra Products T1020-2VP Carded Bayonet Fit Drain Hose Drip Cap (Amazon)](https://www.amazon.ca/Valterra-Products-T1020-2VP-Carded-Bayonet/dp/B0006MRSC0/ref=sr_1_1?dchild=1&keywords=Valterra+Products+T1020-2VP+Carded+Bayonet+Fit+Drain+Hose+Drip+Cap&qid=1611508501&sr=8-1)
-
 • <a href = "https://www.amazon.ca/dp/B002UC2PZY/ref=pe_3034960_236394800_TE_dp_1 " target="_blank">Ten foot Thetford 70425 RV macerator hose (Amazon) </a>
-
-•	[Ten foot Thetford 70425 RV macerator hose (Amazon)](https://www.amazon.ca/dp/B002UC2PZY/ref=pe_3034960_236394800_TE_dp_1)
 
 •	1 inch threaded coupler and cap for the end of the hose
 
 • <a href = "https://www.amazon.ca/dp/B07T3T9SC4/ref=pe_3034960_233709270_TE_item " target="_blank">12V cigarette lighter socket (Amazon) </a>
 
-•	[12V cigarette lighter socket (Amazon)](https://www.amazon.ca/dp/B07T3T9SC4/ref=pe_3034960_233709270_TE_item)
-
 •	<a href = "https://www.12vmonster.com/products/dc-12v-latching-10a-heavy-duty-boat-car-low-voltage-wireless-remote-control-kit " target="_blank">12V latching 30A Heavy Duty low voltage wireless remote control kit (12Vmonster Lighting) </a>
-
-•	[12V latching 30A Heavy Duty low voltage wireless remote control kit (12Vmonster Lighting)](https://www.12vmonster.com/products/dc-12v-latching-10a-heavy-duty-boat-car-low-voltage-wireless-remote-control-kit)
 
 •	14 gauge wire and connectors
 
@@ -101,9 +91,6 @@ The finished location for the 12V outlets makes them very accessible.
 
 I hooked up all of the wiring for this mod using AWG number 14 <a href = "https://www.canadiantire.ca/en/pdp/certified-16-14-awg-automotive-male-bullet-connector-157-in-6-pk-0206946p.html#srp " target="_blank">male bullet connectors </a> and <a href = "https://www.canadiantire.ca/en/pdp/certified-16-14-awg-fully-insulated-female-bullet-157-in-6-pk-0206949p.html#srp " target="_blank">female bullet connectors </a> between components, and number 12 <a href = "https://www.canadiantire.ca/en/pdp/certified-12-10-awg-automotive-male-quick-disconnect-250-in-5-pk-0206925p.html#srp " target="_blank">quick connect spade terminals </a> for the connection to the coach wiring.  These spade connectors worked out great because the coach wiring bundle block accepted this type of insert.  I used AWG 14 guage wire for all circuits.
 
-
-[male bullet connectors](https://www.canadiantire.ca/en/pdp/certified-16-14-awg-automotive-male-bullet-connector-157-in-6-pk-0206946p.html#srp) and [female bullet connectors](https://www.canadiantire.ca/en/pdp/certified-16-14-awg-fully-insulated-female-bullet-157-in-6-pk-0206949p.html#srp) between components, and number 12 [quick connect spade terminals](https://www.canadiantire.ca/en/pdp/certified-12-10-awg-automotive-male-quick-disconnect-250-in-5-pk-0206925p.html#srp) for the connection to the coach wiring.  These spade connectors worked out great because the coach wiring bundle block accepted this type of insert.  I used AWG 14 guage wire for all circuits.
-
 For the wireless side of the circuit, after finding a positive and negative terminal in one of the wire bundle blocks, all I had to do was insert the leads from the wireless switch into their respective terminals.  For the "hot wired" 12V receptacle outlet, I just inserted the leads from the outlet directly into the other wire bundle block.  This makes the top 12V outlet powered by the wireless switch, and the bottom 12V outlet powered full time.  (Intersting note - the power for the stabilizer legs actually comes from the Sprinter's 12V system.  So, for this mod, the macerator is powered by the chassis battery)
 
 I mounted the wireless switch box on the divider wall between the wet bay and electrical bay with some adhesive backed Velcro, and essentially the macerator setup was complete.
@@ -111,9 +98,6 @@ I mounted the wireless switch box on the divider wall between the wet bay and el
 <img src="/assets/Macerator-Remote-web.jpg"/>
 
 The setup works as well as expected.  Currently I have the macerator and hose in a Roughtote bin that I pull from the locker beside the propane tank, hook up the macerator to the coach dump port, plug in the power plug, open the desired valve, my wife hits the switch on key remote for the pump power and I start dumping.  It is not quite as seamless as a built in system, but I really like the ability to be able to service the valves and use the system as intended in the event of a macerator failure.  It takes a few extra seconds to get hooked up, but I imagine it takes less time than using a conventional 3" hose hookup.  
-
-The black tank flush on these new Views / Navions is really nice, and getting the black tank clean is very simple and effortless.  I did purchase a ["Water Bandit"
-universal hose adaptor](https://www.canadiantire.ca/en/pdp/water-bandit-rubber-hose-connection-0408806p.html) for the black tank flush connection, to be able to accomodate any type of flush hose that might be at a dump station.  With a "Water Bandit" the dump station black tank flush hose does not require a threaded fitting.
 
 Here are a few photos of how it all turned out:
 
