@@ -6,7 +6,7 @@ permalink: /ourmods/batterymonitor/
 
 When we made the decision to install lithium batteries we knew that we’d need a battery monitor of some sort.  All reports are true – you can’t tell the state of your lithium batteries just by looking at the voltage.  With a voltage drop under load, combined with the very consistent voltage while resting, you are just guessing what you have left in the tank.  After looking at all of the videos on YouTube, we opted for the Victron BMV 712 – mainly due to all of the good reviews and ease of installation.  Again, Grandpa Ron’s channel was very helpful during this selection.  Have a look at his installation here:
 
-[Grandpa Ron’s BMV 712 Install]( https://www.youtube.com/watch?v=yDOCW4F06fI)
+<a href = "https://www.youtube.com/watch?v=yDOCW4F06fI " target="_blank">Grandpa Ron’s BMV 712 Install </a>
 
 After having a close look at the battery box, and noting that things are pretty tight in there, I too elected to install the electronic shunt on the forward riser of the step.  (The shunt is essentially a break in the ground wire attaching to the battery bank that temporarily diverts the current through an electronic meter. This electronic meter measures the current, leaving via a discharge or entering via a charge cycle, and keeps track of the numbers.  The Victron continually does the arithmetic and comes up with a continuous reading of your battery’s current state of charge.)  The install is not tricky; looking back I’d say the workload is getting the ground wires off the batteries and positioning them to be able to attach them to the input of the Victron shunt.
 
