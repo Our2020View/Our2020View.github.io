@@ -11,7 +11,7 @@ One of the reasons we chose a View / Navion was because we felt the goal of bein
 
 But ... then I found this video by the Newstate Nomads:
 
-[View/Navion wet bay freeze up](https://www.youtube.com/watch?v=2ZOGvqfBxvw&t=189s)
+<a href = "https://www.youtube.com/watch?v=2ZOGvqfBxvw&t=189s " target="_blank">View/Navion wet bay freeze up </a>
 
 This was great to discover, as I had been wondering about the wet bay design and how that spaghetti box of exposed plumbing made its way into the heated area of the coach.  However, just watching this video, I couldn’t visualize exactly where the heat was being applied to solve the problem.  Looking at the drawings helped a bit, but they do leave quite a bit to the imagination.
 
@@ -97,7 +97,7 @@ Well, a trouble light in the wet bay worked so well, why not a trouble light nea
 
 On previous motorhomes, we had a big six gallon propane water heater that was not going to freeze during transit through cold weather.  But, as with a standard hot water tank system, you can’t run the propane to keep the Truma happy while driving.  To solve this one, I resorted to purchasing the Truma Aqua Go Electric Anti-freeze Kit.
 
-[Truma Aqua Go Electric Anti-freeze Kit]( https://shop.truma.net/products/aquago-electric-antifreeze-kit)
+<a href = "https://shop.truma.net/products/aquago-electric-antifreeze-kit " target="_blank">Truma Aqua Go Electric Anti-freeze Kit </a>
 
 This kit is NOT an electric option to heat water.  This kit only provides enough electric heat to the internal Truma water system to prevent the heater from freezing up - used in conditions when you can't run propane to keep it warm.  Once the kit is installed, it is pretty easy to flip back and forth between freeze prevention and normal operations.  The only thing you have to do on the outside is install the intake flue plug when electric heat is required, or remove it when back to normal operations.  The rotary knob is used to provide the in-coach selection of either function - freeze prevention or normal operations.
 
@@ -121,17 +121,17 @@ Now - there is another option, other than purchasing this component, but it invo
 
 **Consideration 5** - The dump system plumbing needed to be heated.  Our first winter we were able to time our dumps for days when daytime temperatures were above freezing.  Future winters might be different, so this mod had to be done.  Here is a YouTube video that gave me lots to think about:
 
-[Grand Adventure - How to keep your RV Dump Valves from freezing](https://www.youtube.com/watch?v=KABF205es_U&t=380s)
+<a href = "https://www.youtube.com/watch?v=KABF205es_U&t=380s " target="_blank">Grand Adventure - How to keep your RV Dump Valves from freezing </a>
 
 I bought the supplies to replicate this mod, but in the end, elected NOT to do it this way.  Instead, I purchased some RV gate valve heating pads for the dump valves and some lower power heating pads to wrap around the "tower" that holds the valve when it is open.  The vendor I used was Ultraheat, and their products can be found here:
 
-[Ultraheat RV plumbing heaters](https://www.ultraheat.com/lets-talk-products)
+<a href = "https://www.ultraheat.com/lets-talk-products " target="_blank">Ultraheat RV plumbing heaters </a>
 
 Here is what they look like:
 
 <img src="/assets/webultraheatpads.jpg"/>
 
-I opted for just heating the gate valves because I was not real crazy about the idea of heating an empty PVC pipe – the manufacturer of the heat cable I originally bought was very clear that this was not a good idea – so I elected to buy something that was designed for the job I needed to get done.  Now, there were some advantages to going with the idea of an 120 volt AC heating cable – simplicity was among them – but in the end I decided that wiring up the RV gate valve heaters to the coach’s 12 volt system would give us some flexibility and result in less power consumption.
+I opted for just heating the gate valves because I was not real crazy about the idea of heating an empty PVC pipe – the manufacturer of the heat cable I originally bought was very clear that this was not a good idea.  (On our View, the majority of the exterior plumbing run used by the grey and black tanks sits empty for most of its life, only seeing fluid when you pull the valves.)  Now, there were some advantages to going with the idea of an 120 volt AC heating cable – simplicity was among them – but in the end I decided that wiring up the RV gate valve heaters to the coach’s 12 volt system would give us some flexibility, be safer, and result in less power consumption.  
 
 The general concept for the installation was adding a fuse and wiring to the 12 volt fuse panel, running the wires under the bed, under the shower, and then down into the electrical cord storage bay, sticking on the adhesive backed heaters, adding a couple of switches in the wet bay to be able to control the gate valve and gate tower heat independently, wiring it all up, and then adding some insulation and weather protection to the gate valve areas.
 
@@ -204,7 +204,7 @@ Future Operations?  I added an ammeter on the tank heaters circuit, to allow for
 
 I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is the temperature measuring kit I purchased - I mounted one sensor in the propane locker to get an outside air temperature, one in the wet bay, and one near the water pump:
 
-[Temperature Monitoring System](https://www.amazon.ca/gp/product/B01BICMM1I/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+<a href = "https://www.amazon.ca/gp/product/B01BICMM1I/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1 " target="_blank">Temperature Monitoring System </a>
 
 I hope all of this helps.  Winter Camping - why not?
 
