@@ -20,11 +20,11 @@ As far as we can tell, we have a fully functional RV; we’re not missing any 12
 
 I had some USB buttons already in inventory, and it was a brilliant idea I found on a Leisure Travel Vans blog that firmed up my plans for the 120 volt receptacles.  The LTV blog described a drop-in recessed furniture power panel that provided both 120 volt household current and USB ports for both the old Type A variety and the new Type C variety.  In response to this great idea, I ordered this product from Amazon:
 
-[Recessed Power Strip](https://www.amazon.ca/gp/product/B09BN95V5J/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
+<a href = "https://www.amazon.ca/gp/product/B09BN95V5J/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1 " target="_blank">Recessed Power Strip </a>
 
 The USB charger button I had on hand was similar to this:
 
-[USB Charger Socket](https://www.amazon.ca/LinkStyle-Waterproof-Indicator-Charging-Motorcycle/dp/B07GF18DS4/ref=sr_1_5?crid=2LAO9SEGOFPP0&keywords=12+volt+usb+charger+port&qid=1658687421&sprefix=12+volt+usb+charger+port%2Caps%2C202&sr=8-5)
+<a href = "https://www.amazon.ca/LinkStyle-Waterproof-Indicator-Charging-Motorcycle/dp/B07GF18DS4/ref=sr_1_5?crid=2LAO9SEGOFPP0&keywords=12+volt+usb+charger+port&qid=1658687421&sprefix=12+volt+usb+charger+port%2Caps%2C202&sr=8-5 " target="_blank">USB Charger Socket </a>
 
 For the times we would be on shore power, or using the inverter, the power strip from Amazon will provide both household 120 volt power and fast charging Type A and C USB ports to charge devices.  For the times we would be dry camping, similar to the Winnebago USB ports in other areas of the coach, the addition of the new USB button via the hot 12 volt lead I found would increase our charging options.
 
@@ -74,7 +74,7 @@ Notes:
 
 2 – If you would like some information on basic receptacle wiring in an RV, I can recommend this video from "All About RV’s", and Jared Gillis:
 
-[All about RV’s – Electrical Wiring](https://www.youtube.com/watch?v=HUJDexXDjm0&list=PLrrS07NUXCMdduq5GoynST9poRQp055rq&index=23&t=620s)
+<a href = "https://www.youtube.com/watch?v=HUJDexXDjm0&list=PLrrS07NUXCMdduq5GoynST9poRQp055rq&index=23&t=620s " target="_blank">All about RV’s – Electrical Wiring </a>
 
 <br>
 
