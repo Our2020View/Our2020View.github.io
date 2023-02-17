@@ -9,7 +9,7 @@ With the Battle Born LifePO4 batteries, you don’t need to worry about them dis
 
 But, all of that is a bit of a pain; especially since it never gets done when the temperatures are comfortable to be working in.  And, there is always the possibilty of shorting something out as I work in a very confined space with cold hands and tools.  (Been there, done that...) A simpler solution would be to just throw a disconnect switch that is guaranteed to do the job, with no second guessing.  That is where this battery disconnect switch from Amazon comes in:
 
-[Blue Sea Systems battery disconnect switch](https://www.amazon.ca/gp/product/B00558LSJE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+<a href = "https://www.amazon.ca/gp/product/B00558LSJE/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 " target="_blank">Blue Sea Systems battery disconnect switch </a>
 
 The installation concept was pretty straightforward, because I was able to take advantage of the previous installation of a Victron BMV712 and its ground cable reconfiguration to place the switch on the lone ground cable attached to the battery bank.  
 
