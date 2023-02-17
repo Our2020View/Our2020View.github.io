@@ -31,7 +31,7 @@ Ok, so a well respected national leader in solar panel installation has never lo
 
 Grandpa Ron added a new panel using the AM Solar method – his installation video can be found here:
 
-[Grandpa Ron’s Solar Install](https://www.youtube.com/watch?v=SxKsAsErwbw&t=109s)
+<a href = "https://www.youtube.com/watch?v=SxKsAsErwbw&t=109s " target="_blank">Grandpa Ron’s Solar Install </a>
 
 Grandpa Ron sounds pretty confident in the use of the tape; it sounds like he has industry experience that has formed that opinion.  Between Grandpa Ron, AM Solar, and a bazillion other RVers out there who have installed panels using VHB 4950 tape, the tape / no holes method was looking like a winner.  
 
@@ -41,7 +41,7 @@ Ok, I originally made the decision to use the VHB tape and started into the same
 
 It turns out this was not a bad turn of events, for I started questioning the advisability of attaching panels to the roof with no easy way of removing them.  That is when I noticed Brian of “RV with Tito” had come up with an installation system that used Utility T Track, and his project looked pretty good - as usual:
 
-[RV with Tito Solar Install](https://www.youtube.com/watch?v=uJIEXhnF8MU)
+<a href = "https://www.youtube.com/watch?v=uJIEXhnF8MU " target="_blank">RV with Tito Solar Install </a>
 
 I have always envied those that have roof racks that can be used as the supports for a solar install, so the idea of using Utility T Track looked like the next best thing.  In addition to being able to remove a malfunctioning panel quickly and easily, the added adhesion footprint that the T Track gave was the clincher – If AM Solar was happy with ten square inches of VHB footprint for the large panels they install, how about 9 times more adhesion than that for these small panels?
 
@@ -49,21 +49,21 @@ So, with a long winter ahead to change direction and plan an installation using 
 
 <img src="/assets/websolarretrofit9.jpg"/>   
 
-[**Renogy 100w rigid solar panels**](https://www.amazon.ca/gp/product/B08Y598Q3T/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+<a href = "https://www.amazon.ca/gp/product/B08Y598Q3T/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 " target="_blank">Renogy 100w rigid solar panels </a>
 
-[**MC4 connectors and Y branches**](https://www.amazon.ca/gp/product/B07S8VZZ2D/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1)
+<a href = "https://www.amazon.ca/gp/product/B07S8VZZ2D/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1 " target="_blank">MC4 connectors and Y branches </a>
 
-[**SAE connector with fuse**](https://www.amazon.ca/gp/product/B0B87FQYZJ/ref=ppx_yo_dt_b_asin_title_o00_s03?ie=UTF8&psc=1)
+<a href = "https://www.amazon.ca/gp/product/B0B87FQYZJ/ref=ppx_yo_dt_b_asin_title_o00_s03?ie=UTF8&psc=1 " target="_blank">SAE connector with fuse </a>
 
 Do you need a fuse on the direct output of a solar panel?  Well, good question.  Our View has a 15 amp fuse on each of the current panels on the roof – I assume that Winnebago and Zamp decided this was necessary to protect the input to the controller.  (The battery charge wiring output from the controller is protected by the 30 amp solar circuit breaker under the passenger seat.)  Using the Winnebago and Zamp guidance, a 20 amp fuse to protect the combination of the output of the additional two panels made sense.
 
-[**Renogy Z brackets for panel mounting**](https://www.amazon.ca/gp/product/B00W49ZPPK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+<a href = "https://www.amazon.ca/gp/product/B00W49ZPPK/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1 " target="_blank">Renogy Z brackets for panel mounting </a>
 
 I chose the Renogy feet to keep things simple - as they were designed for their panels.
 
-[**3M 4950 VHB mounting tape**](https://www.amazon.ca/gp/product/B08PK9HX54/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1)
+<a href = "https://www.amazon.ca/gp/product/B08PK9HX54/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1 " target="_blank">3M 4950 VHB mounting tape </a>
 
-[**1 ¼” Utility T track**](https://www.tegstools.com/rok-44166-4-ft-aluminum-mitre-track)
+<a href = "https://www.tegstools.com/rok-44166-4-ft-aluminum-mitre-track " target="_blank">1 ¼” Utility T track </a>
 
 Most of the Utility T Track installations that I researched online had used ¾” track, but I chose 1 ¼” T Track to allow the use of a full wide strip of 1” VHB tape.  ¾” VHB tape is not as easy to find, and I liked the idea of more adhesion footprint.
 
@@ -71,15 +71,15 @@ Most of the Utility T Track installations that I researched online had used ¾�
 
 <img src="/assets/websolarretrofit5a.jpg"/>   
 
-[**Utility Track bolt fasteners**](https://thetoolstore.ca/products/blackjack-11038-t-track-mount-5-pk-20065?_pos=1&_sid=0dcbcaf73&_ss=r)
+<a href = "https://thetoolstore.ca/products/blackjack-11038-t-track-mount-5-pk-20065?_pos=1&_sid=0dcbcaf73&_ss=r " target="_blank">Utility Track bolt fasteners </a>
 
 The T Track I chose really lends itself to needing some sort of bolt anchor, due to the width of the track.  A ¾” track would allow just a bolt insert, but the 1 ¼” wide track is too wide for that practically.  Here is a photo of the mounts I purchased, being used in a carpentry application:
 
 <img src="/assets/websolarretrofit10.jpg"/>   
 
-**¼” – 20 ½” bolts, nuts, lock washers, all stainless steel** – These bolts are more heavy-duty than the bolts that attach the feet to the panels, so I considered going a bit smaller to match those bolts ... but in the end I went with these ¼” – 20 bolts, as they were pretty easy to find and fit the track fasteners nicely.
+¼” – 20 ½” bolts, nuts, lock washers, all stainless steel – These bolts are more heavy-duty than the bolts that attach the feet to the panels, so I considered going a bit smaller to match those bolts ... but in the end I went with these ¼” – 20 bolts, as they were pretty easy to find and fit the track fasteners nicely.
 
-**#12 AWG wire, butt splice connectors, and shrink wrap tubes, sealant**
+#12 AWG wire, butt splice connectors, and shrink wrap tubes, sealant
 
 How much extra did this all weigh?  The panels and feet are 15 lbs each, the Utility T Tracks per panel add another 3 lbs, and the miscellaneous wiring, connectors, and sealant was probably about 3 lbs total.  I took credit for the weight saving of removing the flex panels; about 8 lbs.  That all comes in around 67 lbs, but when taking credit for the rear stabilizers that I removed, the net additional weight totals about 27 lbs.  I rationalized this as a good deal for a theoretical 400 watts of solar capacity that actually had a good chance of working for awhile.
 
