@@ -26,17 +26,17 @@ So, here is what we purchased to build our macerator setup:
 
 •	[Remco 9911-02-12 Portable RV Waste Pump (Amazon)](https://www.amazon.ca/Remco-99110212-Water-Pump/dp/B00T36PIKO/ref=sr_1_1?dchild=1&keywords=remco+macerator+pump&qid=1611439499&sr=8-1)
 
-<a href = "https://www.amazon.ca/Valterra-Products-T1020-2VP-Carded-Bayonet/dp/B0006MRSC0/ref=sr_1_1?dchild=1&keywords=Valterra+Products+T1020-2VP+Carded+Bayonet+Fit+Drain+Hose+Drip+Cap&qid=1611508501&sr=8-1 " target="_blank">Valterra Products T1020-2VP Carded Bayonet Fit Drain Hose Drip Cap (Amazon) </a>
+• <a href = "https://www.amazon.ca/Valterra-Products-T1020-2VP-Carded-Bayonet/dp/B0006MRSC0/ref=sr_1_1?dchild=1&keywords=Valterra+Products+T1020-2VP+Carded+Bayonet+Fit+Drain+Hose+Drip+Cap&qid=1611508501&sr=8-1 " target="_blank">Valterra Products T1020-2VP Carded Bayonet Fit Drain Hose Drip Cap (Amazon) </a>
 
 •	[Valterra Products T1020-2VP Carded Bayonet Fit Drain Hose Drip Cap (Amazon)](https://www.amazon.ca/Valterra-Products-T1020-2VP-Carded-Bayonet/dp/B0006MRSC0/ref=sr_1_1?dchild=1&keywords=Valterra+Products+T1020-2VP+Carded+Bayonet+Fit+Drain+Hose+Drip+Cap&qid=1611508501&sr=8-1)
 
-•<a href = "https://www.amazon.ca/dp/B002UC2PZY/ref=pe_3034960_236394800_TE_dp_1 " target="_blank">Ten foot Thetford 70425 RV macerator hose (Amazon) </a>
+• <a href = "https://www.amazon.ca/dp/B002UC2PZY/ref=pe_3034960_236394800_TE_dp_1 " target="_blank">Ten foot Thetford 70425 RV macerator hose (Amazon) </a>
 
 •	[Ten foot Thetford 70425 RV macerator hose (Amazon)](https://www.amazon.ca/dp/B002UC2PZY/ref=pe_3034960_236394800_TE_dp_1)
 
 •	1 inch threaded coupler and cap for the end of the hose
 
-•<a href = "https://www.amazon.ca/dp/B07T3T9SC4/ref=pe_3034960_233709270_TE_item " target="_blank">12V cigarette lighter socket (Amazon) </a>
+• <a href = "https://www.amazon.ca/dp/B07T3T9SC4/ref=pe_3034960_233709270_TE_item " target="_blank">12V cigarette lighter socket (Amazon) </a>
 
 •	[12V cigarette lighter socket (Amazon)](https://www.amazon.ca/dp/B07T3T9SC4/ref=pe_3034960_233709270_TE_item)
 
