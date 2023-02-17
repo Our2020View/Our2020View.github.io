@@ -9,7 +9,7 @@ I  decided that “better way” was to install an in-coach switch in the power 
 
 This is the switch I chose:
 
-[I Litton battery disconnect switch](https://www.amazon.ca/gp/product/B097JHCXD5/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&th=1)
+<a href = "https://www.amazon.ca/gp/product/B097JHCXD5/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&th=1 " target="_blank">I Litton battery disconnect switch </a>
 
 The switch will see less than 15 amps from our two 100 watt panels, but I used #10 / 30 amp wire to give plenty of margin and to match the controller's rating.  (The Zamp solar kit that is supplied to Winnebago uses #8 / 40 amp wire, to cater for higher current systems that some RVs install.)  In addition, the current rating on this switch is more than plenty for the loads that will be routinely seen.
 
@@ -49,7 +49,7 @@ The other wires involved were new, and I needed about 15’ of red # 10 wire to 
 
 Once I had the two new red wires running from the Truma area to the top of the fridge, I cut the black Zamp # 8 solar input wire and proceeded to splice each red # 10 wire to each end of the severed solar input wire.  Due to the size of the wires concerned (a # 8 and a # 10 splice), this was a bit awkward.  Ideally I would have liked to use splice connectors that a pro would have been proud of, but I couldn’t find a handy source locally that made this practical.  I resorted to using wire nuts, even though I knew that RV professionals frown on this method due to the possibility of the wire nut backing off during potential road vibration.  However, I did some research online and was eventually comforted by the technique this video gave me:
 
-[Large diameter Stranded Wire Splicing](https://www.youtube.com/watch?v=Ha2KEKzvJL8)
+<a href = "https://www.youtube.com/watch?v=Ha2KEKzvJL8 " target="_blank">Large diameter Stranded Wire Splicing </a>
 
 The wire nuts used in the above video are similar to these:
 
@@ -75,7 +75,7 @@ Notes:
 
 3 – If you have an earlier model View or Navion, it is possible that the installation of a solar disconnect switch might be equally straightforward.  The website link below will take you to a View / Navion website that details an installation that appears to have to deal with only the wires shown in the Zamp installation diagram above.  And on earlier models there might be some slack available in the cabinet as well!
 
-[Another approach - earlier model year View / Navions](https://www.viewnavion.com/mods/solar-disconnect-switch)
+<a href = "https://www.viewnavion.com/mods/solar-disconnect-switch " target="_blank">Another approach - earlier model year View / Navions </a>
 
 Happy Disconnecting!
 
