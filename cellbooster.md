@@ -14,7 +14,7 @@ Brian from “RV with Tito” has a great YouTube channel, and has done a back t
 
 <a href = "https://www.youtube.com/watch?v=eQL4lU9DjZw " target="_blank">RV with Tito info on cell boosters </a>
 
-Also, this website is great for lots of info, and has data on antenna comparison.
+Also, this website is great for lots of info, and has data on antenna comparison:
 
 <a href = "http://roadtreklife.blogspot.com/2017/01/weboost-drive-4g-x-cell-booster.html#more " target="_blank">Roadtrek Life antennas </a>
 
