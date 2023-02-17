@@ -10,11 +10,7 @@ In our View, the induction cook top and the microwave share a 20 amp circuit as 
 
 The answer was a dedicated circuit that is independent of the View’s electrical system, and a receptacle that could be located to be able to optimally position a heater on the floor without a cord to get in the way.  I got this great idea from the RVgeeks:
 
-<a href = " " target="_blank"> </a>
-
 <a href = "https://www.youtube.com/watch?v=w1ZO5RxKoq8&t=407s " target="_blank">RVgeeks and their dedicated 20 amp circuit </a>
-
-[RVgeeks and their dedicated 20 amp circuit](https://www.youtube.com/watch?v=w1ZO5RxKoq8&t=407s)
 
 Essentially this circuit is a glorified extension cord, completely independent of the View’s 30 amp AC system.  It is a very straightforward mod, and brings considerable capability to the coach.  If we are at a campground with both 30 amp and 15 or 20 amps available at the post, we can also plug in an extension cord to an INlet in the electrical bay, and have the campground 15 or 20 amp circuit show up at a dedicated receptacle in the coach.  This receptacle is the only spot where this power ends up, and is the source of electricity for our stand-alone heater.
 
