@@ -9,7 +9,7 @@ I had some hope that there might be a fix out there when the Winnie Owner’s fo
 
 Here is a link to the product that the Winnie Owner’s Forum discussed at great length:
 
-[RV Airflow Systems](https://rvairflow.com/)
+<a href = "https://rvairflow.com/ " target="_blank">RV Airflow Systems </a>
 
 A traditional RV air conditioner, in combination with a coach that has overhead ducts, has three ways to deliver cool air.  The first utilizes two channels at the forward and back end of the in-ceiling exhaust plenum to carry cool air throughout the ceiling via pathways and vents at the various ceiling ducts.  If the slider door on the AC faceplate is closed completely, this overhead duct system is intended to distribute flow evenly throughout the coach.  The problem with this concept is that some of the air at the slider door escapes anyways, creates turbulence, and noise, and detracts from the performance of the ceiling ducts.  The second method of delivering air to the coach is to do the reverse of method one; open up the slider door to create a dump of cool air directly down from the ceiling, and close off the overhead ducts.  This method floods the immediate vicinity of the ceiling unit, but does not really distribute cool air in other parts of the coach.  And, it is noisy as the air gets sliced up by the slider door grid on the ceiling unit.  The third method would be a combination of method one and two.
 
@@ -19,7 +19,7 @@ This product has great reviews, but was not as straightforward an install as the
 
 Another RV season approached as I contemplated a plan of action to get things fixed.  By chance, James at the FitRV posted information on a silencing kit that he had tested.   This kit was much simpler to install, and did not rely on an insert into the exhaust plenum and matching exacting dimensions.  The link to that product review can be found here:
 
-[The FitRV and the RV AC Silencer](https://www.thefitrv.com/rv-tips/installing-and-testing-the-rv-ac-silencer/)
+<a href = "https://www.thefitrv.com/rv-tips/installing-and-testing-the-rv-ac-silencer/ " target="_blank">The FitRV and the RV AC Silencer </a>
 
 The main take-away from this mod description is again the concept of eliminating the cold air flood dump, and using the coach’s overhead cooling ducts as the lone source of flow distribution.  This mod uses HVAC foil tape to cover the flood dump, and as James described, was pretty straightforward.
 I gave the RV AC Silencer some serious consideration, but in the end decided that I’d have a look up there and just do what I could using foil HVAC tape to block off the cold air flood dump.  Blocking off the flood dump worked very well for us to increase flow distribution throughout the coach, but it was an unanticipated cleanup of the electrical wires in the INTAKE plenum that really gave us a noise reduction that is worth reporting on.  Between the foil tape trick to improve performance, and creating undisturbed air INTAKE flow, we can now sit at the table and have a normal conversation while the air conditioner is running.  Nice.
@@ -60,7 +60,7 @@ When it was all put back together, the improvement in the noise level was signif
 
 Now, here is another post from the FitRV with a subsequent review of the RV Airflow Systems, and a comparison to just doing the foil tape trick:
 
-[The FitRV and RV Airflow Systems](https://www.thefitrv.com/rv-tips/rv-air-conditioner-performance-improvement-tests/)
+<a href = "https://www.thefitrv.com/rv-tips/rv-air-conditioner-performance-improvement-tests/ " target="_blank">The FitRV and RV Airflow Systems </a>
 
 Whatever method you are contemplating to help improve the noise and performance of your air conditioner -buy a ready-made kit, or tap your own mod creativity to come up with something yourself - don’t forget to have a look at the intake plenum as well.  The warm air being drawn into the intake is the same speed as the cold air exiting – any disruptions in there might just be a source of objectionable flow noise.  Hopefully your installation did not leave as many loose wires in the intake as ours did. 
 
