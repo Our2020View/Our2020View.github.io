@@ -23,7 +23,7 @@ For washing up, we rely on a jug on the counter with a tap:
 
 <img src="/assets/webwaterjug.jpg"/>
 
-... and place a bucket under the counter to catch the grey water.  We only use one sink; in our View that would be the kitchen sink.  The bucket is easy to empty, wherever you want.  (Depending on where you are camping, that place could be fairly close by...)  Remove the kitchen P Trap, and you are ready to go...
+... and place a bucket under the counter to catch the grey water.  We only use one sink; in our View that would be the kitchen sink.  The bucket is easy to empty, wherever you want.  (Depending on where you are camping, that place could be fairly close by...)  Remove the kitchen P Trap, and you are ready to go.
 
 <img src="/assets/webbucket.jpg"/>
 
