@@ -206,6 +206,8 @@ I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is 
 
 I hope all of this helps.  Winter Camping - why not?
 
+But, you still want to go winter camping ... but don't feel these mods are for you?  Ok, have a look [Here](https://our2020view.ca/ourmods/nowintermods/) to see what we do when there is no time to get into "Summer Mode".  There is another way!
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
