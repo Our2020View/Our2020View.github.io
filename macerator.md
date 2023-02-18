@@ -24,6 +24,8 @@ So, here is what we purchased to build our macerator setup:
 
 •	<a href = "https://www.amazon.ca/Remco-99110212-Water-Pump/dp/B00T36PIKO/ref=sr_1_1?dchild=1&keywords=remco+macerator+pump&qid=1611439499&sr=8-1 " target="_blank">Remco 9911-02-12 Portable RV Waste Pump (Amazon) </a>
 
+There are many different RV macerator pumps out there.  Any of them that twist on to a dump valve and require a 12 volt power supply will work.  If the power cord has a plug in adaptor, all the better.  That will save you having to wire one on...
+
 • <a href = "https://www.amazon.ca/Valterra-Products-T1020-2VP-Carded-Bayonet/dp/B0006MRSC0/ref=sr_1_1?dchild=1&keywords=Valterra+Products+T1020-2VP+Carded+Bayonet+Fit+Drain+Hose+Drip+Cap&qid=1611508501&sr=8-1 " target="_blank">Valterra Products T1020-2VP Carded Bayonet Fit Drain Hose Drip Cap (Amazon) </a>
 
 • <a href = "https://www.amazon.ca/dp/B002UC2PZY/ref=pe_3034960_236394800_TE_dp_1 " target="_blank">Ten foot Thetford 70425 RV macerator hose (Amazon) </a>
