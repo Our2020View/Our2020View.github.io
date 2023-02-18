@@ -33,6 +33,8 @@ For any type of winter camping, plumbing or no plumbing, we also consider these:
 
 [Easy Thermal Curtain]( https://our2020view.ca/ourmods/miscmods/)
 
+In addition, we also close off the privacy curtains up on the overhead bunk; that helps quite a bit.
+
 3 – If possible, we try to clear the snow from the roof, especially in the vicinity of the fan vents; bathroom and kitchen.  It is handy to be able to use the fan in the kitchen to remove humidity from cooking.
 
 4 – If we are dry camping, we run the generator semi-frequently.  It seems to like starting better if not super cold, but in reality, because we run it when operating the microwave – it tends to keep at a decent temperature anyway.  We’ve found that we can stay away from really long battery charging cycles if we fire it up to do the cooking, instead of using the inverter to power the microwave.  If we are out and about during the day driving, the alternator does a pretty good job of keeping the batteries topped off if not being drained by the microwave.
