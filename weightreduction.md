@@ -30,7 +30,7 @@ We’ve had some salespeople actually tell us that the View has over 4,000 pound
 
 James from the FitRV has a great writeup on this topic about Class Cs built on the Sprinter chassis and their weight limitations:
 
-[The FitRV weights explanation](https://www.thefitrv.com/rv-tips/how-much-can-you-tow-with-a-small-motorhome/)
+<a href = "https://www.thefitrv.com/rv-tips/how-much-can-you-tow-with-a-small-motorhome/ " target="_blank">The FitRV weights explanation </a>
 
 So, back to a weight reduction program.  Is there anything on the View that we don’t need, something that we would be carrying around with no use?  It turns out that there might be:
 
