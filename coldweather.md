@@ -9,13 +9,11 @@ permalink: /ourmods/coldweather/
 
 One of the reasons we chose a View / Navion was because we felt the goal of being able to camp during cold temperatures was within reach.  We were impressed that the fresh water tank and associated delivery plumbing was above the floor in the coach, and the Truma hot water system had a recirculation feature that would take care of any potential for the hot water lines to get cold.  The general feeling was that if we could keep warm in the winter – the plumbing system was likely to be Ok as well.  There are many reports on the web of being able to camp successfully in a View / Navion in the winter, so we crossed out fingers and hoped that those early spring and late fall nights could be tolerated, and cruising down the highway when the temperatures were below zero would be Ok as well.
 
-But ... then I found this really valuable video by the Newstate Nomads - it does a great job of illustrating what the weak spot in a View / Navion is when trying to use the coach in cold weather.  Have a look:
+But ... then I found this really valuable video by the Newstate Nomads - it does a great job of illustrating what the weak spot in a View / Navion is when trying to use the coach in seriously cold temperatures.  The good news is that the solution to the problem is not a big deal.  First, have a look at the problem:
 
 <a href = "https://www.youtube.com/watch?v=2ZOGvqfBxvw&t=189s " target="_blank">View/Navion wet bay freeze up </a>
 
-This was great to discover, as I had been wondering about the wet bay design and how that spaghetti box of exposed plumbing made its way into the heated area of the coach.  However, just watching this video, I couldn’t visualize exactly where the heat was being applied to solve the problem.  Looking at the drawings helped a bit, but they do leave quite a bit to the imagination.
-
-Here is a drawing of the internal plumbing directly behind the wet bay panel you see from the street; the panel is at the right hand side of the drawing ... it is very easy to see why things freeze up when temperatures drop:
+This was great to discover, as I had been wondering about the wet bay design and how that spaghetti box of exposed plumbing made its way into the heated area of the coach.  However, just watching this video, I couldn’t visualize exactly where the heat was being applied to solve the issue.  Looking at the drawings helped a bit - here is one of the internal plumbing directly behind the wet bay panel you see from the street; the panel is at the right hand side of the drawing ... it is very easy to see why things freeze up when temperatures drop:
 
 <img src="/assets/wetbaydrawingweb.jpg"/>
 
