@@ -61,7 +61,7 @@ Disadvantages to our macerator setup?
 
 Details of our mod are below:
 
-Here is a quick view of the layout of the components - starting at top right: the 10' hose, the macerator pump with the end cap to keep things dry, the 12V plug that fits into a 12V connector, and the wireless remote switch that hooks up to a power and ground wire from the old 12V leads from a stabilizer leg.
+Here is a quick view of the layout of the components - starting at top right: the 10' hose, the macerator pump with the end cap to keep things dry when not in use, the 12V plug that fits into a 12V connector, and the wireless remote switch that hooks up to a power and ground wire from the old 12V leads from a stabilizer leg.
 
 <img src="/assets/1-maincomponents.jpg"/>
 
