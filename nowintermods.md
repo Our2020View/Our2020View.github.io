@@ -15,7 +15,7 @@ We put a cassette toilet in the shower, which gives us lots of room to use it li
 
 <img src="/assets/webcassette.jpg"/>
 
-Link to toilet:
+<a href = "https://www.canadiantire.ca/en/pdp/dometic-deluxe-portable-camping-toilet-porta-potty-w-self-contained-holding-tank-system-19-l-0763057p.html?&&gclid=Cj0KCQiAi8KfBhCuARIsADp-A556rrFsPIam1hi5ExF89-erflHU9vjCm-6xlvOQ1tBVJc_4HZtFS84aAkfsEALw_wcB&gclsrc=aw.ds#store=459 " target="_blank">Dometic Cassette Toilet </a>
 
 For washing up, we rely on a jug on the counter with a tap and place a bucket under the counter to catch the grey water.  We only use one sink; in our View that would be the kitchen sink.  The bucket is easy to empty, wherever you want.  (Depending on where you are camping, that place could be fairly close by...)
 
