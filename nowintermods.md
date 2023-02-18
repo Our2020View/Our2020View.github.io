@@ -33,6 +33,8 @@ For washing up, we rely on a jug on the counter with a tap and place a bucket un
 
 Note - If you don’t have Lithium batteries, you are A Ok right out of the snow bank.  Your electrical system is good to go in sub-zero temperatures, and you can start using the propane furnace to bring the coach up to livable temperatures.  But, we have lithium batteries - so we have to bring them up to a temperature above the battery management system’s charging cut-out temperature of around -4 C, or 25 F.  Because we have a [Lithium Battery Heater](https://our2020view.ca/ourmods/batteryheater/) mod, this is pretty easily accomplished.  (It takes about 8 to 10 hours to get them to a temperature where they will accept a charge, so we definitely have to plan in advance.)  They do heat themselves while in use, so we monitor them closely to see if we need to keep the heat on.  But again, if you have lead acid batteries (including AGM), all you have to do is put them back in the coach, or hook them up, or just turn on the battery master, and you are good to start using electicity in the coach.
 
+Another Note - As you know, you don't need the coach's battery system to be able to use shore power.  If the coach is plugged into shore power at the house, all the 120 volt outlets are powered with residential power.  You can warm up the coach with electric heaters, independent of the propane heat, until you get your battery system sorted out...
+
 And, that is about it.  No winter mods?  Get yourself a cassette toilet and a bucket, and no problem.
 
 
