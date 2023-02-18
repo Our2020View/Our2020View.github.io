@@ -21,7 +21,7 @@ Picture of under the sink:
 
 2 – If you don’t have Lithium batteries, you are A Ok right out of the snow bank.  Your electrical system is good to go in sub-zero temperatures, and you can start using the propane furnace to bring the coach up to livable temperatures.  But, we have lithium batteries - so we have to bring them up to a temperature above the battery management system’s charging cut-out temperature of around -4 C, or 25 F.  Because we have a battery heat mod, this is pretty easily accomplished.  (It takes about 8 to 10 hours to get them to a temperature where they will accept a charge, so we definitely have to plan in advance.)  They do heat themselves while in use, so we monitor them closely to see if we need to keep the heat on.
 
-3 – It is a must to have some sort of divider between the cab and the coach, as all those windows up front do nothing to keeping heat in the cab.  (I’d recommend closing off all of the air ducts, and turning off the heating system prior to shutting off the truck, in an attempt to keep cold air from leaking into the cab, as well.)  You don’t need anything elaborate to do this job – we use a curtain made of two sleeping bags zipped together:
+3 – It is a must to have some sort of divider between the cab and the coach, as all those windows up front do nothing to help keep heat in the cab.  (I’d recommend closing off all of the air ducts, and turning off the heating system prior to shutting off the truck, in an attempt to keep cold air from leaking into the cab, as well.)  You don’t need anything elaborate to do this job – we use a curtain made of two sleeping bags zipped together:
 
 [Easy Thermal Curtain]( https://our2020view.ca/ourmods/miscmods/)
 
