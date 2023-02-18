@@ -194,7 +194,7 @@ During the second Christmas of the Pandemic, we did both dry camping and shore p
 
 The Truma electric antifreeze kit - while driving around in freezing temperatures, this system was a real bonus.  After installing the flue protective cap, and then switching the antifreeze system on via the rotary knob, the Truma was protected.  However, we noted that the recirculation pump ran continuously.  I have read others observe this as well, so I guess that is standard operation.
 
-Anything else to mention?  Well, our [Thermal Curtain](/ourmods/miscmods/) between the cab and coach worked very well, the rooftop heat pump gave us useful heat down to a few degrees below freezing, the kitchen fan did a great job of removing humidity while we were cooking, our dedicated 20 amp circuit allowed us to use an electric heater to supplement the heat pump and propane furnace, and keeping the slide IN greatly reduced the volume of coach we needed to heat and resulted in very comfortable living temperatures.  
+Anything else to mention?  Well, our [Easy Thermal Blanket](/ourmods/miscmods/) between the cab and coach worked very well, the rooftop heat pump gave us useful heat down to a few degrees below freezing, the kitchen fan did a great job of removing humidity while we were cooking, our dedicated 20 amp circuit allowed us to use an electric heater to supplement the heat pump and propane furnace, and keeping the slide IN greatly reduced the volume of coach we needed to heat and resulted in very comfortable living temperatures.  
 
 Yes, it all worked as we hoped it would.  Some of these mods mentioned above were pretty easy mods to make, but they changed the game considerably on being able to use the motorhome when the temperature dropped.  
 
