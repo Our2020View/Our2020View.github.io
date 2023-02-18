@@ -11,7 +11,7 @@ The mods on our [Cold Weather Capability](https://our2020view.ca/ourmods/coldwea
 
 1 – Forget about the Winnebago plumbing.  (Now, if you have incorporated the mods similar to those on our [Cold Weather Capability](https://our2020view.ca/ourmods/coldweather/) page, yes, it is possible to have Winnebago plumbing.  It is not super easy to get it all running in sub-zero temperatures, but it is possible.) For a View / Navion, or any other RV for that matter, without winter mods, you can resort to localized plumbing – A cassette toilet and a below counter grey water tank.
 
-We put a cassette toilet in the shower, which gives us lots of room to use it like a normal toilet.  We opt to use a jug of water, stored nearby, to be the flush water instead of using the toilet’s flush system.  This keeps the toilet’s centre of gravity down low (I have not figured out how to practically restrain it from leaving the shower in the event of a hard stop, so with a low centre of gravity I’m banking on the toilet not being able to make it over the lip of the shower...), and also conserves water.  We only use the amount of water that we need.
+We put a cassette toilet in the shower, which gives us lots of room to use it like a normal toilet.  We opt to use a jug of water, stored nearby, to be the flush water instead of using the toilet’s flush system.  This keeps the toilet’s centre of gravity down low (I have not figured out how to practically restrain it from leaving the shower in the event of a hard stop, so with a low centre of gravity I’m banking on the toilet not being able to make it over the lip of the shower...), and also helps to conserves water.  We only use the amount of water that we need.
 
 <img src="/assets/webcassette.jpg"/>
 
