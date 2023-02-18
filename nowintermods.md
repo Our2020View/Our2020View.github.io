@@ -5,19 +5,23 @@ permalink: /ourmods/nowintermods/
 ---
 So, you’d like to get out winter camping but have not done any “winter mods” yet?  Well, there is another way to take advantage of the season while contemplating some future modifications.  (In fact, depending on just how often you intend to camp in cold temperatures, this could be your “go to” solution.)
 
+<img src="/assets/webindyinsnowbank.jpg"/>
+
 The mods on our [Cold Weather Capability](https://our2020view.ca/ourmods/coldweather/) page have been designed to cater for those times in early spring or late fall when we are operating the coach with normal summer functionality, but don’t want to call it a season when the overnight temperatures start to drop below freezing.  Those mods allow us to seamlessly go from warm temps, to cold temps, and then back to warm temps.  But, there have been times when we have had to dig the sealed up motor home out of a snow bank at the storage yard and get it “campworthy” to prepare for an unexpected mid-winter trip, with no hope of temperatures going above freezing.  In order to accomplish this type of operation, we operate like this:
 
 1 – Forget about the Winnebago plumbing.  (Now, if you have incorporated the mods similar to those on our [Cold Weather Capability](https://our2020view.ca/ourmods/coldweather/) page, yes, it is possible to have Winnebago plumbing.  It is not super easy to get it all running in sub-zero temperatures, but it is possible.) For a View / Navion, or any other RV for that matter, without winter mods, you can resort to localized plumbing – A cassette toilet and a below counter grey water tank.
 
 We put a cassette toilet in the shower, which gives us lots of room to use it like a normal toilet.  We opt to use a jug of water, stored nearby, to be the flush water instead of using the toilet’s flush system.  This keeps the toilet’s centre of gravity down low (I have not figured out how to practically restrain it from leaving the shower in the event of a hard stop, so with a low centre of gravity I’m banking on the toilet not being able to make it over the lip of the shower...), and also conserves water.  We only use the amount of water that we need.
 
-Picture of toilet:
+<img src="/assets/webcassette.jpg"/>
 
 Link to toilet:
 
 For washing up, we rely on a jug on the counter with a tap and place a bucket under the counter to catch the grey water.  We only use one sink; in our View that would be the kitchen sink.  The bucket is easy to empty, wherever you want.  (Depending on where you are camping, that place could be fairly close by...)
 
-Picture of under the sink:
+<img src="/assets/webwaterjug.jpg"/>
+
+<img src="/assets/webbucket.jpg"/>
 
 2 – It is a must to have some sort of divider between the cab and the coach, as all those windows up front do nothing to help keep heat in the cab.  (I’d recommend closing off all of the air ducts, and turning off the heating system prior to shutting off the truck, in an attempt to keep cold air from leaking into the cab, as well.)  You don’t need anything elaborate to do this job – we use a curtain made of two sleeping bags zipped together:
 
