@@ -31,7 +31,7 @@ I selected a coat rack that kinda matched the interior, and gave us lots of spac
 
 <br>
 <br>
-Here is a link to the [Camco Drink Holders](https://www.amazon.ca/gp/product/B000EDQR4G/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1) that we installed.
+Here is a link to the <a href = "https://www.amazon.ca/gp/product/B000EDQR4G/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1 " target="_blank">Camco Drink Holders </a> that we installed.
 
 <h3>Closet Drawers</h3>
 
@@ -47,7 +47,7 @@ We don't have the requirement to hang clothes, except for the coats at the front
 
 Our previous motorhomes had a DVD, and to be honest - we did not use it very often.  The exception was watching our "Fireplace DVD" on the TV when temperatures turned cool.  We searched for a DVD player that was ultra compact, considering it was going to be dead weight for most of the year.  We found one online that fit the bill:
 
-[Sylvania SDVD1073 DVD Player](https://www.amazon.ca/Sylvania-Progressive-Player-Function-Control/dp/B06Y5B8CNF)
+<a href = "https://www.amazon.ca/Sylvania-Progressive-Player-Function-Control/dp/B06Y5B8CNF " target="_blank">Sylvania SDVD1073 DVD Player </a>
 
 To keep things simple, I dropped it in vertically to the left of the paper towel holder, and locked it in place with some package cushioning.  It has been working great:
 
@@ -123,7 +123,7 @@ On the web you will find many examples of thermal blankets that RVers have fabri
 
 We found the dining table that came with the View a bit too small.  We wanted it a little wider for times when it is being used for a games table, and the length longer to allow for a more relaxed seating position.  I found a table top from IKEA that made for a pretty simple swap out, with only a little bit of effort.  It is four inches longer, and 3 and a quarter inches wider:
 
-[IKEA Linnmon Table Top](https://www.ikea.com/ca/en/p/linnmon-tabletop-white-00251135/)
+<a href = "https://www.ikea.com/ca/en/p/linnmon-tabletop-white-00251135/ " target="_blank">IKEA Linnmon Table Top </a>
 
 The aesthetics work out, as the colour is pretty close to the white tables used during the 2020 model year.  It matches the coach’s interior well, but there are a few functional notes... because the table is 3 and a quarter inches wider, the side bench top does not open fully without having to compress the seat's cushion (the fore and aft bench seat tops work fine).  Also, because I had to make a platform for the table base to attach too – the table sits about 3/4" higher than the Winnebago table.  The last one concerns the original Winnebago table’s use as a piece of the bed support when the dinette is used for sleeping.  With the new dimensions of the table, it cannot do that double duty any longer.  If we really want to use the dinette for sleeping, we’ll have to carry the old table or make a lighter weight substitute support piece to do the job.  Probably cutting a piece of ½” plywood is what I will do for those very odd occasions when we have four on board.
 
@@ -147,7 +147,7 @@ I'm likely biased, but I think it looks great...
 
 The View J model is a really great floorplan, but it does have its limitations when it comes down to trying to find somewhere to change with a little bit of privacy.  Grandpa Ron had the same issue, and solved the problem by putting up a privacy curtain.  Here is his simple fix, which we copied:
 
-[Grandpa Ron's Privacy Curtain](https://www.youtube.com/watch?v=rNSykmJNWes)
+<a href = "https://www.youtube.com/watch?v=rNSykmJNWes " target="_blank">Grandpa Ron's Privacy Curtain </a>
 
 We used a fabric shower curtain cover that matched the Winnebago decor, and bought a shower tension bar that was long enough for the width of the coach.  (The tension bar spans the width of the coach, independent of the postion of the slide.  I seem to recall I bought the 52" - 86" version.)  As Grandpa Ron demonstrated, it was an easy install after that.
 
@@ -183,7 +183,7 @@ This was an easy fix for a very annoying problem – that blast of cold water yo
 
 So, as usual, James at the FitRV has been way ahead of me for years.  I knew he had solved the problem a while back, but I only recently got around to searching for his fix.  His solution involves two components: a shutoff valve that does not intentionally leak, and a one-way check valve attached to the hot water line.  My solution does not involve the one-way check valve on the hot water line, but have a look at this post from the FitRV to see James’ full mod:
 
-[The FitRV Solution to shower cold water blasts](https://www.thefitrv.com/rv-tips/how-to-fix-the-cold-water-blast-in-your-rv-shower/)
+<a href = "https://www.thefitrv.com/rv-tips/how-to-fix-the-cold-water-blast-in-your-rv-shower/ " target="_blank">The FitRV Solution to shower cold water blasts </a>
 
 I purchased both of the recommended components, but while I was waiting for delivery - I did some more thinking.  With a shutoff valve that is intentionally designed to leak, I can see how higher pressure cold water would continue to force itself up the shower head hose and leak out.  The result is the shower head hose gets full of cold water (if your RV, like ours, has higher cold water delivery pressure than the hot) and upon opening the factory shower head shutoff valve to rinse off, the hose has to empty of the cold water before you get some hot water back in the hose.  Sure, I get that.
 
@@ -191,7 +191,7 @@ But, we’ve got a Moen residential type shower faucet control in our View... so
 
 If you’ve got a View / Navion there is a good chance all you will need is one of these, from the link below, to solve your “blast of cold water in the shower” problem:
 
-[Shower Hose Shutoff Valve]( https://www.amazon.ca/gp/product/B00VCL5DRG/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
+<a href = "https://www.amazon.ca/gp/product/B00VCL5DRG/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1 " target="_blank">Shower Hose Shutoff Valve </a>
 
 <img src="/assets/webshutoffvalve2.jpg"/>
 
