@@ -7,13 +7,13 @@ After coming home from a two month trip where we faced extremely strong crosswin
 
 Sumo Springs, Koni shocks, Hellwig sway bars, Agile Off Road Fox shocks, Bilstein shocks... there are a number of options out there that are recommended as easy upgrades.  But which to choose?  The Winnebago Forum seems to have an overwhelming majority vote for the Agile Off Road Fox 2.5 shocks as a must have, and then folks seem to either upgrade the sway bar or replace the factory rubber stop blocks with Sumo Springs.  I always look for well presented facts when surfing for RV mod info, and not surprisingly this particular site had a very good story for the suspension upgrade configuration that was chosen for their View:
 
-[View Navion website suspension mod explanation](https://www.viewnavion.com/mods/suspension)
+<a href = "https://www.viewnavion.com/mods/suspension " target="_blank">View Navion website suspension mod explanation </a>
 
 The real world experience information found on the above page was valuable, and when taking into account the other information on the Winnebago Forum, it became an easy decision for me:
 
-[1 – Agile Off Road AO Fox 2.5 Sprinter 3500 rear shocks](https://agileoffroad.com/product/agile-fox-2-5-rear-shocks-mercedes-sprinter-3500-rv-class-c/)
+<a href = "https://agileoffroad.com/product/agile-fox-2-5-rear-shocks-mercedes-sprinter-3500-rv-class-c/ " target="_blank">1 – Agile Off Road AO Fox 2.5 Sprinter 3500 rear shocks </a>
 
-[2 – Hellwig sway bar for a VS30 Sprinter (2019 – to present) Part number 7777](https://www.hellwigproducts.com/our-products/search/?searchq=7777)  
+<a href = "https://www.hellwigproducts.com/our-products/search/?searchq=7777 " target="_blank">2 – Hellwig sway bar for a VS30 Sprinter (2019 – to present) Part number 7777 </a>
 
 (Part number 7254 for the pre 2019  Sprinter 3500 chassis)
 
@@ -25,17 +25,17 @@ Everything I had read regarding the DIY installation of both of these components
 
 It looks like the Newstate Nomads did these mods with their View flat on the ground too; here is the video that gave me reason to give both these installations a DIY try:
 
-[Newstate Nomads suspension upgrades](https://www.youtube.com/watch?v=qAgmxMrXjSQ)
+<a href = "https://www.youtube.com/watch?v=qAgmxMrXjSQ " target="_blank">Newstate Nomads suspension upgrades </a>
 
 And here is another helpful video from “rv life diy” that makes the sway bar install look pretty straightforward, but note he has used his coach leveling system to get some extra room under there...
 
-[rv life diy Hellwig Sway Bar install](https://www.youtube.com/watch?v=boZY0rIXuFM&t=110s)
+<a href = "https://www.youtube.com/watch?v=boZY0rIXuFM&t=110s " target="_blank">rv life diy Hellwig Sway Bar install </a>
 
 Here are the installation instructions for each mod:
 
-[Agile Off Road AO Fox 2.5 shocks]( https://agileoffroad.com/wp-content/uploads/2022/05/Sprinter-3500-Rear-Shock-Installation-Guide2.pdf)
+<a href = "https://agileoffroad.com/wp-content/uploads/2022/05/Sprinter-3500-Rear-Shock-Installation-Guide2.pdf " target="_blank">Agile Off Road AO Fox 2.5 shocks </a>
 
-[Hellwig Sway Bar for VS30 Sprinter]( https://www.hellwigproducts.com/wp-content/uploads/product-digital-assets/135007777.PDF)
+<a href = "https://www.hellwigproducts.com/wp-content/uploads/product-digital-assets/135007777.PDF " target="_blank">Hellwig Sway Bar for VS30 Sprinter </a>
 
 Well, I got ‘er done in about six hours – both the shock and sway bar installation.  However - it was an awful lot of restricted area, extremely awkward, manoeuvring with the View flat on the driveway – tool manipulation was tough due to limited options caused by the chassis being so low to the ground – using a floor jack to compress the shock was very tricky without a helper – and that sway bar is pretty heavy to be jostling around in a confined area and difficult to get started with just one hand.  Would I do it again?  Probably not.  No, I think if I had to do it again I would just pay the 300 bucks to have the pros at the local garage do it for me.  
 
