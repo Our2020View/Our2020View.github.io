@@ -8,7 +8,7 @@ The requirement for this mod became apparent during a time when we were doing so
 
 My next thought was a vision I had of Grandpa Ron installing an accumulator in-line to his cold water plumbing.  The first 1:20 of this video shows his install:
 
-[Grandpa Ron’s Freshwater Basics](https://www.youtube.com/watch?v=gio0fHM6KOQ&list=PLO_exesYX5ypdJr8pg5yb_kskRbeEk522&index=28&t=79s)
+<a href = "https://www.youtube.com/watch?v=gio0fHM6KOQ&list=PLO_exesYX5ypdJr8pg5yb_kskRbeEk522&index=28&t=79s " target="_blank">Grandpa Ron’s Freshwater Basics </a>
 
 What does an accumulator do?  Well, the way I think of it – the accumulator “assists” the pump in keeping the water line pressurized.  The RV water pump will turn on when the pressure drops, and turn off when the pressure gets high again.   But, if you have an accumulator installed, when you first open a faucet, the accumulator will provide its own source of pressure to keep the pump from seeing a pressure drop and turning itself back on.  Because of the accumulator, when you open that faucet and water flows out, the pressure in the line will not drop immediately.  Eventually the accumulator runs out of “muscle” and the pressure drops to the point where the pump cycles back on.  However, it’s this pressurized water flow before the pump cycles back on that you are paying for – the water flow out of the faucet without the aid of the pump is what saves electricity and wear and tear on the pump.
 
@@ -16,7 +16,7 @@ How does it work?  There is a diaphragm in one half of the accumulator that you 
 
 Initially when we were dry camping, and trying to conserve water by washing up with only a small flow of water, the pump would see a pressure drop and “blip” the pump to maintain delivery pressure.  We’d get these continuous high frequency spurts of pump operation, and when compounded by a water heater “hammer” problem we had at the time, would result in a big racket under the bed.  (Installing an accumulator solved the problem of the pump continuously cycling, but I had to get more creative to solve the unrelated water heater “hammer” issue.)  So, now when we open a faucet to get a small water flow, the output from the faucet is strong for about six seconds before the water pump cycles on to pressurize the line.  (How much water is that?  Depends - we get enough flow to wash our hands, rinse dishes, or brush our teeth.  If you immediately demand a large flow of water, such as a toilet flush, the advantages of an installed accumulator are not really noticed.)  We don’t have an accumulator as large as the one Grandpa Ron installed, so we don’t get as much “free” water out of the faucet as he does, but the Shurflow accumulator we purchased from Amazon suits us just fine.
 
-[Shurflow 182-200 Accumulator Tank]( https://www.amazon.ca/Shurflo-182-200-Accumulator-Tank/dp/B000N9VF6Q/ref=sr_1_1?dchild=1&keywords=shurflo+water+accumulator&qid=1624392243&sr=8-1)
+<a href = "https://www.amazon.ca/Shurflo-182-200-Accumulator-Tank/dp/B000N9VF6Q/ref=sr_1_1?dchild=1&keywords=shurflo+water+accumulator&qid=1624392243&sr=8-1 " target="_blank">Shurflow 182-200 Accumulator Tank </a>
 
 I had read that the output of our water pump was about 45 psi, so I pre-charged the accumulator with about 40 psi of air to begin with.  You can play with the accumulator pre-charge to try to optimize the amount of “free” water you get before the pump cycles on – just remember to always do the inflation with an unpressurized water line – pump off and a faucet open.
 
