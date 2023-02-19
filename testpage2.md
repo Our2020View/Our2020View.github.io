@@ -35,7 +35,6 @@ permalink: /ourmods/testpage2/
   
  <i>Monck Provincial Park - Merritt, British Columbia</i> 
  <br> 
-
  <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
  <br>
   December 2022 - Replacing the Sun Power Panels<a href = "/ourmods/solarretrofit/ ">  Preview of Solar Retrofit scheduled for Spring </a>
