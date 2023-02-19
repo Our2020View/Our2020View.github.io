@@ -36,7 +36,7 @@ permalink: /ourmods/testpage2/
  <i>Monck Provincial Park - Merritt, British Columbia</i> 
  <br> 
  <br>
- <h2><span style="color: red">★</span> New Content <span style="color: red">★</span><h2/>
+ <h2><span style="color: red">★</span> New Content <span style="color: red">★</span></h2>
   <br>
   Removing the Sun Power Panels<a href = "/ourmods/solarretrofit " target="_blank">Preview of Solar Retrofit scheduled for Spring </a>
   <br>
