@@ -119,5 +119,5 @@ External Links:
 
 <span style="font-size:100%;color:red;">&starf;</span>Does this work?  
 <br>
-  <span style="color: red">★</span> New Content
+  <span style="color: red">★</span> New Content <span style="color: red">★</span>
    
