@@ -37,8 +37,13 @@ permalink: /ourmods/
   
   <br>
   <br>
+<h2><span style="color: red">★</span> New Content <span style="color: red">★</span></h2>
+<br>
+[Preview of Solar Retrofit scheduled for Spring  December 2022](https://our2020view.ca/ourmods/solarretrofit/)
   
-Here are the mods that we have implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
+[Want to go Winter Camping without any "winter mods"? - February 2023](https://our2020view.ca/ourmods/nowintermods/)
+
+Here are all of the mods that we have implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
   
 <h1> Electrical </h1>
 
