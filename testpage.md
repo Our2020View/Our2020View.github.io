@@ -117,5 +117,5 @@ External Links:
 <span style="font-size:500%;color:orange;">&star;</span>
 <span style="font-size:500%;color:blue;">&bigstar;</span>
 
-      
+<span style="font-size:300%;color:red;">&starf;</span>Does this work?  
    
