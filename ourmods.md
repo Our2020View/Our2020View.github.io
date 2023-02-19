@@ -34,22 +34,8 @@ permalink: /ourmods/
 <img src="/assets/webmodpageheader.jpg"/>
   
  <i>Monck Provincial Park - Merritt, British Columbia</i> 
-  
-  <br>
-  <br>
-<h2><span style="color: red">★</span> New Content <span style="color: red">★</span></h2>
-  
-<br>
-  
-[Preview of Solar Retrofit scheduled for Spring - December 2022](/ourmods/solarretrofit/)
-  
-<br>  
-  
-[Want to go Winter Camping without any "winter mods"? - February 2023](/ourmods/nowintermods/)
-  
-<br>
-[Truma Water Heater Bypass](/ourmods/heaterbypass/)
-
+ <br> 
+ 
 Here are all of the mods that we have implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
   
 <h1> Electrical </h1>
