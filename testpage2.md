@@ -44,7 +44,7 @@ permalink: /ourmods/testpage2/
  <br>
  <br>
   
-  Here are all of the mods that we have implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
+That is the new material: Here are all of the mods that we have previously implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
   <h1> Electrical </h1>
 
 <div class="row">
