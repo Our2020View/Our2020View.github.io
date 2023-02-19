@@ -84,7 +84,7 @@ External Links:
         var can = document.querySelector('canvas');
   
   can.style.position = 'absolute';
-  can.style.top = "50px";
+  can.style.top = "200px";
   can.style.left = "700px";
         
          var canvas = document.getElementById('newCanvas');
