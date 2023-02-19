@@ -70,11 +70,11 @@ External Links:
       <title>HTML5 Canvas Tag</title>
    </head>
    <body>
-      <canvas id="newCanvas" width="400" height="350"></canvas>
+      <canvas id="newCanvas" width="300" height="250"></canvas>
       <script>
          var canvas = document.getElementById('newCanvas');
          var ctx = canvas.getContext('2d');
-         ctx.fillStyle = "black";
+         ctx.fillStyle = "red";
          ctx.beginPath();
          ctx.moveTo(108, 0.0);
          ctx.lineTo(141, 70);
