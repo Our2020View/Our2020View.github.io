@@ -72,6 +72,12 @@ External Links:
    <body>
       <canvas id="newCanvas" width="300" height="250"></canvas>
       <script>
+        
+        var can = document.querySelector('canvas');
+  can.style.position = 'absolute';
+  can.style.top = "100px";
+  can.style.left = "100px";
+        
          var canvas = document.getElementById('newCanvas');
          var ctx = canvas.getContext('2d');
          ctx.fillStyle = "red";
