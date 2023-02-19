@@ -58,13 +58,37 @@ Here are the mods that we have implemented, or have in the planning stages, to i
 
 <!--   Does this work? -->
     
-<p>Solacity Battery Info <a href="https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy" target="_blank">solacity</a></p>
-  
-<p><a href="https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy" target="_blank">Solacity Lithium Battery Info</a></p>
-  
-<a href="https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy" target="_blank">Solacity Lithium Battery Info</a>
+External Links:
   
 <a href = " " target="_blank"> </a>
   
-
+<html>
+   <head>
+      <title>HTML5 Canvas Tag</title>
+   </head>
+   <body>
+      <canvas id="newCanvas" width="300" height="250"></canvas>
+      <script>
+         var canvas = document.getElementById('newCanvas');
+         var ctx = canvas.getContext('2d');
+         ctx.fillStyle = "blue";
+         ctx.beginPath();
+         ctx.moveTo(108, 0.0);
+         ctx.lineTo(141, 70);
+         ctx.lineTo(218, 78.3);
+         ctx.lineTo(162, 131);
+         ctx.lineTo(175, 205);
+         ctx.lineTo(108, 170);
+         ctx.lineTo(41.2, 205);
+         ctx.lineTo(55, 131);
+         ctx.lineTo(1, 78);
+         ctx.lineTo(75, 68);
+         ctx.lineTo(108, 0);
+         ctx.closePath();
+         ctx.fill();
+      </script>
+   </body>
+</html>
+  
+  
 
