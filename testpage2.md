@@ -38,9 +38,9 @@ permalink: /ourmods/testpage2/
  <br>
  <h2><span style="color: red">★</span> New Content <span style="color: red">★</span></h2>
  <br>
-  Removing the Sun Power Panels<a href = "/ourmods/solarretrofit " target="_blank">Preview of Solar Retrofit scheduled for Spring </a>
+  Removing the Sun Power Panels<a href = "/ourmods/solarretrofit " target="_blank">  Preview of Solar Retrofit scheduled for Spring </a>
  <br>
-  Go Winter Camping without any winter mods?<a href = "/ourmods/nowintermods/ " target="_blank">No Winter Mods </a>
+  Go Winter Camping without any winter mods?<a href = "/ourmods/nowintermods/ " target="_blank">  No Winter Mods </a>
  <br>
  <br>
   
