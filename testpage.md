@@ -95,8 +95,7 @@ External Links:
   
   <br>
   
-<html>
-   <head>
+
       <title>HTML5 Canvas Tag</title>
    </head>
    <body>
@@ -120,5 +119,4 @@ External Links:
          ctx.closePath();
          ctx.fill();
       </script>
-   </body>
-</html>
+   
