@@ -85,7 +85,7 @@ External Links:
   
   can.style.position = 'absolute';
   can.style.top = "50px";
-  can.style.left = "300px";
+  can.style.left = "700px";
         
          var canvas = document.getElementById('newCanvas');
          var ctx = canvas.getContext('2d');
