@@ -80,7 +80,7 @@ External Links:
         
          var canvas = document.getElementById('newCanvas');
          var ctx = canvas.getContext('2d');
-         ctx.fillStyle = "red";
+         ctx.fillStyle = "green";
          ctx.beginPath();
          ctx.moveTo(108, 0.0);
          ctx.lineTo(141, 70);
