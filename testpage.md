@@ -118,4 +118,6 @@ External Links:
 <span style="font-size:500%;color:blue;">&bigstar;</span>
 
 <span style="font-size:100%;color:red;">&starf;</span>Does this work?  
+
+  <span style="color: yellow">[★]</span> New Content
    
