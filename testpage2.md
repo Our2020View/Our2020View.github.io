@@ -38,7 +38,7 @@ permalink: /ourmods/testpage2/
 
  <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
  <br>
-  December 2022 - Replacing the Sun Power Panels<a href = "/ourmods/solarretrofit/ ">  Preview of Solar Retrofit scheduled for Spring </a>
+  December 2022 - Replacing the Sun Power Panels<a href = "/ourmods/solarretrofit/ ">  Preview of RV Solar Retrofit scheduled for Spring </a>
  <br>
  <br>
   February 2023 - Go Winter Camping without any winter mods?<a href = "/ourmods/nowintermods/ ">  RV with No Winter Mods </a>
