@@ -74,7 +74,7 @@ External Links:
       <script>
          var canvas = document.getElementById('newCanvas');
          var ctx = canvas.getContext('2d');
-         ctx.fillStyle = "blue";
+         ctx.fillStyle = "yellow";
          ctx.beginPath();
          ctx.moveTo(108, 0.0);
          ctx.lineTo(141, 70);
