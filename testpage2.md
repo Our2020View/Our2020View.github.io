@@ -37,12 +37,12 @@ permalink: /ourmods/testpage2/
  <br> 
  <br>
  <h2><span style="color: red">★</span> New Content <span style="color: red">★</span></h2>
-  <br>
+ <br>
   Removing the Sun Power Panels<a href = "/ourmods/solarretrofit " target="_blank">Preview of Solar Retrofit scheduled for Spring </a>
-  <br>
+ <br>
   Go Winter Camping without any winter mods?<a href = "/ourmods/nowintermods/ " target="_blank">No Winter Mods </a>
-  <br>
-  <br>
+ <br>
+ <br>
   
   Here are all of the mods that we have implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
   
