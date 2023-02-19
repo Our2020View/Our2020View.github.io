@@ -44,7 +44,7 @@ permalink: /ourmods/testpage/
   
  <h2> ★ New Content ★ </h2> 
   
- <span style="color: red">★</span> New Content <span style="color: red">★</span>
+  <h2><span style="color: red">★</span> New Content <span style="color: red">★</span></h2>
   
   <br>
   <br>
