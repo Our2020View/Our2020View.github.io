@@ -41,7 +41,8 @@ permalink: /ourmods/
   
 <br>
   
-[Preview of Solar Retrofit scheduled for Spring  December 2022](/ourmods/solarretrofit/)
+[Preview of Solar Retrofit scheduled for Spring - December 2022](/ourmods/solarretrofit/)
+  
 <br>  
   
 [Want to go Winter Camping without any "winter mods"? - February 2023](/ourmods/nowintermods/)
