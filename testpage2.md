@@ -41,7 +41,7 @@ permalink: /ourmods/testpage2/
   December 2022 - Replacing the Sun Power Panels<a href = "/ourmods/solarretrofit/ ">  Preview of Solar Retrofit scheduled for Spring </a>
  <br>
  <br>
-  February 2023 - Go Winter Camping without any winter mods?<a href = "/ourmods/nowintermods/ ">  No Winter Mods </a>
+  February 2023 - Go Winter Camping without any winter mods?<a href = "/ourmods/nowintermods/ ">  RV with No Winter Mods </a>
  <br>
  <br>
   
