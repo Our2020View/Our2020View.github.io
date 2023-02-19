@@ -48,6 +48,7 @@ permalink: /ourmods/
 [Want to go Winter Camping without any "winter mods"? - February 2023](/ourmods/nowintermods/)
   
 <br>
+[Truma Water Heater Bypass](/ourmods/heaterbypass/)
 
 Here are all of the mods that we have implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
   
