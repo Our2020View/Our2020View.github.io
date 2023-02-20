@@ -90,7 +90,7 @@ After completing this cleanup, I poked around some more in the wet bay and disco
 
 Later in the year, when overnight temperatures started dropping, I started into the mod described above and took the opportunity to isolate the heating pads from the Winnebago factory wiring.  With only power and ground wires to the pads remaining, I put 12 volts and a multimeter on them each in turn, and discovered that at temperatures below the “turn ON” temperature of 45 degrees F ... they were only pulling .6 amps each.  Yup, the pads were not working.  So 1.2 amps for the pads, plus about .5 amps to power the relay – was that the phantom 1.8 amps that I would see on my Victron App in the dead of winter when I tried to get the heaters working?  Very likely.
 
-Here is a photo I took before wiring up the mod; I isolated the pads individually and tested them with an independent power supply, only to discover that neither of them worked:
+Here is a photo I took before wiring up the mod; I isolated the pads individually and tested them with an independent power supply in sub-zero temperatures, only to discover that neither of them worked:
 
 <img src="/assets/webammeter15.jpg"/>
 
