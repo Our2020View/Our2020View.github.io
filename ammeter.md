@@ -8,13 +8,13 @@ So, good news / bad news on this one.  The good news is that the mod I had been 
 
 <h3>The Ammeter Mod</h3>
 
-How do you know the holding tank heaters are actually working?  The light in the switch just tells you that the switch has changed positions, and maybe, perhaps, sure hope so ... power is being sent to the holding tank heater relay down in the wet bay area.  Installing an ammeter gauge that lights up only if the relay allows holding tank heater circuit power to flow to the pads, and will only show a current draw if the pad thermostats are actually allowing power to flow to the pads to keep them warm, is what this mod is all about...
+How do you know the holding tank heaters are actually working?  The light in the switch just tells you that the switch has changed positions, and maybe, perhaps, sure hope so ... power is being sent to the holding tank heater relay down in the wet bay area.  Installing an ammeter gauge that lights up only if the relay allows holding tank heater circuit power to flow to the pad thermostats, and will only show a current draw if the pad thermostats are actually allowing power to flow to the pads to keep them warm - is what this mod is all about...
 
 Over the course of a long time troubleshooting a tank heater snag that came out of the factory, here is what I learned about the tank heater circuit:
 
-1 - The tank heater switch is powered from the circuit associated with the water pump.  (Yes ... the water pump.)  The switch does not directly turn on the heaters, and the light simply indicates that the switch has changed positions.  The switch operates a relay, located in the wetbay in our View, which in turn closes a contact to allow electricity from the actual tank heater circuit to flow to the pads.  
+1 - The tank heater switch is powered from the circuit associated with the water pump.  (Yes ... the water pump.)  The switch does not directly turn on the heaters, and the light simply indicates that the switch has changed positions.  The switch operates a relay, located in the wetbay in our View, which in turn closes a contact to allow electricity from the actual tank heater circuit to flow to the pad thermostats.  
 
-2 – The relay uses a little bit of power when it is in use (.5 amps), whether or not the pads are actually energized.
+2 – The relay uses a little bit of power when the switch is thrown (.5 amps), whether or not the pads are actually being heated.
 
 3 – The wires from the relay to the pads flow through a connector, about 6” downstream, also located in the wet bay.
 
