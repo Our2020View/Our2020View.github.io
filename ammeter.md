@@ -12,7 +12,7 @@ How do you know the holding tank heaters are actually working?  The light in the
 
 Over the course of a long time troubleshooting a tank heater snag that came out of the factory, here is what I learned about the tank heater circuit:
 
-1 - The tank heater switch is powered from the circuit associated with the water pump.  It does not directly turn on the heaters, and the light simply indicates that the switch has changed positions.  The switch operates a relay, located in the wetbay in our View, which in turn closes a contact to allow electricity from the actual tank heater circuit to flow to the pads.  
+1 - The tank heater switch is powered from the circuit associated with the water pump.  (Yes ... the water pump.)  The switch does not directly turn on the heaters, and the light simply indicates that the switch has changed positions.  The switch operates a relay, located in the wetbay in our View, which in turn closes a contact to allow electricity from the actual tank heater circuit to flow to the pads.  
 
 2 – The relay uses a little bit of power when it is in use (.5 amps), whether or not the pads are actually energized.
 
