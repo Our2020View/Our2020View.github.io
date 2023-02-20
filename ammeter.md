@@ -46,7 +46,7 @@ The vendor I purchased my ammeter from did not provide any instructions, but I f
 
 The left hand bronze terminal takes Wire #1 from the output of the relay down in the wetbay, the middle silver terminal takes the new ground Wire #2 from the heating pads, and the right hand silver terminal takes the new ground Wire #3 that goes down to the grounding post on the fuse box.  
 
-Here is a wiring diagram of what I ended up with - I left out all of the irrelevant ground wires, and concentrated just on the new wires I will need to add:
+Here is a wiring diagram of **the new mod** - I left out all of the irrelevant ground wires, and concentrated just on the new wires I needed to add:
 
 <img src="/assets/webammeterdiagramV5.jpg"/>
 
