@@ -22,7 +22,7 @@ Over the course of a long time troubleshooting a tank heater snag that came out 
 
 5 – When the pad thermostats close, and current flows through the pads and then to a coach ground, pulling the tank heater fuse will illuminate the blown fuse light on the panel.  If the thermostats are not closed, current is not flowing through the tank heater circuit, and therefore the blown fuse indicator in the fuse panel is not standing by to light if a fuse blows.  You might potentially only see the blown fuse indicator if the switch has been thrown, and it is cold outside...
 
-This diagram shows the original Winnebago system:
+This diagram shows the **original Winnebago system**:
 
 <img src="/assets/weboriginalheatercircuit.jpg"/>
 
