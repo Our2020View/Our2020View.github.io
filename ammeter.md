@@ -8,7 +8,7 @@ So, good news / bad news on this one.  The good news is that the mod I had been 
 
 <h3>The Ammeter Mod</h3>
 
-How do you know the holding tank heaters are actually working?  The light in the switch just tells you that the switch has changed positions, and maybe power is being sent to the holding tank heater relay down in the wet bay area.  Having an ammeter gauge that lights up only if the relay allows holding tank heater circuit power to flow to the pads, and will only show a current draw if the pad thermostats are allowing power to the pads, is what this mod is all about...
+How do you know the holding tank heaters are actually working?  The light in the switch just tells you that the switch has changed positions, and maybe, perhaps, sure hope so ... power is being sent to the holding tank heater relay down in the wet bay area.  Installing an ammeter gauge that lights up only if the relay allows holding tank heater circuit power to flow to the pads, and will only show a current draw if the pad thermostats are actually allowing power to flow to the pads to keep them warm, is what this mod is all about...
 
 Over the course of a long time troubleshooting a tank heater snag that came out of the factory, here is what I learned about the tank heater circuit:
 
