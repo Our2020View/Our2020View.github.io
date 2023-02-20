@@ -35,8 +35,16 @@ permalink: /ourmods/
   
  <i>Monck Provincial Park - Merritt, British Columbia</i> 
  <br> 
+ <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
  <br>
-Here are all of the mods that we have implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
+  December 2022 - <b>Replacing the Sun Power Panels</b> - <a href = "/ourmods/solarretrofit/ ">  Preview of Solar Retrofit (Spring '23) </a>
+ <br>
+ <br>
+  February 2023 - <b>Go Winter Camping without any winter mods?</b><a href = "/ourmods/nowintermods/ ">  RV with No Winter Mods </a>
+ <br>
+ <br>
+  
+That's the recent material - here are all of the mods that we have previously implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
   
 <h1> Electrical </h1>
 
