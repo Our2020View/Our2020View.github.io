@@ -35,7 +35,7 @@ James from the FitRV has a great writeup on this topic about Class Cs built on t
 So, back to a weight reduction program.  Is there anything on the View that we don’t need, something that we would be carrying around with no use?  It turns out that there might be:
 
 1.	[Lithium Battery Upgrade](/ourmods/lithiumupgrade/) – Replace the Lead Acid batteries with Lithium and save about 50 lbs?
-2.	[Rear Stabilizer Removal](/ourmods/stabilizers/) – We have never used these.
+2.	[Rear Stabilizer Removal](/ourmods/stabilizers/) – We have never used these
 3.	Remove the two TVs? – Well, maybe one TV...
 4.	Remove the ladder to the front bunk?
 5.	Remove the Sprinter cab booster seats? – Not required
