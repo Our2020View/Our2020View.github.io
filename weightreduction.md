@@ -34,7 +34,7 @@ James from the FitRV has a great writeup on this topic about Class Cs built on t
 
 So, back to a weight reduction program.  Is there anything on the View that we don’t need, something that we would be carrying around with no use?  It turns out that there might be:
 
-1.	Lead Acid Coach Batteries – Replace them with Lithium and save about 60 lbs?
+1.	Lithium Battery Upgrade – Replace the Lead Acid batteries with Lithium and save about 60 lbs?
 2.	Remove the rear stabilizers – We have never used these
 3.	Remove the two TVs? – Well, maybe one TV.  We’ll see...
 4.	Remove the ladder to the front bunk?
