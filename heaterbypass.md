@@ -30,7 +30,7 @@ Installing a shutoff valve in the recirculation line was straightforward, if you
 
 Here is a shot of all of the components of the system:
 
-<img src="/assets/heaterbypass1web.jpg"/>
+<img src="/assets/valves1.jpg"/>
 
 Above, you can see the cold water feed shutoff valve in the centre of the photo, the big white in-line check valve in the hot water exhaust, and the new shutoff valve in the hot water recirculation line at the extreme right of the photo (brass coloured).  You can visualize the RV antifreeze moving from left to right in the cold water line on the floor, hitting the cold water shutoff valve and being routed up to the hot water line - not being able to go to the water heater because of the white check valve - and being forced to move to the left to feed the hot water faucets.  But, as you know, the hot water circulation line brings the fluid back to the Truma and re-enters the heater to get warmed up again.  Throwing the new check valve will prevent fluid from entering the Truma from this recirculation line.
 
