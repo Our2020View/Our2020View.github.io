@@ -36,7 +36,7 @@ Above, you can see the cold water feed shutoff valve in the centre of the photo,
 
 Here is a closeup of the new valve installation:
 
-<img src="/assets/heaterbypass2web.jpg"/>
+<img src="/assets/webnewvalve1.jpg"/>
 
 This is the winterization diagram that is missing from the Truma owner's manual:  The valve I installed is valve "E" in this drawing.
 
