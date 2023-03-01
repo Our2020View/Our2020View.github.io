@@ -15,6 +15,8 @@ If you have any questions or suggestions, feel free to drop me a line at the ema
 
 Wherever your travels take you, here's hoping that the view out your front windscreen is always 2020. 
 
+<img src="/assets/webfergus.jpg"/>
+
 <br>
 
 [The Baseline Coach - our Winnebago View / Navion 24J](/our24jview/)
