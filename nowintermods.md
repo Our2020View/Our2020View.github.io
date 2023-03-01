@@ -45,7 +45,7 @@ Note - If you don’t have Lithium batteries, you are A Ok right out of the snow
 
 Another Note - As you know, you don't need the coach's battery system to be able to use 120 volt shore power.  If the coach is plugged into shore power at your house, all the 120 volt outlets are powered with residential power.  You can warm up the coach with electric heaters, independent of the propane heat, until you get your battery system sorted out...
 
-And, that is about it.  No winter mods?  Get yourself a cassette toilet and a bucket, and no problem.
+And, that is about it.  No winter mods?  No big deal.  Get yourself a cassette toilet and a bucket, and away you go.
 
 <br>
 
