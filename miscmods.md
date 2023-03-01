@@ -111,7 +111,7 @@ As explained in the "Dedicated 20 Amp Circuit" description, the location for the
 
 The top "yellow" plug is for the glorified extension chord of the "Dedicated 20 Amp Circuit", and the bottom "green" bonus plug is hooked up to the coach's 30 amp electrical system.
 
-<h3>Easy Thermal Blanket</h3>
+<h3>Easy Thermal Curtain</h3>
 
 On the web you will find many examples of thermal blankets that RVers have fabricated to keep the temperature differential between the cab and the coach as large as possible.  We came up witht the idea to zip two sleeping bags together to form one large blanket that fit the dimensions of the cab / coach division perfectly.  With a bit of overlap on the top bunk held in place by whatever we were storing up there, the thermal blanket really worked well during both summer and winter.  We used a couple of old summer sleeping bags we had surplus in the basement, but even with that lightweight protection, we observed the difference in coach and cab temperatures to be really significant.  
 
