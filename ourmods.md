@@ -276,7 +276,7 @@ That's the recent material - here are all of the mods that we have previously im
     <div class="column" style="background-color:white;">
     <h3>No Winter Mods?</h3>
     <p>Get Out There Anyway</p>
-    <img src="/assets/websolarthumbnail.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <img src="/assets/Dec2021web.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
