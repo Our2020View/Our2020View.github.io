@@ -29,7 +29,7 @@ For washing up, we rely on a jug on the counter with a tap:
 
 For any type of winter camping, plumbing or no plumbing, we also consider these:
 
-2 – It is a must to have some sort of divider between the cab and the coach, as all those windows up front do nothing to help keep heat in the cab.  (I’d recommend closing off all of the air ducts, and turning off the heating system prior to shutting off the truck, in an attempt to keep cold air from leaking into the cab, as well.)  You don’t need anything elaborate to do this job – we use a curtain made of two sleeping bags zipped together:
+2 – It is a must to have some sort of divider between the cab and the coach, as all those windows up front do nothing to help keep heat in the cab.  (I’d recommend closing off all of the air ducts, and turning off the heating system prior to shutting off the truck, in an attempt to keep cold air from leaking into the cab, as well.)  You don’t need anything elaborate to do this job – we use a curtain made of two sleeping bags zipped together.  Have a look at our curtain, found on our Miscellaneous Mods page:
 
 [Easy Thermal Curtain]( https://our2020view.ca/ourmods/miscmods/)
 
