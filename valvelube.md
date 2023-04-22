@@ -21,7 +21,7 @@ It became clear that this trick would only work on the valves with a direct pull
 
 But, again, this will not work on the cable actuated dump valves we have on our View, as the valve housing is surrounded by a bolt on tower that supports the cable pull actuator, and it is too impractical to take this assembly apart every time you want to lubricate the valve. But, while doing my experiment on that direct pull dump valve I use as a safety valve, I concluded that the absolute best way to get lubricant onto the blade valve and its blade sheath was to simply spray it on directly.  If you sprayed lubricant on the valve with the blade valve fully closed, the lubricant would run down and smear the blade sheath, and when you opened the valve the lubricant would run into the valve sheath and disperse in its track.  When you closed the blade valve the lubricant would be pushed along the sheath track and up to the top of the blade valve.  With the blade valve fully open, the lubricant would penetrate into the sheath track, and wait to lubricate the valve as it closed.  (With the “YouTube drill a hole in the valve housing trick” you lubricate the bottom of the blade valve, but not the sheath and its rubber seals.)
 
-But, as you know, no RV or dump valve manufacturer gives you the capability to spray on some lubricant directly to your dump valves!  Wouldn’t that be the easiest thing to do?  But, maybe too easy ... I guess they would not sell as many dump valves if there was a way for us to actually maintain them and make them last for years and years.
+Now, as you know, no RV or dump valve manufacturer gives you the capability to spray on some lubricant directly to your dump valves!  Wouldn’t that be the easiest thing to do?  But, maybe too easy ... I guess they would not sell as many dump valves if there was a way for us to actually maintain them and make them last for years and years.
 
 Spray some lubricant on directly ... why not?  When trying to figure out how to do this, I reminded myself that there are lots of fluid vessels and containers that have some sort of access port to allow for inspection or maintenance.  So, why not a piece of RV plumbing?  Why can’t you create an access port to give you the capability to maintain an RV dump valve?  
 
@@ -51,5 +51,6 @@ Aside from lubricating the pull handle shaft at the wet bay, and the valve pull 
 
 I repeated this whole process for the grey dump valve as well.
 
-The before and after results were quite remarkable – the light force required and the smoothness on the pull cable was as if the RV had just come out of the factory.  
+The before and after results were quite remarkable – the light force required and the smoothness on the pull cable was as if the RV had just come out of the factory.
+
 Working better than I had hoped for.  Lubricating the dump valves is now going to be a routine, very easy job.
