@@ -282,6 +282,15 @@ That's the recent material - here are all of the mods that we have previously im
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/nowintermods/'"> READ MORE </button>
     </div>
+    <div class="column" style="background-color:white;">
+    <h3>Dump Valve Lube</h3>
+    <p>Spray Directly onto the Valves</p>
+    <img src="/assets/webvalvelube5.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="height:40px;width:200px;background-color:green; color:white"
+            onclick="location.href = '/ourmods/valvelube/'"> READ MORE </button>
+    </div>
    </div>
   
 <h1> Sprinter Chassis </h1>
