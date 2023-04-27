@@ -53,7 +53,7 @@ I repeated this whole process for the grey dump valve as well.
 
 The before and after results were quite remarkable – the light force required and the smoothness on the pull cable was as if the RV had just come out of the factory.
 
-Working better than I had hoped for.  Lubricating the dump valves is now going to be a routine, very easy job.
+Working better than I had hoped for - lubricating the dump valves is now going to be a routine, very easy job.
 
 <br>
 
