@@ -43,6 +43,9 @@ permalink: /ourmods/
   February 2023 - <b>Go Winter Camping without any winter mods?</b><a href = "/ourmods/nowintermods/ ">  RV with No Winter Mods </a>
  <br>
  <br>
+  April 2023 - <b>Directly lubricate the dump valves</b> - <a href = "/ourmods/valvelube/ ">  Dump Valve Lube </a>
+ <br>
+ <br>
   
 That's the recent material - here are all of the mods that we have previously implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
   
