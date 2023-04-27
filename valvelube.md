@@ -9,7 +9,7 @@ Sticky dump valves.  How do you fix them?
 
 We have always had the problem, in one form or another, on our various motorhomes, and I’ve never really been able to figure out how to crack the code on being able to lubricate the blades and blade housings.  And, I’ve always worried that someday we would be faced with some sort of disaster at the dump station; either not being able to get the valve open, or have it stick part way, or not be able to get it closed fully.  The internet is full of stories regarding these problems, and there are quite a few ideas on how to get those things lubricated, but none of them have really worked for us.  
 
-We have a third gate valve at the dump connection, acting as a catch valve in case of a leaky black or grey valve, and I remove it at the end of the season.  While it was in the basement over one winter, I tested out the “drill a hole in the casing and spray in some lubricant and then put a screw in the hole” trick...  
+So, I did some testing.  We have a third gate valve at the dump connection, acting as a catch valve in case of a leaky black or grey valve, and I remove it at the end of the season.  While it was in the basement over one winter, I tested out the “drill a hole in the casing and spray in some lubricant and then put a screw in the hole” trick...  
 
 Here is the third dump valve I experimented with; you can see the small screw I inserted to close the hole I drilled in the end of the valve housing:
 
