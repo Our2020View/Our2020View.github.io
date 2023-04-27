@@ -40,7 +40,7 @@ permalink: /ourmods/
   December 2022 - <b>Replacing the Sun Power Panels</b> - <a href = "/ourmods/solarretrofit/ ">  Preview of Solar Retrofit (Spring '23) </a>
  <br>
  <br>
-  February 2023 - <b>Go Winter Camping without any winter mods?</b><a href = "/ourmods/nowintermods/ ">  RV with No Winter Mods </a>
+  February 2023 - <b>Go Winter Camping without any winter mods?</b> - <a href = "/ourmods/nowintermods/ ">  RV with No Winter Mods </a>
  <br>
  <br>
   April 2023 - <b>Directly lubricate the dump valves</b> - <a href = "/ourmods/valvelube/ ">  Dump Valve Lube </a>
