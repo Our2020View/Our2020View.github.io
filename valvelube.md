@@ -17,7 +17,7 @@ Here is the third dump valve I experimented with; you can see the small screw I 
 
 It became clear that this trick would only work on the valves with a direct pull handle – this will not work on a cable operated valve, as you can’t get to the valve housing on those cable designs.  But, spraying in some lube inside the valve housing, and then sealing it up with a screw, did provide a good measure of valve lubrication.  For a dump valve with a direct pull handle, this turned out to be a pretty good idea.  If you have a direct pull dump valve and have not seen this trick, have a look here:
 
-<a href = "https://www.youtube.com/watch?v=TGv9THpOdmw" target="_blank">Drill a hole in the valve housing Trick </a>
+<a href = "https://www.youtube.com/watch?v=TGv9THpOdmw" target="_blank">Drill a hole in the valve housing Trick - Direct Pull handle only </a>
 
 But, again, this will not work on the cable actuated dump valves we have on our View, as the valve housing is surrounded by a bolt-on tower that supports the cable pull actuator, and it is too impractical to take this assembly apart every time you want to lubricate the valve.  This photo shows what a cable actuated valve looks like - note the bolt-on tower that the direct pull dump valve does not have:
 
