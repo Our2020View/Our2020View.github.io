@@ -19,7 +19,7 @@ It became clear that this trick would only work on the valves with a direct pull
 
 <a href = "https://www.youtube.com/watch?v=TGv9THpOdmw" target="_blank">Drill a hole in the valve housing Trick </a>
 
-But, again, this will not work on the cable actuated dump valves we have on our View, as the valve housing is surrounded by a bolt on tower that supports the cable pull actuator, and it is too impractical to take this assembly apart every time you want to lubricate the valve.  This photo shows what a cable actuated valve looks like - note the bolt on tower that the direct pull dump valve does not have:
+But, again, this will not work on the cable actuated dump valves we have on our View, as the valve housing is surrounded by a bolt-on tower that supports the cable pull actuator, and it is too impractical to take this assembly apart every time you want to lubricate the valve.  This photo shows what a cable actuated valve looks like - note the bolt-on tower that the direct pull dump valve does not have:
 
 <img src="/assets/webvalvelube7.jpg"/>
 
