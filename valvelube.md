@@ -35,7 +35,7 @@ Here is the section of plumbing that is directly opposite my black tank dump val
 
 <img src="/assets/webvalvelube1.jpg"/>
 
-This is the 9 / 64th inch hole I drilled in the ABS pipe, and the next photo shows you the clearance for the 10” spray stray I used:
+This is the 9 / 64th inch hole I drilled in the ABS pipe, and the next photo shows you the clearance for the 10” spray stray I used.  If you push the straw in about seven inches, you will it the face of the dump valve blade, square on:
 
 <img src="/assets/webvalvelube2.jpg"/>
 
