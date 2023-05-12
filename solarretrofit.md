@@ -39,6 +39,12 @@ But, just how much wind do these panels really see?  Lots of RVers use the VHB t
 
 I measured the airspeed at six locations on the left hand side of the roof, where the air would have the best chance of re-attaching after it came over the bunk.  (I wanted to measure the fastest moving air on the roof, and felt that the protuberances on the right hand side of the roof would create turbulence resulting in lower speeds.)  The anemometer was positioned about 1/2 of an inch from the surface, and I did the tests at a vehicle odometer speed of 71 mph (115 kmh).
 
+These photos show where and how I measured the airspeed:
+
+<img src="/assets/webairspeed2.jpg"/>   
+
+<img src="/assets/webairspeed1.jpg"/>   
+
 The speed just aft of the bunk seam met expectations; it was quite low, about 24% of vehicle speed.  The speeds in the middle of the roof, at 4, 6, and 8 feet aft of the bunk lip were pretty consisent at about 75% of vehicle speed.  The speed at 10 feet aft of the bunk lip was down a bit, at 63% of vehicle speed.  (I attempted to measure the speed of the air on top of the bunk, but my Amazon $23.00 anemometer gave up the ghost at this point and was history.  Not really knowing what the speed of the air coming over the bunk was did not  make for a good apples to apples comparison, but using a percentage of vehicle speed gives me a general idea of what our panels will be seeing.)  We cruise at 62 mph (100 kph), so I'm going to go with 45 mph (76 kmh) as an approximate cruise airspeed that our panels will experience.  During times at passing speeds, they will see about 55 mph (88 kmh). 
 
 Is there any merit to these tests?  Well, it depends on what we are going for here.  But, I think I can say with confidence that the air downstream of the bunk lip on the left hand side does a pretty good job of re-attaching and reaching some impressive speeds.  If the panels were mounted with a bit of incidence, I might be concerned about the potential to create lift - but with the panels flat and the air able to flow under the panels as well, I'm guessing that the capability to produe lift will be minimal.  (I might give some thought to mounting the panels with a negative angle of incidence ...)  Having said that, it might come back to relying on the hold down strength of the tape, and its good history.  AM Solar uses 10 square inches of tape - I plan on using 96 square inches of tape.  AM Solar's tensile strength is 1400 pounds per panel, mine will be 13,500 pounds per panel- should be good enough.
