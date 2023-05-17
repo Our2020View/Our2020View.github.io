@@ -357,6 +357,7 @@ That's the recent material - here are all of the mods that we have previously im
   <h4>Helpful Counter Space</h4>
   <h4>Shower Cold Water Blast Fix</h4>
   <h4>Roller Shades "Thumping" Fix</h4>
+  <h4>Roof Radius Protection</h4>
   
   <div class="row">
     <div class="column" style="background-color:white;">
