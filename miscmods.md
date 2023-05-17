@@ -205,6 +205,37 @@ Here is another easy one - stop those shades from thumping on the window frame a
 
 <img src="/assets/rubberbumper2web.jpg"/>
 
+<h3> Roof Radius Protection</h3>
+
+Shortly after we got our View, I began researching what we needed to do to help protect our investment.  A YouTube video entitled “The MOST Important Inspection on a Winnebago Roof” caught my immediate attention, and drew me into the world of worrying about a Winnebago roof.  Who knew that the fibreglass Filon sheet on the surface of our roof was only held in place by tucking the edges along a lip running on the sides of the coach?  Who knew that the tuck is secured to the coach with a thick wad of sealant?  Who knew that the sealant weathers over time and needs to be replaced, or our roof might decide to depart the coach while we are driving down the highway?  And, who knew that the removal and resealing of this lip is a pretty big job?  Well, I certainly didn’t know any of this.
+
+If you are not familiar with Winnebago’s method of attaching the roof to the coach, or the method of ensuring it stays there, have a look at this video from a maintenance facility in Arizona – it is well worth the twenty-five minutes that it takes to watch:
+
+<a href = "https://www.youtube.com/watch?v=jDd3NrdWSQA&t=1367s" target="_blank">The MOST Important Inspection on a Winnebago Roof </a>
+
+Our ’21 View has the same roof attachment method that this video highlights, so the material was extremely enlightening to me.  But, as with other things in life, it took me a couple of years to get around to really thinking about this.  When I did finally get around to thinking about potential problems with this design, I had one question: “If the sealant that ensures the Filon roof remains tucked in the coach gutter can fail under the influence of weathering and the sun’s UV light, why has Winnebago not protected the area?”  “Can I protect the sealant to extend its useful life?”
+
+As usual, I came up with some pretty elaborate and impractical ideas of protecting the sealant – but in the end decided that some PVC electrical tape covering up the roof radius attachment might just do the trick.  Simple, and easy to install...
+
+Before I went to the trouble of applying 30 feet of electrical tape to the roofline of the View, I elected to try a six inch test patch to see if the tape would hold and if it would actually make a difference.  Late one summer, when the View was two years old, I applied the test patch and then waited for the following spring to have a look.  Over the winter the View was parked with the test patch facing the sun, and was operated that winter season in the rain, snow, and salt.
+When I had a look at the test patch after approximately nine months, I was surprised at what I saw.  The tape had held up just fine, and the protected area was markedly in better shape than the unprotected area.  There was a very noticeable increase in weathering of the unprotected sealant, so much so that I got busy right away protecting the rest of the roof radius sealant.
+
+Have a look – The sealant on the left was protected for nine months, the sealant on the right was left open to the elements and the sun:
+
+<img src="/assets/webroofradius1.jpg"/>
+
+How long does the roof radius sealant on a ’21 View normally hold up, if you just let it sit out in the open?  Well, I don’t know.  Five years?  Ten years?  Fifteen years?  Not sure.  But I do think that it will last longer if protected from the sun’s UV rays and the various weather conditions that a motorhome will face during four season use.
+
+Is there a down side to adding a run of PVC tape over the roof radius gutter on our View?  Based on my nine month test, I can’t think of one.  All I had on hand for my installation was black PVC tape, but when it comes time to re-apply the tape in a few years I’ll likely use white PVC tape in an attempt to keep the gutter cooler.  But, so far that is the only consideration I can think of.  If you come up with something, let me know.
+
+The black tape blends in well with the roofline of our paint scheme; I don’t think it would be noticeable to anyone but myself:
+
+<img src="/assets/webroofradius2.jpg"/>
+
+The job used about 2/3rds of a roll of tape, and took about an hour.  A small price to pay for perhaps pushing off a bit of very awkward roof maintenance that would certainly take me a couple of days to accomplish... 
+
+Another thing I experimented with a bit was adding some rubber conditioner to the gutter sealant.  As you can see in the first picture above, the unprotected sealant’s surface is starting to powder and crack, and I wanted to see if the conditioner would revitalize the compound to prevent this powdering.  I sprayed on common RV rubber conditioner on a small area of the roof radius, and it immediately returned the sealant to looking like it had just come out of the caulking gun.  So, the results looked promising but I was a bit hesitant to spray the rest of each roof radius without knowing what the long term effect of the conditioner would be on the health and structure of the sealant.  I reached out to the manufacturer of a similar product to what I thought Winnebago was using, but they would not give me any assurance that a rubber conditioner would do no harm.  Without knowing what the Winnebago roof radius sealant is actually made of, I think I will just wait for a bit to see if my small test patch deteriorates with the passage of time.  I could not find any references on the web to folks using rubber conditioner on RV sealant – that too makes me wonder.  If you have some experience with this, drop me a line, thanks.
+
 
 <br>
 <br>
