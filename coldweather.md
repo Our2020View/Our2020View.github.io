@@ -23,7 +23,7 @@ However, just watching the Newstate's video, I couldn’t visualize exactly wher
 
 It wasn’t until I could get to the RV that first spring that things all came into focus... the electrical area of the wet bay locker is fully open to the back of the wet bay and up to the floor of the shower!  The back of the wet bay, and floor of the shower area, is open to air exposed to that locker with no insulation of any kind.  Winnebago has provided a propane powered heat duct to the water pump area and plumbing coming from the wet bay, but the wet bay plumbing is not protected.
 
-If you stick your camera in far enough to the elecrical side of that wet bay locker, you'll see the bottom of the shower and its related plumbing:
+If you stick your camera in far enough to the elecrical side of that wet bay locker, you'll see the bottom of the shower and the plumbing leaving the wet bay enroute to the coach:
 
 <img src="/assets/2undershower2web.jpg"/>
 
