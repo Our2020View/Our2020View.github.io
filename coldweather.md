@@ -17,7 +17,7 @@ This was great to discover, as I had been wondering about the wet bay design and
 
 <img src="/assets/webwetbay.jpg"/>
 
-However, just watching the Newstate's video, I couldn’t visualize exactly where the heat was being applied to solve the issue.  Looking at the drawings helped a bit - here is one of the internal plumbing directly behind the wet bay panel you see from the street; the panel is at the right hand side of the drawing ... it is very easy to see why things freeze up when temperatures drop:
+However, just watching the Newstate's video, I couldn’t visualize exactly where their emergency heat was being applied to solve the issue.  Looking at the drawings helped a bit - here is one of the internal plumbing directly behind the wet bay panel you see from the street; the panel is at the right hand side of the drawing ... it is very easy to see why things freeze up when temperatures drop:
 
 <img src="/assets/wetbaydrawingweb.jpg"/>
 
