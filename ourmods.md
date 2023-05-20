@@ -57,7 +57,7 @@ That's the recent material - here are all of the mods that we have previously im
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Electrical Info</h3>
-    <p>Key Features of the '21 View / Navion</p>
+    <p>Key Features of the '20 View / Navion</p>
     <img src="/assets/elecimage.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
