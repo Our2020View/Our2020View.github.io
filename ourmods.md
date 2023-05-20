@@ -304,7 +304,7 @@ That's the recent material - here are all of the mods that we have previously im
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Speaker Fix</h3>
-    <p>Better Sound Quality</p>
+    <p>Better Cab Sound Quality</p>
     <img src="/assets/speakerfixweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
