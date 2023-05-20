@@ -21,10 +21,6 @@ However, just watching the Newstate's video, I couldn’t visualize exactly wher
 
 <img src="/assets/wetbaydrawingweb.jpg"/>
 
-Here is a view of under the shower - You can see the square hole cut in the floor just above the wet bay:
-
-<img src="/assets/1undershowerweb.jpg"/>
-
 It wasn’t until I could get to the RV that first spring that things all came into focus... the electrical area of the wet bay locker is fully open to the back of the wet bay and up to the floor of the shower!  The back of the wet bay, and floor of the shower area, is open to air exposed to that locker with no insulation of any kind.  Winnebago has provided a propane powered heat duct to the water pump area and plumbing coming from the wet bay, but the wet bay plumbing is not protected.
 
 If you stick your camera in far enough to the elecrical side of that wet bay locker, you'll see that square hole and the plumbing for the shower:
@@ -34,6 +30,10 @@ If you stick your camera in far enough to the elecrical side of that wet bay loc
 Here is another view, looking into the locker from the street:
 
 <img src="/assets/3backofelecbayweb.jpg"/>
+
+Here is a view of under the shower - You can see the square hole cut in the floor just above the wet bay:
+
+<img src="/assets/1undershowerweb.jpg"/>
 
 So, after giving this some thought, and remembering how we keep warm while camping, some areas requiring careful consideration started to become clear if we were going to be able to camp in sub-zero temperatures for any length of time.
 
