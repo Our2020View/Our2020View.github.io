@@ -204,7 +204,7 @@ That's the recent material - here are all of the mods that we have previously im
   <div class="row">
     <div class="column" style="background-color:white;">
     <h3>Solar Retrofit</h3>
-    <p>★ Waiting for Spring</p>
+    <p>★ Waiting for Warm Temps</p>
     <img src="/assets/websolarthumbnail.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
