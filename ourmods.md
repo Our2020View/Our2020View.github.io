@@ -325,7 +325,7 @@ That's the recent material - here are all of the mods that we have previously im
 <div class="row">
    <div class="column" style="background-color:white;">
     <h3>Suspension</h3>
-    <p>Shocks and Sway Bar</p>
+    <p>Fox Shocks and Hellwig Sway Bar</p>
     <img src="/assets/webshocks.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
