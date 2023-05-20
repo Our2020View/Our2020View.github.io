@@ -13,7 +13,7 @@ If you are like me, you might enjoy scouring the web to find out what other RVer
 
 If you have any questions or suggestions, feel free to drop me a line at the email found at the very bottom.  Thanks for your interest!
 
-Wherever your travels take you, here's hoping that the view out your front windscreen is always 2020. 
+Wherever your travels take you, here's hoping that the View out your front windscreen is always 2020. 
 
 <img src="/assets/webfergus.jpg"/>
 
