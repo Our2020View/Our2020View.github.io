@@ -13,7 +13,11 @@ But, not so fast ... unfortunately (or maybe, fortunately) I found this really v
 
 <a href = "https://www.youtube.com/watch?v=2ZOGvqfBxvw&t=189s " target="_blank">View/Navion wet bay freeze up </a>
 
-This was great to discover, as I had been wondering about the wet bay design and how that spaghetti box of exposed plumbing made its way into the heated area of the coach.  However, just watching this video, I couldn’t visualize exactly where the heat was being applied to solve the issue.  Looking at the drawings helped a bit - here is one of the internal plumbing directly behind the wet bay panel you see from the street; the panel is at the right hand side of the drawing ... it is very easy to see why things freeze up when temperatures drop:
+This was great to discover, as I had been wondering about the wet bay design and how that spaghetti box of exposed plumbing, behind the wet bay panel, made its way into the heated area of the coach.  Here is the culprit - behind this panel is where things freeze up:
+
+<img src="/assets/webwetbay.jpg"/>
+
+However, just watching the Newstate's video, I couldn’t visualize exactly where the heat was being applied to solve the issue.  Looking at the drawings helped a bit - here is one of the internal plumbing directly behind the wet bay panel you see from the street; the panel is at the right hand side of the drawing ... it is very easy to see why things freeze up when temperatures drop:
 
 <img src="/assets/wetbaydrawingweb.jpg"/>
 
