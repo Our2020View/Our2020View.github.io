@@ -323,16 +323,7 @@ That's the recent material - here are all of the mods that we have previously im
 </div>
   
 <div class="row">
-  <div class="column" style="background-color:white;">
-    <h3>Extra Long Valve Stems</h3>
-    <p>Resistance is Futile</p>
-    <img src="/assets/indyinterior_crop.jpg" title="Mod Thumbnail" width="217.25" height="163">
-    <br>
-    <br>
-    <button style="height:40px;width:200px;background-color:yellow; color:black"
-            onclick="location.href = '/ourmods/valvestems/'"> READ PREVIEW </button> 
-  </div>
-  <div class="column" style="background-color:white;">
+   <div class="column" style="background-color:white;">
     <h3>Suspension</h3>
     <p>Shocks and Sway Bar</p>
     <img src="/assets/webshocks.jpg" title="Mod Thumbnail" width="217.25" height="163">
