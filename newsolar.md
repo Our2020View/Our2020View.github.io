@@ -127,7 +127,7 @@ I quickly zeroed in on the fact that the only part of the roof that needed to be
 
 5 – The attachment of the 4950 VHB tape was straightforward.  Here is a link to 3M’s installation instructions for the VHB tape.  Lots of good stuff here:
 
-<a href = "https://www.3m.com/3M/en_US/vhb-tapes-us/resources/applying-3m-vhb-tapes/" target="_blank”> 3M VHB Tape Installation Instructions </a>
+<a href = "https://www.3m.com/3M/en_US/vhb-tapes-us/resources/applying-3m-vhb-tapes/" target="_blank”>3M VHB Tape Installation Instructions</a>
 
 I elected to scuff up the base of the T Track with some 1200 grit sandpaper, and then cleaned off the area with the alcohol / water blend.  I positioned the tape in the centre of the track, and then used a roller to apply pressure as described by 3M.
 
