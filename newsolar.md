@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Solar Panel Retrofit | RV Mods
+title: RV Solar Panels | RV Mods
 permalink: /ourmods/newsolar/
 ---
 I’ve got mixed feelings on this one – I’m glad to be adding some more solar capability to the View, but I’m disappointed that I have to replace the existing flex panels after only a couple of years of use.  People have been reporting that the factory 100 watt Sunpower panels have been scorching their thin Filon fibreglass veneer on the View’s roof, and I’ve noticed a drop in performance of our factory panels over the short period that we have been using them.  So, time to fix both those issues while increasing our charging capability to the lithium coach batteries.
