@@ -43,7 +43,7 @@ I have always envied those that have roof racks that can be used as the supports
 
 So, with a long winter ahead to change direction and plan an installation using Utility T Track, here is what my supplies list ended up being:
 
-<img src="/assets/websolarretrofit12.jpg"/>   
+<img src="/assets/awebsolarretrofit12.jpg"/>   
 
 <a href = "https://www.amazon.ca/gp/product/B08Y598Q3T/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 " target="_blank">Renogy 100w rigid solar panels </a>
 
@@ -63,15 +63,15 @@ I chose the Renogy feet to keep things simple; as they were designed for their p
 
 All of the installations online that I researched had used ¾” Utility T Track, but I chose 1 ¼” T Track to allow the use of a full wide strip of 1” VHB tape.  ¾” VHB tape is not as easy to find, and I liked the idea of more adhesion footprint.
 
-<img src="/assets/websolarretrofit13.jpg"/>  Photo of T Track packaging
+<img src="/assets/awebsolarretrofit13.jpg"/>  Photo of T Track packaging
 
-<img src="/assets/websolarretrofit14.jpg"/>   Photo of T Track dimensions
+<img src="/assets/awebsolarretrofit14.jpg"/>   Photo of T Track dimensions
 
 <a href = "https://thetoolstore.ca/products/blackjack-11038-t-track-mount-5-pk-20065?_pos=1&_sid=0dcbcaf73&_ss=r " target="_blank">Utility Track bolt fasteners </a>
 
 The T Track I chose really lends itself to needing some sort of bolt anchor, due to the width of the track.  A ¾” track would allow just a bolt insert, but the 1 ¼” wide track is too wide for that practically.  Here is a photo of the mounts I purchased, being used in a carpentry application:
 
-<img src="/assets/websolarretrofit15.jpg"/>   
+<img src="/assets/awebsolarretrofit15.jpg"/>   
 
 ¼” – 20 ½” bolts, nuts, lock washers, all stainless steel – These bolts are more heavy-duty than the bolts that attach the feet to the panels, so I considered going a bit smaller to match those bolts ... but in the end I went with these ¼” – 20 bolts, as they are pretty easy to find.
 
@@ -91,17 +91,17 @@ But, again, for the View / Navion – all is good.  The roof is flat enough that
 
 I needed to drill a hole in the centre of each foot to accept a T Track bolt.  I landmarked the location of the hole using the letters stamped on the foot – I chose to use the end of the centre line of the E to ensure repeatability.  I chose to drill an oversize hole for use with the ¼” – 20 bolt, in order to allow for some lateral play that might be needed due to inaccuracies in the Renogy panel holes, or my drilling locations.  You just never know...
 
-<img src="/assets/websolarretrofit2.jpg"/>  
+<img src="/assets/awebsolarretrofit2.jpg"/>  
 
 I attached the Renogy feet to the ends of the panels, landmarking them for repeatability using a spare mounting hole as a reference.  Getting all of the feet in the same location, with the hole in the same location on each foot,  was key to being able to mount the panels on the T Tracks after all of the tracks had been laid.  The tracks would not be moving!
 
-<img src="/assets/websolarretrofit3.jpg"/>  
+<img src="/assets/awebsolarretrofit3.jpg"/>  
 
 (You can see the old VHB tape on the bottom of the foot, now redundant since I changed the method of mounting the panels.)
 
 2 - As I mentioned earlier, I wanted to leave some room to be able to walk around the roof.  The orientation and placement of the panels seemed pretty intuitive, but I cut up the boxes that the panels came in and used them to mock up the ideal locations for the panels.  Getting around the air conditioner to be able to access the front of the coach was important, so I took care to be able to do that without resorting to gymnastics.  Ideally I would have like to position all of the panels ahead of the rear axle, but that was not possible if I wanted to leave room to walk around the roof.  The 100 watt Renogy panels are not huge, so here is what I quickly ended up with:
 
-<img src="/assets/websolarretrofit1.jpg"/>  
+<img src="/assets/awebsolarretrofit1.jpg"/>  
 
 3 - With a plan as to where I wanted to put the new panels, getting the old panels off was the next step.  This turned out to be much more difficult than I thought it would be.  The six screws per panel were very loose and not really doing much of anything, but the panels were also glued down!  My plans were to get the panels off the roof without any panel damage, but breaking the adhesive bond meant that I heard some cracking as I tried to pry off the SunPower flex panels.  I’d recommend doing this job while the sun is not shining, as those things get hot!  After I got the panels off, I did check the output voltage and found that both were still in the 18 volts range so perhaps I can still pass them to a friend with a clear conscience. 
 
@@ -109,19 +109,19 @@ I attached the Renogy feet to the ends of the panels, landmarking them for repea
 
 Here are a couple of photos of what I was left with after the panels were removed:
 
-<img src="/assets/websolarretrofit4.jpg"/>  
+<img src="/assets/awebsolarretrofit4.jpg"/>  
 
-<img src="/assets/websolarretrofit5.jpg"/>  
+<img src="/assets/awebsolarretrofit5.jpg"/>  
 
 Getting the glue lines off the roof was the next challenge, and for that job I used a plastic razor blade scrapper and some paint thinner / mineral spirits.  The scraper I used during my rear view camera project did not lend itself very well to putting a lot of force into the work, so I bought an extended handle razor blade scraper that allowed one to get serious about the job.  In this next photo, the top scraper is the one that came with the plastic razor blades, and the bottom scrapper is the one I bought to make the job much, much easier:
 
-<img src="/assets/websolarretrofit6.jpg"/>
+<img src="/assets/awebsolarretrofit6.jpg"/>
 
 I found the adhesive residue came off easier after spraying on some paint thinner, and it also removed the sealant residue around the screw holes very well.  
 
 I sealed the Sunpower screw holes with gutter and siding sealant.  I contemplated putting the screws back in the holes as well, but for simplicity I settled on just the sealant.  The sealant I used at various times during this project was the same product I used during my rear view camera replacement.  Lichtsinn RV use this product to seal the roof radius after roof maintenance, as it has a superior bond with fibreglass.  If it is good enough at keeping the roof on, I figured it would be fine for this job.  The sealant is Stone Mason Gutter and Siding Sealant:
 
-<img src="/assets/websolarretrofit7.jpg"/>  Photo - Stone Mason sealant
+<img src="/assets/awebsolarretrofit7.jpg"/>  Photo - Stone Mason sealant
 
 I quickly zeroed in on the fact that the only part of the roof that needed to be super squeaky clean was a 1” by 48” strip where the T Track was going to sit.  During the trial panel placement phase, I marked where the T Track was going to end up, and this made it much easier to concentrate on getting only the important part of the roof pristine.   I used the scrapper and paint thinner first, followed by a 50 / 50 blend of rubbing alcohol and water.  The next day, when I actually installed the T Track, I went over the area again quickly with a fibreglass cleaner, the paint thinner, and then the rubbing alcohol / water blend.  That combination seemed to work well.  
 
@@ -133,25 +133,25 @@ I elected to scuff up the base of the T Track with some 1200 grit sandpaper, and
 
 6 – The placement of the T Track had to be right, the first time, so I elected to cut some spacer boards to ensure an accurate installation.  The awning side T Track was to be located 4 ½” from the awning base plate, so I cut a 4 ½” spacer board to allow me to drop the track accurately:
 
-<img src="/assets/websolarretrofit8.jpg"/>  
+<img src="/assets/awebsolarretrofit8.jpg"/>  
 
 The second track laid had to be perfect, so again I used a spacer board to get it right.  I cut this spacer board 12 and 5/8” wide, to match up exactly with the width of the tracks required for the panel feet to fit on the T Track bolts.  With the spacer board butted up against the first laid T Track, it was easy to drop in the second track accurately.
 
-<img src="/assets/websolarretrofit9.jpg"/>  
+<img src="/assets/awebsolarretrofit9.jpg"/>  
 
 For the centreline panel placement, I chose a 7 ½” T Track separation from its awning side neighbour.  I cut a 7 ½” spacer board to landmark the first track placement, and then used the 12 5/8” spacer board for the second track, as before.
 
-<img src="/assets/websolarretrofit10.jpg"/>  
+<img src="/assets/awebsolarretrofit10.jpg"/>  
 
 For the slideout side panel - XXXX
 
 7- I finished up the track installs by running a bead of the siding and gutter sealant along all sides and ends of the tracks, again using Stone Mason Gutter and Siding Sealant.  In addition to the sides of the T Track, I also filled in each unused screw hole on the centreline of the track.  (All I was trying to do here was to keep the elements off of the VHB tape, so any product that adheres to fibreglass and aluminum would have been acceptable.  I elected not to use Dicor self-leveling sealant, and that product gets dirty pretty quickly.)  Also, this Stone Mason Gutter and Siding sealant is super strong so I felt good about some extra adhesive in the small groove bordering the VHB tape at the base of the T Track.
 
-<img src="/assets/websolarretrofit11.jpg"/>  
+<img src="/assets/awebsolarretrofit11.jpg"/>  
 
 8 – With the tracks installed, all the hard work was done.  The panels all dropped onto the bolts nicely from the T Track anchors, and after sliding them on the track to a position that made sense, I locked them down. 
 
-<img src="/assets/websolarretrofit25.jpg"/>  
+<img src="/assets/awebsolarretrofit25.jpg"/>  
 
 I covered up the panels using the cardboard panel mock-ups so they would not be generating electricity as I moved onto the wiring.
 
@@ -173,16 +173,16 @@ In order to keep things simple for the panels that were replacing the old Sunpow
 
 NOTE:  The positive pole of the SAE connector is on top as it is inserted into the Zamp roof port receptacle.
 
-<img src="/assets/websolarretrofit17.jpg"/>   
+<img src="/assets/awebsolarretrofit17.jpg"/>   
 
 For the two additional panels, I needed to use the MC4 Y connector leads and the new SAE connector wire with the 20 amp fuse.  Each positive MC4 connector from these two slideout side panels were grouped on one Y connector, and each negative MC4 connector was grouped on the other Y connector.  Both of these Y connectors were hooked up to some # 12 AWG cable via two new MC4 connectors, and the #12 AWG cable was spliced to the SAE connector wire using butt splices and shrink wrap.  The SAE connector wire was then plugged into the vacant port on the roof top Zamp port box.  I arranged the rooftop wiring to protect the connectors from the elements, and shielded the wires with plastic wire loom to wrap things up.
 
-<img src="/assets/websolarretrofit18.jpg"/>   
+<img src="/assets/awebsolarretrofit18.jpg"/>   
 
 Here is how everything ended up looking:
 
-<img src="/assets/websolarretrofit19.jpg"/>   
+<img src="/assets/awebsolarretrofit19.jpg"/>   
 
 I’m easily getting a little over 15 amps of charging now in routine conditions, and over 20 amps in ideal conditions:
 
-<img src="/assets/websolarretrofit20.jpg"/>  
+<img src="/assets/awebsolarretrofit20.jpg"/>  
