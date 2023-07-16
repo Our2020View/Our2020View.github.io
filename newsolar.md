@@ -63,9 +63,9 @@ I chose the Renogy feet to keep things simple; as they were designed for their p
 
 All of the installations online that I researched had used ¾” Utility T Track, but I chose 1 ¼” T Track to allow the use of a full wide strip of 1” VHB tape.  ¾” VHB tape is not as easy to find, and I liked the idea of more adhesion footprint.
 
-<img src="/assets/awebsolarretrofit13.jpg"/>  Photo of T Track packaging
+<img src="/assets/awebsolarretrofit13.jpg"/>  
 
-<img src="/assets/awebsolarretrofit14.jpg"/>   Photo of T Track dimensions
+<img src="/assets/awebsolarretrofit14.jpg"/>   
 
 <a href = "https://thetoolstore.ca/products/blackjack-11038-t-track-mount-5-pk-20065?_pos=1&_sid=0dcbcaf73&_ss=r " target="_blank">Utility Track bolt fasteners </a>
 
