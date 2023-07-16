@@ -37,8 +37,6 @@ Ok, I made the decision to use the VHB tape and started into the same type of in
 
 It turns out this was not a bad turn of events, for I started questioning the advisability of attaching panels to the roof with no easy way of removing them.  That is when I noticed Brian of “RV with Tito” had come up with an installation system that used Utility T Track, and his project looked pretty good - as usual:
 
-<a href = "https://www.youtube.com/watch?v=uJIEXhnF8MU" target="_blank”> RV with Tito Solar Install </a>
-
 <a href = "https://www.youtube.com/watch?v=uJIEXhnF8MU " target="_blank">RV with Tito Solar Install </a>
 
 I have always envied those that have roof racks that can be used as the supports for a solar install, so the idea of using Utility T Track looked like the next best thing.  In addition to being able to remove a malfunctioning panel quickly and easily, the added adhesion footprint that the T Track gave was the clincher – If AM Solar was happy with ten square inches of VHB footprint for the large panels they install, how about 7 or 9 times more adhesion than that?
