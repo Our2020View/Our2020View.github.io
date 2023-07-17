@@ -93,7 +93,7 @@ I needed to drill a hole in the centre of each foot to accept a T Track bolt.  I
 
 <img src="/assets/awebsolarretrofit2.jpg"/>  
 
-I attached the Renogy feet to the ends of the panels, landmarking them for repeatability using a spare mounting hole as a reference.  Getting all of the feet in the same location, with the hole in the same location on each foot,  was key to being able to mount the panels on the T Tracks after all of the tracks had been laid.  The tracks would not be moving!
+I attached the Renogy feet to the ends of the panels, landmarking them for repeatability using a spare mounting hole as a reference.  Getting all of the feet in the same location, with the hole in the same location on each foot,  was key to being able to mount the panels on the T Tracks after all of the tracks had been laid.  There are no second chances for positioning the track!
 
 <img src="/assets/awebsolarretrofit3.jpg"/>  
 
