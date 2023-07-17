@@ -89,7 +89,7 @@ IMPORTANT – Using the Renogy feet on the ends, with the existing holes, does n
 
 But, again, for the View / Navion – all is good.  The roof is flat enough that this is not a problem.  
 
-I needed to drill a hole in the centre of each foot to accept a T Track bolt.  I landmarked the location of the hole using the letters stamped on the foot – I chose to use the end of the centre line of the E to ensure repeatability.  I chose to drill an oversize hole for use with the ¼” – 20 bolt, in order to allow for some lateral play that might be needed due to inaccuracies in the Renogy panel holes, or my drilling locations.  You just never know...
+I needed to drill a hole in the centre of each foot to accept a T Track bolt.  I landmarked the location of the hole using the letters stamped on the foot – I chose to use the end of the centre line of the E to ensure repeatability.  I drilled an oversize hole for use with the ¼” – 20 bolt, in order to allow for some lateral play that might be needed due to inaccuracies in the Renogy panel holes, or my drilling locations.  You just never know...
 
 <img src="/assets/awebsolarretrofit2.jpg"/>  
 
