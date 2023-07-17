@@ -123,7 +123,7 @@ I found the adhesive residue came off easier after spraying on some paint thinne
 
 I sealed the Sunpower screw holes with gutter and siding sealant.  I contemplated putting the screws back in the holes as well, but for simplicity I settled on just the sealant.  The sealant I used at various times during this project was the same product I used during my rear view camera replacement.  Lichtsinn RV use this product to seal the roof radius after roof maintenance, as it has a superior bond with fibreglass.  If it is good enough at keeping the roof on, I figured it would be fine for this job.  The sealant is Stone Mason Gutter and Siding Sealant:
 
-<img src="/assets/awebsolarretrofit7.jpg"/>  Photo - Stone Mason sealant
+<img src="/assets/awebsolarretrofit7.jpg"/>  
 
 I quickly zeroed in on the fact that the only part of the roof that needed to be super squeaky clean was a 1” by 48” strip where the T Track was going to sit.  During the trial panel placement phase, I marked where the T Track was going to end up, and this made it much easier to concentrate on getting only the important part of the roof pristine.   I used the scrapper and paint thinner first, followed by a 50 / 50 blend of rubbing alcohol and water.  The next day, when I actually installed the T Track, I went over the area again quickly with a fibreglass cleaner, the paint thinner, and then the rubbing alcohol / water blend.  That combination seemed to work well.  
 
