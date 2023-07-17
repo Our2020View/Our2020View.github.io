@@ -99,7 +99,7 @@ I attached the Renogy feet to the ends of the panels, landmarking them for repea
 
 <img src="/assets/awebsolarretrofit3a.jpg"/>  
 
-(You can see the old VHB tape on the bottom of the foot, now redundant since I changed the method of mounting the panels.)
+(You can see the old VHB tape on the bottom of the foot, now redundant since I changed the method of mounting the panels.  The VHB tape on the feet will not be used.)
 
 2 - As I mentioned earlier, I wanted to leave some room to be able to walk around the roof.  The orientation and placement of the panels seemed pretty intuitive, but I cut up the boxes that the panels came in and used them to mock up the ideal locations for the panels.  Getting around the air conditioner to be able to access the front of the coach was important, so I took care to be able to do that without resorting to gymnastics.  Ideally I would have like to position all of the panels ahead of the rear axle, but that was not possible if I wanted to leave room to walk around the roof.  The 100 watt Renogy panels are not huge, so here is what I quickly ended up with:
 
