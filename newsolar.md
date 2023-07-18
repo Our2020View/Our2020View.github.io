@@ -173,7 +173,7 @@ Here is a link to a short video on the essentials of wiring with MC4 connectors:
 
 <a href = "https://www.youtube.com/watch?v=YFAKK491wj0 " target="_blank">Solar wiring with MC4 connectors</a>
 
-I had to buy an MC4 crimping tool – these tools are quite expensive up here in Canada if you buy one from a solar specialty shop, but I found the one that all of the videos use for a fraction of the cost:
+I had to buy an MC4 crimping tool – these tools are quite expensive up here in Canada if you buy one from a solar specialty shop, but I found the one that all of the videos use for a fraction of the cost.  Here is the Amazon link:
 
 <a href = "https://www.amazon.ca/gp/product/B09LY4WM97/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 " target="_blank">MC4 Crimping Tool </a>
 
