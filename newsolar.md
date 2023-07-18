@@ -113,7 +113,7 @@ I attached the Renogy feet to the ends of the panels, landmarking them for repea
 
 4 – After I got the old panels off of the roof, the scorching that others had reported was there – but not as bad as I had feared.  I guess the temperature of our panels did not reach the values that can be reached by coaches that live in southern states.  There was some micro cracking in the areas of the light scorching, but I didn’t see anything that looked like a structural problem.
 
-Here is a closeup of the scorching that was on a small area of roof:
+Here is a closeup of the scorching that was on a small area of roof - for the most part, when laying the T Track I was able to miss these bad areas:
 
 <img src="/assets/awebsolarretrofit33.jpg"/>  
 
