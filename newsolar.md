@@ -151,6 +151,8 @@ For the centreline panel placement, I chose a 7 ½” T Track separation from it
 
 For the slideout side panel - XXXX
 
+<img src="/assets/awebsolarretrofit30.jpg"/>  
+
 7- I finished up the track installs by running a bead of the siding and gutter sealant along all sides and ends of the tracks, again using Stone Mason Gutter and Siding Sealant.  In addition to the sides of the T Track, I also filled in each unused screw hole on the centreline of the track.  (All I was trying to do here was to keep the elements off of the VHB tape, so any product that adheres to fibreglass and aluminum would have been acceptable.  I elected not to use Dicor self-leveling sealant, and that product gets dirty pretty quickly.)  Also, this Stone Mason Gutter and Siding sealant is super strong so I felt good about some extra adhesive in the small groove bordering the VHB tape at the base of the T Track.
 
 <img src="/assets/awebsolarretrofit11.jpg"/>  
