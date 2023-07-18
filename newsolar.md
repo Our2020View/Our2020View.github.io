@@ -171,7 +171,7 @@ I covered up the panels using the cardboard panel mock-ups so they would not be 
 
 Here is a link to a short video on the essentials of wiring with MC4 connectors:
 
-<a href = " https://www.youtube.com/watch?v=YFAKK491wj0 " target="_blank">Solar wiring with MC4 connectors</a>
+<a href = "https://www.youtube.com/watch?v=YFAKK491wj0 " target="_blank">Solar wiring with MC4 connectors</a>
 
 I had to buy an MC4 crimping tool – These tools are quite expensive up here in Canada if you buy one from a solar specialty shop, but I found the industry standard one on Amazon for a fraction of the cost:
 
