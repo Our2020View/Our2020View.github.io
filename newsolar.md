@@ -85,7 +85,7 @@ How much extra did this all weigh?  The panels and feet are 15 lbs each, the Uti
 
 Was 400 watts going to be enough?  I saw that some View owners were coming up with 600 watts for their retrofits – but I did notice one significant drawback to this concept – available real estate on the roof to walk around and maintain things.  At some point I’ll have all of that roof sealant to replace, and I felt I should plan for a comfortable work environment to do that and other roof maintenance jobs without having to remove the panels.    Also, our Zamp solar controller is only rated for 510 watts total, and they recommend only a maximum of 450 watts on the roof.  We have never used the solar inlet located in the electrical bay (that one is rated for 150 amps), but even still – I didn’t want to get involved in adding a different solar controller with more capacity.   No, 400 watts capability / 20 amps of charging was about all I felt we needed.
 
-The Installation
+<h1> The Installation </h1>
 
 1 – With my change of plans to allow the panels to be removed easily from a T Track concept, I moved the Renogy feet from the side of the panel to the ends.  There are existing holes in the panel frame to allow for configuring the feet on the ends.
 
