@@ -179,7 +179,7 @@ I had to buy an MC4 crimping tool – these tools are quite expensive up here in
 
 <img src="/assets/awebsolarretrofit16.jpg"/>  
 
-(When holding the crimping tool with the model number reading up, the conductor sleeve tabs point up.  I used the crimp jaws closest to my hand.)
+(When holding the crimping tool with the model number reading up, the conductor sleeve tabs point up so they get folded over.  I used the crimp jaws closest to my hand.)
 
 In order to keep things simple for the panels that were replacing the old Sunpower flex panels, I re-used the Winnebago SAE connector wires by severing the wires up close to the old panels, and then added appropriate MC4 connectors to connect to these new panels that were located in the same location as the old.
 
