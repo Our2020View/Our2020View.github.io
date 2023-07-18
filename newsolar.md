@@ -115,7 +115,7 @@ Here is a closeup of the scorching that was on a small area of roof - for the mo
 
 <img src="/assets/awebsolarretrofit33.jpg"/>  
 
-Here is a general photo of what I was left with after the panels were removed:
+Here are a couple of photos of what I was left with after the panels were removed:
 
 <img src="/assets/awebsolarretrofit4.jpg"/>  
 
