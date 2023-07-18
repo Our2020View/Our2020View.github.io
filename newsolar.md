@@ -151,7 +151,9 @@ For the centreline panel placement, I chose a 7 ½” T Track separation from it
 
 <img src="/assets/awebsolarretrofit10.jpg"/>  
 
-For the slideout side panel, I used the 12 5/8" spacer board aligned along the closest centreline T Track to position the last panel's first track.  Then, I again used  the 12 5/8" spacer board to position the last track.  All of these spacer boards were worth the time it took to cut them, as it made the track install pretty darn easy.  Here is an example shot of how all the spacer boards were used:
+For the slideout side panel, I used the 12 5/8" spacer board aligned along the closest centreline T Track to position the last panel's first track.  Then, I again used  the 12 5/8" spacer board to position the last track.  
+
+All of these spacer boards were worth the time it took to cut them, as it made the track install pretty darn easy.  Here is an example shot of how all the spacer boards were used:
 
 <img src="/assets/awebsolarretrofit30.jpg"/>  
 
