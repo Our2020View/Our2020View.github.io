@@ -177,7 +177,7 @@ I had to buy an MC4 crimping tool – these tools are quite expensive up here in
 
 <a href = "https://www.amazon.ca/gp/product/B09LY4WM97/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 " target="_blank">MC4 Crimping Tool </a>
 
-<img src="/assets/websolarretrofit16.jpg"/>  
+<img src="/assets/awebsolarretrofit16.jpg"/>  
 
 (When holding the crimping tool with the model number reading up, the conductor sleeve tabs point up.  I used the crimp jaws closest to my hand.)
 
