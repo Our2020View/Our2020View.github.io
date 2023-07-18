@@ -5,7 +5,7 @@ permalink: /ourmods/newsolar/
 ---
 I’ve got mixed feelings on this one – I’m glad to be adding some more solar capability to the View, but I’m disappointed that I have to replace the existing flex panels after only a couple of years of use.  People have been reporting that the factory 100 watt SunPower panels have been scorching their thin Filon fibreglass veneer on the View’s roof, and I’ve noticed a drop in performance of our factory panels over the short period that we have been using them.  So, time to fix both those issues while increasing our charging capability to the lithium coach batteries.
 
-Here is what we started with - two SunPower 100 watt flex panels:
+Here is what we started with - two SunPower 100 watt flex panels in the factory configuration - in ideal conditions we used to get about 10 amps total out of these panels when they were new:
 
 <img src="/assets/awebsolarretrofit32.jpg"/>  
 
