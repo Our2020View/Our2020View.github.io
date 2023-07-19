@@ -3,7 +3,7 @@ layout: page
 title: RV Solar Panels | RV Mods
 permalink: /ourmods/newsolar/
 ---
-I’ve got mixed feelings on this one – I’m glad to be adding some more solar capability to the View, but I’m disappointed that I have to replace the existing flex panels after only a couple of years of use.  People have been reporting that the factory 100 watt SunPower panels have been scorching their thin Filon fibreglass veneer on the View’s roof, and I’ve noticed a drop in performance of our factory panels over the short period that we have been using them.  So, time to fix both those issues while increasing our charging capability to the lithium coach batteries.
+I’ve got mixed feelings on this one – I’m glad to be adding some more solar capability to the View, but I’m disappointed that I have to replace the existing flex panels after only a couple of years of use.  People have been reporting that the factory 100 watt SunPower panels have been scorching the thin Filon fibreglass veneer on their View / Navion’s roof, and I’ve noticed a drop in performance of our factory panels over the short period that we have been using them.  So, time to fix both those issues while increasing our charging capability to the lithium coach batteries.
 
 Here is what we started with - two SunPower 100 watt flex panels in the factory configuration - in ideal conditions we used to get about 10 amps total out of these panels when they were new:
 
@@ -39,7 +39,7 @@ Grandpa Ron sounds pretty confident in the use of the tape; it looks like he has
 
 Ok, I made the decision to use the VHB tape and started into the same type of installation that Grandpa Ron had done – but elected to use six feet, instead of just four.  (This would have given me a 50% increase in factor of safety compared to the AM Solar method)  I came very close to getting up on the roof and starting into it, but due to the onset of a cool fall season, I ran out of consistent ambient temperatures that fell within the VHB tape installation parameters.  I had everything ready to go, but was forced to drop tools and sit on the installation until the following spring and the arrival of warmer temperatures.
 
-It turns out this was not a bad turn of events, for I started questioning the advisability of attaching panels to the roof with no easy way of removing them.  That is when I noticed Brian of “RV with Tito” had come up with an installation system that used Utility T Track, and his project looked pretty good - as usual:
+It turns out this was not a bad turn of events, for <b>I started questioning the advisability of attaching panels to the roof with no easy way of removing them.</b>  That is when I noticed Brian of “RV with Tito” had come up with an installation system that used Utility T Track, and his project looked pretty good - as usual:
 
 <a href = "https://www.youtube.com/watch?v=uJIEXhnF8MU " target="_blank">RV with Tito Solar Install </a>
 
