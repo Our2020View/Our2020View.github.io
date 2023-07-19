@@ -19,7 +19,7 @@ The general concept for this mod involved removing these two 100 watt SunPower f
 
 3 – Did I want the added weight four rigid panels and all the installation hardware would bring?
 
-4 – Should I add more than 400 watts?  Other folks have been adding quite a bit more solar capability to their Views...
+4 – Should I add more than 400 watts?  Other folks have been adding quite a bit more solar capability to their Views and Navions ...
 
 Here is what I came up with:
 
