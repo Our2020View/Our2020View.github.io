@@ -77,9 +77,9 @@ The T Track I chose really lends itself to needing some sort of bolt anchor, due
 
 <img src="/assets/awebsolarretrofit15.jpg"/>   
 
-¼” – 20 ½” bolts, nuts, lock washers, all stainless steel – These bolts are more heavy-duty than the bolts that attach the feet to the panels, so I considered going a bit smaller to match those bolts ... but in the end I went with these ¼” – 20 bolts, as they are pretty easy to find.
+<b>¼” – 20 ½” bolts, nuts, lock washers</b>, all stainless steel – These bolts are more heavy-duty than the bolts that attach the feet to the panels, so I considered going a bit smaller to match those bolts ... but in the end I went with these ¼” – 20 bolts, as they are pretty easy to find.
 
-#12 AWG wire, butt splice connectors, shrink wrap tubes, and gutter and siding sealant.
+<b>#12 AWG wire, butt splice connectors, shrink wrap tubes, and gutter and siding sealant.</b>
 
 How much extra did this all weigh?  The panels and feet are 15 lbs each, the Utility T Tracks per panel add another 3 lbs, and the miscellaneous wiring, connectors, and sealant was probably about 3 lbs total.  I took credit for the weight saving of removing the flex panels; about 8 lbs.  That all comes in around 67 lbs, but when taking credit for the rear stabilizers that I removed, the net additional weight totals about 27 lbs.  I rationalized this as a good deal for a theoretical 400 watts of solar capacity that actually had a good chance of working for awhile.
 
