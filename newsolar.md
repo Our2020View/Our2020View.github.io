@@ -161,7 +161,7 @@ All of these spacer boards were worth the time it took to cut them, as it made t
 
 <img src="/assets/awebsolarretrofit11.jpg"/>  
 
-8 – With the tracks installed, all the hard work was done.  The panels all dropped onto the bolts nicely from the T Track anchors, and after sliding them on the track to a position that made sense, I locked them down. 
+8 – With the tracks installed, all the hard work was done and I moved onto the fun part.  The panels all dropped onto the bolts nicely from the T Track anchors, and after sliding them on the track to a position that made sense, I locked them down. 
 
 <img src="/assets/awebsolarretrofit25.jpg"/>  
 
