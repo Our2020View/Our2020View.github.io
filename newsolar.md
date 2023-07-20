@@ -139,27 +139,23 @@ I quickly zeroed in on the fact that the only part of the roof that needed to be
 
 I elected to scuff up the base of the T Track with some 1200 grit sandpaper, and then cleaned off the area with the alcohol / water blend.  I positioned the tape in the centre of the track, and then used a roller to apply pressure as described by 3M.
 
-6 – The placement of the T Track had to be right, the first time, so I elected to cut some spacer boards to ensure an accurate installation.  The awning side T Track was to be located 4 ½” from the awning base plate, so I cut a 4 ½” spacer board to allow me to drop the track accurately:
+6 – The placement of the T Track had to be right, the first time, so I elected to cut some spacer boards to ensure an accurate installation.  The awning side T Track was to be located 4 ½” from the awning base plate, so I cut a 4 ½” spacer board to allow me to drop the track accurately.  I used this 4 1/2" spacer board for both awning side panel's first laid track:
 
 <img src="/assets/awebsolarretrofit8.jpg"/>  
 
-The second track laid had to be perfect, so again I used a spacer board to get it right.  I cut this spacer board 12 and 5/8” wide, to match up exactly with the width of the tracks required for the panel feet to fit on the T Track bolts.  With the spacer board butted up against the first laid T Track, it was easy to drop in the second track accurately.
+The second track laid, on all panels, had to be perfect - so again I used a spacer board to get it right.  I cut this spacer board 12 and 5/8” wide, to match up exactly with the width of the tracks required for the panel feet to fit on the T Track bolts.  With the spacer board butted up against the first laid T Track, it was easy to drop in the second track accurately.
 
-<img src="/assets/awebsolarretrofit9.jpg"/>  
-
-For the centreline panel placement, I chose a 7 ½” T Track separation from its awning side neighbour.  I cut a 7 ½” spacer board to landmark the first track placement, and then used the 12 5/8” spacer board for the second track, as before.
-
-<img src="/assets/awebsolarretrofit10.jpg"/>  
-
-For the slideout side panel, I decided to use the 12 5/8" spacer board aligned along the closest centreline T Track to position the last panel's first track.  Then, I again used  the 12 5/8" spacer board to position the last track.  (I considered landmarking the track placement for this panel using the paint line along the edge of the roof, but after looking at that for a bit I noticed that the paint line was not straight ...)
-
-Here is how I laid the last pair of tracks - to keep them parallel with the other six tracks:
-
-<img src="/assets/awebsolarretrofit24.jpg"/>  
+For the centreline panel, or third panel, I chose a 7 ½” T Track separation from its awning side neighbour to align these side-by-side panels.  I cut a 7 ½” spacer board to landmark the first track placement, and then used the 12 5/8” spacer board for the second track, as before.
 
 All of these spacer boards were worth the time it took to cut them, as it made the track install pretty darn easy.  Here is an example shot of how all the spacer boards were used:
 
 <img src="/assets/awebsolarretrofit30.jpg"/>  
+
+For the slideout side panel, I decided to use the 12 5/8" spacer board aligned along the closest centreline T Track to position the last panel's first track.  Then, I again used the 12 5/8" spacer board to position the last track.  (I considered landmarking the track placement for this panel using the paint line along the edge of the roof, but after looking at that for a bit I noticed that the paint line was not straight ...)
+
+Here is how I laid the last pair of tracks - to keep them parallel with the other six tracks:
+
+<img src="/assets/awebsolarretrofit24.jpg"/>  
 
 7- I finished up the track installs by running a bead of the siding and gutter sealant along all sides and ends of the tracks.  In addition to the sides of the T Track, I also filled in each unused screw hole on the centreline of the track.  (All I was trying to do here was to keep the elements off of the VHB tape, so any product that adheres to fibreglass and aluminum would have been acceptable.  I elected not to use Dicor self-leveling sealant, and that product gets dirty pretty quickly.)  Also, this Stone Mason Gutter and Siding sealant is super strong so I felt good about some extra adhesive in the small groove bordering the VHB tape at the base of the T Track.
 
