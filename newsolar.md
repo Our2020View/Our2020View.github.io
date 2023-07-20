@@ -203,6 +203,8 @@ We are easily getting a little over 15 amps of charging now in routine condition
 
 <img src="/assets/awebsolarretrofit20.jpg"/>  
 
+Working as well as we hoped it would.
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
