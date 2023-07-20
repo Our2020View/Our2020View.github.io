@@ -151,7 +151,11 @@ For the centreline panel placement, I chose a 7 ½” T Track separation from it
 
 <img src="/assets/awebsolarretrofit10.jpg"/>  
 
-For the slideout side panel, I used the 12 5/8" spacer board aligned along the closest centreline T Track to position the last panel's first track.  Then, I again used  the 12 5/8" spacer board to position the last track.  (I considered landmarking the track placement for this panel using the paint line along the edge of the roof, but after looking at that for a bit I noticed that the paint line was not straight ...)
+For the slideout side panel, I decided to use the 12 5/8" spacer board aligned along the closest centreline T Track to position the last panel's first track.  Then, I again used  the 12 5/8" spacer board to position the last track.  (I considered landmarking the track placement for this panel using the paint line along the edge of the roof, but after looking at that for a bit I noticed that the paint line was not straight ...)
+
+Here is how I laid the last pair of tracks - to keep them parallel with the other six tracks:
+
+<img src="/assets/awebsolarretrofit24.jpg"/>  
 
 All of these spacer boards were worth the time it took to cut them, as it made the track install pretty darn easy.  Here is an example shot of how all the spacer boards were used:
 
@@ -160,6 +164,10 @@ All of these spacer boards were worth the time it took to cut them, as it made t
 7- I finished up the track installs by running a bead of the siding and gutter sealant along all sides and ends of the tracks.  In addition to the sides of the T Track, I also filled in each unused screw hole on the centreline of the track.  (All I was trying to do here was to keep the elements off of the VHB tape, so any product that adheres to fibreglass and aluminum would have been acceptable.  I elected not to use Dicor self-leveling sealant, and that product gets dirty pretty quickly.)  Also, this Stone Mason Gutter and Siding sealant is super strong so I felt good about some extra adhesive in the small groove bordering the VHB tape at the base of the T Track.
 
 <img src="/assets/awebsolarretrofit11.jpg"/>  
+
+Here is how the four pairs of T Track looked once all installed and sealed:
+
+<img src="/assets/awebsolarretrofit44.jpg"/>  
 
 8 – With the tracks installed, all the hard work was done and I moved onto the fun part.  The panels all dropped onto the bolts nicely from the T Track anchors, and after sliding them on the track to a position that made sense, I locked them down. 
 
