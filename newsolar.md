@@ -171,7 +171,7 @@ Here is how the four pairs of T Track looked once all installed, sealed, and the
 
 I covered up the panels using the cardboard panel mock-ups so they would not be generating electricity as I moved onto the wiring.
 
-9 – The wiring was straightforward, and the MC4 connectors were easy to work with.  (The male connector body uses the long conductor sleeve, and the female connector body uses the short conductor sleeve.)  
+9 – The wiring was straightforward, and the three new pairs of MC4 connectors were easy to work with.  (The male connector body uses the long conductor sleeve, and the female connector body uses the short conductor sleeve.)  
 
 Here is a link to a short video on the essentials of wiring with MC4 connectors:
 
