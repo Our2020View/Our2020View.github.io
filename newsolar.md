@@ -193,7 +193,7 @@ NOTE:  The positive pole of the SAE connector is on top as it is inserted into t
 
 <img src="/assets/awebsolarretrofit48.jpg"/>   
 
-For the two additional panels, I needed to use the MC4 Y connector leads and the new SAE connector wire with the 20 amp fuse.  Each positive MC4 connector from these two slideout side panels were grouped on one Y connector, and each negative MC4 connector was grouped on the other Y connector.  Both of these Y connectors were hooked up to some # 12 AWG cable via two new MC4 connectors, and the #12 AWG cable was spliced to the SAE connector wire using butt splices and shrink wrap.  The SAE connector wire was then plugged into the vacant port on the roof top Zamp port box.  I arranged the rooftop wiring to protect the connectors from the elements, as best I could, to wrap things up.
+For the two "new" additional panels (centreline and slideout side), I needed to use the MC4 Y connector leads and the new SAE connector wire with the 20 amp fuse.  Each positive MC4 connector from these two panels were grouped on one Y connector, and each negative MC4 connector was grouped on the other Y connector.  Both of these Y connectors were hooked up to some # 12 AWG cable via two new MC4 connectors, and the #12 AWG cable was spliced to the SAE connector wire using butt splices and shrink wrap.  The SAE connector wire was then plugged into the vacant port on the roof top Zamp port box.  I arranged the rooftop wiring to protect the connectors from the elements, as best I could, to wrap things up.
 
 <img src="/assets/awebsolarretrofit47.jpg"/> 
 
