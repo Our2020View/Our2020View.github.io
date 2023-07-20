@@ -173,8 +173,6 @@ Here is how the four pairs of T Track looked once all installed, sealed, and the
 
 <img src="/assets/awebsolarretrofit25.jpg"/>  
 
-I covered up the panels using the cardboard panel mock-ups so they would not be generating electricity as I moved onto the wiring.
-
 9 – The wiring was straightforward, and the three new pairs of MC4 connectors were easy to work with.  (The male connector body uses the long conductor sleeve, and the female connector body uses the short conductor sleeve.)  
 
 Here is a link to a short video on the essentials of wiring with MC4 connectors:
@@ -191,7 +189,7 @@ I had to buy an MC4 crimping tool – these tools are quite expensive up here in
 
 In order to keep things simple for the panels that were replacing the old Sunpower flex panels, I re-used the Winnebago SAE connector wires by severing the wires up close to the old panels, and then added appropriate MC4 connectors to connect to these new panels that were located in the same location as the old.
 
-NOTE:  The positive pole of the SAE connector is on top as it is inserted into the Zamp roof port receptacle.
+NOTE:  The positive pole of the SAE connector is on top as it is inserted into the Zamp roof port receptacle.  (Our in coach "Solar Off Switch" came in handy during this wiring phase, as I didn't have to worry about the panels pushing current during the MC4 connector mating.)
 
 <img src="/assets/awebsolarretrofit48.jpg"/>   
 
