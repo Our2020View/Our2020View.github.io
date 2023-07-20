@@ -193,15 +193,17 @@ In order to keep things simple for the panels that were replacing the old Sunpow
 
 NOTE:  The positive pole of the SAE connector is on top as it is inserted into the Zamp roof port receptacle.
 
-<img src="/assets/awebsolarretrofit17.jpg"/>   
+<img src="/assets/awebsolarretrofit48.jpg"/>   
 
-For the two additional panels, I needed to use the MC4 Y connector leads and the new SAE connector wire with the 20 amp fuse.  Each positive MC4 connector from these two slideout side panels were grouped on one Y connector, and each negative MC4 connector was grouped on the other Y connector.  Both of these Y connectors were hooked up to some # 12 AWG cable via two new MC4 connectors, and the #12 AWG cable was spliced to the SAE connector wire using butt splices and shrink wrap.  The SAE connector wire was then plugged into the vacant port on the roof top Zamp port box.  I arranged the rooftop wiring to protect the connectors from the elements, and shielded the wires with plastic wire loom to wrap things up.
+For the two additional panels, I needed to use the MC4 Y connector leads and the new SAE connector wire with the 20 amp fuse.  Each positive MC4 connector from these two slideout side panels were grouped on one Y connector, and each negative MC4 connector was grouped on the other Y connector.  Both of these Y connectors were hooked up to some # 12 AWG cable via two new MC4 connectors, and the #12 AWG cable was spliced to the SAE connector wire using butt splices and shrink wrap.  The SAE connector wire was then plugged into the vacant port on the roof top Zamp port box.  I arranged the rooftop wiring to protect the connectors from the elements, as best I could, to wrap things up.
 
-<img src="/assets/awebsolarretrofit18.jpg"/>   
+<img src="/assets/awebsolarretrofit47.jpg"/> 
+
+<img src="/assets/awebsolarretrofit49.jpg"/> 
 
 Here is how everything ended up looking:
 
-<img src="/assets/awebsolarretrofit19.jpg"/>   
+<img src="/assets/awebsolarretrofit50.jpg"/>   
 
 We are easily getting a little over 15 amps of charging now in routine conditions, and over 20 amps in ideal conditions:
 
