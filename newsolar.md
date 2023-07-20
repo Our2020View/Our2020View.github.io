@@ -131,7 +131,7 @@ I sealed the SunPower screw holes with gutter and siding sealant.  I contemplate
 
 <img src="/assets/awebsolarretrofit7.jpg"/>  
 
-I quickly zeroed in on the fact that the only part of the roof that needed to be super squeaky clean was a 1” by 48” strip where the T Track was going to sit.  During the trial panel placement phase, I marked where the T Track was going to end up, and this made it much easier to concentrate on getting only the important part of the roof pristine.   I used the scrapper and paint thinner first, followed by a 50 / 50 blend of rubbing alcohol and water.  The next day, when I actually installed the T Track, I went over the area again quickly with a fibreglass cleaner, the paint thinner, and then the rubbing alcohol / water blend.  That combination seemed to work well.  
+I quickly zeroed in on the fact that the only part of the roof that needed to be super squeaky clean was a 1” by 48” strip where the T Track was going to sit.  During the trial panel placement phase, I marked where the T Track was going to end up using painter's tape, and this made it much easier to concentrate on getting only the important part of the roof pristine.   I used the scrapper and paint thinner first, followed by a 50 / 50 blend of rubbing alcohol and water.  The next day, when I actually installed the T Track, I went over the area again quickly with a fibreglass cleaner, the paint thinner, and then the rubbing alcohol / water blend.  That combination seemed to work well.  
 
 5 – The attachment of the 4950 VHB tape was straightforward.  Here is a link to 3M’s installation instructions for the VHB tape.  Lots of good stuff here:
 
