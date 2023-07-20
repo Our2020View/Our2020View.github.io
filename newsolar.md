@@ -161,7 +161,7 @@ Here is how I laid the last pair of tracks - to keep them parallel with the othe
 
 <img src="/assets/awebsolarretrofit11.jpg"/>  
 
-Here is how the four pairs of T Track looked once all installed and sealed:
+Here is how the four pairs of T Track looked once all installed, sealed, and the roof cleaned up:
 
 <img src="/assets/awebsolarretrofit44.jpg"/>  
 
