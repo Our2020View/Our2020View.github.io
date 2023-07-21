@@ -137,7 +137,7 @@ I quickly zeroed in on the fact that the only part of the roof that needed to be
 
 <a href = "https://www.3m.com/3M/en_US/vhb-tapes-us/resources/applying-3m-vhb-tapes/" target="_blank">3M VHB Tape Installation Instructions</a>
 
-This is an excerpt from the 3M 4950 VHB tape specification sheet:
+This is an excerpt from the 3M 4950 VHB tape specification sheet that I found helpful:
 
 <img src="/assets/awebsolarretrofit46.jpg"/>  
 
