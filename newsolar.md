@@ -203,8 +203,6 @@ Here is how everything ended up looking:
 
 We are easily getting a little over 15 amps of charging now in routine conditions, and over 20 amps in ideal conditions:
 
-<img src="/assets/awebsolarretrofit20.jpg"/>  
-
 Working as well as we hoped it would.
 
 <br>
