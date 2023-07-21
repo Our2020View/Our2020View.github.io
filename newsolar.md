@@ -9,7 +9,7 @@ Here is what we started with - two SunPower 100 watt flex panels in the factory 
 
 <img src="/assets/awebsolarretrofit32.jpg"/>  
 
-The general concept for this mod involved removing these two 100 watt SunPower flex panels that were screwed (and glued!) onto the roof, and replacing them with four 100 watt rigid panels mounted on a track system – without having to modify the Winnebago solar roof port system or Zamp solar controller.
+The general concept for this mod involved removing these two flex panels that were screwed (and glued!) onto the roof, and replacing them with four 100 watt rigid panels mounted on a track system – without having to modify the Winnebago solar roof port system or Zamp solar controller.
 
 <b>Installation Considerations:</b>
 
