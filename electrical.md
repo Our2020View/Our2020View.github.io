@@ -61,7 +61,7 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 [More Power Outlets](/ourmods/morepower/)
 
-[Solar 400 Watt Retrofit](/ourmods/newsolar/)
+[400 Watt Solar Retrofit](/ourmods/newsolar/)
 
 <br>
 
