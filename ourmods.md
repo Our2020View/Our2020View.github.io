@@ -37,7 +37,7 @@ permalink: /ourmods/
  <br> 
  <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
  <br>
-  July 2023 - <b>Replacing the Sun Power Panels</b> - <a href = "/ourmods/newsolar/ ">  Now 400 Watts of Renogy charging </a>
+  July 2023 - <b>Replacing the SunPower Panels</b> - <a href = "/ourmods/newsolar/ ">  Now 400 Watts of Renogy charging </a>
  <br>
  <br>
   April 2023 - <b>Directly Lubricate the Dump Valves</b> - <a href = "/ourmods/valvelube/ ">  Dump Valve Lube </a>
