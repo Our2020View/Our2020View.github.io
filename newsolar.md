@@ -187,7 +187,7 @@ I had to buy an MC4 crimping tool – these tools are quite expensive up here in
 
 In order to keep things simple for the panels that were replacing the old SunPower flex panels, I re-used the Winnebago SAE connector wires by severing the wires up close to the old panels, and then added appropriate MC4 connectors to connect to these new panels that were located in the same location as the old.
 
-NOTE:  The positive pole of the SAE connector is on top as it is inserted into the Zamp roof port receptacle.  Also, our in coach <a href = "/ourmods/miscmods/ " target="_blank">"Solar Off Switch"</a> came in handy during this wiring phase, as I didn't have to worry about the panels pushing current during the MC4 connector mating or goofing around with the Zamp rooftop port.
+NOTE:  The positive pole of the SAE connector is on top as it is inserted into the Zamp roof port receptacle.  Also, our in coach <a href = "/ourmods/miscmods/" target="_blank">"Solar Off Switch"</a> came in handy during this wiring phase, as I didn't have to worry about the panels pushing current during the MC4 connector mating or goofing around with the Zamp rooftop port.
 
 <img src="/assets/awebsolarretrofit48.jpg"/>   
 
