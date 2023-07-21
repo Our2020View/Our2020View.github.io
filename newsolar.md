@@ -171,8 +171,6 @@ Here is how the four pairs of T Track looked once all installed, sealed, and the
 
 8 – With the tracks installed, all the hard work was done and I moved onto the fun part.  The panels all dropped onto the bolts nicely from the T Track anchors, and after sliding them on the track to a position that made sense, I locked them down. 
 
-<img src="/assets/awebsolarretrofit25.jpg"/>  
-
 9 – The wiring was straightforward, and the three new pairs of MC4 connectors were easy to work with.  (The male connector body uses the long conductor sleeve, and the female connector body uses the short conductor sleeve.)  
 
 Here is a link to a short video on the essentials of wiring with MC4 connectors:
