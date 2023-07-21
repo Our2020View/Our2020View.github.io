@@ -204,12 +204,12 @@ That's the recent material - here are all of the mods that we have previously im
   <div class="row">
     <div class="column" style="background-color:white;">
     <h3>Solar Retrofit</h3>
-    <p>★ Waiting for Warm Temps</p>
+    <p>More Charging</p>
     <img src="/assets/websolarthumbnail.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
-    <button style="height:40px;width:200px;background-color:yellow; color:black"
-            onclick="location.href = '/ourmods/solarretrofit/'"> READ PREVIEW </button>
+    <button style="height:40px;width:200px;background-color:green; color:white"
+            onclick="location.href = '/ourmods/newsolar/'"> READ MORE </button>
     </div>
    </div>
     
