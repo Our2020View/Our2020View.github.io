@@ -15,7 +15,7 @@ The general concept for this mod involved removing these two flex panels that we
 
 1 – How to attach the new panels to the roof?  No new holes was my number one priority, so choosing a method to accomplish that was given a lot of thought.
 
-2 – Having to go through the process of removing the factory flex panels, screwed and glued to the roof, I thought it would be a good idea to make this next panel installation easily removable with no impact on the fibreglass surface.  I wanted a system that would make maintaining or replacing panels on the roof a quick and painless event.
+2 – Having to go through the process of removing the factory flex panels, screwed and glued to the roof, I eventually thought it would be a good idea to make this next panel installation easily removable with no impact on the fibreglass surface.  I wanted a system that would make maintaining or replacing panels on the roof a quick and painless event.
 
 3 – Did I want the added weight four rigid panels and all the installation hardware would bring?
 
