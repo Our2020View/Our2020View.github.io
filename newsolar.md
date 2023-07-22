@@ -143,7 +143,7 @@ This is an excerpt from the 3M 4950 VHB tape specification sheet that I found he
 
 I elected to scuff up the base of the T Track with some 1200 grit sandpaper, and then cleaned off the area with the alcohol / water blend.  I positioned the tape in the centre of the track, and then used a roller to apply pressure as described by 3M.  When installing the track onto the roof, I walked on the tracks to apply the required pressure.
 
-6 – The placement of the T Track had to be right, the first time, so I elected to cut some spacer boards to ensure an accurate installation.  The awning side T Track was to be located 4 ½” from the awning base plate, so I cut a 4 ½” spacer board to allow me to drop the track accurately.  I used this 4 1/2" spacer board for both awning side panel's first laid track:
+6 – The placement of the T Track had to be right, the first time, so I elected to cut some spacer boards to ensure an accurate installation.  The awning side T Track was to be located 4 ½” from the awning base plate, so I cut a 4 ½” spacer board to allow me to drop the track accurately.  I used this 4 1/2" spacer board for both of the awning side panel's first laid track:
 
 <img src="/assets/awebsolarretrofit8.jpg"/>  
 
