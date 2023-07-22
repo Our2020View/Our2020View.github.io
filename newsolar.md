@@ -185,17 +185,23 @@ I had to buy an MC4 crimping tool – these tools are quite expensive up here in
 
 (When holding the crimping tool with the model number reading up, the conductor sleeve tabs point up so they get folded over.  I used the crimp jaws closest to my hand.)
 
-In order to keep things simple for the panels that were replacing the old SunPower flex panels, I re-used the Winnebago SAE connector wires by severing the wires up close to the old panels, and then added appropriate MC4 connectors to connect to these new panels that were located in the same location as the old.
+In order to keep things simple for the panels that were replacing the old SunPower flex panels, I re-used the Winnebago SAE connector wires by severing the wires up close to the old panels, and then added appropriate MC4 connectors to connect to these new panels that were located in the same location as the old.  I didn't have any previous experience with these MC4 connectors, and was not sure how they would hold up sitting in spring snow meltwater, so I elected to keep them from sitting on the roof.
 
 NOTE:  The positive pole of the SAE connector is on top as it is inserted into the Zamp roof port receptacle.  Also, our in coach <a href = "https://www.our2020view.ca/ourmods/solaroff/" target="_blank">"Solar Off Switch"</a> came in handy during this wiring phase, as I didn't have to worry about the panels pushing current during the MC4 connector mating or goofing around with the Zamp rooftop port.
 
-<img src="/assets/awebsolarretrofit48.jpg"/>   
+<img src="/assets/awebsolarretrofit53.jpg"/>   
 
-For the two "new" additional panels (centreline and slideout side), I needed to use the MC4 Y connector leads and the new SAE connector wire with the 20 amp fuse.  Each positive MC4 connector from these two panels were grouped on one Y connector, and each negative MC4 connector was grouped on the other Y connector.  Both of these Y connectors were hooked up to some # 12 AWG cable via two new MC4 connectors, and the #12 AWG cable was spliced to the SAE connector wire using butt splices and shrink wrap.  The SAE connector wire was then plugged into the vacant port on the roof top Zamp port box.  I arranged the rooftop wiring to protect the connectors from the elements, as best I could, to wrap things up.
+For the two "new" additional panels (centreline and slideout side), I needed to use the MC4 Y connector leads and the new SAE connector wire with the 20 amp fuse.  Each positive MC4 connector from these two panels were grouped on one Y connector, and each negative MC4 connector was grouped on the other Y connector.  
 
 <img src="/assets/awebsolarretrofit47.jpg"/> 
 
 <img src="/assets/awebsolarretrofit49.jpg"/> 
+
+Both of these Y connectors were hooked up to some # 12 AWG cable via two new MC4 connectors, and the #12 AWG cable was spliced to the SAE connector wire using butt splices and shrink wrap.  The SAE connector wire was then plugged into the vacant port on the roof top Zamp port box.  I arranged the rooftop wiring to protect the connectors from the elements, as best I could, to wrap things up.  
+
+<img src="/assets/awebsolarretrofit51.jpg"/> 
+
+<img src="/assets/awebsolarretrofit52.jpg"/> 
 
 Here is how everything ended up looking:
 
