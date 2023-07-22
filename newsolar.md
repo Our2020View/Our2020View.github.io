@@ -201,7 +201,7 @@ Both of these Y connectors were hooked up to some # 12 AWG cable via two new MC4
 
 <img src="/assets/awebsolarretrofit49.jpg"/> 
 
-The new SAE connector wire was then plugged into the vacant centre port on the roof top Zamp port box.  (This box is rated for 450 watts, so we have a comfortable margin.) 
+The new SAE connector wire was then plugged into the vacant centre port on the roof top Zamp port box.  (This box is rated for 450 watts, so we have a comfortable margin with our newly installed 400 watts.) 
 
 <img src="/assets/awebsolarretrofit52.jpg"/> 
 
