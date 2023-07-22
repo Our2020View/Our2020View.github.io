@@ -199,9 +199,9 @@ For the two "new" additional panels (centreline and slideout side), I needed to 
 
 Both of these Y connectors were hooked up to some # 12 AWG cable via two new MC4 connectors, and the #12 AWG cable was spliced to the SAE connector wire using butt splices and shrink wrap.  The SAE connector wire was then plugged into the vacant centre port on the roof top Zamp port box.  (This box is rated for 450 watts, so we have a comfortable margin.) I arranged the rooftop wiring to protect the connectors from the elements, as best I could, to wrap things up.  
 
-<img src="/assets/awebsolarretrofit51.jpg"/> 
-
 <img src="/assets/awebsolarretrofit52.jpg"/> 
+
+<img src="/assets/awebsolarretrofit53.jpg"/> 
 
 Here is how everything ended up looking:
 
