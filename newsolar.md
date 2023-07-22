@@ -205,7 +205,7 @@ The new SAE connector wire was then plugged into the vacant centre port on the r
 
 <img src="/assets/awebsolarretrofit52.jpg"/> 
 
-I arranged the rooftop wiring to protect the connectors from the elements, as best I could, to wrap things up.  Here is how everything ended up looking:
+I arranged the rooftop wiring to protect the connectors from the elements, as best I could, to finish the project.  Here is how everything ended up looking:
 
 <img src="/assets/awebsolarretrofit50.jpg"/>   
 
