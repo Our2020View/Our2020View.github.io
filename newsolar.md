@@ -51,6 +51,10 @@ So, with a long winter ahead to change direction and plan an installation using 
 
 <a href = "https://www.amazon.ca/gp/product/B08Y598Q3T/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 " target="_blank">Renogy 100w rigid solar panels </a>
 
+Here is the data sheet from the back of one of the panels - based on this, I was looking forward to a solid 20 amps of charging in good conditions:
+
+<img src="/assets/awebsolarretrofit60.jpg"/>  
+
 <a href = "https://www.amazon.ca/gp/product/B07S8VZZ2D/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1 " target="_blank">MC4 connectors and Y branches </a>
 
 <a href = "https://www.amazon.ca/gp/product/B0B87FQYZJ/ref=ppx_yo_dt_b_asin_title_o00_s03?ie=UTF8&psc=1 " target="_blank">SAE connector with fuse </a>
