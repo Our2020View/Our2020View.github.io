@@ -209,9 +209,11 @@ I arranged the rooftop wiring to protect the connectors from the elements, as be
 
 <img src="/assets/awebsolarretrofit50.jpg"/>   
 
-We are easily getting a little over 15 amps of charging now in routine conditions, and over 20 amps in ideal conditions:
+Based on the panel's data sheet, I had expected to get a little over 20 amps of charging in good conditions - but was pleasantly surprised to see much more than that at times:
 
-Working as well as we hoped it would.
+<img src="/assets/awebsolarretrofit61.jpg"/>  
+
+Working better than we hoped it would.
 
 <br>
 
