@@ -53,7 +53,7 @@ So, with a long winter ahead to change direction and plan an installation using 
 
 Here is the data sheet from the back of one of the panels - based on this, I was looking forward to a solid 20 amps of charging in good conditions:
 
-<img src="/assets/awebsolarretrofit60.jpg"/>  
+<img src="/assets/awebsolarretrofit60a.jpg"/>  
 
 <a href = "https://www.amazon.ca/gp/product/B07S8VZZ2D/ref=ppx_yo_dt_b_asin_title_o00_s02?ie=UTF8&psc=1 " target="_blank">MC4 connectors and Y branches </a>
 
