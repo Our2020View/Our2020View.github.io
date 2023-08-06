@@ -11,7 +11,9 @@ The actual level of the fresh water supply became more important when we found o
 
 I had been looking at Garnet Instrument’s SeeLevel II tank monitoring system for a while, and after a particularly intense bit of dry camping, decided to give the system a try.  We don’t have the requirement to have the same granularity on the Grey and Black tank’s contents (we dump when those tanks hit 2/3rds), so I ordered the basic system that would be compatible with the tall 37 gallon tank we have in our View 24J model.  The basic 709 system will work with 3 tanks if they are not tall, 2 tanks if one is tall and one is short, or one tall tank with a left-over sending unit you can keep as a spare.  The basic system is the 709 kit:
 
-<a href ="https://www.rvupgradestore.com/Garnett-Technologies-Model-709-SeeLeveL-II-p/709-1003.htm"_blank">Garnet 709 SeeLevel II Tank Monitoring System </a>
+<a href = "https://www.youtube.com/watch?v=w1ZO5RxKoq8&t=407s " target="_blank">RVgeeks and their dedicated 20 amp circuit </a>
+
+<a href = "https://www.rvupgradestore.com/Garnett-Technologies-Model-709-SeeLeveL-II-p/709-1003.htm"target="_blank">Garnet 709 SeeLevel II Tank Monitoring System </a>
 
 The company makes many different displays with all kinds of functionality, but all we were concerned with was getting one tank to give us good, useful information.  Our factory “OnePlace” monitoring was going to remain fully functional, so we did not need to replace any of its features.
 
