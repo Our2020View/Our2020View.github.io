@@ -13,7 +13,7 @@ I had been looking at Garnet Instrument’s SeeLevel II tank monitoring system f
 
 <a href = "https://www.youtube.com/watch?v=w1ZO5RxKoq8&t=407s " target="_blank">RVgeeks and their dedicated 20 amp circuit </a>
 
-<a href = "https://www.rvupgradestore.com/Garnett-Technologies-Model-709-SeeLeveL-II-p/709-1003.htm"target="_blank">Garnet 709 SeeLevel II Tank Monitoring System </a>
+<a href = "https://www.rvupgradestore.com/Garnett-Technologies-Model-709-SeeLeveL-II-p/709-1003.htm " target="_blank">Garnet 709 SeeLevel II Tank Monitoring System </a>
 
 The company makes many different displays with all kinds of functionality, but all we were concerned with was getting one tank to give us good, useful information.  Our factory “OnePlace” monitoring was going to remain fully functional, so we did not need to replace any of its features.
 
