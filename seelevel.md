@@ -77,7 +77,7 @@ Here is how the sender strips ended up looking:
 
 <img src="/assets/webseelevel8.jpg"/>  
 
-10 – With the circuit working as designed, I finished up by re-installing the slide-out switch and securing the SeeLevel display to its new home.  
+10 – With the circuit working as designed, I finished up by re-installing the slide-out switch and securing the SeeLevel display to the trim panel above the fride.  
 
 <img src="/assets/webseelevel9.jpg"/>  
 
