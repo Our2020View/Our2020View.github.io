@@ -34,7 +34,7 @@ But, neither of those access methods was suitable for this job, as I needed a mo
 -	Disconnect the shock strut under the bed board.  (It is easiest to disconnect the attachment to the bed board itself, not the bottom of the strut where it attaches to structure.)
 -	Unscrew the top of the bed board so the entire bed board becomes free.
 -	Lift up the inside edge of the bed board and prop it up to allow quick, (and frequent), access.  I used the table leg as a support.
--	
+
 Here is how all of that preparation ended up:
 
 <img src="/assets/webseelevel1.jpg"/>  
