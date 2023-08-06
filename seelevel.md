@@ -49,27 +49,27 @@ After determining where I wanted the switch and new panel to go, I used a recipr
 
 <img src="/assets/webseelevel3.jpg"/>  
 
-3 – As I had done before on other mods that required wiring in this area, I removed the control panel on the fridge and fished all the new wires from the back of the fridge box.  (When the freezer door is open, you can see the three screws that hold the fridge control panel to the fridge structure.)  As before, I found that using the back right corner was the best route to bring wires up from under the bed / Truma area to the top of the fridge:
+4 – As I had done before on other mods that required wiring in this area, I removed the control panel on the fridge and fished all the new wires from the back of the fridge box.  (When the freezer door is open, you can see the three screws that hold the fridge control panel to the fridge structure.)  As before, I found that using the back right corner was the best route to bring wires up from under the bed / Truma area to the top of the fridge:
 
 <img src="/assets/fridge-panel-off-web.jpg"/>  
 
 Also, I found that removing the “OnePlace” monitor panel allowed me to get my hand in behind the face trim board to work more freely in the area on top of the fridge.
 
-4 – After fishing up a red power wire for the fuse box run, a wire for the blue sender circuit, and a wire for the panel ground wire, I left the power wire by the fuse box and ran the other two back to the water tank area.  A fourth wire was run from the rear along side the other two wires back to the fuse box, to complete the ground circuit.  I chose this wiring configuration to allow for only one connection to the ground post in case of future troubleshooting considerations... stuff happens.
+5 – After fishing up a red power wire for the fuse box run, a wire for the blue sender circuit, and a wire for the panel ground wire, I left the power wire by the fuse box and ran the other two back to the water tank area.  A fourth wire was run from the rear along side the other two wires back to the fuse box, to complete the ground circuit.  I chose this wiring configuration to allow for only one connection to the ground post in case of future troubleshooting considerations... stuff happens.
 
-5 – As per the sender installation instructions, I only temporarily attached the sender strips to the tank using painters tape.  (I had really wanted to install the strips to the left of the retention strap, but chose not too because the side of the tank in that area behind the top of the bed was not flat – it had a pretty good bulge that would have prevented the sender strip from lying flat.)
+6 – As per the sender installation instructions, I only temporarily attached the sender strips to the tank using painters tape.  (I had really wanted to install the strips to the left of the retention strap, but chose not too because the side of the tank in that area behind the top of the bed was not flat – it had a pretty good bulge that would have prevented the sender strip from lying flat.)
 
 Here is where I chose to install our sender strips:
 
 <img src="/assets/webseelevel5.jpg"/>  
 
-6 – I bundled the two blue sender wires to the new sender wire coming from the display using a wire nut, and the two black sender ground wires to the new ground wire also coming from up above the fridge AND the new wire coming from the fuse box ground - also using a wire nut.  Since these connections were only for test purposes, the ease of their use made for simplicity.  The new sender wire and new ground wire were connected to the blue and black wires of the display pigtail using butt connectors.  The green propane wire was left loose.
+7 – I bundled the two blue sender wires to the new sender wire coming from the display using a wire nut, and the two black sender ground wires to the new ground wire also coming from up above the fridge AND the new wire coming from the fuse box ground - also using a wire nut.  Since these connections were only for test purposes, the ease of their use made for simplicity.  The new sender wire and new ground wire were connected to the blue and black wires of the display pigtail using butt connectors.  The green propane wire was left loose.
 
-7 - I hooked up the power wire to the SeeLevel display using a butt connector on the red wire, and connected it to the fuse box, using a 3 amp fuse.  With all of the wiring hooked up suitably for a test, I put water in the fresh tank to a level that would test the top sender strip as well, and turned on the battery master switch.  The SeeLevel II display correctly indicated the amount of water that was in the tank.  I drained the tank and watched the quantity change correctly as the tank emptied.
+8 - I hooked up the power wire to the SeeLevel display using a butt connector on the red wire, and connected it to the fuse box, using a 3 amp fuse.  With all of the wiring hooked up suitably for a test, I put water in the fresh tank to a level that would test the top sender strip as well, and turned on the battery master switch.  The SeeLevel II display correctly indicated the amount of water that was in the tank.  I drained the tank and watched the quantity change correctly as the tank emptied.
 
-8 – With a good test completed, I again turned off the battery master and disconnected all of the rear wiring.   After careful consideration of how I was going to get the gaps correct during the sender strip installation, I cleaned the tank area using a 50/50 water alcohol mix, peeled the backing off of the adhesive, and stuck the sender strips to the tank using the technique described in the installation manual.  
+9 – With a good test completed, I again turned off the battery master and disconnected all of the rear wiring.   After careful consideration of how I was going to get the gaps correct during the sender strip installation, I cleaned the tank area using a 50/50 water alcohol mix, peeled the backing off of the adhesive, and stuck the sender strips to the tank using the technique described in the installation manual.  
 
-9 – I organized the wiring to keep things tidy, used butt connectors to make the connections, added some wire loom to the protect the wire runs, and then added a piece of polyethylene sheet to protect the strips from any of my future visits to the area.
+10 – I organized the wiring to keep things tidy, used butt connectors to make the connections, added some wire loom to the protect the wire runs, and then added a piece of polyethylene sheet to protect the strips from any of my future visits to the area.
 
 Here is how the sender strips ended up looking:
 
