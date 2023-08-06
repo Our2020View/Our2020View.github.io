@@ -39,7 +39,7 @@ Here is how all of that preparation ended up:
 
 <img src="/assets/webseelevel1.jpg"/>  
 
-2 – <b>I turned the battery master off for all wiring operations.<b/>
+2 – I turned the battery master off for all wiring operations.
 
 3 – The easiest place to start the installation was up at the panel, so all wiring left the area and flowed to the tank.  I wanted to mount the monitor panel up beside the “OnePlace” panel, but in our 24J model the slide-out switch got in the way.  The slack on the slide-out switch wiring in our particular View was just long enough to re-locate it to the left, and allow the new panel to fit in-between it and the “OnePlace” monitor comfortably.
 
