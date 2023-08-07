@@ -31,7 +31,7 @@ Note - The company advertises that you can re-use your RV tank’s current wire 
 
 Here is a general view of the circuit from the installation manual, with a few notes of my own:
 
-<img src="/assets/webseelevelwiringdiagram.jpg"/>  
+<img src="/assets/webseelevelwiringdiagramr1.jpg"/>  
  
 <h2> The Installation </h2>
 
