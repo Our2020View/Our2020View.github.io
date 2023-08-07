@@ -213,7 +213,16 @@ That's the recent material - here are all of the mods that we have previously im
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/newsolar/'"> READ MORE </button>
     </div>
-   </div>
+    <div class="column" style="background-color:white;">
+    <h3>SeeLevel II Monitor</h3>
+    <p>An Accurate Water Tank Reading</p>
+    <img src="/assets/webseelevel6.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="height:40px;width:200px;background-color:green; color:white"
+            onclick="location.href = '/ourmods/seelevel/'"> READ MORE </button>
+    </div>
+  </div>
     
  <h1> Coach </h1>
 
