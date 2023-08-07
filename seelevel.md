@@ -15,7 +15,6 @@ Here is a link to Garnet's webpage with the full selection of kits - the basic s
 
 <a href = "https://www.garnetinstruments.com/holding-tanks/ " target="_blank">Garnet SeeLevel II Tank Monitoring System </a>
 
-https://www.garnetinstruments.com/holding-tanks/
 
 <a href = "https://www.rvupgradestore.com/Garnett-Technologies-Model-709-SeeLeveL-II-p/709-1003.htm " target="_blank">Garnet 709 SeeLevel II Tank Monitoring System </a>
 
