@@ -101,7 +101,7 @@ Note - The incandescent light in the above picture is how I heat the water pump 
 
 Working as advertised.  
 
-"Anybody need a shower before we head out?  We've got enough water!"
+"Anybody need a shower before we head out?  It looks like we've got enough water!"
 
 <br>
 
