@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SeeLevel II | RV Mods
+title: SeeLevel II Tank Monitor | RV Mods
 permalink: /ourmods/seelevel/
 ---
 I don’t know about you, but we found trying to get a half decent idea of how much water was in the fresh tank a bit of a pain.  Once the factory “OnePlace” monitoring panel went below 2/3rds on the fresh tank, all bets were off as to how much was in there that could reliably be used for trip planning.  Was it just below 2/3rds?  Or just above 1/3rd?  The difference there is over 12 gallons – a significant amount when trying to figure out if you can make it to the next water supply, or have enough to take a shower before hitting the road.  And, once it went below 1/3rd ... just how low was it?
