@@ -33,7 +33,7 @@ Here is a general view of the circuit from the installation manual, with a few n
 
 <img src="/assets/webseelevelwiringdiagram.jpg"/>  
  
-The Installation
+<h1> The Installation </h1>
 
 1 – Knowing that getting at the water tank in our View 24J requires quite a bit of gymnastics, I elected to come up with a way to easily access the area.  As you know, if you slide the mattress in the foot direction about two feet, you can get at the water pump area via an access panel built into the bed board.  And, as you know, if you remove the mattress completely you can see that the top portion of the bed board is hinged to allow access to the water tank.  Removing some screws in that top part of the bed board, and disconnecting the shock strut under the bed board, will allow the top of the bed board to be folded back.
 
