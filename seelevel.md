@@ -51,35 +51,41 @@ Here is how all of that preparation ended up:
 
 2 – I turned the battery master off for all wiring operations.
 
-3 – The easiest place to start the installation was up at the panel, so all wiring left the area and flowed to the tank.  I wanted to mount the monitor panel up beside the “OnePlace” panel, but in our 24J model the slide-out switch got in the way.  The slack on the slide-out switch wiring in our particular View was just long enough to re-locate it to the left, and allow the new panel to fit in-between it and the “OnePlace” monitor comfortably.
+3 – The thought the easiest place to start the installation would be up at the panel, so I could work to the rear and figure out wire lengths as I went along.  I wanted to mount the new monitor display up beside the “OnePlace” panel, but in our 24J model the slide-out switch got in the way.  Luckily, the slack on the slide-out switch wiring in our particular View was just long enough to re-locate it to the left, and allow the new panel to fit in-between it and the “OnePlace” monitor comfortably.
 
-After determining where I wanted the switch and new panel to go, I used a reciprocating saw to make the quick cuts – in our View, there was nothing behind there that was of concern while cutting:
+After determining where I wanted the slide-out switch and new panel to go, I used a reciprocating saw to make the quick cuts – in our View, there was nothing behind there that was of concern while cutting:
 
 <img src="/assets/webseelevel2.jpg"/>  
 
 <img src="/assets/webseelevel3.jpg"/>  
 
-4 – As I had done before on other mods that required wiring in this area, I removed the control panel on the fridge and fished all the new wires from the back of the fridge box.  (When the freezer door is open, you can see the three screws that hold the fridge control panel to the fridge structure.)  As before, I found that using the back right corner was the best route to bring wires up from under the bed / Truma area to the top of the fridge:
+4 – As I had done before on other mods that required wiring in this area, I removed the control panel on the fridge and fished all the new wires from the back of the fridge box.  (When the freezer door is open, you can see the three screws that hold the fridge control panel to the fridge structure.)  As before, I found that using the back right corner was the best route to bring wires up from under the bed / Truma area to the top of the fridge.  Here is an old picture from one of those other mods that required wire fishing from under the bed:
 
 <img src="/assets/fridge-panel-off-web.jpg"/>  
 
-Also, I found that removing the “OnePlace” monitor panel allowed me to get my hand in behind the face trim board to work more freely in the area on top of the fridge.
+(Also, I found that removing the “OnePlace” monitor panel allowed me to get my hand in behind the face trim board to work more freely in the area on top of the fridge while I worked with the slide-out switch and the new display.)
 
-5 – After fishing up a red power wire for the fuse box run, a wire for the blue sender circuit, and a wire for the panel ground wire, I left the power wire by the fuse box and ran the other two back to the water tank area.  A fourth wire was run from the rear along side the other two wires back to the fuse box, to complete the ground circuit.  I chose this wiring configuration to allow for only one connection to the ground post in case of future troubleshooting considerations... stuff happens.
+5 – For the circuit wiring, here is what I did:
 
-6 – As per the sender installation instructions, I only temporarily attached the sender strips to the tank using painters tape.  (I had really wanted to install the strips to the left of the retention strap, but chose not too because the side of the tank in that area behind the top of the bed was not flat – it had a pretty good bulge that would have prevented the sender strip from lying flat.)
+- I fished up a wire from the Truma / bed area, and used a butt connector to attach it to the red power lead on the display pigtail.  On the other end, I crimped on a female spade connector to connect with an empty fuse slot in the fuse box.  I closed the circuit with a 3 amp fuse.
+- A second wire was fished up and connected the same way to the blue lead on the display pigtail.  The other end was run to the back of the coach, to gang with the blue leads on the tank senders.
+- A third wire was again fished up and connected to the black lead on the display pigtail.  It too was run to the tank area, but this time ganged with the black leads on the senders.
+- A fourth wire was run from the ground post beside the fuse box back to the tank area, and ganged with the other ground wires down at the tank.  I chose this ground wiring configuration after reading the note on the wiring diagram regarding the importance of a common ground for the senders and the display.  I guess with the low currents involved in this circuit they were worried about a resistance imbalance somewhere, so for a few extra feet of wire I ensured that there was no doubt about a shared ground.
+- The green propane wire on the pigtail was left loose.  Someday I might look into hooking up the propane tank to the display.
 
-Here is where I chose to install our sender strips:
+6 – As per the sender installation instructions, I only temporarily attached the sender strips to the tank using painters tape.  (I had really wanted to install the strips to the left of that black tank retention strap, but chose not too because the side of the tank in that area, behind the top of the bed, was not flat – it had a pretty good bulge that would have prevented the sender strip from lying flat.)
+
+Here is where I chose to temporarily install our sender strips to do a test:
 
 <img src="/assets/webseelevel5.jpg"/>  
 
-7 – I bundled the two blue sender wires to the new sender wire coming from the display using a wire nut, and the two black sender ground wires to the new ground wire also coming from up above the fridge AND the new wire coming from the fuse box ground - also using a wire nut.  Since these connections were only for test purposes, the ease of their use made for simplicity.  The new sender wire and new ground wire were connected to the blue and black wires of the display pigtail using butt connectors.  The green propane wire was left loose.
+7 – I bundled the two blue sender wires to the new sender wire coming from the display using a wire nut, and the two black sender ground wires to the new ground wire also coming from up above the fridge AND the new wire coming from the fuse box ground - also using a wire nut.  Since these connections were only for test purposes, the ease of wire nuts made for a quick install.
 
-8 - I hooked up the power wire to the SeeLevel display using a butt connector on the red wire, and connected it to the fuse box, using a 3 amp fuse.  With all of the wiring hooked up suitably for a test, I put water in the fresh tank to a level that would test the top sender strip as well, and turned on the battery master switch.  The SeeLevel II display correctly indicated the amount of water that was in the tank.  I drained the tank and watched the quantity change correctly as the tank emptied.
+8 - With all of the wiring hooked up suitably for a test, I put water in the fresh tank to a level that would test the top sender strip as well, and turned on the battery master switch.  The SeeLevel II display correctly indicated the amount of water that was in the tank.  I drained the tank and watched the quantity change correctly as the tank emptied.
 
-9 – With a good test completed, I again turned off the battery master and disconnected all of the rear wiring.   After careful consideration of how I was going to get the gaps correct during the sender strip installation, I cleaned the tank area using a 50/50 water alcohol mix, peeled the backing off of the adhesive, and stuck the sender strips to the tank using the technique described in the installation manual.  
+9 – With a good test completed, I again turned off the battery master and disconnected all of the rear wiring.   After careful consideration of how I was going to get the "gaps" correct during the sender strip installation, I cleaned the tank area using a 50/50 water alcohol mix, peeled the backing off of the adhesive, and stuck the sender strips to the tank using the technique described in the sender installation manual.  
 
-10 – I organized the wiring to keep things tidy, used butt connectors to make the connections, added some wire loom to the protect the wire runs, and then added a piece of polyethylene sheet to protect the strips from any of my future visits to the area.
+10 – I organized the wiring to keep things tidy, used butt connectors to make the final connections, added some wire loom to the protect the wire runs, and then added a piece of polyethylene sheet to protect the strips from any of my future visits to the area.
 
 Here is how the sender strips ended up looking:
 
@@ -87,11 +93,13 @@ Here is how the sender strips ended up looking:
 
 <img src="/assets/webseelevel8.jpg"/>  
 
-10 – With the circuit working as designed, I finished up by re-installing the slide-out switch and securing the SeeLevel display to the trim panel above the fride.  
+10 – With the circuit working as designed, I finished up by re-installing the slide-out switch and securing the SeeLevel display to the trim panel above the fridge.  
 
 <img src="/assets/webseelevel9.jpg"/>  
 
-Working as advertised.
+Working as advertised.  "Anybody need a shower before we head out?  We've got enough water!"
+
+
 
 
 
