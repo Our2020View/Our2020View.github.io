@@ -27,9 +27,9 @@ As you can see, the company makes many different displays with all kinds of func
 
 The general idea for this installation was to make the SeeLevel II fully independent, with its own wiring harness and power supply.  The display was to be mounted above the fridge, beside some other controls and displays.
 
-Note - The company advertises that you can re-use your RV tank’s current wire runs, but we wanted to keep our factory “OnePlace” panel working as delivered.  Looking back after the job was complete, that was for sure the right decision – tracing the wire runs all over the coach would have been a huge job and not worth the time.  It was much simpler to run new wires and keep the “OnePlace” panel as a back-up source of water quantity.
+Note - The company advertises that you can re-use your RV tank’s current wire runs, but we wanted to keep our factory “OnePlace” panel working as delivered.  Looking back after the job was complete, that was, for sure, the right decision – tracing the wire runs all over the coach would have been a huge job and not worth the time.  It was much simpler to run new wires and keep the “OnePlace” panel as a back-up source of water quantity.
 
-Here is a wiring diagram of the circuit:
+Here is a general view of the circuit from the installation manual, with a few notes of my own:
 
 <img src="/assets/webseelevelwiringdiagram.jpg"/>  
  
