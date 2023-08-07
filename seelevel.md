@@ -97,9 +97,13 @@ Here is how the sender strips ended up looking:
 
 <img src="/assets/webseelevel9.jpg"/>  
 
-Working as advertised.  "Anybody need a shower before we head out?  We've got enough water!"
+Working as advertised.  
 
+"Anybody need a shower before we head out?  We've got enough water!"
 
+<br>
+
+[Back to Our RV Modifications](/ourmods/)
 
 
 
