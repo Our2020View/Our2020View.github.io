@@ -15,7 +15,7 @@ Here is a link to Garnet's webpage with the full selection of kits - the basic s
 
 <a href = "https://www.garnetinstruments.com/holding-tanks/ " target="_blank">Garnet SeeLevel II Tank Monitoring System </a>
 
-This link will take you to the tank sender installation manual for the senders used in the 709 series:
+This link will take you to the tank sender installation manual for the senders used in the 709 series - our senders are the 710 - AR:
 
 <a href = "https://www.garnetinstruments.com/wp-content/uploads/2022/11/SeeLeveL-Sender-Manual-AR-ES2-24-Nov-2022.pdf " target="_blank">Garnet 709 Sender Installation Manual </a>
 
