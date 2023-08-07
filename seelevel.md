@@ -83,7 +83,7 @@ Here is where I chose to temporarily install our sender strips to do a test:
 
 8 - With all of the wiring hooked up suitably for a test, I put water in the fresh tank to a level that would test the top sender strip as well, and turned on the battery master switch.  The SeeLevel II display correctly indicated the amount of water that was in the tank.  I drained the tank and watched the quantity change correctly as the tank emptied.
 
-9 – With a good test completed, I again turned off the battery master and disconnected all of the rear wiring.   After careful consideration of how I was going to get the "gaps" correct during the sender strip installation, I cleaned the tank area using a 50/50 water alcohol mix, peeled the backing off of the adhesive, and stuck the sender strips to the tank using the technique described in the sender installation manual.  
+9 – With a good test completed, I again turned off the battery master and disconnected all of the rear wiring.   After careful consideration of how I was going to get the "gaps" correct during the sender strip installation, I cleaned the tank area using a 50/50 water alcohol mix, peeled the backing off of the adhesive, took a deep breath, and stuck the sender strips to the tank using the technique described in the sender installation manual.  
 
 10 – I organized the wiring to keep things tidy, used butt connectors to make the final connections, added some wire loom to the protect the wire runs, and then added a piece of polyethylene sheet to protect the strips from any of my future visits to the area.
 
