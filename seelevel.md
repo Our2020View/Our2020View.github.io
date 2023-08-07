@@ -59,7 +59,7 @@ After determining where I wanted the slide-out switch and new panel to go, I use
 
 <img src="/assets/webseelevel3.jpg"/>  
 
-4 – As I had done before on other mods that required wiring in this area, I removed the control panel on the fridge and fished all the new wires from the back of the fridge box.  (When the freezer door is open, you can see the three screws that hold the fridge control panel to the fridge structure.)  As before, I found that using the back right corner was the best route to bring wires up from under the bed / Truma area to the top of the fridge.  Here is an old picture from one of those other mods that required wire fishing from under the bed:
+4 – As I had done before on other mods that required wiring in this area, I removed the control panel on the fridge and fished all the new wires from the back of the fridge box.  (When the freezer door is open, you can see the three screws that hold the fridge control panel to the fridge structure.)  As before, I found that using the back right corner was the best route to bring wires up from under the bed / Truma area to the top of the fridge.  Here is an old picture from one of those other mods that required wire fishing from under the bed - you can see that there was not enough room to install the SeeLevel II display inbetween the slide-out switch and the "OnePlace" monitor panel:
 
 <img src="/assets/fridge-panel-off-web.jpg"/>  
 
