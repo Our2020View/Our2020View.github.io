@@ -67,7 +67,7 @@ After determining where I wanted the slide-out switch and new panel to go, I use
 
 5 – For the circuit wiring, here is what I did:
 
-- I fished up a wire from the Truma / bed area, and used a butt connector to attach it to the red power lead on the display pigtail.  On the other end, I crimped on a female spade connector to connect with an empty fuse slot in the fuse box.  I closed the circuit with a 3 amp fuse.
+- I fished up a wire from the Truma / bed area, and used a butt connector to attach it to the red power lead on the display pigtail.  On the other end, I crimped on a female spade connector to connect with an empty fuse slot in the fuse box.  I closed the circuit with a 3 amp fuse, and labeled the index on the panel door.
 - A second wire was fished up and connected the same way to the blue lead on the display pigtail.  The other end was run to the back of the coach, to gang with the blue leads on the tank senders.
 - A third wire was again fished up and connected to the black lead on the display pigtail.  It too was run to the tank area, but this time ganged with the black leads on the senders.
 - A fourth wire was run from the ground post beside the fuse box back to the tank area, and ganged with the other ground wires down at the tank.  I chose this ground wiring configuration after reading the note on the wiring diagram regarding the importance of a common ground for the senders and the display.  I guess with the low currents involved in this circuit they were worried about a resistance imbalance somewhere, so for a few extra feet of wire I ensured that there was no doubt about a shared ground.
