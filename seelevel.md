@@ -93,6 +93,8 @@ Here is how the sender strips ended up looking:
 
 <img src="/assets/webseelevel8.jpg"/>  
 
+Note - The incandescent light in the above picture is how I heat the water pump area during the winter when we are not using propane heat.  Also, you can see one of the temperature sensors we have in the coach to monitor various critical areas during winter operations. 
+
 10 – With the circuit working as designed, I finished up by re-installing the slide-out switch and securing the SeeLevel display to the trim panel above the fridge.  
 
 <img src="/assets/webseelevel9.jpg"/>  
