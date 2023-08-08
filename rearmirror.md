@@ -26,7 +26,7 @@ The goal of somehow getting it attached to the rear view mirror post was the nex
 
 <h2> The Installation </h2>
 
-1 – I started with the camera mount on the rear of the View, and chose the rear roof trim cap to make the attachment.  From previous experience removing this trim cap, I knew there was nothing in there that would be affected by a drill bit.  I added a bit of foam sheeting in-between the mounting bracket and the trim panel, but other than that – just drilled and installed it, centered above the middle running light.
+1 – I started with the camera mount on the rear of the View, and chose the rear roof trim cap to make the attachment.  From previous experience removing this trim cap, I knew there was nothing in there that would be affected by a drill bit.  I added a bit of foam sheeting in-between the mounting bracket and the trim panel, but other than that – just drilled and installed it, centered above the middle running light:
 
 <img src="/assets/webrearview2.jpg"/>  
 
