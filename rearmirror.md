@@ -40,7 +40,7 @@ I’ll clean up the cable attachment when I get some more appropriate supplies, 
 
 <img src="/assets/webrearview5.jpg"/>  
 
-2 – The monitor installation up in the cab was equally straightforward, after some research into how to get under the radar housing on the upper windscreen.  I twisted off the rear view mirror to leave the mirror post and ball:
+2 – The monitor installation up in the cab was equally straightforward, after some research into how to get under the radar housing on the upper windscreen.  I started by twisting off the rear view mirror to leave the mirror post and ball:
 
 <img src="/assets/webrearview9.jpg"/>  
 
