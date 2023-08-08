@@ -345,8 +345,17 @@ That's the recent material - here are all of the mods that we have previously im
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/suspension/'"> READ MORE </button>
-  </div>
- </div>
+   </div>
+   <div class="column" style="background-color:white;">
+    <h3>Rear View Monitor</h3>
+    <p>Full Time Display while Driving</p>
+    <img src="/assets/websolar4.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="height:40px;width:200px;background-color:green; color:white"
+            onclick="location.href = '/ourmods/rearmirror/'"> READ MORE </button>
+   </div>
+</div>
   
   <h1> Miscellaneous Mods</h1>
   <p>Mods are Go</p>
