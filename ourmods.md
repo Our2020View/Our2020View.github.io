@@ -219,7 +219,7 @@ That's the recent material - here are all of the mods that we have previously im
     <div class="column" style="background-color:white;">
     <h3>SeeLevel II Monitor</h3>
     <p>An Accurate Water Tank Reading</p>
-    <img src="/assets/webseelevel6.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <img src="/assets/websolar4.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
