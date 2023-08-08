@@ -12,7 +12,7 @@ Our View came with an actual rear view mirror, but all it really did was let us 
 James and Stef at the FitRV evidently had the same problem; they too wanted to see what was behind them as they were driving, and came up with the idea to explore a back-up camera that you could leave on full time to give you the same usefulness as a rear view mirror.  Have a look at this FitRV video to give you the background to the product we too ended up installing:
 
 <a href = "https://www.thefitrv.com/rv-tech/adding-a-wireless-rear-view-camera-the-auto-vox-solar4/
- " target="_blank">FitRV Auto-Vox Solar 4 Wireless Rear View Camera Review</a>
+ " target="_blank">The FitRV Auto-Vox Solar 4 Wireless Rear View Camera Review</a>
 
 We liked the fact that this product works without having to run cables from the rear to the front cab, and any wiring that needed to be done was pretty minimal.  The camera looked more robust than most and was solar charged, the monitor had a good size display, it could be configured for full time use, the back-up guide lines could be removed from display, the wireless range for the kit was advertised to be more than adequate, and James had found a way to install it in the same place as a rear view mirror.  That last feature was actually pretty important, as having a display take up dash board room and potentially get in the way, was not attractive – and we wanted to be able to look in an intuitive place for rear traffic.
 
