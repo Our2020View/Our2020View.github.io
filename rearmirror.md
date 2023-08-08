@@ -78,8 +78,6 @@ With the radar housing ready to snap back on, I finished up by threading the mon
 -	A short press of the OK button to turn off the monitor appears and leave the camera powered
 -	A long 5 second press of the OK button appears to de-power the camera – when the Ok button is pressed again, you can hear the camera “waking up”.  Knowing this, we have got into the habit of turning off the monitor - before shutting off the ignition and Sprinter power - using the long 5 second press.  Our thinking is that this might prolong the battery life of the camera and require less solar charging.  I don’t really know for sure, but ...
 
-This setup is working very well for us.  We don’t have any experience using this in the dark yet, but RV driving in the dark is the exception for us.  I guess if we don’t like the night-time presentation, we always have the option of turning the monitor off.
-
 So far, so good.  It is really nice to be able to see directly behind us again.
 
 <br>
