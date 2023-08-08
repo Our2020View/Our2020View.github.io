@@ -56,7 +56,7 @@ During my search for this type of attachment method, I removed the Mercedes mirr
 
 <img src="/assets/webrearview12.jpg"/>  
 
-3 – The last piece of the puzzle was running a power supply up to the monitor.  I had seriously considered tapping into a power wire up in the radar housing, or in the reading light fairing, but in the end decided to keep it simple and use a similar method to what the FitRV had used.  On our ’20 Sprinter we have a cigarette lighter socket in the middle cubby, so opted to use that as the power supply.  The monitor power wire was of a generous length, so ran it along the back of the middle and right hand side cubby, out of the speaker enclosure, up the side post, along the ceiling, and into the radar housing.  I coiled up the slack in the radar housing area, and snapped the coil into some unused wire holders.
+3 – The last piece of the puzzle was running a power supply up to the monitor.  I had seriously considered tapping into a power wire up in the radar housing, or in the reading light fairing, but in the end decided to keep it simple and use a similar method to what the FitRV had used.  On our ’20 Sprinter we have a cigarette lighter socket in the middle cubby, so opted to use that as the power supply.  The monitor power wire was of a generous length, so I ran it along the back of the middle and right hand side cubby, out of the speaker enclosure, up the side post, along the ceiling, and into the radar housing.  I coiled up the slack in the radar housing area, and snapped the coil into some unused wire holders.
 
 <img src="/assets/webrearview13.jpg"/>  
 
