@@ -67,6 +67,8 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 [SeeLevel II Tank Monitor](/ourmods/seelevel/)
 
+[Auto-Vox Solar 4 Rear View Monitor](/ourmods/rearmirror/)
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
