@@ -9,7 +9,7 @@ A Rear View Monitor?  Yes, not a backup camera – we’ve been there and done t
 
 Our View came with an actual rear view mirror, but all it really did was let us check to see what was going on in the coach – it was not a rear view mirror capable of showing what the traffic was doing behind the RV as we were driving.  And, we really have missed that capability - from a situational awareness perspective and basic driving safety.  Our Sprinter coach does have a dedicated control for activating the factory back-up camera, but it does not function above 30 km/hr, or about 18 mph.  Using that for awareness would have been great – it has a super big and crisp picture – but Mercedes has decided against providing that functionality.
 
-James and Stef at the FitRV evidently had the same problem; they too wanted to see what was behind them as they were driving, and came up with the idea to explore a back-up camera that you could leave on full time to give you the same usefulness as a rear view mirror.  Have a look at this FitRV video to give you the background to the product we too ended up installing:
+James and Stef at the FitRV evidently had the same problem; they too wanted to see what was behind them as they were driving, and came up with the idea to explore a back-up camera that you could leave on full-time to give you the same usefulness as a rear view mirror.  Have a look at this FitRV video to give you the background to the product we too ended up installing:
 
 <a href = "https://www.thefitrv.com/rv-tech/adding-a-wireless-rear-view-camera-the-auto-vox-solar4/
  " target="_blank">The FitRV Auto-Vox Solar 4 Wireless Rear View Camera Review</a>
