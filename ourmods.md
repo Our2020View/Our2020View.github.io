@@ -351,7 +351,7 @@ That's the recent material - here are all of the mods that we have previously im
    </div>
    <div class="column" style="background-color:white;">
     <h3>Rear View Monitor</h3>
-    <p>Full Time Display while Driving</p>
+    <p>Full-Time Display while Driving</p>
     <img src="/assets/websolar4.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
