@@ -37,7 +37,7 @@ permalink: /ourmods/
  <br> 
  <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
  <br>
-  August 2023 - <b>Full Time Rear View Monitor</b> - <a href = "/ourmods/rearmirror/ ">  Auto-Vox Solar 4 </a>
+  August 2023 - <b>Full-Time Rear View Monitor</b> - <a href = "/ourmods/rearmirror/ ">  Auto-Vox Solar 4 </a>
  <br>
  <br>
   August 2023 - <b>Adding a SeeLevel II Monitor</b> - <a href = "/ourmods/seelevel/ ">  "How much water do we have, really?" </a>
