@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Fulltime Rear View Monitor | RV Mods
+title: RV Full Time Rear View Monitor | RV Mods
 permalink: /ourmods/rearmirror/
 ---
 
