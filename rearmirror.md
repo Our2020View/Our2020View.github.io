@@ -1,11 +1,11 @@
 ---
 layout: page
-title: RV Full Time Rear View Monitor | RV Mods
+title: RV Full-Time Rear View Monitor | RV Mods
 permalink: /ourmods/rearmirror/
 ---
 
 
-A Rear View Monitor?  Yes, not a backup camera – we’ve been there and done that – this is a full time electronic monitor replacement for a rear view mirror...
+A Rear View Monitor?  Yes, not a backup camera – we’ve been there and done that – this is a full-time electronic monitor replacement for a rear view mirror...
 
 Our View came with an actual rear view mirror, but all it really did was let us check to see what was going on in the coach – it was not a rear view mirror capable of showing what the traffic was doing behind the RV as we were driving.  And, we really have missed that capability - from a situational awareness perspective and basic driving safety.  Our Sprinter coach does have a dedicated control for activating the factory back-up camera, but it does not function above 30 km/hr, or about 18 mph.  Using that for awareness would have been great – it has a super big and crisp picture – but Mercedes has decided against providing that functionality.
 
