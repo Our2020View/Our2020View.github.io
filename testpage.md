@@ -126,4 +126,7 @@ External Links:
 <br>
   <span style="color: red">★</span> New Content <span style="color: red">★</span>
 
+  External Link:
+
+<a href = "URL HERE " target="_blank">LINK DESCRIPTION HERE </a>
   
