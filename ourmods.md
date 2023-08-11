@@ -5,7 +5,7 @@ permalink: /ourmods/
 ---
 
 <head>
-<meta name="description" content="Winnebago View RV Mods with Step by Step Descriptions ">
+<meta name="description" content="Winnebago View / Navion RV Mods with Step by Step Descriptions ">
 </head>
 
 <html>
