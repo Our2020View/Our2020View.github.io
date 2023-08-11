@@ -129,3 +129,8 @@ External Links:
 
 <a href = "URL HERE " target="_blank">LINK DESCRIPTION HERE </a>
   
+Meta Tag Description
+
+<head>
+<meta name="description" content="Improve your Sprinter's sound quality with this quick fix">
+</head>
