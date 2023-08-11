@@ -3,6 +3,10 @@ layout: page
 title: RV Cold Weather Capability | RV Mods
 permalink: /ourmods/coldweather/
 ---
+<head>
+<meta name="description" content="Winter Camping in a Winnebago View">
+</head>
+
 <img src="/assets/webcoldweatherheader.jpg"/>
 
 <i>Icefields Parkway Discovery Centre - Jasper, Alberta - Yes, you can camp there!</i>
