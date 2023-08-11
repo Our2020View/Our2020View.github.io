@@ -4,6 +4,11 @@ title: Better Sprinter Sound Quality | RV Mods
 permalink: /ourmods/speakerfix/
 ---
 
+<head>
+<meta name="description" content="This is an example of a
+meta description. This will often show up in search results.">
+</head>
+
 We were quite shocked at how poor the sound system quality was in the 2020 Sprinter cab.  It was quite perplexing to think that the audio quality that came out of the factory was found to be satsisfactory by Mercedes Benz.   Looking around on the web I found a "hack" that was reported to work well and reported to be easy to do.  The fix was directed at the centre speaker, and essentially involved disabling its functionality.  Before I got into this, I searched in vain in the Sprinter user manual to see if there was some way to adjust its output and solve the problem without having to disable it completely.  With no other options available to try, I went ahead and set up to pull the power on the centre speaker.
 
 I used a plastic knife to pry off the speaker grill, removed the speaker from its retaining clips, located the purple wire connector, and pulled it free.  That's it - put it all back together and the overwhelming output from the centre speaker is gone.  Now, the left and right speakers can be discerned and be controlled normally using the audio system controls.
