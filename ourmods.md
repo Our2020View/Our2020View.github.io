@@ -4,6 +4,10 @@ title: Winnebago View / Navion RV Mods
 permalink: /ourmods/
 ---
 
+<head>
+<meta name="description" content="Winnebago View RV Mods with Step by Step Descriptions ">
+</head>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
