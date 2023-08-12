@@ -23,7 +23,7 @@ And, this one links to the display installation guide for the 709 series:
 
 <a href = "https://www.garnetinstruments.com/wp-content/uploads/2022/10/SeeLeveL-709-Series-Display-Manual_v1.0.pdf " target="_blank">Garnet 709 Display Installation Guide </a>
 
-As you can see, the company makes many different displays with all kinds of functionality.  But, all we were concerned with was getting one tank to give us good, useful information.  Our factory “OnePlace” monitoring was going to remain fully functional, so we did not need to replace any of its features.
+As you can see, the company makes many different displays with all kinds of functionality.  But, all we were concerned with was getting one tank to give us good, useful information.  Our factory “OnePlace” monitor was going to remain fully functional, so we did not need to replace any of its features.
 
 The general idea for this installation was to make the SeeLevel II fully independent, with its own wiring harness and power supply.  The display was to be mounted above the fridge, beside some other controls and displays.
 
