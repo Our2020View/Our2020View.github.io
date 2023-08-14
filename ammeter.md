@@ -62,11 +62,11 @@ If it is cold enough outside, or both of your pads have duff thermostats and are
 
 With this mod, you will know three things, instead of just one, if you throw the switch in cold weather:
 
-1 – The health of the relay - is it working and is trying to pass power to the heating pads?
+1 – As per the Winnebago design, have the switch contacts changed position and illuminated the switch light?
 
-2 – The health of the pads – are they working per design and allowing current to flow when they are colder than 45 degrees F?
+2 – The health of the relay - is it working and is trying to pass power to the heating pads?
 
-3 – As per the Winnebago design, have the switch contacts changed position and illuminated the switch light?
+3 – The health of the pads – are they working per design and allowing current to flow when they are colder than 45 degrees F?
 
 The mod works great, and looks pretty cool as well!
 
