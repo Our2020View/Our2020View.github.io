@@ -385,6 +385,7 @@ That's the recent material - below are all of the mods that we have previously i
   <h4>Shower Cold Water Blast Fix</h4>
   <h4>Roller Shades "Thumping" Fix</h4>
   <h4>Roof Radius Protection</h4>
+  <h4>Kitchen Towel Rod</h4>
   
   <div class="row">
     <div class="column" style="background-color:white;">
