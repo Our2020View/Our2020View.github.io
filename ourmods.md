@@ -41,7 +41,7 @@ permalink: /ourmods/
  <br> 
  <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
  <br>
- September 2023 - <b>Kitchen Towel Rod</b> - <a href = "/ourmods/miscmods/ ">"Where is that towel?" </a>
+ September 2023 - <b>Kitchen Towel Rod</b> - <a href = "/ourmods/miscmods/ ">"Isn't that handy?" </a>
  <br>
  <br>
  August 2023 - <b>Full-Time Rear View Monitor</b> - <a href = "/ourmods/rearmirror/ ">  Auto-Vox Solar 4 </a>
