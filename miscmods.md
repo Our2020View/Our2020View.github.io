@@ -238,7 +238,7 @@ Another thing I experimented with a bit was adding some rubber conditioner to th
 
 <h3>Kitchen Towel Rod</h3>
 
-Here is a straightforward mod that might work for those who do not use their one burner propane grill.  If you do use your grill, this one likely does not make sense.  But, for us, who don't grill indoors and have never used the one burner grill - this mod added quite a bit of functionality to the kitchen of our 24J View.
+Here is a straightforward mod that might work for those who do not use their one burner propane grill.  If you do use your grill, this one likely does not make sense.  But, for us, who don't grill indoors and have never used that one burner grill - this mod added quite a bit of functionality to the kitchen of our 24J View.
 
 A towel rod.  Brilliant.
 
