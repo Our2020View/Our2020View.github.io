@@ -244,7 +244,7 @@ A towel rod.  Brilliant.
 
 Here is the one we settled on:
 
-<a href = "https://www.walmart.ca/en/ip/16-Inch-Self-Adhesive-Towel-Rod-Towel-Holder-Stick-on-Dry-Wall-No-Drilling-No/PRD6EYFGB8VEZIF " target="_blank">Kitchen Towel Rod </a>
+<a href = "https://www.walmart.ca/en/ip/16-Inch-Self-Adhesive-Towel-Rod-Towel-Holder-Stick-on-Dry-Wall-No-Drilling-No/PRD6EYFGB8VEZIF " target="_blank">Kitchen Towel Rod from Walmart </a>
 
 The adhesive backing is strong, and the rod was easy to install.  Instead of using a level to get it straight on the wall - as with anything in an RV - I aligned it with something I knew was straight - in this case, the top lip of the stainless steel heat shield.  (Using a level in an RV is prone to error, as quite likely the RV is not level to begin with...)
 
