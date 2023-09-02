@@ -41,10 +41,13 @@ permalink: /ourmods/
  <br> 
  <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
  <br>
-  August 2023 - <b>Full-Time Rear View Monitor</b> - <a href = "/ourmods/rearmirror/ ">  Auto-Vox Solar 4 </a>
+ September 2023 - <b>Kitchen Towel Rod</b> - <a href = "/ourmods/miscmods/ ">"Where is that towel?" </a>
  <br>
  <br>
-  August 2023 - <b>Adding a SeeLevel II Monitor</b> - <a href = "/ourmods/seelevel/ ">  "How much water do we have, really?" </a>
+ August 2023 - <b>Full-Time Rear View Monitor</b> - <a href = "/ourmods/rearmirror/ ">  Auto-Vox Solar 4 </a>
+ <br>
+ <br>
+ August 2023 - <b>Adding a SeeLevel II Monitor</b> - <a href = "/ourmods/seelevel/ ">  "How much water do we have, really?" </a>
  <br>
  <br>
  July 2023 - <b>Replacing the SunPower Panels</b> - <a href = "/ourmods/newsolar/ ">  Now 400 Watts of Renogy solar </a>
