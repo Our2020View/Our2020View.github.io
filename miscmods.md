@@ -238,7 +238,19 @@ Another thing I experimented with a bit was adding some rubber conditioner to th
 
 <h3>Kitchen Towel Rod</h3>
 
+Here is a straightforward mod that might work for those who do not use their one burner propane grill.  If you do use your grill, this one likely does not make sense.  But, for us, who don't grill indoors and have never used the one burner grill - this mod added quite a bit of functionality to the kitchen of our 24J View.
+
+A towel rod.  Brilliant.
+
+Here is the one we settled on:
+
 <a href = "https://www.walmart.ca/en/ip/16-Inch-Self-Adhesive-Towel-Rod-Towel-Holder-Stick-on-Dry-Wall-No-Drilling-No/PRD6EYFGB8VEZIF " target="_blank">Kitchen Towel Rod </a>
+
+The adhesive backing is strong, and the rod was easy to install.  Instead of using a level to get it straight on the wall - as with anything in an RV - I aligned it with something I knew was straight - in this case, the top lip of the stainless steel heat shield.  (Using a level in an RV is prone to error, as quite likely the RV is not level to begin with...)
+
+<img src="/assets/webtowelrod1.jpg"/>
+
+It looks good and works well.
 
 <br>
 <br>
