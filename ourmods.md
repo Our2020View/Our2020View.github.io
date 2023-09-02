@@ -65,7 +65,7 @@ permalink: /ourmods/
   
  
   
-That's the recent material - here are all of the mods that we have previously implemented, or have in the planning stages, to improve the functionality of our 2020 Winnebago View 24J:
+That's the recent material - here are all of the mods that we have previously implemented to improve the functionality of our 2020 Winnebago View 24J:
   
 <h1> Electrical </h1>
 
