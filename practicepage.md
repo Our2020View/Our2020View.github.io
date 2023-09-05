@@ -16,7 +16,7 @@ This is a practice page.
 
 <a href="https://our2020view.ca/practicepage2#coach">Link to Coach</a>
 
-
+<h2 id="coach">Coach</h2>
 
 
 Practice Text
