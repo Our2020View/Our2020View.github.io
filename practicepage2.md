@@ -96,6 +96,8 @@ permalink: /practicepage2/
 
 <h2> Coach </h2>
 
+<a id="practice_text_link">This is the text I want to link to.</a>
+
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Weight Reduction</h3>
