@@ -165,7 +165,7 @@ Here is how I laid the last pair of tracks - to keep them parallel with the othe
 
 <img src="/assets/awebsolarretrofit24.jpg"/>  
 
-7- I finished up the track installs by running a bead of the siding and gutter sealant along all sides and ends of the tracks.  In addition to the sides of the T Track, I also filled in each unused screw hole on the centreline of the track.  (All I was trying to do here was to keep the elements off of the VHB tape, so any product that adheres to fibreglass and aluminum would have been acceptable.  I elected not to use Dicor self-leveling sealant, as that product gets dirty pretty quickly.)  Also, this Stone Mason Gutter and Siding sealant is super strong so I felt good about some extra adhesive in the small groove bordering the VHB tape at the base of the T Track.
+7- I finished up the track installs by running a bead of the siding and gutter sealant along all sides and ends of the tracks.  In addition to the sides of the T Track, I also filled in each screw hole on the centreline of the track.  (All I was trying to do here with the sealant was to keep the elements and sun off of the VHB tape, so any product that adheres to fibreglass and aluminum would have been acceptable.  I elected not to use Dicor self-leveling sealant, as that product gets dirty pretty quickly.)  Also, this Stone Mason Gutter and Siding sealant is super strong so I felt good about some extra adhesive in the small groove bordering the VHB tape at the base of the T Track.
 
 <img src="/assets/awebsolarretrofit11.jpg"/>  
 
