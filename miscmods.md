@@ -236,7 +236,7 @@ The job used about 2/3rds of a roll of tape, and took about an hour.  A small pr
 
 Another thing I experimented with a bit was adding some rubber conditioner to the gutter sealant.  As you can see in the first picture above, the unprotected sealant’s surface is starting to powder and crack, and I wanted to see if the conditioner would revitalize the compound to prevent this powdering.  I sprayed on common RV rubber conditioner on a small area of the roof radius, and it immediately returned the sealant to looking like it had just come out of the caulking gun.  So, the results looked promising but I was a bit hesitant to spray the rest of each roof radius without knowing what the long term effect of the conditioner would be on the health and structure of the sealant.  I reached out to the manufacturer of a similar product to what I thought Winnebago was using, but they would not give me any assurance that a rubber conditioner would do no harm.  Without knowing what the Winnebago roof radius sealant is actually made of, I think I will just wait for a bit to see if my small test patch deteriorates with the passage of time.  I could not find any references on the web to folks using rubber conditioner on RV sealant – that too makes me wonder.  If you have some experience with this, drop me a line, thanks.
 
-<h3>Kitchen Towel Rod</h3>
+<h3 id="kitchen_towel_rod">Kitchen Towel Rod</h3>
 
 Here is a straightforward mod that might work for those who do not use their one burner propane grill.  If you do use your grill, this one likely does not make sense.  But, for us, who don't grill indoors and have never used that one burner grill - this mod added quite a bit of functionality to the kitchen of our 24J View.
 
