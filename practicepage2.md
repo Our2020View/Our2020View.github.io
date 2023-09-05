@@ -143,6 +143,8 @@ permalink: /practicepage2/
 
 <h2> Sprinter Chassis </h2>
 
+<a rel="noopener" target="_blank" href="#practice_text_link">Click here to link to new text.</a>
+
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Valve Stem Extensions</h3>
