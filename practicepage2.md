@@ -94,7 +94,7 @@ permalink: /practicepage2/
      </div>
 </div>
 
-<h2> Coach </h2>
+<h2 id="coach">Coach</h2>
 
 <div class="row">
   <div class="column" style="background-color:white;">
