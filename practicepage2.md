@@ -138,8 +138,6 @@ permalink: /practicepage2/
      </div>
 </div>
 
-<a id="practice_text_link">This is the text I wanted to link to.</a>
-
 <h2> Sprinter Chassis </h2>
 
 <div class="row">
