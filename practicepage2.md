@@ -140,10 +140,9 @@ permalink: /practicepage2/
      </div>
 </div>
 
+<a id="practice_text_link">This is the text I wanted to link to.</a>
 
 <h2> Sprinter Chassis </h2>
-
-<a rel="noopener" target="_blank" href="#practice_text_link">Click here to link to new text.</a>
 
 <div class="row">
   <div class="column" style="background-color:white;">
