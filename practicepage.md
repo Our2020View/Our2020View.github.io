@@ -18,7 +18,7 @@ This is a practice page.
 
 <h1> Link to some specific text next </h1>
 
-<a href="#practice_text_link">Click here to link to new text.</a>
+<a href="/practicepage2/#practice_text_link">Click here to link to new text.</a>
 
 Practice Text
 
