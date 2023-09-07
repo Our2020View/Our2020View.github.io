@@ -45,7 +45,7 @@ It turns out this was not a bad turn of events, for <b>I started questioning the
 
 I have always envied those that have roof racks that can be used as the supports for a solar install, so the idea of using Utility T Track looked like the next best thing.  In addition to being able to remove a malfunctioning panel quickly and easily, the added adhesion footprint that the T Track gave was the clincher – If AM Solar was happy with ten square inches of VHB footprint for the large panels they install, how about 9 times more adhesion than that?
 
-So, with a long winter ahead to change direction and plan an installation using Utility T Track, here is what my supplies list ended up being:
+So, with a long winter ahead to change direction and plan an installation using Utility T Track, here is what my supplies list ended up being, with associated links:
 
 <img src="/assets/awebsolarretrofit12.jpg"/>   
 
