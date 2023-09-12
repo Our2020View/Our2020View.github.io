@@ -39,7 +39,7 @@ So, we had two pads that left the factory inoperative.  Ok, how about I just go 
 
 <h3>The Installation</h3>
 
-The heat pads that came with our View were made by Thermaheat, a Lasalle Bristol company.  These are the pads that are pretty common on the web, and the least expensive.    They are theoretically rated at 78 Watts, about 5.8 amps at 13.5 volts, and should have a resistance of about 2.3 ohms.  (The numbers were important to me, as I wanted to test any replacements I got, BEFORE I installed them on the motorhome.)  These factory installed pads measured 25" long by 7.25" wide, and were factory installed with the end of the pads folded up the ends of the tanks.
+1 - The heat pads that came with our View were made by Thermaheat, a Lasalle Bristol company.  These are the pads that are pretty common on the web, and the least expensive.    They are theoretically rated at 78 Watts, about 5.8 amps at 13.5 volts, and should have a resistance of about 2.3 ohms.  (The numbers were important to me, as I wanted to test any replacements I got, BEFORE I installed them on the motorhome.)  These factory installed pads measured 25" long by 7.25" wide, and were factory installed with the end of the pads folded up the ends of the tanks.
 
 I special ordered two Thermaheat pads from our Winnebago dealer, with the agreement that I could return them if they did not work.  They were shipped directly from the Winnebago factory, so I'm led to believe that these would have ended up on a production motorhome if we had not diverted them from their parts inventory.  
 
@@ -76,9 +76,23 @@ Here is a picture of a low power and a high power pad mounted to the black tank:
 
 Picture of two pads on the black tank.
 
-I installed a good pad and a low power pad on each tank, wired them up, and then to make absolutely sure these things were going to work for the next winter - I came u
+2 - Knowing that our original two, defective, factory pads got pretty beat up from road debris I thought this time I would come up with some way to protect the pads and wiring.  My idea was to cover the bottom of the tanks with some polyethylene tarp, and maybe add some cushioning / insulation in their as well.  I cleaned off the tank edges and ran some adhesive velcro strips along the sides of the tanks, cut some tarp, added some velcro, cut some old insulation I had in the basement, and fitted the covers to the tanks.  The covers look good, and I think will hold up well.
 
+Here is a photo of the tarp, cushioning / insulation, and velcro along the edges:
 
+Photo of cover on bench:
+
+And here is how they ended up looking:
+
+Grey Picture 1 of cover on tank
+
+Blank Picture 2 of cover on tank
+
+NOTE - On our View / Navion 24J, the panel that protects the black tank can be opened up.  There are some sheet metal screws down at the bottom of the frame, and once removed, the panel hinges up to allow access to the black tank.
+
+3 - Testing the pads one last time - just to make sure they installed with no damage?  Before I buttoned up the covers for good, I took advantage of the just installed velcro strips on the edges of the tank to support a bag of frozen berries positioned over the pad thermastats.  (I put the bag on a wooden board, and strapped the board to the bottom of the tank.)  It took about five minutes, but I did get the thermostats to close and register current when the in-coach tank heater switch was thrown.  I had initially tried a block of ice on the thermastats, but was only successful on two of the the four pads.  This method was successful on the other two pads.
+
+After three years of frustration, we finally have heat on our tanks.  
 
 
 
