@@ -4,7 +4,8 @@ title: RV Holding Tank Heater Ammeter | RV Mods
 permalink: /ourmods/ammeter/
 ---
 
-So, good news / bad news on this one.  The good news is that the mod I had been waiting to get finished is finally done, and works like a champ.  The bad news is that the new mod has definitively, conclusively, and unceremoniously, confirmed that my Winnebago installed tank heaters have never worked.  In the process of the installing the mod, I tested the heat pads in cold temperatures, using numerous methods, and ended up concluding what I have always suspected: they were installed without being tested and given to us hoping that if they didn’t work, we would never notice.  At any rate, if you’d like to know if your tank heaters are really working, read on below.  Or, if you wound up on this page because your tank heaters are currently not working, it is possible that the information on this page might also be of some use with your troubleshooting.
+So, good news / bad news on this one.  The good news is that the mod I had been waiting to get finished is finally done, and works like a champ.  The bad news is that the new mod has definitively, conclusively, and unceremoniously, confirmed that my Winnebago installed tank heaters have never worked.  In the process of the installing the mod, I tested the heat pads in cold temperatures, using numerous methods, and ended up concluding what I have always suspected: they were installed without being tested and given to us hoping that if they didn’t work, we would never notice.  At any rate, if you’d like to know if your tank heaters are really working, read on below.  Or, if you wound up on this page because your tank heaters are currently not working, have a look at our tank heater retrofit found on our mods page.
+
 
 <h3>The Ammeter Mod</h3>
 
@@ -60,7 +61,7 @@ If it is cold enough outside, or both of your pads have duff thermostats and are
 
 <img src="/assets/webammeter17.jpg"/>
 
-With this mod, you will know three things, instead of just one, if you throw the switch in cold weather:
+With this mod, you will be able to answer three questions, instead of just one, if you throw the switch in cold weather:
 
 1 – As per the Winnebago design, have the switch contacts changed position and illuminated the switch light?
 
