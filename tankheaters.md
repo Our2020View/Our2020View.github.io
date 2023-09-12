@@ -68,11 +68,15 @@ Link to Pads
 
 Picture of UltraHeat packaging
 
-The pads arrived super quick from Ultraheat, but testing showed both of the pads were only making about 50% power. I reached out to UltraHeat, and they explained that the power would increase a bit after initial use - but they were not confident that the pads would meet the numbers they advertise - so they shipped two more pads to us as replacements.  The two new pads were much better, and tested satisfactorily.  
+The pads arrived super quick from Ultraheat, but testing showed both of the pads were only making about 50% power. I reached out to UltraHeat, and they explained that the power would increase a bit after initial use - but they were not confident that the pads would meet the numbers they advertise - so they shipped two more pads to us as replacements.  The two new pads were much better, and tested satisfactorily - not the 62 Watts they advertise - but closer ...
 
-I cut a piece of cardboard to match the heat pad size, and started experimenting with potential locations for the new pads.  I quickly realized that there was enough room on the black tank for two of these, and possibly room on the grey tank, if I got creative.  Why not use the first two (low power) pads as well, in an attempt to get closer to the power rating that Winnebago claims their factory pads produce?
+I cut a piece of cardboard to match the heat pad size, and started experimenting with potential locations for the new pads.  I quickly realized that there was enough room on the black tank for two of these pads, and possibly room on the grey tank for two pads, if I got creative.  Why not use the first two (low power) pads as well, in an attempt to get closer to the power rating that Winnebago claims their factory pads produce?
 
+Here is a picture of a low power and a high power pad mounted to the black tank:
 
+Picture of two pads on the black tank.
+
+I installed a good pad and a low power pad on each tank, wired them up, and then to make absolutely sure these things were going to work for the next winter - I came u
 
 
 
