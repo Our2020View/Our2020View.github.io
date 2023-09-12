@@ -5,7 +5,7 @@ permalink: /ourmods/tankheaters/
 ---
 <h3>Troubleshooting the Factory Snag</h3>
 
-Have you found this page because your tank heaters are suspect, and you want to replace them?  You have come to the right place!  It took me three years and a lot of frustration to get some heat on our tanks, so read on if you want some help troubleshooting, or just want to see what someone else did to get new heat pads on our Grey and Black tanks of our Winnebago View.
+Have you found this page because your tank heaters are suspect, and you want to replace them?  You have come to the right place!  It took me three years and a lot of frustration to get some heat on our tanks, so read on if you want some help troubleshooting, or just want to see what someone else did to get new heat pads on the Grey and Black tanks of our Winnebago View.
 
 During some past late December dry camping, we needed the protection from the Winnebago installed holding tank heaters.  When I turned them on and watched my Victron app to take note of the amperage change, I noted that they were only pulling between 1 and 2 amps.  Those heaters are supposed to pull about 5 amps each at temperatures below 45 degrees F, so I suspected we had a problem.  Doing a tactile check on the pads confirmed my suspicions, as I could not detect any heat on the pads anywhere.  I can’t say that they have ever worked – the only other time I used them we were popping up above freezing during the daytime hours, so the risk to the tanks was low - but thinking about it later, the current draw at that time was less than two amps as well.   
 
@@ -62,9 +62,15 @@ We have previous good experience with the UltraHeat products, having installed g
 
 Link to Winter Capability
 
-Knowing that the Ultraheat pads were only rated to keep 25 gallons of water warm, not the 41 gallons that our tanks can hold, I ordered two of the 55 Watt pads intending to limit the volume we would fill the grey and black tanks to.  I thought this was a good compromise for the few times a year we would really need the heat protection.
+Knowing that the Ultraheat pads were only rated to keep 25 gallons of water warm, not the 41 gallons that our tanks can hold, I ordered two of the 55 Watt pads intending to limit the volume we would fill the grey and black tanks to.  I thought this was a good compromise for the few times a year we would really need the heat protection. The model number of the pads we ordered are AMM900, and can be found at this link:
+
+Link to Pads
+
+Picture of UltraHeat packaging
 
 The pads arrived super quick from Ultraheat, but testing showed both of the pads were only making about 50% power. I reached out to UltraHeat, and they explained that the power would increase a bit after initial use - but they were not confident that the pads would meet the numbers they advertise - so they shipped two more pads to us as replacements.  The two new pads were much better, and tested satisfactorily.  
+
+I cut a piece of cardboard to match the heat pad size, and started experimenting with potential locations for the new pads.  I quickly realized that there was enough room on the black tank for two of these, and possibly room on the grey tank, if I got creative.  Why not use the first two (low power) pads as well, in an attempt to get closer to the power rating that Winnebago claims their factory pads produce?
 
 
 
