@@ -76,7 +76,7 @@ Here is a picture of a low power and a high power pad mounted to the black tank:
 
 Picture of two pads on the black tank.
 
-2 - Knowing that our original two, defective, factory pads got pretty beat up from road debris I thought this time I would come up with some way to protect the pads and wiring.  My idea was to cover the bottom of the tanks with some polyethylene tarp, and maybe add some cushioning / insulation in their as well.  I cleaned off the tank edges and ran some adhesive velcro strips along the sides of the tanks, cut some tarp, added some velcro, cut some old insulation I had in the basement, and fitted the covers to the tanks.  The covers look good, and I think will hold up well.
+2 - Knowing that our original two, defective, factory pads got pretty beat up from road debris, I thought this time I would come up with some way to protect the pads and wiring.  My idea was to cover the bottom of the tanks with some polyethylene tarp, and maybe add some cushioning / insulation in their as well.  I cleaned off the tank edges and ran some adhesive velcro strips along the sides of the tanks, cut some tarp, added some velcro, cut some old insulation I had in the basement, and fitted the covers to the tanks.  The covers look good, and I think will hold up well.
 
 Here is a photo of the tarp, cushioning / insulation, and velcro along the edges:
 
