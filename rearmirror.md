@@ -36,7 +36,7 @@ Sliding on the camera, locking it in place, attaching the solar charge panel to 
 
 I’ll clean up the cable attachment when I get some more appropriate supplies, but for starters, here is how it ended up looking:
 
-<img src="/assets/webrearview7.jpg"/>  
+<img src="/assets/webrearview7a.jpg"/>  
 
 <img src="/assets/webrearview5.jpg"/>  
 
