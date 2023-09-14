@@ -88,7 +88,7 @@ And, here is the link to the product from Mid City Engineering:
 
 <a href = "https://www.midcityengineering.com/product/oem-360-degree-camera-on-demand-for-2019-2021-sprinter-907-360-obd/ " target="_blank">Sprinter Dongle for Rear View Camera </a>
 
-A dedicated monitor, or an MBUX picture, whatever you choose - you will not regret the decision to make driving your RV safer.
+A dedicated monitor, or an MBUX picture, which ever you choose - you will not regret the decision to make driving your RV safer.
 
 <br>
 
