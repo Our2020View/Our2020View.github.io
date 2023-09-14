@@ -34,7 +34,7 @@ The goal of somehow getting it attached to the rear view mirror post was the nex
 
 Sliding on the camera, locking it in place, attaching the solar charge panel to the roof, and running the charging wire was all very straightforward.  (The FitRV had elected to run a dedicated USB charging cable to the camera, but we thought we would give the solar charging panel a try ...)
 
-I’ll clean up the cable attachment when I get some more appropriate supplies, but for starters, here is how it ended up looking:
+Here is how the camera installation ended up looking:
 
 <img src="/assets/webrearview7a.jpg"/>  
 
