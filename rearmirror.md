@@ -80,6 +80,10 @@ With the radar housing ready to snap back on, I finished up by threading the mon
 
 So far, so good.  It is really nice to be able to see directly behind us again.
 
+NEW INfO - It looks like an engineering company in the US has developed a software dongle that uses the Sprinter's OBD II port to hack into the MBUX system of the new Sprinters to allow full time use of the rear view camera.  With a one time installation for a unique VIN number, this dongle allows you to bypass the speed limit restricting the use of the rear view camera.  If you are not going to miss navigation or radio info, maybe this would work for you?
+
+<a href = "https://www.youtube.com/watch?v=1xceptQYac0 " target="_blank">MBUX Full Time Rear View Picture </a>
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
