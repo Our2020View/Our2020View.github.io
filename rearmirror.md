@@ -84,6 +84,10 @@ NEW INfO - It looks like an engineering company in the US has developed a softwa
 
 <a href = "https://www.youtube.com/watch?v=1xceptQYac0 " target="_blank">MBUX Full Time Rear View Picture </a>
 
+And, here is the link to the product from Mid City Engineering:
+
+<a href = "https://www.midcityengineering.com/product/oem-360-degree-camera-on-demand-for-2019-2021-sprinter-907-360-obd/ " target="_blank">Sprinter Dongle for Rear View Camera </a>
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
