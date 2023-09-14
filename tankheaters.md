@@ -27,8 +27,6 @@ After completing this cleanup, I poked around some more in the wet bay and disco
 
 Later in the year, when overnight temperatures started dropping below freezing, I started into the mod described above and took the opportunity to isolate the heating pads from the Winnebago factory wiring.  With only power and ground wires to the pads remaining, I put 12 volts and a multimeter on them each in turn, and discovered that at temperatures below the “turn ON” temperature of 45 degrees F ... they were only pulling .6 amps each.  Yup, the pads were not working.  So 1.2 amps for the pads, plus about .5 amps to power the relay – was that the phantom 1.8 amps that I would see on my Victron App in the dead of winter when I tried to get the heaters working?  Very likely.
 
-<img src="/assets/webXX.jpg"/>
-
 As mentioned above, once the mod was in place, the new ammeter confirmed what I had found earlier by testing the pads independently; the total draw was only 1.2 amps instead of around the expected 9 or 10 amps.  That is the beauty of an ammeter tieds exclusively to this circuit - there are no mistakes to be made when reading the load - what you see is what you are getting through the pads.
 
 So, looking on the bright side, at least I had discovered what I needed to do to get some heat on the tanks:  replace both pads.  Both pads?  How is that possible that both pads had never worked?  I certainly did not see that one coming either, but have a look at this post from an RV forum on the topic of our specific tank heaters made by ThermaHeat:
@@ -43,7 +41,7 @@ So, we had two pads that left the factory inoperative.  Ok, how about I just go 
 
 I special ordered two Thermaheat pads from our Winnebago dealer, with the agreement that I could return them if they did not work.  They were shipped directly from the Winnebago factory, so I'm led to believe that these would have ended up on a production motorhome if we had not diverted them from their parts inventory.  
 
-And, upon testing them down in the basement, they didn't work...  Great.
+And, upon testing them down in the basement ... they didn't work...  Great, just great.
 
 To test the pads before installing them, here is what I did:
 
@@ -62,33 +60,41 @@ We have previous good experience with the UltraHeat products, having installed g
 
 Link to Winter Capability
 
-Knowing that the Ultraheat pads were only rated to keep 25 gallons of water warm, not the 41 gallons that our tanks can hold, I ordered two of the 55 Watt pads intending to limit the volume we would fill the grey and black tanks to.  I thought this was a good compromise for the few times a year we would really need the heat protection. The model number of the pads we ordered are AMM900, and can be found at this link:
+Knowing that the Ultraheat pads were only rated to keep 25 gallons of water warm, not the 41 gallons that our tanks can hold, I ordered two of the 55 Watt pads intending to limit the volume we would fill the grey and black tanks to.  I thought this was a good compromise for the few times a year we would really need the heat protection. 
+
+<img src="/assets/webtankheaters1.jpg"/>
+
+The model number of the pads we ordered are AMM900, and can be found at this link:
 
 Link to Pads
-
-Picture of UltraHeat packaging
 
 The pads arrived super quick from Ultraheat, but testing showed both of the pads were only making about 50% power. I reached out to UltraHeat, and they explained that the power would increase a bit after initial use - but they were not confident that the pads would meet the numbers they advertise - so they shipped two more pads to us as replacements.  The two new pads were much better, and tested satisfactorily - not the 62 Watts they advertise - but closer ...
 
 I cut a piece of cardboard to match the heat pad size, and started experimenting with potential locations for the new pads.  I quickly realized that there was enough room on the black tank for two of these pads, and possibly room on the grey tank for two pads, if I got creative.  Why not use the first two (low power) pads as well, in an attempt to get closer to the power rating that Winnebago claims their factory pads produce?
 
+After cleaning up the tank bottoms with cleaner and a 50/50 mix of rubbing alcohol and water, the pads installed easily on each tank.  The wiring was equally straightforward - remembering to wire these in parallel.
+
 Here is a picture of a low power and a high power pad mounted to the black tank:
 
-Picture of two pads on the black tank.
+<img src="/assets/webtankheaters2.jpg"/>
 
-2 - Knowing that our original two, defective, factory pads got pretty beat up from road debris, I thought this time I would come up with some way to protect the pads and wiring.  My idea was to cover the bottom of the tanks with some polyethylene tarp, and maybe add some cushioning / insulation in their as well.  I cleaned off the tank edges and ran some adhesive velcro strips along the sides of the tanks, cut some tarp, added some velcro, cut some old insulation I had in the basement, and fitted the covers to the tanks.  The covers look good, and I think will hold up well.
+2 - Knowing that our original two, defective, factory pads got pretty beat up from road debris, I thought this time I would come up with some way to protect the pads and wiring.  My idea was to cover the bottom of the tanks with some polyethylene tarp, and maybe add some cushioning / insulation in their as well.  I cleaned off the tank edges and ran some adhesive velcro strips along the sides of the tanks, cut some tarp, added some velcro, cut some old insulation I had in the basement, and fitted the covers to the tanks.  The covers look good, and I think will hold up well.  I worried about water intrusion under the cover to soak the insulation, so added some Gorilla Tape to the perimeter of the tarp.  After the addition of the tape the job did not look as clean, but hopefully it will be functional.
 
-Here is a photo of the tarp, cushioning / insulation, and velcro along the edges:
+Here is one of the cut tarps and insulation:
 
-Photo of cover on bench:
+<img src="/assets/webtankheaters3.jpg"/>
 
-And here is how they ended up looking:
+Here is the grey tank before I decided to add some tape:
 
-Grey Picture 1 of cover on tank
+<img src="/assets/webtankheaters4.jpg"/>
 
-Blank Picture 2 of cover on tank
+and here is the grey tank with the tape added, for belt and braces:
 
-NOTE - On our View / Navion 24J, the panel that protects the black tank can be opened up.  There are some sheet metal screws down at the bottom of the frame, and once removed, the panel hinges up to allow access to the black tank.
+<img src="/assets/webtankheaters5.jpg"/>
+
+NOTE - On our View / Navion 24J, the panel that protects the black tank can be opened up.  There are some sheet metal screws down at the bottom of the frame, and once removed, the panel hinges up to allow access to the black tank:
+
+<img src="/assets/webtankheaters6.jpg"/>
 
 3 - Testing the pads one last time - just to make sure they installed with no damage?  Before I buttoned up the covers for good, I took advantage of the just installed velcro strips on the edges of the tank to support a bag of frozen berries positioned over the pad thermastats.  (I put the bag on a wooden board, and strapped the board to the bottom of the tank.)  It took about five minutes, but I did get the thermostats to close and register current when the in-coach tank heater switch was thrown.  I had initially tried a block of ice on the thermastats, but was only successful on two of the the four pads.  This method was successful on the other two pads.
 
