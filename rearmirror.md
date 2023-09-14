@@ -78,7 +78,7 @@ With the radar housing ready to snap back on, I finished up by threading the mon
 -	A short press of the OK button to turn off the monitor appears and leave the camera powered
 -	A long 5 second press of the OK button appears to de-power the camera – when the Ok button is pressed again, you can hear the camera “waking up”.  Knowing this, we have got into the habit of turning off the monitor - before shutting off the ignition and Sprinter power - using the long 5 second press.  Our thinking is that this might prolong the battery life of the camera and require less solar charging.  I don’t really know for sure, but ...
 
-So far, so good.  It is really nice to be able to see directly behind us again.
+So far, so good.  It is really nice to be able to see directly behind us again with an instinctive glance up to the rear view mirror.
 
 NEW INfO - It looks like an engineering company in the US has developed a software dongle that uses the Sprinter's OBD II port to hack into the MBUX system of the new Sprinters, to allow full time use of the rear view camera.  With a one time installation for a unique VIN number, this dongle allows you to bypass the speed limit restricting the use of the rear view camera.  If you are not going to miss navigation or radio info, maybe this would work for you?
 
