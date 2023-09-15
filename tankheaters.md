@@ -63,9 +63,9 @@ Knowing that the Ultraheat pads that would fit our tanks were only rated to keep
 
 (We have previous good experience with the UltraHeat products, having installed gate valve heat pads on our dump valves, so felt confident in this decision.  If you want to see where we have used UltraHeat products before, have a look  <a href = "https://our2020view.ca/ourmods/coldweather/ " target="_blank">HERE </a> to see how we made our View / Navion a four season motorhome.)
 
-The model number of the pads we ordered are AMM900, and can be found at this link:
+The model number of the pads we ordered are AM900, and can be found at this link:
 
-Link to Pads
+<a href = "https://www.ultraheat.com/ultraheat-am-model-0900 " target="_blank">Ultra Heat 55 Watt Tank Heaters </a>
 
 The pads arrived super quick from Ultraheat, but testing showed both of the pads were only making about 50% power. I reached out to UltraHeat, and they explained that the power would increase a bit after initial use - but they were not confident that the pads would meet the numbers they advertise - so they shipped two more pads to us as replacements.  The two new pads were much better, and tested satisfactorily - not the 62 Watts they advertise - but closer ...
 
