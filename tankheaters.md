@@ -38,7 +38,7 @@ So, we had two pads that left the factory inoperative.  Ok, how about I just go 
 
 <h3>The Installation</h3>
 
-1 - The heat pads that came with our View were made by Thermaheat, a Lasalle Bristol company.  These are the pads that are pretty common on the web, and the least expensive.    They are theoretically rated at 78 Watts, about 5.8 amps at 13.5 volts, and should have a resistance of about 2.3 ohms.  (The numbers were important to me, as I wanted to test any replacements I got, BEFORE I installed them on the motorhome.)  These factory installed pads measured 25" long by 7.25" wide, and were factory installed with the end of the pads folded up the ends of the tanks.
+1 - The heat pads that came with our View were made by Thermaheat, a Lasalle Bristol company.  These are the pads that are pretty common on the web, and the least expensive.    They are theoretically rated at 78 Watts, about 5.8 amps at 13.5 volts, and should have a resistance of about 2.3 ohms.  (The numbers were important to me, as I wanted to test any replacements I got, BEFORE I installed them on the motorhome.)  These factory installed pads measured 25" long by 7.25" wide, and were factory installed with the end of the pads folded up on the ends of the tanks.
 
 I special ordered two Thermaheat pads from our Winnebago dealer, with the agreement that I could return them if they did not work.  They were shipped directly from the Winnebago factory, so I'm led to believe that these would have ended up on a production motorhome if we had not diverted them from their parts inventory.  
 
