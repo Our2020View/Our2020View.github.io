@@ -41,9 +41,11 @@ So, we had two pads that left the factory inoperative.  Ok, how about I just go 
 
 I special ordered two Thermaheat pads from our Winnebago dealer, with the agreement that I could return them if they did not work.  They were shipped directly from the Winnebago factory, so I'm led to believe that these would have ended up on a production motorhome if we had not diverted them from their parts inventory.  
 
-And, upon testing them down in the basement ... they didn't work...  Great, just great.
+And, upon testing them down in the basement ... they didn't work...  
 
-To test the pads before installing them, here is what I did:
+Great, just great.
+
+To come to this realization, here is what I did:
 
 - Knowing they have a built in thermastat that will only close and allow current to flow if below 45 degrees F, I checked the resistance while the pads were warm.  They correctly showed infinite resistance, or no continuity.  This can easily be tested with a multimeter set to the continuity test function, and the probes on both leads.
 - Next I put both pads in the freezer, waited for them to drop in temperature, and then did a continuity test again.  One of the pads now correctly registered continuity, a little less than 3 ohms, but the other pad continued to show infinite resistance - the built in thermastat would not close to allow electricity to flow through the pad, no matter how long I left it in the freezer.
