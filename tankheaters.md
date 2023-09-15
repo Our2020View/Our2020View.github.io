@@ -43,7 +43,7 @@ I special ordered two Thermaheat pads from our Winnebago dealer, with the agreem
 
 And, upon testing them down in the basement ... they didn't work...  
 
-Great, just great.
+Great, just great.  That was now four Thermaheat pads that did not work.
 
 To come to this realization, here is what I did:
 
