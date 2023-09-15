@@ -69,6 +69,8 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 [Auto-Vox Solar 4 Rear View Monitor](/ourmods/rearmirror/)
 
+[Tank Heater Retrofit](/ourmods/tankheaters/)
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
