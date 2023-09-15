@@ -45,7 +45,7 @@ permalink: /ourmods/
  September 2023 - <b>Tank Heater Retrofit</b> - <a href = "/ourmods/tankheaters/ ">  Heating Pads that Work </a>
  <br>
  <br>
- September 2023 - <b>Kitchen Towel Rod</b> - <a href = "/ourmods/miscmods/ ">  Isn't that handy?" </a>
+ September 2023 - <b>Kitchen Towel Rod</b> - <a href = "/ourmods/miscmods/ ">  "Isn't that handy?" </a>
  <br>
  <br>
  August 2023 - <b>Full-Time Rear View Monitor</b> - <a href = "/ourmods/rearmirror/ ">  Auto-Vox Solar 4 </a>
