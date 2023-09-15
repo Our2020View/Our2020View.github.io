@@ -56,15 +56,14 @@ And then, after a few hours in the freezer, the pad failed.  I don't know if it 
 
 Ok, back to the dealer to return both pads, and move on to Plan B.
 
-Plan B was to order the expensive heat pads from UltraHeat of Elkhart, Indiana.  They did not have a product that matched the specs of the factory heating pads - the best match was a 12" by 7.25" pad rated at only 55 Watts (compared to the 78 Watt pads that came from the factory).  The next size up would have fit the footprint of our black tank, but would have been too large for our grey tank.  And those pads were rated at just under 10 amps each, so the combination of the two would have overwhelmed the 15 amp wiring that came on our View.  
-
-We have previous good experience with the UltraHeat products, having installed gate valve heat pads on our dump valves.  
-
-Link to Winter Capability
-
-Knowing that the Ultraheat pads were only rated to keep 25 gallons of water warm, not the 41 gallons that our tanks can hold, I ordered two of the 55 Watt pads intending to limit the volume we would fill the grey and black tanks to.  I thought this was a good compromise for the few times a year we would really need the heat protection. 
+Plan B was to order the expensive heat pads from UltraHeat of Elkhart, Indiana.  They did not have a product that matched the specs of the factory heating pads - the best match was a 12" by 7.25" pad rated at only 55 Watts (compared to the 78 Watt pads that came from the factory).  Their next product size up would have fit the footprint of our black tank, but would have been too large for our grey tank.  And those pads were rated at just under 10 amps each, so the combination of the two would have overwhelmed the 15 amp wiring that came on our View.  
+Knowing that the Ultraheat pads that would fit our tanks were only rated to keep 25 gallons of water warm, not the 41 gallons that our tanks can hold, I ordered two of the 55 Watt pads intending to limit the volume we would fill the grey and black tanks to.  I thought this was a good compromise for the few times a year we would really need the heat protection. 
 
 <img src="/assets/webtankheaters1.jpg"/>
+
+(We have previous good experience with the UltraHeat products, having installed gate valve heat pads on our dump valves, so felt confident in this decision.  If you want to see where we have used UltraHeat products before, have a look HERE 
+
+to see how we made our View / Navion a four season motorhome.)
 
 The model number of the pads we ordered are AMM900, and can be found at this link:
 
