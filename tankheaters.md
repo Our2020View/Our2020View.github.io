@@ -6,6 +6,7 @@ permalink: /ourmods/tankheaters/
 
 Have you found this page because your tank heaters are suspect, and you want to replace them?  If so, you have come to the right place!  It took me three years and a lot of frustration to get some heat on our tanks, so read on if you want some help troubleshooting, or just want to see what someone else did to get new heat pads on the Grey and Black tanks of a Winnebago View / Navion.
 
+<br>
 
 <h3>Troubleshooting the Factory Snag</h3>
 
@@ -105,7 +106,9 @@ NOTE - On our View / Navion 24J, the panel that protects the black tank can be o
 
 After three years of frustration, we finally have heat on our tanks.  
 
+<br>
 
+[Back to Our RV Modifications](/ourmods/)
 
 
 
