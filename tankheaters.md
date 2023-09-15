@@ -62,7 +62,7 @@ Knowing that the Ultraheat pads that would fit our tanks were only rated to keep
 
 <img src="/assets/webtankheaters1.jpg"/>
 
-(We have previous good experience with the UltraHeat products, having installed gate valve heat pads on our dump valves, so felt confident in this decision.  If you want to see where we have used UltraHeat products before, have a look  <a href = "https://our2020view.ca/ourmods/coldweather/ " target="_blank">HERE </a> to see how we made our View / Navion a four season motorhome.)
+(We have previous good experience with the UltraHeat products, having installed gate valve heat pads on our dump valves, so I felt confident in this decision.  If you want to see where we have used UltraHeat products before, have a look  <a href = "https://our2020view.ca/ourmods/coldweather/ " target="_blank">HERE </a> to see how we made our View / Navion a four season motorhome.)
 
 The model number of the pads we ordered are AM900, and can be found at this link:
 
