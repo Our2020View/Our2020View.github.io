@@ -13,7 +13,7 @@ At the time I checked the wiring where I could – voltage leaving the fuse box,
 
 My thinking then turned to a way to make darn sure these things were working in cold conditions when I flicked the switch to ON.  Currently, the light in the switch only confirms that the switch has changed positions; it does not confirm that current is actually going to the heating pads.  So how about adding an ammeter to the circuit so I could see the 10 amps that is supposed to register?  As a result of that thought - independent of trying to get our tank heaters to work, I added an ammeter to the panel where the tank heat switch is located.  The mod went well, but unfortunately it absolutely confirmed that the tank heaters were inoperative.  If interested, you can see the tank heater ammeter mod here:
 
-Link to tank heater ammeter mod
+<a href = "https://our2020view.ca/ourmods/ammeter/ " target="_blank">Tank Heater Ammeter Mod </a>
 
 Subsequent troubleshooting of my basic heater problem produced discouraging results, so I queried the Winnie Owner’s Forum to see if someone else had seen this problem before.  It turns out that someone else had indeed seen it, but in a 2015 Trend.  Following the thread, I was able to pick up on some really valuable thoughts that helped me quite a bit.
 
