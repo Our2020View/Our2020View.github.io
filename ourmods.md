@@ -42,7 +42,7 @@ permalink: /ourmods/
  <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
  <br>
  
- September 2023 - <b>Tank Heater Retrofit</b> - <a href = "/ourmods/tankheaters/ ">  Heating Pads that Work" </a>
+ September 2023 - <b>Tank Heater Retrofit</b> - <a href = "/ourmods/tankheaters/ ">  Heating Pads that Work </a>
  <br>
  <br>
  September 2023 - <b>Kitchen Towel Rod</b> - <a href = "/ourmods/miscmods/ ">  Isn't that handy?" </a>
