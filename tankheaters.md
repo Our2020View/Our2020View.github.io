@@ -4,7 +4,7 @@ title: RV Tank Heater Retrofit | RV Mods
 permalink: /ourmods/tankheaters/
 ---
 
-Have you found this page because your tank heaters are suspect, and you want to replace them?  If so, you have come to the right place!  It took me three years and a lot of frustration to get some heat on our tanks, so read on if you want some help troubleshooting, or just want to see what someone else did to get new heat pads on the Grey and Black tanks of a Winnebago View / Navion.
+Have you found this page because your tank heaters are suspect, and you might have to replace them?  If so, you have come to the right place!  It took me three years and a lot of frustration to get some heat on our tanks, so read on if you want some help troubleshooting, or just want to see what someone else did to get new heat pads on the Grey and Black tanks of a Winnebago View / Navion.
 
 <br>
 
