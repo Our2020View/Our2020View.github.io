@@ -57,7 +57,7 @@ And then, after a few hours in the freezer, the pad failed.  I don't know if it 
 Ok, back to the dealer to return both pads, and move on to Plan B.
 
 Plan B was to order the expensive heat pads from UltraHeat of Elkhart, Indiana.  They did not have a product that matched the specs of the factory heating pads - the best match was a 12" by 7.25" pad rated at only 55 Watts (compared to the 78 Watt pads that came from the factory).  Their next product size up would have fit the footprint of our black tank, but would have been too large for our grey tank.  And those pads were rated at just under 10 amps each, so the combination of the two would have overwhelmed the 15 amp wiring that came on our View.  
-Knowing that the Ultraheat pads that would fit our tanks were only rated to keep 25 gallons of water warm, not the 41 gallons that our tanks can hold, I ordered two of the 55 Watt pads intending to limit the volume we would fill the grey and black tanks to.  I thought this was a good compromise for the few times a year we would really need the heat protection. 
+Knowing that the Ultraheat pads that would fit our tanks were only rated to keep 25 gallons of water warm, not the 41 gallons that our tanks can hold, I ordered two of the 62 Watt pads intending to limit the volume we would fill the grey and black tanks to.  I thought this was a good compromise for the few times a year we would really need the heat protection. 
 
 <img src="/assets/webtankheaters1.jpg"/>
 
@@ -65,7 +65,7 @@ Knowing that the Ultraheat pads that would fit our tanks were only rated to keep
 
 The model number of the pads we ordered are AM900, and can be found at this link:
 
-<a href = "https://www.ultraheat.com/ultraheat-am-model-0900 " target="_blank">Ultra Heat 55 Watt Tank Heaters </a>
+<a href = "https://www.ultraheat.com/ultraheat-am-model-0900 " target="_blank">Ultra Heat 62 Watt Tank Heaters </a>
 
 The pads arrived super quick from Ultraheat, but testing showed both of the pads were only making about 50% power. I reached out to UltraHeat, and they explained that the power would increase a bit after initial use - but they were not confident that the pads would meet the numbers they advertise - so they shipped two more pads to us as replacements.  The two new pads were much better, and tested satisfactorily - not the 62 Watts they advertise - but closer ...
 
