@@ -98,6 +98,10 @@ NOTE - On our View / Navion 24J, the panel that protects the black tank can be o
 
 3 - Testing the pads one last time - just to make sure they installed with no damage?  Before I buttoned up the covers for good, I took advantage of the just installed velcro strips on the edges of the tank to support a bag of frozen berries positioned over the pad thermastats.  (I put the bag on a wooden board, and strapped the board to the bottom of the tank.)  It took about five minutes, but I did get the thermostats to close and register current when the in-coach tank heater switch was thrown.  I had initially tried a block of ice on the thermastats, but was only successful on two of the the four pads.  This method was successful on the other two pads.
 
+4 - Once we had settled in to some cool fall weather, turning on the tank heater switch as outside temperatures approached freezing showed that current was flowing to all of the pads:
+
+<img src="/assets/webammeter17a.jpg"/>
+
 After three years of frustration, we finally have heat on our tanks.  
 
 
