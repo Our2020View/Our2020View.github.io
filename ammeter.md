@@ -32,11 +32,11 @@ I wanted to put an ammeter gauge in the cabinet above the cooktop, beside the ta
 
 <a href = "https://www.amazon.ca/gp/product/B08FX7JZ5D/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1 " target="_blank">12 Volt Ammeter </a>
 
-2 – Power the gauge from the output of the relay, so the gauge will only light up when the switch is thrown **and** the relay actually sends power to the pads.  Doing it this way will always confirm if the relay has worked.  I needed to splice into the relay power output, and then send the wire out of the wetbay via the hole in the floor under the shower, under the bed, up to the top of the fridge, and then into the cooktop cabinet to be connected to the gauge.  Let's call this Wire #1.
+2 – Power the gauge from the output of the relay, so the gauge will only light up when the switch is thrown **and** the relay actually sends power to the pads.  Doing it this way will always confirm if the relay has worked.  I needed to splice into the relay power output, and then send the wire out of the wetbay via the hole in the floor under the shower, under the bed, up to the top of the fridge, and then into the cooktop cabinet to be connected to the new gauge.  Let's call this Wire #1.
 
-3 – Take the ground exiting the pads, sever its original Winnebago return path, butt splice it to a new grounding wire, feed it out of the wet bay to follow the same path as the power wire described above, and connect it to the gauge.  Let' call this Wire #2.
+3 – Take the ground exiting the pads, sever its original Winnebago return path, butt splice it to a new grounding wire, feed it out of the wet bay to follow the same path as the power wire described above, and connect it to the new gauge.  Let' call this Wire #2.
 
-4 – Take another new grounding wire from the remaining negative post on the gauge, send it out of the cabinet to the top of the fridge, down the back, into the Truma box, and then hook it up to the grounding post on the back of the fuse box.  This will be Wire #3.
+4 – Take another new grounding wire from the remaining negative post on the new gauge, send it out of the cabinet to the top of the fridge, down the back, into the Truma box, and then hook it up to the grounding post on the back of the fuse box.  This will be Wire #3.
 
 (I got rid of the connector downstream of the power relay, as my new circuit only uses the power wire; the Winnebago ground wire was cut and became redundant.)
 
