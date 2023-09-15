@@ -203,7 +203,7 @@ That's the recent material - below are all of the mods that we have previously i
   <div class="column" style="background-color:white;">
     <h3>Tank Heater Ammeter</h3>
     <p>Are those heaters really working?</p>
-    <img src="/assets/webammeter16.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <img src="/assets/webammeter16a.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
