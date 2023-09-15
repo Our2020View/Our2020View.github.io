@@ -52,7 +52,7 @@ Here is a wiring diagram of **the new mod** - I left out all of the irrelevant g
 
 Once you have got this hooked up, if it is warm outside and the pad thermostats are not going to close to allow current to flow through the pads, throwing the switch will give you this result:
 
-<img src="/assets/webammeter16.jpg"/>
+<img src="/assets/webammeter16a.jpg"/>
 
 The switch, powered by the water pump circuit, has passed voltage to the tank heater relay in the wet bay, and the relay is allowing power to be passed on to the heat pads and the ammeter guage.  The thermostats have not closed, so there is no current flowing through the pads.  This is normal for warm temperatures.
 
