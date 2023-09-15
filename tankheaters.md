@@ -3,9 +3,10 @@ layout: page
 title: RV Tank Heater Retrofit | RV Mods
 permalink: /ourmods/tankheaters/
 ---
-<h3>Troubleshooting the Factory Snag</h3>
 
-Have you found this page because your tank heaters are suspect, and you want to replace them?  You have come to the right place!  It took me three years and a lot of frustration to get some heat on our tanks, so read on if you want some help troubleshooting, or just want to see what someone else did to get new heat pads on the Grey and Black tanks of a Winnebago View / Navion.
+Have you found this page because your tank heaters are suspect, and you want to replace them?  If so, you have come to the right place!  It took me three years and a lot of frustration to get some heat on our tanks, so read on if you want some help troubleshooting, or just want to see what someone else did to get new heat pads on the Grey and Black tanks of a Winnebago View / Navion.
+
+<h3>Troubleshooting the Factory Snag</h3>
 
 During some past late December dry camping, we needed the protection from the Winnebago installed holding tank heaters.  When I turned them on and watched my Victron app to take note of the amperage change, I noted that they were only pulling between 1 and 2 amps.  Those heaters are supposed to pull about 5 amps each at temperatures below 45 degrees F, so I suspected we had a problem.  Doing a tactile check on the pads confirmed my suspicions, as I could not detect any heat on the pads anywhere.  I can’t say that they have ever worked – the only other time I used them we were popping up above freezing during the daytime hours, so the risk to the tanks was low - but thinking about it later, the current draw at that time was less than two amps as well.   
 
