@@ -52,7 +52,7 @@ To come to this realization, here is what I did:
 - With the possiblity of one good pad, I left that pad in the freezer, hooked up a 12 volt power supply (12.4 volts) and rigged my test setup to measure current.  It showed a current draw of about 4.5 amps - a bit less than the rated current - but it was working ... so far so good.
 - I used a infrared digital thermometer to indeed confirm the pad was warming.
 
-And then, after a few hours in the freezer, the pad failed.  I don't know if it was the themastat that failed, or the heating mesh failed somewhere, but that pad was now dead as well.  I checked the resistance and confirmed that it was inoperative.
+And then, after a few hours in the freezer, the pad failed.  I don't know if it was the themastat that failed, or the heating mesh failed somewhere, but that pad was now dead as well.  After disconnecting the power supply, I checked the resistance and confirmed that no electricity was going to flow through that pad.
 
 Ok, back to the dealer to return both pads, and move on to Plan B.
 
