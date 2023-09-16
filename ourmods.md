@@ -427,8 +427,6 @@ That's the recent material - below are all of the mods that we have previously i
     </div>
 </div>
   
-</body>
-</html>
 
 <br>
 
