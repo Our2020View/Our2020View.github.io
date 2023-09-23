@@ -97,7 +97,7 @@ Note - The incandescent light in the above picture is how we heat the water pump
 
 11 – With the circuit working as designed, I finished up by re-installing the slide-out switch and securing the SeeLevel display - both to the trim panel above the fridge.  
 
-<img src="/assets/webseelevel9a.jpg"/>  
+<img src="/assets/webseelevel19a.jpg"/>  
 
 Working as advertised.  
 
