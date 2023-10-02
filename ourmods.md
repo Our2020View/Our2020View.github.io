@@ -1,16 +1,10 @@
 ---
 layout: page
 title: Winnebago View / Navion RV Mods
+description: Winnebago View / Navion RV Mods with Step by Step Descriptions
 permalink: /ourmods/
 ---
 
-<head>
-<meta name="description" content="Winnebago View / Navion RV Mods with Step by Step Descriptions ">
-</head>
-
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
   box-sizing: border-box;
@@ -31,46 +25,41 @@ permalink: /ourmods/
   clear: both;
 }
 </style>
-</head>
-<body>
-  
-  
+
 <img src="/assets/webmodpageheader.jpg"/>
-  
- <i>Monck Provincial Park - Merritt, British Columbia</i> 
- <br> 
- <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
- <br>
- 
- September 2023 - <b>Tank Heater Retrofit</b> - <a href = "/ourmods/tankheaters/ ">  Heating Pads that actually Work </a>
- <br>
- <br>
- September 2023 - <b>Kitchen Towel Rod</b> - <a href = "/ourmods/miscmods/ ">  "Isn't that handy?" </a>
- <br>
- <br>
- August 2023 - <b>Full-Time Rear View Monitor</b> - <a href = "/ourmods/rearmirror/ ">  Auto-Vox Solar 4 </a>
- <br>
- <br>
- August 2023 - <b>Adding a SeeLevel II Monitor</b> - <a href = "/ourmods/seelevel/ ">  "How much water do we have, really?" </a>
- <br>
- <br>
- July 2023 - <b>Replacing the SunPower Panels</b> - <a href = "/ourmods/newsolar/ ">  Now 400 Watts of Renogy solar </a>
- <br>
- <br>
-  April 2023 - <b>Directly Lubricate the Dump Valves</b> - <a href = "/ourmods/valvelube/ ">  Dump Valve Lube </a>
- <br>
- <br>
-  April 2023 - <b>Protecting the Roof Radius Sealant</b> - <a href = "/ourmods/miscmods/ ">  Roof Radius Protection </a>
- <br>
- <br>
-  February 2023 - <b>Go Winter Camping without any winter mods?</b> - <a href = "/ourmods/nowintermods/ ">  RV with No Winter Mods </a>
- <br>
- <br>
-  
- 
-  
+
+<i>Monck Provincial Park - Merritt, British Columbia</i> 
+<br> 
+<h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
+<br>
+
+September 2023 - <b>Tank Heater Retrofit</b> - <a href = "/ourmods/tankheaters/ ">  Heating Pads that actually Work </a>
+<br>
+<br>
+September 2023 - <b>Kitchen Towel Rod</b> - <a href = "/ourmods/miscmods/ ">  "Isn't that handy?" </a>
+<br>
+<br>
+August 2023 - <b>Full-Time Rear View Monitor</b> - <a href = "/ourmods/rearmirror/ ">  Auto-Vox Solar 4 </a>
+<br>
+<br>
+August 2023 - <b>Adding a SeeLevel II Monitor</b> - <a href = "/ourmods/seelevel/ ">  "How much water do we have, really?" </a>
+<br>
+<br>
+July 2023 - <b>Replacing the SunPower Panels</b> - <a href = "/ourmods/newsolar/ ">  Now 400 Watts of Renogy solar </a>
+<br>
+<br>
+April 2023 - <b>Directly Lubricate the Dump Valves</b> - <a href = "/ourmods/valvelube/ ">  Dump Valve Lube </a>
+<br>
+<br>
+April 2023 - <b>Protecting the Roof Radius Sealant</b> - <a href = "/ourmods/miscmods/ ">  Roof Radius Protection </a>
+<br>
+<br>
+February 2023 - <b>Go Winter Camping without any winter mods?</b> - <a href = "/ourmods/nowintermods/ ">  RV with No Winter Mods </a>
+<br>
+<br>
+
 That's the recent material - below are all of the mods that we have previously implemented to improve the functionality of our 2020 Winnebago View 24J:
-  
+
 <h1> Electrical </h1>
 
 <div class="row">
