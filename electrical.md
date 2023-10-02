@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Electrical Information | RV Mods
+description: Winnebago View / Navion Electrical Info
 permalink: /ourmods/electrical/
 ---
 
