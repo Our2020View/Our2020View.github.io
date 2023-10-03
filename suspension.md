@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Sprinter Suspension Upgrades | RV Mods
+description: Two Suspension Upgrades that will change your RV Life
 permalink: /ourmods/suspension/
 ---
 After coming home from a two month trip where we faced extremely strong crosswinds while crossing the prairies, and excessive amounts of daily activations of the dreaded crosswind assist and stability control “features” of the Sprinter chassis, I started thinking about those Sprinter suspension upgrades that the Internet is so fond of...
