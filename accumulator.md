@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Accumulator Tank | RV Mods
+description: Add an Accumulator to your RV's water system to Improve Performance
 permalink: /ourmods/accumulator/
 ---
 
