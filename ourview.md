@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Our View 24J
+description: Selling Features of the Winnebago View 24J
 permalink: /our24jview/
 ---
 
