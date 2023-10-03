@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Miscellaneous Mods | RV Mods
+description: A collection of Great Small Mods for your View / Navion
 permalink: /ourmods/miscmods/
 ---
 Here are some mods that did not qualify for their own page - newer ones are at the bottom:
