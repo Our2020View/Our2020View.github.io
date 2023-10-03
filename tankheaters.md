@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Tank Heater Retrofit | RV Mods
+description: Installing RV Tank Heaters that Work
 permalink: /ourmods/tankheaters/
 ---
 
