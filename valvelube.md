@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Dump Valve Lubrication | RV Mods
+description: An Easy way to get lubricant directly onto your RV Dump Valves
 permalink: /ourmods/valvelube/
 ---
 This mod does not compare in complexity to some of the other mods we have done, but it ranks right up there with the other big ones in the “performance and functionality” category for our motorhome.  It also tops the list in the “a good night’s sleep” category.  It is a five minute mod that has earned its place on the all-star team.
