@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV with No Winter Mods | RV Mods
+description: Quick and Easy RV Solutions to get you out Winter Camping
 permalink: /ourmods/nowintermods/
 ---
 <img src="/assets/webindyinsnowbank.jpg"/>
