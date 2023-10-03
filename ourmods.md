@@ -168,9 +168,8 @@ That's the recent material - below are all of the mods that we have previously i
 </div>
 
 <div class="row">
-  <div class="column" style="background-color:white;">
-    <h3>Winter Battery Disconnect</h3>
-    <p>No questions disconnect</p>
+    <h3>Coach Battery Disconnect  Storage</h3>
+    <p>No questions isolation for storage</p>
     <img src="/assets/webbattdisc2.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
