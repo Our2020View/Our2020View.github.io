@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Battery Monitor | RV Mods
+description: A Bluetooth Must Have for your RV Batteries
 permalink: /ourmods/batterymonitor/
 ---
 
