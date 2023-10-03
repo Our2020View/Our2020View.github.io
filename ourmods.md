@@ -168,7 +168,7 @@ That's the recent material - below are all of the mods that we have previously i
 </div>
 
 <div class="row">
-    <h3>Coach Battery Disconnect  Storage</h3>
+    <h3>Coach Battery Disconnect</h3>
     <p>No questions isolation for storage</p>
     <img src="/assets/webbattdisc2.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
