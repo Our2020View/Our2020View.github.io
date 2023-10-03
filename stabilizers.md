@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Stabilizer Removal | RV Mods
+description: Do you use your View / Navion stabilizers?
 permalink: /ourmods/stabilizers/
 ---
 After a couple of years of travel in our View, we still had not used the rear stabilizers at all.  Not even once.  We decided that they were dead weight, and getting rustier by the minute.  Digging around on the Winnebago Forum revealed that occasionally someone else out there wanted to remove theirs, too.  I found a thread from a Minnie Winnie that dealt with the same MORryde stabilizers, and the info was very useful. If you are on this page because you are looking to remove your stabilizers on a View / Navion, here is what might work for you too:
