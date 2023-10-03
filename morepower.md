@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RV Extra Power Outlets | RV Mods
-description: Add some 120 volt plugs 
+description: Add some 120 volt plugs and USB ports to your RV
 permalink: /ourmods/morepower/
 ---
 
