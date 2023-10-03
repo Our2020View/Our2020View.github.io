@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Full-Time Rear View Monitor | RV Mods
+description: Add an AutoVox Solar 4 to your RV to enhance Situational Awareness
 permalink: /ourmods/rearmirror/
 ---
 
