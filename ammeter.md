@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Holding Tank Heater Ammeter | RV Mods
+description: How do you know if your tank heaters are working?
 permalink: /ourmods/ammeter/
 ---
 
