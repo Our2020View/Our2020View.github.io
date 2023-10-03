@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Macerator System | RV Mods
+description: Easily add a Macerator to your RV dump system
 permalink: /ourmods/macerator/
 ---
 
