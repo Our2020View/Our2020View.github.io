@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dedicated 20 Amp RV Circuit | RV Mods
+description: Adding more Shorepower to your RV
 permalink: /ourmods/20ampcircuit/
 ---
 
