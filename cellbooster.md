@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Cellular Booster | RV Mods
+description: Easily Boost your Cell Signal in your RV
 permalink: /ourmods/cellbooster/
 ---
 
