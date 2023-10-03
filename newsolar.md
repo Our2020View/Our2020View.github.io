@@ -1,6 +1,7 @@
 ---
 layout: page
-title: RV Solar Panels | RV Mods
+title: RV Solar Panel Upgrade | RV Mods
+description: Add Solar to your RV without drilling holes
 permalink: /ourmods/newsolar/
 ---
 I’ve got mixed feelings on this one – I’m glad to be adding some more solar capability to the View, but I’m disappointed that I have to replace the existing flex panels after only a couple of years of use.  People have been reporting that the factory 100 watt SunPower panels have been scorching the thin Filon fibreglass veneer on their View / Navion’s roof, and I’ve noticed a drop in performance of our factory panels over the short period that we have been using them.  So, time to fix both those issues while increasing our charging capability to the lithium coach batteries.
