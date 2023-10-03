@@ -1,3 +1,4 @@
+---
 layout: page
 title: RV Extra Power Outlets | RV Mods
 description: Add some 120 volt plugs 
