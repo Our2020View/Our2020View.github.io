@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Winter Battery Disconnect | RV Mods
+title: RV Battery Disconnect | RV Mods
+description: Easily Isolate your Coach Batteries for Storage
 permalink: /ourmods/batterydisconnect/
 ---
 One of the reasons we installed LifePO4 coach batteries was to allow us to leave the batteries in the View all winter, unattended.  For all of the years that we have operated a motorhome, we have stayed put up here in Canada for the winter.  That will likely change someday, but for now, the coach sits unattended for 3 or 4 months in Canadian winter temperatures.  The routine when storing our previous motorhomes was to remove the lead acid coach batteries and keep them warm and fully charged in the basement.  The process of removing the batteries, storing them, and then re-installing them – usually in temperatures associated with early winter and early spring – was a workload.
