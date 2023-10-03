@@ -157,7 +157,7 @@ That's the recent material - below are all of the mods that we have previously i
             onclick="location.href = '/ourmods/batteryheater/'"> READ MORE </button>
   </div>
   <div class="column" style="background-color:white;">
-    <h3>Cold Weather Capability</h3>
+    <h3>Cold Weather Camping</h3>
     <p>Four Season Functionality </p>
     <img src="/assets/webspring2021.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
