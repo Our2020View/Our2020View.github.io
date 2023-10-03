@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Better Sprinter Sound Quality | RV Mods
+description: A Two Minute Improvement to your Sprinter's Sound Quality
 permalink: /ourmods/speakerfix/
 ---
 
