@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RV Electrical Management | RV Mods
-description: Installation of RV Electrical Management System
+description: Protecting your RV Electrical System
 permalink: /ourmods/ems/
 ---
 
