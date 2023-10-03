@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RV Battery Monitor | RV Mods
-description: A Bluetooth Must Have for your Lithium RV Batteries 
+description: Adding a Bluetooth capable Battery Monitor to your RV
 permalink: /ourmods/batterymonitor/
 ---
 
