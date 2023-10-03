@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RV Lithium Battery Upgrade | RV Mods
-description: RV Lithium Battery Upgrade
+description: Adding Lithium to your RV is a Game Changer
 permalink: /ourmods/lithiumupgrade/
 ---
 <img src="/assets/webindysilentlake.jpg"/>
