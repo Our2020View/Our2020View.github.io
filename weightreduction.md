@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Weight Reduction | RV Mods
+description: How heavy are these Sprinter Class C RVs?
 permalink: /ourmods/weightreduction/
 ---
 
