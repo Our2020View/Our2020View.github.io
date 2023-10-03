@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RV Rustproofing | RV Mods
+description: Nervous about getting your RV Rustproofed?  It will be Ok ...
 permalink: /ourmods/rustproofing/
 ---
 
