@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Truma Water Heater Bypass | RV Mods
+title: Truma RV Water Heater Bypass | RV Mods
+description: Isolating a Truma AquaGo Comfort Plus - Completely
 permalink: /ourmods/heaterbypass/
 ---
 
