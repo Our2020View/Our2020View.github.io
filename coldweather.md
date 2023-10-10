@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RV Cold Weather Camping | RV Mods
+title: RV Cold Weather Capability | RV Mods
 description: Make your RV Winter Ready with these Mods
 permalink: /ourmods/coldweather/
 ---
