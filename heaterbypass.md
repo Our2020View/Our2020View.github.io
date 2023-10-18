@@ -27,7 +27,11 @@ Another reason for completely isolating the Truma would be allow you to carry on
 
 When I talked to Winnebago about the lack of a true heater bypass system, they acknowledged that they refer customers to the Lichtsinn RV winterization videos and said they would look into making the owner’s manual match up with the way the system really works.  
 
-Installing a shutoff valve in the recirculation line was straightforward - you will need a PEX cutter, PEX crimping tool, PEX crimp rings for 1/2" PEX piping, and a kitchen shutoff valve for 1/2" PEX piping.  (Any home store will have these supplies, and with these in your tool box, you will instantly have the confidence to work with RV plumbing).  The job took about 20 minutes to complete.
+Installing a shutoff valve in the recirculation line was straightforward - you will need a PEX cutter, PEX crimping tool, PEX crimp rings for 1/2" PEX piping, and a kitchen shutoff valve for 1/2" PEX piping.  (Any home store will have these supplies, and with these in your tool box, you will instantly have the confidence to work with RV plumbing).  Here is a link to a shutoff valve that would work just fine"
+
+<a href = "https://www.homedepot.ca/product/dahl-1-2-crimpex-x-1-2-crimpex-inline-straight-brass-lead-free/1000789733?rrec=true " target="_blank">1/2" PEX Shutoff Valve </a>
+
+The job took about 30 minutes to complete.
 
 After that first winter, during my spring opening up, as a test I repeated the winterization process using water instead of RV anti-freeze.  I first repeated the Winnebago process and confirmed that the recirculation line was backfilling water into the Truma.  When I closed the shutoff valve in the recirculation line and repeated the owner’s manual process, the Truma stayed dry, and confirmed that it can be completely isolated like the owner’s manual incorrectly assumed would occur.
 
