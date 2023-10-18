@@ -45,7 +45,7 @@ Here is a closeup of the new valve installation:
 
 <img src="/assets/webnewvalve1.jpg"/>
 
-This is the winterization diagram that is missing from the Truma owner's manual:  The valve I installed is valve "E" in this drawing.
+This is the winterization diagram that is missing from our Truma owner's manual:  The valve I installed is valve "E" in this drawing.
 
 <img src="/assets/Trumadiagramweb.jpg"/>
 
