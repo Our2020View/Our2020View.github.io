@@ -5,7 +5,7 @@ description: Isolating a Truma AquaGo Comfort Plus - Completely
 permalink: /ourmods/heaterbypass/
 ---
 
-During my inaugural winterization of the View using RV anti-freeze fluid, the first sign that things weren’t going well was when the antifreeze jug was emptying at an alarming rate and - I could hear the sounds of a waterfall on the other side of the coach.  I turned off the pump and upon turning the corner, could see anti-freeze pouring out from the Truma.  
+During my inaugural winterization of the View using RV anti-freeze fluid, the first sign that things weren’t going well was when the antifreeze jug was emptying at an alarming rate - and I could hear the sounds of a waterfall on the other side of the coach.  I turned off the pump and upon turning the corner, could see anti-freeze pouring out from the Truma.  
 
 “Not Good”, I thought to myself.
 
