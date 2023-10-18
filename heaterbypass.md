@@ -33,7 +33,7 @@ Installing a shutoff valve in the recirculation line was straightforward - you w
 
 The job took about 30 minutes to complete.
 
-After that first winter, during my spring opening up, as a test I repeated the winterization process using water instead of RV anti-freeze.  I first repeated the Winnebago process and confirmed that the recirculation line was backfilling water into the Truma.  When I closed the shutoff valve in the recirculation line and repeated the owner’s manual process, the Truma stayed dry, and confirmed that it can be completely isolated like the owner’s manual incorrectly assumed would occur.
+After that first winter, during my spring opening up, as a test I repeated the winterization process using water instead of RV anti-freeze.  I first repeated the Winnebago process and confirmed that the recirculation line was backfilling water into the Truma.  When I closed the shutoff valve in the recirculation line and repeated the owner’s manual process, the Truma stayed dry, and confirmed that it can be completely isolated like the owner’s manual originally incorrectly assumed would occur.
 
 Here is a shot of all of the components of the system:
 
