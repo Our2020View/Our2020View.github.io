@@ -24,7 +24,7 @@ The general concept for this mod involved removing these two flex panels that we
 
 Here is what I came up with:
 
-After looking at numerous installations on both YouTube and the Winnebago owner’s forum, I settled on the 3M 4950 VHB double sided tape option for securing them to the roof.  AM Solar out of Springfield, Oregon, has pioneered the use of VHB tape for solar panel retention and offers this as a vote of confidence:
+After looking at numerous panel installations on both YouTube and the Winnebago owner’s forum, I settled on the 3M 4950 VHB double sided tape option for securing them to the roof.  AM Solar out of Springfield, Oregon, has pioneered the use of VHB tape for solar panel retention and offers this as a vote of confidence:
 
 <i>“Fiberglass roofs – We have been using a type of 3M double-sided tape on our mounts since the mid 1990’s, and we have never lost a panel.  As long as the tape is properly installed on a clean surface at the correct temperature, it will hold.  As an added level of protection, we use a layer of Dicor self-leveling sealant around the entire perimeter of the mount, and cover the screw holes/heads as well.  The sealant protects the tape and any potential roof penetrations from water intrusion and decay.  Some customers use the screws for an added layer of protection on fiberglass roofs, but we haven’t found that to be necessary.”</i>
 
