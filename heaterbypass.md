@@ -17,7 +17,7 @@ What is the fix?  Install a shutoff valve in the recirculation line intake to ab
 
 Is it really needed?  Aren’t we just losing some cheap anti-freeze fluid each fall?  Well, it depends on how you use your motorhome.  If you don’t use the coach in cold weather, you are right.  But, if you want to be able to use the coach in sub-zero temperatures – completely isolating the Truma from the coach plumbing system will allow you to carry on without having to purchase the Truma Electric Anti-freeze Kit during situations where you can't burn propane in the water heater.
 
-<a href = "https://shop.truma.net/products/aquago-electric-antifreeze-kit " target="_blank">Truma Aqua Go Electric Anti-freeze Kit </a>
+<a href = "https://www.amazon.com/Truma-AquaGo-Electric-Antifreeze-Kit/dp/B099X3RMKS " target="_blank">Truma Aqua Go Electric Anti-freeze Kit </a>
 
 Hey - I'm NOT saying that this kit isn't a great idea and doesn't make for a very convenient way to operate in cold weather.  (We have one, and are very happy with the purchase.)  This kit is intended to allow the Truma to withstand sub-zero temperatures in situations where you can’t feed propane to the Truma to have it keep itself warm.  Situations such as – you are driving through an area of sub-zero temperatures and can’t run the propane, or you run out of propane while camping and the Truma can’t keep itself warm - and will be susceptible to freezing up.  This kit is not a substitute for propane in the production of hot water, just a method of preventing the Truma from freezing up when propane is not available.  I'm just saying that if you don't have one, there is an alternative to keeping operational - a shutoff valve in the recirculation line.
 
