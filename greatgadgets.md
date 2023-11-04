@@ -69,7 +69,7 @@ Because we don't need our wet bay and coach battery heat on full time - only abo
 
 <a href = "https://www.canadiantire.ca/en/pdp/noma-indoor-digital-timer-20-programmable-settings-1-outlet-white-0528814p.0528814.html?rq=noma+timers#srp " target="_blank">120 Volt Outlet Timer </a>
 
-These timers are easily programmed, and can be left to cycle automatically or be manually switched on.  
+These timers are easily programmed, and can be left to cycle automatically or be manually switched on.  This particular brand of timers has two identically looking products - a 5 amp timer and a 15 amp timer.  I'd recommend getting the 15 amp timer to give you flexibility down the road for other projects.
 
 <img src="/assets/webtimers.jpg"/>
 
