@@ -76,7 +76,7 @@ With the radar housing ready to snap back on, I finished up by threading the mon
 4 – I had tested the camera and monitor in the basement before the installation, so the power-up went ahead with no surprises of any kind.  Here are a couple of notes I made myself when testing things earlier:
 
 -	For a single camera – CH 1 is the default
--	A short press of the OK button to turn off the monitor appears and leave the camera powered
+-	A short press of the OK button to turn off the monitor appears to leave the camera powered
 -	A long 4 second press of the OK button appears to de-power the camera – when the Ok button is pressed again, you can hear the camera “waking up”.  Knowing this, we have got into the habit of turning off the monitor - before shutting off the ignition and Sprinter power - using the long 4 second press.  Our thinking is that this might prolong the battery life of the camera and require less solar charging.  
 
 UPDATE: So far, so good.  It is really nice to be able to see directly behind us again with an instinctive glance up to the rear view mirror.  The solar charging is working well.  We went for many months with the camera battery indicator showing fully charged, but one trip we had about 5 days of overcast / rain and solar charging was affected.  The camera battery indicator dropped to 1/3rd, but eventually got topped up again when the sun came back out.  I had wondered if the solar panel would be able to keep up with using the camera for 7 or 8 hours a day - now we know.  Yes - if the sun is out, it keeps up fine.  And, if you shut off the monitor with a long push of the Ok button, the camera does indeed become depowered.
