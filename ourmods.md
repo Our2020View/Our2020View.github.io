@@ -33,6 +33,9 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
+November 2023 - <b>120 Volt Outlet Timers</b> - <a href = "/ourmods/tankheaters/ ">  Control the loads supplied by your coach batteries </a>
+<br>
+<br>
 September 2023 - <b>Tank Heater Retrofit</b> - <a href = "/ourmods/tankheaters/ ">  Heating Pads that actually Work </a>
 <br>
 <br>
