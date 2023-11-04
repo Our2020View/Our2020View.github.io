@@ -81,7 +81,7 @@ and here is the timer we put on the lithium coach battery heat:
 
 <img src="/assets/webtimer1.jpg"/>
 
-These work really well, and cut down on our overnight battery drain when solar, Onan, or chassis alternator power is not available to charge the coach batteries.
+These work really well, and cut down on our overnight battery drain when shore, solar, Onan, or chassis alternator power is not available to charge the coach batteries.
 
   <br>
 
