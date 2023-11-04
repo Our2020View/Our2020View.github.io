@@ -49,6 +49,10 @@ This is the winterization diagram that is missing from our Truma owner's manual:
 
 <img src="/assets/Trumadiagramweb.jpg"/>
 
+If you'd like to see this information in a video, have a look here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/19q82qlTAJM?si=dXQd9N3SMMrJ2tZ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 This was an easy mod to make, and likely will earn a spot in the All-Star category because of its usefulness.
 
 <br>
