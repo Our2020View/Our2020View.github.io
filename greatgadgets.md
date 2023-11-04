@@ -75,11 +75,11 @@ These timers are easily programmed, and can be left to cycle automatically or be
 
 Here is the timer we have on the wet bay heat ...
 
-<img src="/assets/webtimer1.jpg"/>
+<img src="/assets/webtimer2.jpg"/>
 
 and here is the timer we put on the lithium coach battery heat:
 
-<img src="/assets/webtimer2.jpg"/>
+<img src="/assets/webtimer1.jpg"/>
 
 These work really well, and cut down on our overnight battery drain when solar, Onan, or the chassis alternator is not available.
 
