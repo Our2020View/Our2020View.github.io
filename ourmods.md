@@ -407,6 +407,7 @@ That's the recent material - below are all of the mods that we have previously i
   <h4>WiFi Booster</h4>
   <h4>Google Chromecast</h4>
   <h4>Dumping Accessories</h4>
+  <h4>120 Volt AC Outlet Timer</h4>
   
   <div class="row">
     <div class="column" style="background-color:white;">
