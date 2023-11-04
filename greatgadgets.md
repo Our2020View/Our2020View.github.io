@@ -63,7 +63,7 @@ There have been times when, after a morning of long showers for everyone, I’ve
 
 <h3>120 Volt AC Outlet Timers </h3>
 
-When we are winter dry camping - we rely on power from our Xantrex 2000 inverter, via our coach batteries, to supply 120 volt AC electricity to some of our winter mods.  The two mods in particular are the wet bay heat and the coach battery heat.  These 120 volt AC mods draw a small amount of AC current, but because the ultimate source of the 120 volt alternating current is from the inverter via our coach batteries - the DC current draw from our two coach batteries is significant.  Each of these mods draws about 5 DC amps each.
+When we are winter dry camping - we rely on power from our Xantrex 2000 inverter, via our coach batteries, to supply 120 volt AC electricity to some of our winter mods.  The two mods in particular are the wet bay heat and the coach battery heat.  These 120 volt AC mods draw a very small amount of AC current, but because the ultimate source of the 120 volt alternating current is from the inverter via our coach batteries - the DC current draw from our two coach batteries is significant.  Each of these mods draws about 5 DC amps each.
 
 Because we don't need our wet bay and coach battery heat on full time - only about 20 out of 60 minutes is all that is really required - we came up with the idea to put timers on these circuits.  We found these timers at our national "get what ever you need" store:
 
