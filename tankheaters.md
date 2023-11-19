@@ -101,7 +101,7 @@ NOTE - On our View / Navion 24J, the panel that protects the black tank can be o
 
 4 - Once we had settled in to some cool fall weather, turning on the tank heater switch as outside temperatures approached freezing showed that current was flowing to all of the pads:
 
-<img src="/assets/webammeter17a.jpg"/>
+<img src="/assets/webammeter99.jpg"/>
 
 After three years of frustration, we finally have heat on our tanks.  
 
