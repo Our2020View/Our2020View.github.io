@@ -213,8 +213,15 @@ Future Operations?  I added an ammeter on the grey and black tank heaters circui
 
 NOTE:  I did some RV antifreeze testing to see just how cold it needed to be before the antifreeze became ineffective.  Sadly to say, I was dissapointed at the results.  It turns out adding antifreeze to tanks might just be more of a psychological benefit than an actual advantage.  
 
-
 <img src="/assets/webantifreeze1.jpg"/>
+
+The experiment I did used 20 samples of various concentrations of the pink stuff and water.  I started with 100% RV antifreeze, and then diluted the samples at 5% increments down to 5% antifreeze and 95% water.  As best I could, I ran 5 tests at increasingly cold temperatures.  (Getting the temperatures I wanted was not easy, even though, in theory, my portable 12V / 120V fridge / freezer could be controlled at 1 degree increments.)  
+
+At 19F / -7C the samples turned to slush at 30% antifreeze and 70% water.  For a View / Navion, assuming you pour in 2.5 US gallons of RV antifreeze to start with, this means at a 20% tank level ... you are slush.
+
+At 9F / -13C the samples turned to slush at 85% antifreeze and 15% water, and frozen solid by the time you reach 50 / 50.  For a View / Navion, assuming you pour in 2.5 US gallons of RV antifreeze to start with, you only need to add 1/2 US gallon of water to turn things to slush at this temperature.
+
+At 3F / -16C the samples were all either slush or frozen solid.  At 85 / 15 and beyond the samples were all frozen solid.  Yes, even the 100% antifreeze sample was slush at this temperature.
 
 I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is the temperature measuring kit I purchased - I mounted one sensor in the propane locker to get an outside air temperature, one in the wet bay, and one near the water pump:
 
