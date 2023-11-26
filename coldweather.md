@@ -213,6 +213,9 @@ Future Operations?  I added an ammeter on the grey and black tank heaters circui
 
 NOTE:  I did some RV antifreeze testing to see just how cold it needed to be before the antifreeze became ineffective.  Sadly to say, I was dissapointed at the results.  It turns out adding antifreeze to tanks might just be more of a psychological benefit than an actual advantage.  
 
+
+<img src="/assets/webantifreeze1.jpg"/>
+
 I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is the temperature measuring kit I purchased - I mounted one sensor in the propane locker to get an outside air temperature, one in the wet bay, and one near the water pump:
 
 <a href = "https://www.amazon.ca/gp/product/B01BICMM1I/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1 " target="_blank">Temperature Monitoring System </a>
