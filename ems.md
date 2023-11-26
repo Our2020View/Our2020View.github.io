@@ -55,7 +55,8 @@ I did this gauge install in conjuction with the gauge install for the Victron BM
 
 The EMS works very well - on the first power up it caught the fact that the extension chord I was using from the garage did not have a ground prong attached.  I had to think about that for a minute, but then finally realized that the EMS was quite right - there was no ground.  Once I changed out the extension chord for one with a ground prong - the EMS error code cleared, the box allowed power to the coach, and all was right in the RV mod world again.
 
-Working as advertised.
+Interesting NOTE - The new EMS has tighter over-voltage protection than the AC voltage our particular Onan Genset likes to output.  If the Onan has been running for a few minutes and just under a min load to charge the batteries, it is not uncommon to see the AC voltage on the new gauge start to creep up into the mid to high 120s and the EMS react by shedding the AC power from the generator.  This results in some generator surging as the EMS periodically allows the power to re-connected to the coach after the voltage drops a bit.  The solution to this was to use the Bypass switch on the EMS panel, to allow the generator power to enter the coach without going through the EMS itself.  I'm not sure if this voltage creep is just a characteristic of our particular generator, or if they all do this under minimum load.  I'm thinking that maybe it is just ours, as I have not read about other people having similar troubles.  I'm Ok with running the generator and not having the EMS protection - my main concern was campground power - but something to keep an eye on, I guess.
+
 
 <br>
 
