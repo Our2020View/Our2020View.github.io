@@ -211,7 +211,7 @@ Yes, it all worked as we hoped it would.  Some of these mods mentioned above wer
 
 Future Operations?  I added an ammeter on the grey and black tank heaters circuit, to allow for an easy assessment of how well they are working.  During testing for that ammeter mod, I finally zeroed in on the fact that the original heat pads left the factory inoperative due to a ThermaHeat defect.  When I finally got to replace those pads, this ammeter mod was very handy.  (If you have heating pad issues that are fustrating you, the info captured in this [Tank Heater Ammeter Mod](/ourmods/ammeter/) might be useful.)  
 
-NOTE:  I did some RV antifreeze testing to see just how cold it needed to be before antifreeze added to our waste tanks became ineffective.  Sadly to say, I was dissapointed at the results.  It turns out adding antifreeze to tanks might just be more of a psychological benefit than an actual advantage.  
+NOTE:  I did some <b>RV antifreeze testing</b> to see just how cold it needed to be before antifreeze added to our waste tanks became ineffective.  Sadly to say, I was dissapointed at the results.  It turns out adding antifreeze to tanks might just be more of a psychological benefit than an actual advantage.  
 
 <img src="/assets/webantifreeze1.jpg"/>
 
