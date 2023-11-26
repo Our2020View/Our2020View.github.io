@@ -47,7 +47,7 @@ The disadvantages for us:
 1.	No macerator system – we fixed that ourselves
 2.	Rear Passenger seating - not as comfy as Captain’s chairs
 3.	Only one table – we added our own portable table for the cab seating area
-4.	Higher fuel consumption – not too much higher, all things considered (We are averaging 15.5 mpg)
+4.	Higher fuel consumption – not too much higher, all things considered (We are averaging 15 mpg)
 5.	Unable to fit a dedicated chest freezer – we had a 65 quart chest freezer in our Class B
 6.	It has a slide - just something else to maintain  (But, it is handy with guests on board)
 
