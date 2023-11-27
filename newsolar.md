@@ -132,7 +132,7 @@ Getting the glue lines off the roof was the next challenge, and for that job I u
 
 I found the adhesive residue came off easier after spraying on some paint thinner, and it also removed the sealant residue around the screw holes very well.  
 
-I sealed the SunPower screw holes with gutter and siding sealant.  I contemplated putting the screws back in the holes as well, but for simplicity I settled on just the sealant.  The sealant I used at various times during this project was the same product I used during my rear view camera replacement.  Lichtsinn RV use this product to seal the roof radius after roof maintenance, as it has a superior bond with fibreglass.  If it is good enough at keeping the roof on, I figured it would be fine for this job.  The sealant is Stone Mason Gutter and Siding Sealant:
+I sealed the SunPower screw holes with gutter and siding sealant.  I contemplated putting the screws back in the holes as well, but for simplicity I settled on just the sealant.  The sealant I used at various times during this project was the same product I used during my rear view camera replacement.  Lichtsinn RV use this product to seal the roof radius after roof maintenance, as it has a superior bond with fibreglass.  If it is good enough at keeping the roof on, I figured it would be fine for this job.  The sealant is Stone Mason Gutter and Siding Sealant, and is available both north and south of the border:
 
 <img src="/assets/awebsolarretrofit7.jpg"/>  
 
