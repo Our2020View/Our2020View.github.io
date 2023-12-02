@@ -55,7 +55,7 @@ Once you have got this hooked up, if it is warm outside and the pad thermostats 
 
 <img src="/assets/webammeter16a.jpg"/>
 
-The switch, powered by the water pump circuit, has passed voltage to the tank heater relay in the wet bay, and the relay is allowing power to be passed on to the heat pads and the ammeter guage.  The thermostats have not closed, so there is no current flowing through the pads and no current showing on the guage.  This is normal for warm temperatures.
+The switch, powered by the water pump circuit, has passed voltage to the tank heater relay in the wet bay, and the relay is allowing power to be passed on to the heat pads and the ammeter gauge.  The thermostats have not closed, so there is no current flowing through the pads and no current showing on the gauge.  This is normal for warm temperatures.
 
 If it is cold enough outside, you will see the ammeter register some current.  For two Winnebago factory heating pads made by Thermaheat, that actually work, you should see about 10 amps register on the ammeter.  Here is a photo of what we are getting with the four pad combination UltraHeat pads installed during our heating pad retrofit:
 
