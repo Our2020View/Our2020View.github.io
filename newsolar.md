@@ -8,7 +8,7 @@ I’ve got mixed feelings on this one – I’m glad to be adding some more sola
 
 Here is what we started with - two SunPower 100 watt flex panels in the factory configuration - in ideal conditions we used to get about 10 amps total out of these panels when they were new:
 
-<img src="/assets/awebsolarretrofit32a.jpg"/>  
+<img src="/assets/awebsolarretrofit32.jpg"/>  
 
 The general concept for this mod involved removing these two flex panels that were screwed (and glued!) onto the roof, and replacing them with four 100 watt rigid panels mounted on a track system – without having to modify the Winnebago solar roof port system or Zamp solar controller.
 
