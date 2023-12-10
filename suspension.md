@@ -14,7 +14,7 @@ The real world experience information found on the above page was valuable, and 
 
 <a href = "https://agileoffroad.com/product/agile-fox-2-5-rear-shocks-mercedes-sprinter-3500-rv-class-c/ " target="_blank">1 – Agile Off Road AO Fox 2.5 Sprinter 3500 rear shocks </a>
 
-NOTE:  Since the time of our Fox 2.5 Sprinter rear shocks purchase, I see they are now offering the additional option to go with a shock that is tuned for a lighter weight Sprinter.  Agile Offroad recommends the heavy shock for Sprinter Class C motorhomes.
+NOTE:  Since the time of our Fox 2.5 Sprinter rear shocks purchase, I see they are now offering the additional option to go with a shock that is tuned for a lighter weight Sprinter.  Agile Off Road recommends the heavy shock for Sprinter Class C motorhomes.
 
 <a href = "https://www.hellwigproducts.com/our-products/search/?searchq=7777 " target="_blank">2 – Hellwig sway bar for a VS30 Sprinter (2019 – to present) Part number 7777 </a>
 
