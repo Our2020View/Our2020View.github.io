@@ -16,9 +16,13 @@ The real world experience information found on the above page was valuable, and 
 
 NOTE:  Since the time of our Fox 2.5 Sprinter rear shocks purchase, I see they are now offering the additional option to go with a shock that is tuned for a lighter weight Sprinter.  Agile Off Road recommends the heavy shock for Sprinter Class C motorhomes.
 
+<img src="/assets/websuspension11.jpg"/>
+
 <a href = "https://www.hellwigproducts.com/our-products/search/?searchq=7777 " target="_blank">2 – Hellwig sway bar for a VS30 Sprinter (2019 – to present) Part number 7777 </a>
 
 (Part number 7254 for the pre 2019  Sprinter 3500 chassis)
+
+<img src="/assets/websuspension10.jpg"/>
 
 I got lucky on the parts and found sources for each up here in Canada, and received them within a week of ordering.
 
