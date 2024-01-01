@@ -27,7 +27,7 @@ Before we get into the modifications, maybe I should tell you why we opted for t
 10.	Tankless water heater – no longer carrying around 60 lbs of water - new for 2020
 11.	Tank sensors that work – sensors on the outside of tanks, what a concept!
 12.	Freshwater above the floor – with a minor mod, no more frozen fresh water lines when it gets cold
-13.	Heated holding tanks – useful for those morning departure dumps in the spring and fall
+13.	Heated holding tanks – useful for those cold season departure dumps
 14.	Black tank flush – always wanted one of these!
 15.	Dump valves that can be maintained – ease of access and servicing
 16.	Large holding tanks – four times that of our Class Bs
