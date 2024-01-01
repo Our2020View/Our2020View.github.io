@@ -18,7 +18,7 @@ Before we get into the modifications, maybe I should tell you why we opted for t
 1.	More room – very comfortable sleeping for four +
 2.	Microwave on battery power – new for 2020
 3.	Induction cook top – no more burning fossil fuels to make pancakes
-4.	12 volt / compressor fridge - gets cold, and stays cold, very quickly  (Regardless of the slope on the site)
+4.	12 volt / compressor fridge - gets cold (and stays cold) very quickly - regardless of the slope on the site
 5.	Roof access port – rooftop flexibility into the future – new for 2020
 6.	Large shower – when compared to a Class B!
 7.	Residential mattress – full time setup - ease of access
