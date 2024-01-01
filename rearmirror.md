@@ -49,11 +49,15 @@ And then with my fingers placed at the bottom of the housing, where it contacts 
 
 <img src="/assets/webrearview10.jpg"/>  
 
-I used most of the Amazon mount - discarding the small ball adaptor that was intended to interface with a camera – using the clamp that was intended to attach to a mirror post and the ball and socket adaptor as the attachment to the Mercedes mirror post.
+I used most of the Amazon mount - discarding the small ball adaptor that was intended to interface with a camera – using the clamp that was intended to attach to a mirror post and the ball and socket adaptor as the attachment to the Mercedes mirror post.  During my search for this type of attachment method, I removed the Mercedes mirror post so I could do some experimenting in the basement.  The Amazon adaptor’s sockets were designed to fit a 16 mm ball –  but the Mercedes post ball is only 15 mm.  This resulted in not quite enough compression on the Mercedes post ball, so I added some material to take up the slack and create a tight enough fit to ensure the monitor would stay in place while driving on rough roads.
 
 <img src="/assets/webrearview11.jpg"/>  
 
-During my search for this type of attachment method, I removed the Mercedes mirror post so I could do some experimenting in the basement.  The Amazon adaptor’s sockets were designed to fit a 16 mm ball –  but the Mercedes post ball is only 15 mm.  This resulted in not quite enough compression on the Mercedes post ball, so I added some material to take up the slack and create a tight enough fit to ensure the monitor would stay in place while driving on rough roads.  With the jaw clamp on the monitor, and the socket on the Mercedes mirror post, all connections could be tightened as desired to position the monitor securely.  
+I used the retention knob / bolt that came with the Solar 4 to ensure the monitor did not slip out of the clamps:
+
+<img src="/assets/webrearmonitor59.jpg"/>  
+
+With the jaw clamp on the monitor, the monitor secured with the Solar 4 knob / bolt, and the socket on the Mercedes mirror post, all connections could be tightened as desired to position the monitor securely.  
 
 <img src="/assets/webrearview12.jpg"/>  
 
