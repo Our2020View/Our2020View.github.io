@@ -18,29 +18,30 @@ Before we get into the modifications, maybe I should tell you why we opted for t
 1.	More room – very comfortable sleeping for four +
 2.	Microwave on battery power – new for 2020
 3.	Induction cook top – no more burning fossil fuels to make pancakes
-4.	Roof access port – rooftop flexibility into the future – new for 2020
-5.	Large shower – when compared to a Class B!
-6.	Residential mattress – full time setup - ease of access
-7.	Electric heat pump – less use of a portable micro heater
-8.	Big 2000 watt inverter – now allows the microwave to run off of battery power – new for 2020
-9.	Tankless water heater – no longer carrying around 60 lbs of water - new for 2020
-10.	Tank sensors that work – sensors on the outside of tanks, what a concept!
-11.	Freshwater above the floor – no more frozen fresh water lines when it gets cold
-12.	Heated holding tanks – useful for those morning departure dumps in the spring and fall
-13.	Black tank flush – always wanted one of these!
-14.	Dump valves that can be maintained – ease of access and servicing
-15.	Large holding tanks – four times that of our Class Bs
-16.	Enough storage that we don’t need to carry our Stow-a-Way2 hitch cargo carrier
-17.	Can now carry bikes on the back
-18.	Ease of access to the battery bay
-19.	Easy Lithium upgrade – new for 2020
-20.	Roof is easily accessible via ladder
-21.	The Satellite radio antenna is on the roof – full time signal reception!  Go Figure!
-22.	The entire coach is accessible with the slide in - perfect for being “on the go” or winter camping
-23.	The propane solenoid shutoff valve has been removed – no parasitic battery drain -  new for 2020
-24.	A fairly decent occupant and cargo carrying capacity (OCCC) - around 1300 lbs for us
-25.	An OCCC that allowed Winnebago to include a spare tire
-26.	An OCCC that gave Winnebago the capability to allow three passengers in the coach
+4.	12 Volt / compressor fridge - gets cold, and stays cold, very quickly  (Regardless of the slope on the site)
+5.	Roof access port – rooftop flexibility into the future – new for 2020
+6.	Large shower – when compared to a Class B!
+7.	Residential mattress – full time setup - ease of access
+8.	Electric heat pump – less use of a portable micro heater
+9.	Big 2000 watt inverter – now allows the microwave to run off of battery power – new for 2020
+10.	Tankless water heater – no longer carrying around 60 lbs of water - new for 2020
+11.	Tank sensors that work – sensors on the outside of tanks, what a concept!
+12.	Freshwater above the floor – with a minor mod, no more frozen fresh water lines when it gets cold
+13.	Heated holding tanks – useful for those morning departure dumps in the spring and fall
+14.	Black tank flush – always wanted one of these!
+15.	Dump valves that can be maintained – ease of access and servicing
+16.	Large holding tanks – four times that of our Class Bs
+17.	Enough storage that we don’t need to carry our Stow-a-Way2 hitch cargo carrier
+18.	Can now carry bikes on the back
+19.	Ease of access to the battery bay
+20.	Easy Lithium upgrade – new for 2020
+21.	Roof is easily accessible via ladder
+22.	The Satellite radio antenna is on the roof – full time signal reception!  Go Figure!
+23.	The entire coach is accessible with the slide in - perfect for being “on the go” or winter camping
+24.	The propane solenoid shutoff valve has been removed – no parasitic battery drain -  new for 2020
+25.	A fairly decent occupant and cargo carrying capacity (OCCC) - around 1300 lbs for us
+26.	An OCCC that allowed Winnebago to include a spare tire
+27.	An OCCC that gave Winnebago the capability to allow three passengers in the coach
 
 The disadvantages for us:
 
