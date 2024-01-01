@@ -49,7 +49,7 @@ And then with my fingers placed at the bottom of the housing, where it contacts 
 
 <img src="/assets/webrearview10.jpg"/>  
 
-I used most of the Amazon mount - discarding the lower small ball adaptor that was intended to interface with a camera – using the clamp that was intended to attach to a mirror post and the ball and socket adaptor as the attachment to the Mercedes mirror post.  During my search for this type of attachment method, I removed the Mercedes mirror post so I could do some experimenting in the basement.  The Amazon adaptor’s sockets were designed to fit a 16 mm ball –  but the Mercedes post ball is only 15 mm.  This resulted in not quite enough compression on the Mercedes post ball, so I added some material to take up the slack and create a tight enough fit to ensure the monitor would stay in place while driving on rough roads.
+I used most of the Amazon mount - discarding the lower small ball adaptor that was intended to interface with a camera – using the clamp that was intended to attach to a mirror post and the ball and socket adaptor as the attachment to the actual Mercedes mirror post.  During my search for this type of attachment method, I removed the Mercedes mirror post so I could do some experimenting in the basement.  The Amazon adaptor’s sockets were designed to fit a 16 mm ball –  but the Mercedes post ball is only 15 mm.  This resulted in not quite enough compression on the Mercedes post ball, so I added some material to take up the slack and create a tight enough fit to ensure the monitor would stay in place while driving on rough roads.
 
 <img src="/assets/webrearview11.jpg"/>  
 
