@@ -71,7 +71,7 @@ The model number of the pads we ordered are AM900, and can be found at this link
 
 The pads arrived super quick from Ultraheat, but testing showed both of the pads were only making about 50% power. I reached out to UltraHeat, and they explained that the power would increase a bit after initial use - but they were not confident that the pads would meet the numbers they advertise - so they shipped two more pads to us as replacements.  The two new pads were much better, and tested satisfactorily - not the 62 Watts they advertise - but closer ...
 
-I cut a piece of cardboard to match the heat pad size, and started experimenting with potential locations for the new pads.  I quickly realized that there was enough room on the black tank for two of these pads, and possibly room on the grey tank for two pads, if I got creative.  Why not use the first two (low power) pads as well, in an attempt to get closer to the power rating that Winnebago claims their factory pads produce?
+I cut a piece of cardboard to match the heat pad size, and started experimenting with potential locations for the new pads.  I quickly realized that there was enough room on the black tank for two of these pads, and possibly room on the grey tank for two pads, if I got creative.  Why not use the first two ("defective" low power) pads as well, in an attempt to get closer to the power rating that Winnebago claims their factory pads produce?
 
 After cleaning up the tank bottoms with cleaner and a 50/50 mix of rubbing alcohol and water, the pads installed easily on each tank.  The wiring was equally straightforward - remembering to wire these in parallel.
 
