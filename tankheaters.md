@@ -75,7 +75,7 @@ I cut a piece of cardboard to match the heat pad size, and started experimenting
 
 After cleaning up the tank bottoms with cleaner and a 50/50 mix of rubbing alcohol and water, the pads installed easily on each tank.  The wiring was equally straightforward - remembering to wire these in parallel.
 
-Here is a picture of a low power and a high power pad mounted to the black tank:
+Here is a picture of a "defective" low power and a "good" high power pad mounted to the black tank:
 
 <img src="/assets/webtankheaters2.jpg"/>
 
