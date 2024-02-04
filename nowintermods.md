@@ -8,13 +8,15 @@ permalink: /ourmods/nowintermods/
 
 So, you’d like to get out winter camping but have not done any “winter mods” yet?  Well, there is another way to take advantage of the season while contemplating some future modifications.  (In fact, depending on just how often you intend to camp in cold temperatures, this could be your “go to” solution.)
 
-The mods on our [Cold Weather Capability](https://our2020view.ca/ourmods/coldweather/) page have been designed to cater for those times in early spring or late fall when we are operating the coach with normal summer functionality, but don’t want to go home when the overnight temperatures drop well below freezing.  Those mods allow us to seamlessly go from warm temps, to cold temps, and then back to warm temps.  But, there have been times when we have had to quickly dig the sealed up motor home out of a snow bank at the storage yard and get it “campworthy” to prepare for an unexpected mid-winter trip, with no hope of temperatures going above freezing.  In order to accomplish this type of operation, we operate like this:
+The mods on our [Cold Weather Capability](https://our2020view.ca/ourmods/coldweather/) page have been designed to cater for those times in early spring or late fall when we are operating the coach with normal summer functionality, but don’t want to go home when the overnight temperatures drop well below freezing.  Those mods allow us to seamlessly go from warm temps, to freezing temps, and then back to warm temps.  But, there have been times when we have had to quickly dig the sealed up motor home out of a snow bank at the storage yard and get it “campworthy” to prepare for an unexpected mid-winter trip, with no hope of temperatures going above freezing.  In order to accomplish this type of operation, we operate like this:
 
-1 – Forget about the Winnebago plumbing.  For a View / Navion (or any other RV, for that matter) without winter mods, you can resort to localized plumbing – A cassette toilet and a below counter grey water tank...
+1 – Forget about the Winnebago plumbing.  Leave your coach plumbing completely winterized.  For a View / Navion (or any other RV, for that matter) without winter mods, you can resort to localized plumbing – A cassette toilet and a below counter grey water tank...
 
 We put a cassette toilet in the shower, which gives us lots of room to use it like a normal toilet.  We opt to use a jug of water, stored nearby, to be the flush water instead of using the toilet’s flush system.  This keeps the toilet’s centre of gravity down low (I have not figured out how to practically restrain it from leaving the shower in the event of a hard stop, so with a low centre of gravity I’m banking on the toilet not being able to make it over the lip of the shower...), and also helps to conserves water.  We only use the amount of water that we need.
 
 <img src="/assets/webcassette.jpg"/>
+
+These cassette toilets can be split in two, to allow you to carry the bottom (black water resevoir) somewhere to dump in a real toilet that is handy.  Or, if your trip is not too lengthy and you have not used up the five gallon / 20 litre capacity, wait til you get home and simply take it in the house when you are unpacking the motorhome.
 
 These cassette toilets are easy to find:
 
@@ -24,7 +26,9 @@ For washing up, we rely on a jug on the counter with a tap:
 
 <img src="/assets/webwaterjug.jpg"/>
 
-... and place a bucket under the counter to catch the grey water.  We only use one sink; in our View that would be the kitchen sink.  The bucket is easy to empty, wherever you want.  (Depending on where you are camping, that place could be fairly close by...)  Remove the kitchen P Trap, and you are ready to go.
+We replenish this counter top supply from larger jugs of water we bring along and store in the coach elsewhere.
+
+To easily collect the grey water, we place a bucket under the sink.  We only use one sink; in our View that would be the kitchen sink.  The bucket is easy to empty, wherever you want.  (Depending on where you are camping, that place could be fairly close by...)  <b>Remove the kitchen P Trap</b>, and you are ready to go.
 
 <img src="/assets/webbucket.jpg"/>
 
