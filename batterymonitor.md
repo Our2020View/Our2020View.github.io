@@ -67,7 +67,9 @@ I did this gauge install in conjuction with the gauge install for the EMS, so I 
 
 I gave the decision to purchase the 712 instead of the 702 considerable thought, and elected the 712 because of the Bluetooth connectivity feature.  I wasn’t sure if it would be useful, but ended up being sold on the easy method of updating the operating software.  And, it turns out, those software updates were very easy.  During the install, the first time I opened the app, it asked if I wanted to update and get things going.  Also, it turns out the decision go have the data on my phone was a very good idea.  The phone app provides a very intuitive interface, and allows for quick retrieval of information at a glance.  During the winter dry camping we do, I am frequently on the app monitoring our system heating mods to see how they are affecting the batteries (see “Cold Weather Capability” and “Lithium Battery Heater”).
 
-Here is what the app is showing you if you purchase the BMV 712:
+As of 2023, I see that Victron now makes a "Smart Shunt" that does not require the dedicated monitor and its associated wiring.  Instead, the shunt just connects to your device via bluetooth to send the battery data to your Victron app.  If you don't want the clutter of another guage in your coach, this option might work for you.  But... every now and then I do have connection difficulties using the bluetooth from Victron - it has not proven to be bullet proof - and have been really glad that I can walk over the the guage to have a look at what the batteries are doing.  If the batteries are powered, the guage is working. Just saying...
+
+Here is what the app is showing you if you purchase the BMV 712 or the "Smart Shunt":
 
 <img src="/assets/BMVreading2web-.jpg"/>
 
