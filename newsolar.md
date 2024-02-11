@@ -70,7 +70,7 @@ I chose the Renogy feet to keep things simple; as they were designed for their p
 
 <a href = "https://www.tegstools.com/rok-44166-4-ft-aluminum-mitre-track " target="_blank">1 ¼” Utility T track </a>
 
-All of the installations online that I researched had used ¾” Utility T Track, but I chose 1 ¼” T Track to allow the use of a full wide strip of 1” VHB tape.  ¾” VHB tape is not as easy to find, and I liked the idea of more adhesion footprint.
+All of the installations online that I researched had used ¾” Utility T Track, but I chose 1 ¼” T Track to allow the use of a full width strip of 1” VHB tape.  ¾” VHB tape is not as easy to find, and I liked the idea of more adhesion footprint.
 
 <img src="/assets/awebsolarretrofit13.jpg"/>  
 
