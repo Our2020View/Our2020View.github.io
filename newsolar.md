@@ -200,7 +200,7 @@ NOTE:  The positive pole of the SAE connector is on top as it is inserted into t
 
 <img src="/assets/awebsolarretrofit53.jpg"/>   
 
-For the two "new" additional panels (centreline and slideout side), I needed to use the MC4 Y connector leads and the new SAE connector wire with the 20 amp fuse.  Each positive MC4 connector from these two panels were grouped on one Y connector, and each negative MC4 connector was grouped on the other Y connector.  (Parallel wiring for these two panels...)
+For the two "new" additional panels (centreline #3 and slideout side #4), I needed to use the MC4 Y connector leads and the new SAE connector wire with the 20 amp fuse.  Each positive MC4 connector from these two panels were grouped on one Y connector, and each negative MC4 connector was grouped on the other Y connector.  (Parallel wiring for these two panels...)
 
 <img src="/assets/awebsolarretrofit47.jpg"/> 
 
