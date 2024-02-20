@@ -217,7 +217,7 @@ NOTE:  I did some <b>RV antifreeze testing</b> to see just how cold it needed to
 
 <img src="/assets/webantifreeze1.jpg"/>
 
-The experiment I did used 20 samples of various concentrations of the pink stuff and water.  I started with 100% RV antifreeze, and then diluted the samples at 5% increments down to 5% antifreeze and 95% water.  As best I could, I ran 5 tests at increasingly cold temperatures.  (Getting the exact temperatures I wanted was not possible, even though, in theory, my portable 12V / 120V fridge / freezer could be controlled at 1 degree increments.  I could only get to within 2 or 3 degrees of what I wanted.)  
+The experiment I did used 20 samples of various concentrations of the pink stuff and water.  I started with 100% RV antifreeze, and then diluted the samples at 5% increments down to 5% antifreeze and 95% water.  As best I could, I ran 5 tests at increasingly cold temperatures.  (Getting the exact temperatures I wanted was not possible - I could only get to within 2 or 3 degrees of what I wanted.)  
 
 At 19F / -7C the samples turned to slush at 30% antifreeze and 70% water.  For a View / Navion, assuming you pour in 2.5 US gallons of RV antifreeze to start with, this means at a 20% tank level ... you are slush from there on if things stay at that temperature.
 
@@ -226,6 +226,8 @@ At 9F / -13C the samples turned to slush at 85% antifreeze and 15% water, and fr
 At 3F / -16C the samples were all either slush or frozen solid.  At 85 / 15 and beyond the samples were all frozen solid.  Yes, even the 100% antifreeze sample was slush at this temperature.
 
 You can guess what further decreasing the temperature did - things certainly didn't improve.
+
+So, what did I consider a failure?  Although slush was not going to be a problem for damaging the tanks, a tank full of slush kinda would make it difficult to dump the next morning.  Frozen fluid?  Now, enough of the frozen fluid could be a structural problem for the tank depending on how full it was, but for sure it would be difficult to dump the next morning.  If you didn't damage your tanks, you could wait for spring ... I guess.
 
 What did I take away from this?  Well, for the years we have been winter camping in temperatures just slightly below freezing ... we have been very lucky.  With our factory tank heaters inoperative for those early years, if it had got much colder - there is no way we would have been able to dump our tanks. Yup, just lucky.  And, flushing the toilet with pure antifreeze doesn't help as it doesn't have to get very cold to turn your tank to slush regardless of how much pure antifreeze you put in.  <b>You really need tank heaters if you are going to be spending time in temperatures consistently well below freezing.</b>   The RV antifreeze method for winter camping is just inaccurate folklore at consistent temperatures seriously below freezing.
 
