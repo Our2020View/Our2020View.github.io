@@ -235,7 +235,7 @@ I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is 
 
 I hope all of this helps.  Winter Camping - why not?
 
-( Ok, that's all just great; but you don't feel these mods are for you?  Well, have a look [here](https://our2020view.ca/ourmods/nowintermods/) to see what we do when there is no time to transition the coach from winter storage mode to "Summer Mode".  There is another way! )
+( Ok, that's all just great; but you don't feel these mods are for you?  Well, have a look [here](https://our2020view.ca/ourmods/nowintermods/) to see what we do when there is no time to transition the coach from winter storage mode to "Summer Mode" while preparing for unexpected winter camping.  There is another way! )
 
 <br>
 
