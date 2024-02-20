@@ -28,7 +28,7 @@ This compact travel router has been a communication staple in our motorhomes sin
 
 I see that our particular travel router is no longer in production, but this old link might give you some ideas as to the type of device to research for your RV:
 
-<a href = "https://www.amazon.ca/Peplink-Pepwave-Wi-Fi-Router-SUS-AGN1/dp/B007BD6GDE " target="_blank">WiFi Signal Booster </a>
+<a href = "https://www.peplinkworks.com/Surf-On-The-Go.asp " target="_blank">WiFi Signal Booster </a>
 
 
 <h3>Google Chromecast </h3>
