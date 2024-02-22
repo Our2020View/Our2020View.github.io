@@ -5,9 +5,9 @@ description: Selling Features of the Winnebago View 24J
 permalink: /our24jview/
 ---
 
-<img src="/assets/OurViewweb.jpg"/>
+<img src="/assets/webcharlestonlake.jpg"/>
 
-<i>Arrowhead Provincial Park - Huntsville, Ontario</i>
+<i>Charleston Lake Provincial Park - Ontario</i>
 
 <img src="/assets/webfloorplan.jpg"/>
 
