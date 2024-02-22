@@ -65,7 +65,7 @@ With this mod, you will be able to answer three questions, instead of just one, 
 
 1 – As per the Winnebago design, have the switch contacts changed position and illuminated the switch light?
 
-2 – The health of the relay - is it working and is trying to pass power to the heating pads?
+2 – The health of the relay - is it working and is it trying to pass power to the heating pads?
 
 3 – The health of the pads – are they working per design and allowing current to flow when they are colder than 45 degrees F?
 
