@@ -43,7 +43,7 @@ And this is one of the batteries loosely positioned.  The pad was tucked up furt
 
 <img src="/assets/2batteryheatweb.jpg"/>
 
-Fibregalss insulation was stuffed in the loose areas.  Insulation that was exposed to the outside elements is protected by plastic bags, and the pink insulation you can see here is sitting on top of those protected areas:
+Fibregalss insulation was stuffed in the loose areas.  Insulation that was exposed to the outside elements is protected by plastic bags, and the pink insulation you can see here is placed to sit on top of those protected areas.  The insulation at the top of the photo will be placed to sit on top of the batteries, before the step is replaced:
 
 <img src="/assets/4batteryheatweb.jpg"/>
 
