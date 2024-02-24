@@ -7,7 +7,7 @@ permalink: /our24jview/
 
 <img src="/assets/webcharlestonlake.jpg"/>
 
-<i>Charleston Lake Provincial Park - Ontario</i>
+<i>Charleston Lake Provincial Park - Lansdowne, Ontario</i>
 
 <img src="/assets/webfloorplan.jpg"/>
 
