@@ -31,7 +31,7 @@ There were two snags, both tied to the fact that I tried to retain the Winnebago
 Once the batteries were positioned on the matt, with the extra pad width overlapping the back of the batteries up the rear wall, coverage was pretty good.  There was about a half of an inch on each end without any coverage, and I left zero overlap on the front of the batteries so there was no danger of the threaded rods damaging the pad while the coach is in motion (not very likely, but a consideration).  Jamming in insulation to close off the box was the last step.
 
 
-Here is what I started with - the pad had a soft cover that was removed:
+Here is what I started with - the soft cover and the controller have not been removed yet:
 
 <img src="/assets/heatingpadweb.jpg"/>
 
@@ -47,7 +47,7 @@ Fibregalss insulation was stuffed in the loose areas.  Insulation that was expos
 
 <img src="/assets/4batteryheatweb.jpg"/>
 
-The loose cord sits on top of the finished bed of top insulation.  In this next photo you can see the switch I added after removing the controller, and a white plug I scavenged off of some christmas tree lights that contained a 3 amp fuse.  The draw from the heat pad is only about a half of an amp, so the 3 amp fuse is plenty - and simple to incorporate.  The blue tape you see on the cord is holding a package of 3 amp fuses that came in the christmas light box.
+The loose cord, with the controller removed, sits on top of the finished bed of top insulation.  In this next photo you can see the switch I added after removing the controller, and a white plug I scavenged off of some christmas tree lights that contained a 3 amp fuse.  The draw from the heat pad is only about a half of an amp, so the 3 amp fuse is plenty - and simple to incorporate.  The blue tape you see on the cord is holding a package of 3 amp fuses that came in the christmas light box.
 
 <img src="/assets/webfinalbattheatchord.jpg"/>
 
