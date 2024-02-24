@@ -31,7 +31,7 @@ There were two snags, both tied to the fact that I tried to retain the Winnebago
 Once the batteries were positioned on the matt, with the extra pad width overlapping the back of the batteries up the rear wall, coverage was pretty good.  There was about a half of an inch on each end without any coverage, and I left zero overlap on the front of the batteries so there was no danger of the threaded rods damaging the pad while the coach is in motion (not very likely, but a consideration).  Jamming in insulation to close off the box was the last step.
 
 
-Here is what I started with - the soft cover and the controller have not been removed yet:
+Here is what I started with - the soft cover and the controller have not yet been removed:
 
 <img src="/assets/heatingpadweb.jpg"/>
 
