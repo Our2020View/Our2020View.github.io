@@ -8,7 +8,7 @@ permalink: /ourmods/batteryheater/
 
 <i>Highway 40 - Kananaskis Country, Alberta Rockies</i>
 
-NOTE - As of 2024, self-heating lithium coach batteries are now quite commonly available to RVers who are upgrading their factory electrical systems.  At the time of our Battle Born Lithium battery install, self-heating batteries were just a futuristic dream.  If we had to do it again, we would not hesitate to look into lithium coach batteries that have this feature.  But, in the meantime, this is how we roll in cold weather...
+NOTE - As of 2024, self-heating lithium coach batteries are now quite commonly available to RVers who are upgrading their factory electrical systems.  At the time of our Battle Born Lithium battery install, self-heating batteries were just a futuristic dream.  If we had to do it again, we would not hesitate to look into lithium coach batteries that have this feature.  But, in the meantime, this is how we heat our coach batteries in cold weather...
 
 As you know, the only down side to having lithium batteries is that they are not happy charging at sub-zero internal temperatures.  Most of the RV lithium battery applications have a battery management system built in that prevents the destructive effects of cold charging by inhibiting a charge cycle if the temperature is too low.  The Battle Borns that we installed have one of these battery management systems.
 
