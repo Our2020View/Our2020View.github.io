@@ -6,6 +6,8 @@ permalink: /ourmods/cellbooster/
 ---
 <img src="/assets/webheader1.jpg"/>
 
+<i>Algonquin Provincial Park, Ontario</i>
+
 We use a cell booster to enhance the signal to our AT&T wireless hotspot, which relies on cell signals.  Our setup is far from the sophistication of the booster systems out there today; we just use a cradle mount and small magnetic antenna on the roof.  We had been using this setup in our last Sprinter based Class B, and for us, it worked just fine.  With the limited space we had previously in our Class B, the dual antenna optimization of a more elaborate and expensive setup, combined with the clutter an interior antenna was going to create, was going to impact our living space negatively.  For travelling around North America, we were very happy with the performance and the connectivity our old system gave us, and opted to just install it again in our new View.  Could we use more performance?  Well, maybe, but up to this point it has been hard to justify the purchase of a new system when the one we have works so well.  Unlike some RVers who spend considerable time on BLM lands, or deep in National Forests, that practice has been the exception for us, instead of the rule.
 
 Our setup consists of an old first generation Wilson Sleek 4G and the mini magnet antenna that came with it.  The company has a newer version of this cradle mount system that appears to offer higher performance, but is much more expensive too.  I did notice on Amazon.ca that someone is selling the identical version of the system we have now – it looks like Wilson sold the rights to the old design to someone else, and it is being marketed under a different name.  I also notice that the cost now is less than one half of what we paid for our booster.
