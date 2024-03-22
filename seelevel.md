@@ -52,7 +52,7 @@ Here is how all of that preparation ended up:
 
 2 – I turned the battery master off for all wiring operations.
 
-3 – The thought the easiest place to start the installation would be up at the panel, so I could work to the rear and figure out wire lengths as I went along.  I wanted to mount the new monitor display up beside the “OnePlace” panel, but in our 24J model the slide-out switch got in the way.  Luckily, the slack on the slide-out switch wiring in our particular View was just long enough to re-locate it to the left, and allow the new panel to fit in-between it and the “OnePlace” monitor comfortably.
+3 – I thought the easiest place to start the installation would be up at the panel, so I could work to the rear and figure out wire lengths as I went along.  I wanted to mount the new monitor display up beside the “OnePlace” panel, but in our 24J model the slide-out switch got in the way.  Luckily, the slack on the slide-out switch wiring in our particular View was just long enough to re-locate it to the left, and allow the new panel to fit in-between it and the “OnePlace” monitor comfortably.
 
 After determining where I wanted the slide-out switch and new panel to go, I used a reciprocating saw to make the quick cuts – in our View, there was nothing behind there that was of concern while cutting:
 
