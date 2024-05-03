@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Our 24J Modifications
-permalink: /practicepage2/
+permalink: 
 ---
 
 <style>
