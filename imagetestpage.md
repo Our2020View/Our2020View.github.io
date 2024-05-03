@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Test Page
-permalink: /imagetestpage/
+permalink: 
 ---
 
 This is a test page
