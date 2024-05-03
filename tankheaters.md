@@ -79,6 +79,10 @@ Here is a picture of a "defective" low power and a "good" high power pad mounted
 
 <img src="/assets/webtankheaters2.jpg"/>
 
+And, here is a picture of the configuration I chose for the grey tank:
+
+<img src="/assets/webtankheaters49.jpg"/>
+
 2 - Knowing that our original two, defective, factory pads got pretty beat up from road debris, I thought this time I would come up with some way to protect the pads and wiring.  My idea was to cover the bottom of the tanks with some polyethylene tarp, and maybe add some cushioning / insulation in there as well?
 
 NOTE - The idea of adding some cushioning / insulation proved not to be a good idea.  At least, with the synthetic insulation I chose.  Even though I carefully sealed the edges of the polyethylene tarp with Gorilla tape, water still leaked under the protective tarp and soaked the insulation.  We ended up carrying around soaked insulation for part of a winter until I figured out my mistake.  I think adding some protective cushioning would still be a good idea, so when I find the right product that does not absorb water, I'll lay it between the tarp and the tank heating pads at a later date.)
