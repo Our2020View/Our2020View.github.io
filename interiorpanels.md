@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Access to interior service panels
-permalink: /ourmods/interiorpanels/
+permalink: 
 ---
 
 Interior panels here:
