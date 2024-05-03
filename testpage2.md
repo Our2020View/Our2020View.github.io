@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Winnebago View / Navion RV Mods
-permalink: /ourmods/testpage2/
+permalink: 
 ---
 
 <head>
