@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RV Extra Long Valve Stems | RV Mods
-permalink: /ourmods/valvestems/
+permalink: 
 ---
 
 Resistance is Futile... these Borg valve stems are going to be worth it.  
