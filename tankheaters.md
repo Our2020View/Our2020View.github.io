@@ -79,23 +79,17 @@ Here is a picture of a "defective" low power and a "good" high power pad mounted
 
 <img src="/assets/webtankheaters2.jpg"/>
 
-2 - Knowing that our original two, defective, factory pads got pretty beat up from road debris, I thought this time I would come up with some way to protect the pads and wiring.  My idea was to cover the bottom of the tanks with some polyethylene tarp, and maybe add some cushioning / insulation in there as well.  I cleaned off the tank edges and ran some adhesive velcro strips along the sides of the tanks, cut some tarp, added some velcro, cut some old insulation I had in the basement, and fitted the covers to the tanks.  The covers look good, and I think will hold up well.  Later, I worried about water intrusion under the cover to soak the insulation - so I added some Gorilla Tape to the perimeter of the tarp.  After the addition of the tape the job did not look as clean, but hopefully it will be functional.
+2 - Knowing that our original two, defective, factory pads got pretty beat up from road debris, I thought this time I would come up with some way to protect the pads and wiring.  My idea was to cover the bottom of the tanks with some polyethylene tarp, and maybe add some cushioning / insulation in there as well?
 
-Here is one of the cut tarps and insulation:
+NOTE - The idea of adding some cushioning / insulation proved not to be a good idea.  At least, with the synthetic insulation I chose.  Even though I carefully sealed the edges of the polyethylene tarp with Gorilla tape, water still leaked under the protective tarp and soaked the insulation.  We ended up carrying around soaked insulation for part of a winter until I figured out my mistake.  I think adding some protective cushioning would still be a good idea, so when I find the right product that does not absorb water, I'll lay it between the tarp and the tank heating pads at a later date.)
 
-<img src="/assets/webtankheaters3.jpg"/>
+For the protective tarp installation, I cleaned off the tank edges and ran some adhesive velcro strips along the sides of the tanks, cut some tarp, added some velcro, and fitted the covers to the tanks.  The covers look good, and I think will hold up well.  
 
-Here is the grey tank before I decided to add some tape:
+Here is the grey tank with its protective tarp.
 
 <img src="/assets/webtankheaters4.jpg"/>
 
-and here is the grey tank with the tape added, for belt and braces:
-
-<img src="/assets/webtankheaters5.jpg"/>
-
-NOTE - On our View / Navion 24J, the panel that protects the black tank can be opened up.  There are some sheet metal screws down at the bottom of the frame, and once removed, the panel hinges up to allow access to the black tank:
-
-<img src="/assets/webtankheaters6.jpg"/>
+NOTE - On our View / Navion 24J, the panel that protects the black tank can be opened up.  There are some sheet metal screws down at the bottom of the frame, and once removed, the panel hinges up to allow very easy access to the black tank for the velcro installation.
 
 3 - Testing the pads one last time - just to make sure they installed with no damage?  Before I buttoned up the covers for good, I took advantage of the just installed velcro strips on the edges of the tank to support a bag of frozen berries positioned over the pad thermastats.  (Yes, frozen berries.  I put the bag on a wooden board, and strapped the board to the bottom of the tank using surplus velcro.)  It took about five minutes, but I did get the thermostats to close and register current when the in-coach tank heater switch was thrown.  I had initially tried a block of ice on the thermastats, but was only successful on two of the the four pads.  This method was successful on the other two pads.
 
