@@ -104,7 +104,7 @@ Well, a trouble light in the wet bay worked so well, why not a trouble light nea
 
 On previous motorhomes, we had a big six gallon propane water heater that was not going to freeze during transit through cold weather.  But, as with a standard hot water tank system, you can’t run the propane to keep the Truma happy while driving.  To solve this one, I resorted to purchasing the Truma Aqua Go Electric Anti-freeze Kit.
 
-<a href = "https://shop.truma.net/products/aquago-electric-antifreeze-kit " target="_blank">Truma Aqua Go Electric Anti-freeze Kit </a>
+<a href = "https://www.amazon.com/Truma-AquaGo-Electric-Antifreeze-Kit/dp/B099X3RMKS?ref_=ast_sto_dp " target="_blank">Truma Aqua Go Electric Anti-freeze Kit </a>
 
 This kit is NOT an electric option to heat water.  This kit only provides enough electric heat to the internal Truma water system to prevent the heater from freezing up - used in conditions when you can't run propane to keep it warm.  Once the kit is installed, it is pretty easy to flip back and forth between freeze prevention and normal operations.  The only thing you have to do on the outside is install the intake flue plug when electric heat is required, or remove it when back to normal operations.  The rotary knob is used to provide the in-coach selection of either function - freeze prevention or normal operations.
 
