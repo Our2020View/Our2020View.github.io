@@ -31,3 +31,7 @@ It turns out that the decision made during our solar panel upgrade to leave some
 Fixing stuff instead of throwing it away – what a concept!
 
 If anyone wants the name of the company in the Ottawa, Ontario, area that got us back up and running, drop me a line and I'll pass on their coordinates.  I highly recommend them. 
+
+<br>
+
+[Back to Our RV Modifications](/ourmods/)
