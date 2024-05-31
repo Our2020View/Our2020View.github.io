@@ -4,6 +4,8 @@ title: RV Air Conditioner Servicing | RV Mods
 description: Adding a port to add refrigerant
 permalink: /ourmods/airconditioningservice/
 ---
+NOTE:  This mod was made to the heat pump we have on our Winnebago View / Navion, but the method for adding a service port to an RV air conditioner is exactly the same.
+
 “What do you mean the heat pump can’t be recharged?  There is no way to add refrigerant?  If you have a refrigerant leak, you have to replace the complete heat pump?  The bill will be in excess of 2500.00?”
 
 That is sort of a snapshot of the conversation I was envisioning with my local Winnebago dealer, after we ran into heat pump troubles while getting the coach ready for a Christmas trip.  The heat pump appeared to be functioning as normal, but there was no heat and the compressor was pulling less amperage than usual.  A quick search online pointed to a possible refrigerant leak, and the realization that these rooftop RV heat pumps and air conditioners had no way for a technician to fix that type of problem.  Not good.
