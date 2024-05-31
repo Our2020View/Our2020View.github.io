@@ -20,11 +20,13 @@ A few days later I was back on their driveway for the actual repair - the job wa
 
 Here are a couple of photos of the new port’s location – it was attached to a crimped stub leftover from Coleman’s factory refrigerant installation:
 
+<img src="/assets/webheatpump1.jpg"/>
 
+<img src="/assets/webheatpump2.jpg"/>
 
 It turns out that the decision made during our solar panel upgrade to leave some room on the roof for working on the heat pump was a good one:
 
-
+<img src="/assets/webheatpump3.jpg"/>
 
 Fixing stuff instead of throwing it away – what a concept!
 
