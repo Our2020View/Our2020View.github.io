@@ -33,6 +33,9 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
+May 2024 - <b>Adding a servicing port to the heat pump</b> - <a href = "/ourmods/airconditioningservice/ ">  Don't throw away your heat pump! </a>
+<br>
+<br>
 November 2023 - <b>120 Volt Outlet Timers</b> - <a href = "/ourmods/greatgadgets/ ">  Control the Loads supplied by your Inverter </a>
 <br>
 <br>
@@ -55,9 +58,6 @@ April 2023 - <b>Directly Lubricate the Dump Valves</b> - <a href = "/ourmods/val
 <br>
 <br>
 April 2023 - <b>Protecting the Roof Radius Sealant</b> - <a href = "/ourmods/miscmods/ ">  Roof Radius Protection </a>
-<br>
-<br>
-February 2023 - <b>Go Winter Camping without any winter mods?</b> - <a href = "/ourmods/nowintermods/ ">  RV with No Winter Mods </a>
 <br>
 <br>
 
