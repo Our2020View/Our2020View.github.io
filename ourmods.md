@@ -329,6 +329,18 @@ That's the recent material - below are all of the mods that we have previously i
             onclick="location.href = '/ourmods/valvelube/'"> READ MORE </button>
     </div>
    </div>
+
+<div class="row">
+    <div class="column" style="background-color:white;">
+    <h3>Heat Pump Servicing</h3>
+    <p>Add a refrigerant port to your AC</p>
+    <img src="/assets/webheatpump4.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="height:40px;width:200px;background-color:green; color:white"
+            onclick="location.href = '/ourmods/airconditioningservice/'"> READ MORE </button>
+    </div>
+   </div> 
   
 <h1> Sprinter Chassis </h1>
 
