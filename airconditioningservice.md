@@ -12,6 +12,8 @@ That is sort of a snapshot of the conversation I was envisioning with my local W
 
 When spring rolled around, and the outside temperatures made it possible to check the cooling side of our Coleman Mach 10 heat pump, we had no cooling capability and again the compressor was not working as hard as it should have been.  (For our heat pump, a normal amperage draw under compressor load is 11 – 12 amps ... but we were only seeing 7 amps.  The ammeter on our Progressive Industries HW30C makes this determination very easy.)  Our local Winnebago dealer explained that there were some electrical components they could check, but they were limited as to the amount of servicing they could do.  If the problem could not be traced to electrical components or a faulty compressor, they would have no option but to replace the entire heat pump.  Ok then, really not good...
 
+Here is a link to a video that addresses the exact problem we had with our unit.  The video concludes that you have to throw away your rooftop air conditioner:
+
 The dealer was quoting a six week wait for a service appointment, and then a three to six week delay at the shop while they scheduled it into the service rotation.  Maybe the six week wait to get it in was tolerable, but the multi week delay at the shop was not.  And that was just to troubleshoot the problem, not necessarily fix it.
 
 “Ok, there must be another option”.  
