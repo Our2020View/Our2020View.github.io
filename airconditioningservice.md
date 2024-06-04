@@ -4,7 +4,7 @@ title: RV Air Conditioner Servicing | RV Mods
 description: Adding a port to add refrigerant
 permalink: /ourmods/airconditioningservice/
 ---
-NOTE:  This mod was made to the Coleman Mach 10 heat pump we have on our Winnebago View / Navion, but the method for adding a service port to any legacy RV air conditioner is exactly the same.
+NOTE:  This mod was made to the Coleman Mach 10 heat pump we have on our Winnebago View / Navion, but the method for adding a refrigerant port to any legacy RV air conditioner is exactly the same.
 
 “What do you mean the heat pump can’t be recharged?  There is no way to add refrigerant?  If you have a refrigerant leak, you have to replace the complete heat pump?  The bill will be in excess of 2500.00?”
 
