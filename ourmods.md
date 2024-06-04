@@ -33,7 +33,7 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
-May 2024 - <b>Adding a refrigerant port to the air conditioner</b> - <a href = "/ourmods/airconditioningservice/ ">  Don't throw away your air conditioner! </a>
+May 2024 - <b>Adding a refrigerant port to the air conditioner</b> - <a href = "/ourmods/airconditioningservice/ ">  Don't throw away it away! </a>
 <br>
 <br>
 November 2023 - <b>120 Volt Outlet Timers</b> - <a href = "/ourmods/greatgadgets/ ">  Control the Loads supplied by your Inverter </a>
