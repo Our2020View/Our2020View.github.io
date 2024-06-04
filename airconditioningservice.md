@@ -14,7 +14,7 @@ When spring rolled around, and the outside temperatures made it possible to chec
 
 Here is a link to a video that addresses the exact problem we had with our unit.  The video concludes that you have to throw away your rooftop air conditioner:
 
-<a href = " " target="_blank">RVgeeks and their dedicated 20 amp circuit </a>
+<a href = "https://www.youtube.com/watch?v=yj6Vz38MczE " target="_blank">Don't believe this video! </a>
 
 The dealer was quoting a six week wait for a service appointment, and then a three to six week delay at the shop while they scheduled it into the service rotation.  Maybe the six week wait to get it in was tolerable, but the multi week delay at the shop was not.  And that was just to troubleshoot the problem, not necessarily fix it.
 
