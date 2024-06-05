@@ -214,7 +214,7 @@ That's the recent material - below are all of the mods that we have previously i
    
   <div class="row">
     <div class="column" style="background-color:white;">
-    <h3>Solar Retrofit</h3>
+    <h3>Additional RV Solar</h3>
     <p>400 Watts of Renogy Charging</p>
     <img src="/assets/websolarthumbnail.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
