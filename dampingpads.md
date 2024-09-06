@@ -38,7 +38,7 @@ The solution to my perceived problem was pretty straightforward.  I needed a bus
 
 There are six feet on the compressor cradle, but I could only get at five of them.  (The hard-to-get-at sixth foot is down on the floor, forward, right behind the evaporator coil’s box.)
 
-For each of the five feet I could get at, I removed the bolt cap, dropped a stainless steel washer - with a large enough inside diameter for the barrel nut shaft to slip through – on top of the rubber grommet, dropped on the nylon bushing - with a large enough inside diameter for the barrel nut shaft to slip through, and then screwed in the cap bolt.  I torqued the bolt just enough so I could see the damping pad compressing a little bit.  Here is a shot of the two modified damping pads down at the base of the compressor cradle:
+For each of the five feet I could get at, I removed the bolt cap, dropped a stainless steel washer - with a large enough inside diameter for the barrel nut shaft to slip through – on top of the rubber grommet, dropped on the nylon bushing - with a large enough inside diameter for the barrel nut shaft to slip through, and then screwed in the cap bolt.  I torqued the bolt just enough so I could see the damping pad compressing a little bit.  Here is a shot of two of the five modified damping pads; these two being located down at the base of the compressor cradle:
 
 <img src="/assets/webdamping6.jpg"/>
 
