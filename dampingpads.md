@@ -14,7 +14,7 @@ However, what we were left with after those successful mods was a very annoying 
 
 This photo shows what the compressor in our Coleman Mach 10 heat pump looks like, when the rooftop cover is removed:
 
-heatpump1
+<img src="/assets/webheatpump1.jpg"/>
 
 Quite by accident, while having a refrigerant port added to the system so we could troubleshoot a leak and add refrigerant, I noticed that one of the compressor’s feet was not bolted to its damping pad.  It had come out of the factory missing the bolt.  I got a bit excited, thinking that getting the foot attached to its pad might be enough to help us with our in-coach noise.  I found a ¼” course thread bolt and washer and proceeded to tighten down the foot, and then hooked up shore power and turned on the AC...  
 
@@ -24,13 +24,13 @@ Kinda disappointing – but not the end of the world.  After all, this is an RV.
 
 That gave me the incentive to get back up on the roof of the View to see just how tight all of the compressor feet were in the Coleman Mach 10.  All of the bolts used to tighten the compressor’s cradle to the damping pads were indeed, pretty tight – in fact they could not be tightened any further.  BUT, the damping pads themselves were not compressed!  For example, with the floating foot that is easily reachable, I could put light upward pressure on the bottom of the damping foot, and actually move the bolt and grommet up off the compressor’s cradle.  This was true for all of the bolts.  
 
-damping5
+<img src="/assets/webdamping5.jpg"/>
 
 The damping pads designed to absorb system vibration were not being compressed, at all.  That explained why compressor vibration was being transmitted into the roof structure and then into the coach as an annoying low frequency drone.
 
 When I removed a cap bolt from one of the feet, and had a good look this time, all became clear.  The barrel nut (binding barrel?) that comes up through the centre of the damping pad was extending almost to the surface of the rubber grommet on top of the cradle structure.  When the cap bolt is screwed into the barrel nut, it impacts the nut shaft and cannot be torqued any further.  If the barrel nut cannot be drawn up the bolt, it is impossible to have any compression on the pad.  In our case, this explains why all of the cap nuts were tight, but the damping pads had no compression.
 
-damping4
+<img src="/assets/webdamping4.jpg"/>
 
 The rubber grommet underneath the bolt cap might get compressed a bit, but not nearly enough to place any force on the cradle to compress the damping pad.  A compressor left to vibrate without any damping?  I know, sort of hard to believe...
 
@@ -40,7 +40,7 @@ There are six feet on the compressor cradle, but I could only get at five of the
 
 For each of the five feet I could get at, I removed the bolt cap, dropped a stainless steel washer - with a large enough inside diameter for the barrel nut shaft to slip through – on top of the rubber grommet, dropped on the nylon bushing - with a large enough inside diameter for the barrel nut shaft to slip through, and then screwed in the cap bolt.  I torqued the bolt just enough so I could see the damping pad compressing a little bit.  Here is a shot of the two modified damping pads down at the base of the compressor cradle:
 
-damping6
+<img src="/assets/webdamping6.jpg"/>
 
 “What were the chances that all of this was going to do anything?” I could hear myself ask as I climbed down from the roof.
 
