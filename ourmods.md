@@ -36,7 +36,7 @@ permalink: /ourmods/
 September 2024 - <b>Fixing the drone from our AC / Heat Pump</b> - <a href = "/ourmods/dampingpads/ ">  Damp that Compressor! </a>
 <br>
 <br>
-May 2024 - <b>Adding a refrigerant port to the air conditioner</b> - <a href = "/ourmods/airconditioningservice/ ">  Don't throw your AC away! </a>
+May 2024 - <b>Adding a Refrigerant Port to the Air Conditioner</b> - <a href = "/ourmods/airconditioningservice/ ">  Don't throw your AC away! </a>
 <br>
 <br>
 November 2023 - <b>120 Volt Outlet Timers</b> - <a href = "/ourmods/greatgadgets/ ">  Control the Loads supplied by your Inverter </a>
