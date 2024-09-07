@@ -12,7 +12,7 @@ When we first got our View back in ’21, we were pretty disappointed in how lou
 
 However, what we were left with after those successful mods was a very annoying low frequency vibration originating from the compressor on the roof, resulting in an unacceptable low frequency hum.  The vibration would come through roof structure when the compressor was operating.
 
-This photo shows what the compressor in our Coleman Mach 10 heat pump looks like, when the rooftop cover is removed:
+This photo shows what the compressor in our Coleman Mach 10 heat pump looks like, when the rooftop cover is removed - notice the damping pads that the compressor cradle is attached to:
 
 <img src="/assets/webheatpump1.jpg"/>
 
