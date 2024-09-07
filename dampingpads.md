@@ -4,7 +4,7 @@ title: RV Heat Pump Vibration | RV Mods
 description: Coleman Mach 10 Compressor Vibration Fix
 permalink: /ourmods/dampingpads/
 ---
-<h3>Coleman Mach 10 Compressor Vibration and In-coach Low Frequency Hum</h3>
+<h3>Coleman Mach 10 Compressor Vibration and In-coach Low Frequency Hum - How We Fixed It</h3>
 
 When we first got our View back in ’21, we were pretty disappointed in how loud the air conditioning was.  It was loud enough that we actually would have a conversation about whether we really needed to turn it on.  I did the well known DIY “block the flood dump to force the flow out of the overhead ducts” trick, and cleaned up the installation wiring cutting up the air intake flow – both to great success.  After those mods, we actually could sit at the table and have a pretty close to normal chat.  To see the details of those mods affecting the heat pumps airflow, have a look here:
 
