@@ -341,7 +341,7 @@ That's the recent material - below are all of the mods that we have previously i
             onclick="location.href = '/ourmods/airconditioningservice/'"> READ MORE </button>
   </div>
   <div class="column" style="background-color:white;">
-    <h3>Coleman Mach 10 Vibration</h3>
+    <h3>Coleman Mach 10 Vibration Remedy</h3>
     <p>Fix the drone from your heat pump</p>
     <img src="/assets/webheatpump5.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
