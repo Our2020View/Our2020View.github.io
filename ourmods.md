@@ -33,6 +33,9 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
+September 2024 - <b>Fixing the in-coach drone from our AC / Heat Pump</b> - <a href = "/ourmods/dampingpads/ ">  Damp that Compressor! </a>
+<br>
+<br>
 May 2024 - <b>Adding a refrigerant port to the air conditioner</b> - <a href = "/ourmods/airconditioningservice/ ">  Don't throw your AC away! </a>
 <br>
 <br>
