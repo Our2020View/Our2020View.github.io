@@ -22,7 +22,7 @@ No change.
 
 Kinda disappointing – but not the end of the world.  After all, this is an RV.  But, I did recall that while cleaning out our household residential air conditioner’s condenser coils earlier in the summer, I noticed that the compressor’s feet were a bit loose on their damping pads.  I tightened those up a touch and was pleasantly surprised to find that it quietened down the unit significantly. 
 
-That gave me the incentive to get back up on the roof of the View to see just how tight all of the compressor feet were in the Coleman Mach 10.  All of the bolts used to tighten the compressor’s cradle to the damping pads were indeed, pretty tight – in fact they could not be tightened any further.  BUT, the damping pads themselves were not compressed!  For example, with the floating foot that is easily reachable, I could put light upward pressure on the bottom of the damping foot, and actually move the bolt and grommet up off the compressor’s cradle.  This was true for all of the bolts.  
+That gave me the incentive to get back up on the roof of the View to see just how tight all of the compressor feet were in the Coleman Mach 10.  All of the bolts used to tighten the compressor’s cradle to the damping pads were indeed, pretty tight – in fact they could not be tightened any further.  BUT, the damping pads themselves were not compressed!  For example, with the floating foot that is easily reachable, I could put light upward pressure on the bottom of the damping foot, and actually move the bolt and grommet up off the compressor’s cradle.  This was true for all of the bolts.  Have a look here to see the bolt being lifted off of the cradle, with very little force:
 
 <img src="/assets/webdamping5.jpg"/>
 
