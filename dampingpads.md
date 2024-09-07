@@ -46,7 +46,7 @@ For each of the five feet I could get at, I removed the bolt cap, dropped a stai
 
 Well, you are probably saying to yourself that this guy would not be telling any of this to us – if it had not worked.  You’re right.  I was absolutely gobsmacked when I cycled on the AC, and could only faintly hear the far distant hum of a compressor running up on the roof.  No roof structure vibration.  Always the skeptic when it comes to troubleshooting a problem, I had a look at the ammeter on our EMS monitor to make sure the compressor was pulling a normal load.  It was sitting at its normal 11 – 12 amps.  Ok, it worked.
 
-Well, I’ll be ... four years later, and four mods later, maybe we’ve got what most other RV folks take for granted: a quiet air conditioner?
+Well, I’ll be ... four years later, and four mods later, maybe we’ve got what some other RV folks take for granted: a quiet air conditioner?
 
 I’m hoping that we are the only ones that had this in-coach compressor vibration and noise annoyance – maybe our unit was assembled with the wrong barrel nuts, on the afternoon before a long weekend.  But, if our problem rings a bell with you, a quick check on the roof to see if any of what I have described looks familiar might be worth the trip up the ladder.  (If you have not been under the cover of your rooftop unit before - don’t forget to remove shore power, make sure the Onan is not running, or at the very least, make sure someone is not going to turn the heat pump on while you are up there.  There are four Phillips head screws securing the cover – two on top, and two on the back end, down at the base.  The cover lifts off easily.)
 
