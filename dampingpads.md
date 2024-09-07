@@ -16,7 +16,7 @@ This photo shows what the compressor in our Coleman Mach 10 heat pump looks like
 
 <img src="/assets/webheatpump1.jpg"/>
 
-So, first some hisotry.  At one point, quite by accident, while having a refrigerant port added to the system so we could troubleshoot a leak and add refrigerant, I noticed that one of the compressor’s feet was not bolted to its damping pad.  It had come out of the factory missing the bolt.  I got a bit excited, thinking that getting the foot attached to its pad might be enough to help us with our in-coach noise.  I found a ¼” course thread bolt and washer and proceeded to tighten down the foot, and then hooked up shore power and turned on the AC...  
+So, first some history.  At one point, quite by accident, while having a refrigerant port added to the system so we could troubleshoot a leak and add refrigerant, I noticed that one of the compressor’s feet was not bolted to its damping pad.  It had come out of the factory missing the bolt.  I got a bit excited, thinking that getting the foot attached to its pad might be enough to help us with our in-coach noise.  I found a ¼” course thread bolt and washer and proceeded to tighten down the foot, and then hooked up shore power and turned on the AC...  
 
 No change.  
 
