@@ -33,7 +33,7 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
-September 2024 - <b>Adding Task Lighting to the Truma Box</b> - <a href = "/ourmods/miscmods/ ">  Let there be Light! </a>
+September 2024 - <b>Adding Task Lighting to the Truma Box</b> - <a href = "/ourmods/miscmods/ ">  Let there be Light </a>
 <br>
 <br>
 September 2024 - <b>Fixing the drone from our Air Conditioner</b> - <a href = "/ourmods/dampingpads/ ">  Damp that Compressor! </a>
