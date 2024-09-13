@@ -259,7 +259,7 @@ It looks good and works well.
 
 This easy mod was installed to light up the Truma box and associated plumbing under the corner bed - during times when I needed to access the winterization valves or have a look for water seepage in the area.  A flashlight is almost as good, but not as fun.
 
-There is a 12 volt lamp on the other side of the Truma box's aft wall, and its electrical wiring is fed from a Winnebago 12 volt feed from the Truma side.  It was straightforward to tap into this wiring with the leads from a 12 volt LED lamp I found on Amazon:
+There is a 12 volt lamp on the other side of the Truma box's aft wall used in the underbed storage compartment, and its electrical wiring is fed from a Winnebago 12 volt feed from the Truma side.  It was straightforward to tap into this wiring with the leads from a 12 volt LED lamp I found on Amazon:
 
 <a href = "https://www.amazon.ca/dp/B0B4WLR8BF?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 " target="_blank">12 Volt LED lamp from Amazon </a>
 
