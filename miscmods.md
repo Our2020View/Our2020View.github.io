@@ -255,6 +255,18 @@ The adhesive backing is strong, and the rod was easy to install.  Instead of usi
 
 It looks good and works well.
 
+<h3> Task Lighting in the Truma Box area </h3>
+
+This easy mod was installed to light up the Truma box and associated plumbing under the corner bed - during times when I needed to access the winterization valves or have a look for water seepage in the area.  A flashlight is almost as good, but not as fun.
+
+There is a 12 volt lamp on the other side of the Truma box's aft wall, and its electrical wiring is fed from a Winnebago 12 volt feed from the Truma side.  It was straightforward to tap into this wiring with the leads from a 12 volt LED lamp I found on Amazon:
+
+<a href = "https://www.amazon.ca/dp/B0B4WLR8BF?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 " target="_blank">12 Volt LED lamp from Amazon </a>
+
+The yellow Winnebago 12 volt feed and its companion white ground was easy to spot, and I used butt connectors to attach the existing lamp and the new LED lamp to these wires:
+
+<img src="/assets/webtowelrod1.jpg"/>
+
 <br>
 <br>
 
