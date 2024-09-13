@@ -263,7 +263,7 @@ There is a 12 volt lamp on the other side of the Truma box's aft wall used in th
 
 <a href = "https://www.amazon.ca/dp/B0B4WLR8BF?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 " target="_blank">12 Volt LED lamp from Amazon </a>
 
-The yellow Winnebago 12 volt feed and its companion white ground was easy to spot, and I used butt connectors to attach the existing lamp and the new LED lamp to these wires:
+The yellow Winnebago 12 volt feed and its companion white ground was easy to spot, and I used butt connectors to attach the existing storage compartment lamp and the new LED lamp to these wires:
 
 <img src="/assets/weblamp1.jpg"/>
 
