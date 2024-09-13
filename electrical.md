@@ -72,6 +72,8 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 [Tank Heater Retrofit](/ourmods/tankheaters/)
 
+[Task Lighting in the Truma Box](/ourmods/miscmods/)
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
