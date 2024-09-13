@@ -265,7 +265,7 @@ There is a 12 volt lamp on the other side of the Truma box's aft wall, and its e
 
 The yellow Winnebago 12 volt feed and its companion white ground was easy to spot, and I used butt connectors to attach the existing lamp and the new LED lamp to these wires:
 
-<img src="/assets/webtowelrod1.jpg"/>
+<img src="/assets/weblamp1.jpg"/>
 
 <br>
 <br>
