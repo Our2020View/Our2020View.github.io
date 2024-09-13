@@ -33,6 +33,9 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
+September 2024 - <b>Adding Task Lighting to the Truma Box</b> - <a href = "/ourmods/miscmods/ ">  Let there be Light! </a>
+<br>
+<br>
 September 2024 - <b>Fixing the drone from our Air Conditioner</b> - <a href = "/ourmods/dampingpads/ ">  Damp that Compressor! </a>
 <br>
 <br>
@@ -417,6 +420,7 @@ That's the recent material - below are all of the mods that we have previously i
   <h4>Roller Shades "Thumping" Fix</h4>
   <h4>Roof Radius Protection</h4>
   <h4>Kitchen Towel Rod</h4>
+  <h4>Task Lighting in the Truma Box</h4>
   
   <div class="row">
     <div class="column" style="background-color:white;">
