@@ -17,7 +17,7 @@ But for those that are reading who don’t mind the traditional dump process, an
 
 For those that think they might see where I am coming from, read on!
 
-So, this macerator pump requirement... the View does not come with one... what did we do?  We decided early on that we could add an aftermarket, portable, macerator pump to our dump routine that would meet our needs.  Sure, it would not be as convenient as a built in one like our previous Class Bs, but we felt the extra setup would still be better than having to get used to a traditional dump system.  I guess sometimes the “old dog new tricks” thing just does not work.  
+So, this macerator pump requirement... the View does not come with one... what did we do?  We decided early on that we could add an aftermarket, portable, macerator pump to our dump routine that would meet our needs.  Sure, it would not be as convenient as a built in one like our previous Class Bs, but we felt the extra setup would still be better than having to get used to a traditional dump system.  I guess sometimes the “old dog new tricks” thing is just the way it is.  
 
 We built a system by which we can take a bin out of a locker, pull out the macerator pump and twist it onto the black and grey dump flange, plug its 12V power chord into an outlet in the service bay, and have it all activated by my wife remotely sitting in the coach watching from the window.  I know, I know.  That extra time it takes to pull the bin out of the locker and twist the pump onto the dump flange is going to kill me...
 
