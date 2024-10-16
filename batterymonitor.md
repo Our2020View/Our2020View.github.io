@@ -18,7 +18,7 @@ Have a look at the next photo - in the View / Navion there are a total of four e
 Original Winnebago cable configuration:
 <img src="/assets/webgroundcablestext.jpg"/>
 
-Required ground cable distribution:
+Required ground cable new distribution:
 
 <img src="/assets/victron712diagram.jpg"/>
 
