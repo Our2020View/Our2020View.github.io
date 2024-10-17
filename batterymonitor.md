@@ -21,7 +21,7 @@ Original Winnebago cable configuration:
 
 Required ground cable new distribution:
 
-<img src="/assets/Victron712rev4.jpg"/>
+<img src="/assets/victron712diagram.jpg"/>
 
 Here is a view of our shunt install, looking straight down into the battery box:  
 
