@@ -35,14 +35,7 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 Here is a simplified schematic of our View's electrical system:
 
-
-
-
-
-
-
-
-
+<img src="/assets/viewelec.jpg"/>
 
 <h2>Electrical Mods</h2>
 
