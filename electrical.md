@@ -33,7 +33,7 @@ Also, as mentioned earlier, the fact that the out-of-the factory inverter / char
 
 6 - Solar Panels - This functionality is one of the things that Winnebago did not change from previous years, but somewhere along the production line they switched from rigid panels to flex panels.  Flex panels are much lighter than rigid panels, so possibly that was the incentive for installing them as standard equipment.  But, their method of installation has proven to be a problem.  For our model year, and some subsequent years, they chose to lay them flat on the roof with no appreciable air gap between the panel and the thin Filon fibreglass sheet that is the veneer of the roof.  As a result, the Filon sheet gets scorched and damaged from the temperatures associated with solar charging.  As many others have opted to do, we removed our factory SunPower panels and replaced them with rigid panels.  In addition, we took advantage of the project to add an additional two panels.  (See the dedicated mod description of our solar panel retrofit, in the details below.)
 
-Here is a simplified schematic of a stock factory equiped View / Navion's electrical system:
+Here is a simplified schematic of a stock 2020 factory equiped View / Navion electrical system:
 
 <img src="/assets/viewelec8web.jpg"/>
 
