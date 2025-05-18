@@ -33,6 +33,9 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
+May 2025 - <b>Induction Cooktop Power Switch</b> - <a href = "/ourmods/miscmods/ ">  ON when you want it ON </a>
+<br>
+<br>
 September 2024 - <b>Adding Task Lighting to the Truma Box</b> - <a href = "/ourmods/miscmods/ ">  Let there be Light </a>
 <br>
 <br>
