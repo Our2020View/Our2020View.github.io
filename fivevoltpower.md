@@ -20,6 +20,6 @@ The USB plug that came with the voltage converter did not physically fit into ou
 
 <img src="/assets/5volt3web.jpg"/>
 
-<img src="/assets/5volt3web.jpg"/>
 
-<img src="/assets/aircond8web.jpg"/>
+
+
