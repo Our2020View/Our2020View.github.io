@@ -36,6 +36,10 @@ I was careful to make the hole large enough for the converter, but small enough 
 
 <img src="/assets/5volt6web.jpg"/>
 
+This is what things looked like prior to doing the wiring - you can see the running light hanging from the Winnebago wiring, and the converter's wires that needed to be spliced into Winnebago's wiring.
+
+<img src="/assets/5volt8web.jpg"/>
+
 I spliced the red and the black 12 volt wires from the converter into the running light red power and white negative ground wires using butt connectors.  This photo shows the two butt connectors just above the running light.  The two butt connectors up higher are Winnebago's connections from their yellow power wire and white negative ground wire:
 
 <img src="/assets/5volt9web.jpg"/>
