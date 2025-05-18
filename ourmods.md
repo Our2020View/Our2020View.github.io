@@ -424,6 +424,7 @@ That's the recent material - below are all of the mods that we have previously i
   <h4>Roof Radius Protection</h4>
   <h4>Kitchen Towel Rod</h4>
   <h4>Task Lighting in the Truma Box</h4>
+  <h4>Induction Cooktop Power Switch</h4>
   
   <div class="row">
     <div class="column" style="background-color:white;">
