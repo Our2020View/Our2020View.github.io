@@ -52,9 +52,11 @@ After reattaching the camera, I plugged in the USB cable and called it a day:
 
 <img src="/assets/5volt15web.jpg"/>
 
-Now, the only thing to remember is if the Sprinter auto-lights sensor has not turned on the lights and running lights due to low ambient light conditions, you'll have to manually turn on the lights yourself to charge the camera battery to keep it topped up. 
+Now, the only thing to remember is if the Sprinter auto-lights sensor has not turned on the lights and running lights due to low ambient light conditions, you'll have to manually turn on the lights yourself to charge the camera battery to keep it topped up.  With the battery charge indicator on the monitor always visible, that should not be too hard to do.
 
+<br> 
 
+[Back to Our RV Modifications](/ourmods/)
 
 
 
