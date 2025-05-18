@@ -275,7 +275,7 @@ This photo shows where the induction cooktop 20 amp receptacle is located undern
 
 <img src="/assets/inductionplugweb.jpg"/>
 
-This is the 15 amp plug-in switch we purchased from our local orange building centre - its 15 amp rating is plenty for the cooktop draw we have observed:
+This is the 15 amp plug-in switch we purchased from our local orange building centre - its 15 amp rating is plenty for the cooktop draw we have observed during our cooking:
 
 <img src="/assets/switchinboxweb.jpg"/>
 
