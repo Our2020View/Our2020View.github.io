@@ -6,7 +6,7 @@ permalink: /ourmods/fivevoltpower/
 ---
 Here is a mod that might be useful for those looking to get 5 volt or 12 volt power to a rear view camera.  In our particular case, we used it to get 5 volt USB charging to the Auto-Vox Solar 4 wireless rear view camera that we installed to give us full time rear view awareness.  Here is a link to that mod we did awhile back:
 
-[Auto-Vox Solar 4 Wireless Rear View Camera ](/rearmirror/)
+[Auto-Vox Solar 4 Wireless Rear View Camera ](/ourmods/rearmirror/)
 
 As explained on the above mod page, the solar charging works really well - when the sun is shining.  But, we found that running the system in cloudy weather will result in only a two or three day charge, and if you have a long string of cloudy days the system will eventually run out of battery power and shut itself down.  That's where this mod comes in.  If your travels are taking you into all sorts of weather, and you don't want the inconvenience of not having a rear view camera system every now and then, a full time charging system to the camera battery is a requirement.
 
