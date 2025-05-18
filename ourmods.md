@@ -33,6 +33,9 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
+May 2025 - <b>Exterior Source of 5 Volts</b> - <a href = "/ourmods/fivevoltpower/ ">  Full Time Charging for the Rear Camera </a>
+<br>
+<br>
 May 2025 - <b>Induction Cooktop Power Switch</b> - <a href = "/ourmods/miscmods/ ">  ON when you want it ON </a>
 <br>
 <br>
