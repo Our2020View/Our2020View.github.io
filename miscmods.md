@@ -267,6 +267,11 @@ The yellow Winnebago 12 volt feed and its companion white ground were easy to sp
 
 <img src="/assets/weblamp1.jpg"/>
 
+<h3> Induction Cooktop Power Switch </h3>
+
+I don't know about you, but we found the nuisance of the induction cooktop powering up everytime the microwave finished working ... a bit of a pain.  Not only would it "beep" upon powerup, after the microwave load shedding was complete, but it would be standing by to be accidentally turned on while preparing food in the area.  On one occasion, after it was accidentally activated by some inadvertent hand positioning, some cutlery on the cook surface caused the heat to turn on and before we knew it - things were starting to get hot! From that point on we started unplugging and replugging, the cooktop from its 20 amp receptacle under the sink, but even that was a bit arduous as it required digging out a flashlight and getting down on the floor.  We decided to install a switch that the cooktop cord could plug in to; a switch we could operate just by feel.
+
+
 <br>
 <br>
 
