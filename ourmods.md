@@ -66,12 +66,7 @@ August 2023 - <b>Adding a SeeLevel II Monitor</b> - <a href = "/ourmods/seelevel
 July 2023 - <b>Replacing the SunPower Panels</b> - <a href = "/ourmods/newsolar/ ">  Now 400 Watts of Renogy solar </a>
 <br>
 <br>
-April 2023 - <b>Directly Lubricate the Dump Valves</b> - <a href = "/ourmods/valvelube/ ">  Dump Valve Lube </a>
-<br>
-<br>
-April 2023 - <b>Protecting the Roof Radius Sealant</b> - <a href = "/ourmods/miscmods/ ">  Roof Radius Protection </a>
-<br>
-<br>
+
 
 That's the recent material - below are all of the mods that we have previously implemented to improve the functionality of our 2020 Winnebago View 24J:
 
