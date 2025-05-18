@@ -36,7 +36,7 @@ I was careful to make the hole large enough for the converter, but small enough 
 
 <img src="/assets/5volt6web.jpg"/>
 
-This is what things looked like prior to doing the wiring - you can see the running light hanging from the Winnebago wiring, and the converter's wires that needed to be spliced into Winnebago's wiring.
+This is what things looked like prior to doing the wiring - you can see the running light hanging from the Winnebago wiring, and the converter's wires that needed to be spliced into Winnebago's wiring:
 
 <img src="/assets/5volt8web.jpg"/>
 
