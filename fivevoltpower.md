@@ -16,6 +16,10 @@ The general concept for this one was to "borrow" 12 volts from a nearby running 
 
 <a href = "https://www.amazon.ca/dp/B07H5LT942?ref=ppx_yo2ov_dt_b_fed_asin_title" target="_blank">12 Volt to 5 Volt Step Down Converter </a>
 
-The USB plug that came with the voltage converter did not physically fit into our Auto-Vox camera, so we had to replace a portion of the USB cable that came with the converter, with the spare USB cable that came with the Auto-Vox system.  It was not a big deal, as there were only a power wire and a negative wire in the charging cables so the butt connections was straightforward.  Here is a photo of our converter, after splicing on the spare USB cable that came with the Auto-Vox system.
+The USB plug that came with the voltage converter did not physically fit into our Auto-Vox camera, so we had to replace a portion of the USB cable that came with the converter, with the spare USB cable that came with the Auto-Vox system.  It was not a big deal, as there were only a power wire and a negative wire in the charging cables so the butt connections was straightforward.  Here is a photo of our converter, after splicing on the spare USB cable that came with the Auto-Vox system:
+
+<img src="/assets/5volt3web.jpg"/>
+
+
 
 
