@@ -283,7 +283,7 @@ And, here is the induction cooktop plug and plug-in switch all ready to go:
 
 <img src="/assets/inductionswitchweb.jpg"/>
 
-We can now open up the right hand sink cupboard door, and reach in to flick the switch to allow power to flow to the inductin cooktop - when we would really like to see it lit up as we prepare to use it for cooking.
+We can now open up the right hand sink cupboard door, and reach in to flick the switch to allow power to flow to the induction cooktop - when we would really like to see it lit up as we prepare to use it for cooking.
 
 
 <br>
