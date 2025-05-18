@@ -81,6 +81,8 @@ And this is our electrical system, showing some of the electrical mods we have d
 
 [Task Lighting in the Truma Box](/ourmods/miscmods/)
 
+[5 Volt Exterior Power for the Rear Camera](/ourmods/fivevoltpower/)
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
