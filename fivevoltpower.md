@@ -44,7 +44,7 @@ I spliced the red and the black 12 volt wires from the converter into the runnin
 
 <img src="/assets/5volt9web.jpg"/>
 
-After making the connections, I wrapped my butt connectors in electrical tape, suffed the connector and most of the wiring into the end cap, and then used the Dremel tool to "notch" a slot for the USB cable to protrude without interfering with the fit of the running light attachement:
+After making the connections, I wrapped my butt connectors in electrical tape, suffed the connector and most of the wiring into the end cap, and then used the Dremel tool to "notch" a slot for the USB cable to protrude without interfering with the fit of the running light attachment:
 
 <img src="/assets/5volt11web.jpg"/>
 
