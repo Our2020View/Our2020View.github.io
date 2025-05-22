@@ -58,7 +58,7 @@ After reattaching the camera, I plugged in the USB cable and called it a day:
 
 Now, the only thing to remember is if the Sprinter auto-lights sensor has not turned on the lights and running lights due to low ambient light conditions, you'll have to manually turn on the lights yourself to charge the camera battery to keep it topped up.  With the battery charge indicator on the cab monitor always visible, that should not be difficult to remember to do.
 
-I left the small Auto-Vox solar panel and its USB cable in place, as a backup to this new charging system.
+I left the small Auto-Vox solar panel and its USB cable in place, as a backup to this new charging system and also to have a source of charging for times when the View is in storage.
 
 <br> 
 
