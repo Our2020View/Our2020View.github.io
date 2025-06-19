@@ -14,13 +14,13 @@ The heat pump failed while we were on the road during a very early spring trip, 
 
 The unit was at the shop when we pulled into town out in Alberta, and the installation took less than two hours.  I was not permitted to view the installation, so I can’t tell you much about the details – but the tech reported that it was as straightforward on a View as it had been on the other RVs that he had installed them on.  
 
-<img src="/assets/weboriginalheatercircuit.jpg"/>
+<img src="/assets/webhoughton3.jpg"/>
 
 The A3800 is operated by a remote control, so there is no control wiring to worry about.  The Airxcel wall box in the View stays as is, and functions to control the propane furnace as its only job.  The thermometer continues to function, which is pretty handy.
 
 Here are the specs for the 15,000 BTU A3800:
 
-<img src="/assets/weboriginalheatercircuit.jpg"/>
+<img src="/assets/webhoughton1.jpg"/>
 
 The A3800 has a three speed fan, that continues to run as the compressor cycles on and off around the set point temperature.  The three speeds allow for a great choice in air distribution, and provide for an extremely quiet operation.  Compared to the Coleman Mach 10, the compressor noise is almost indistinguishable, and the airflow is whisper quiet.  So quiet in fact, when it was first demonstrated to us after installation, we were amazed that the compressor was actually running.  We could discern the sound of airflow, but did not know the compressor was doing its thing.  Amazingly quiet.
 
@@ -30,11 +30,11 @@ The remote control is very easy to operate, and the temperature set point and op
 
 We mounted the remote control in the holster it came with, in the dining area:
 
-<img src="/assets/weboriginalheatercircuit.jpg"/>
+<img src="/assets/webhoughton4.jpg"/>
 
 To stop the controller from rattling around, I added some foam cabinet cushion buttons to keep it snug:
 
-<img src="/assets/weboriginalheatercircuit.jpg"/>
+<img src="/assets/webhoughton5.jpg"/>
 
 If anyone needs the name of a top notch mobile RV tech out in southern Alberta, let me know and I can pass on coordinates.
 
