@@ -2,7 +2,7 @@
 layout: page
 title: RV Heat Pump Replacement | RV Mods
 description: Houghton Rec-Pro A3800 Heat Pump
-permalink: /ourmods/houghtonRVheatpumpreplacement/
+permalink: /ourmods/houghtonrvheatpumpreplacement/
 ---
 As you can see from the other mods on our site, we have had trouble with our Coleman Mach 10 heat pump that came with our Winnebago View.  We previously had done a mod to quiet down the airflow noise and also improve its distribution performance, a mod to add a refrigerant port to the “closed system” from the factory, and a mod to quiet down the drone from the compressor.  All of these mods worked great, and we were happy with the improvements they brought to our enjoyment of the coach.
 
