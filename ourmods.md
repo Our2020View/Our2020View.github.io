@@ -367,6 +367,17 @@ That's the recent material - below are all of the mods that we have previously i
   </div>
 </div> 
   
+<div class="row">
+  <div class="column" style="background-color:white;">
+    <h3>RV Heat Pump Replacement</h3>
+    <p>Installing a RecPro A3800</p>
+    <img src="/assets/webhoughton2.jpeg" title="Mod Thumbnail" width="217.25" height="163">
+    <br>
+    <br>
+    <button style="height:40px;width:200px;background-color:green; color:white"
+            onclick="location.href = '/ourmods/houghtonrvheatpumpreplacement/'"> READ MORE </button>
+  </div>
+
 <h1> Sprinter Chassis </h1>
 
 <div class="row">
