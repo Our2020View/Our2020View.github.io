@@ -30,6 +30,8 @@ The remote control is very easy to operate, and the temperature set point and op
 
 <img src="/assets/webhoughton6.jpeg"/>
 
+The division between ceiling ducts and the plenum flood dump is pretty solid.  There are no air leaks on the face plate when the ceiling duct distribution is selected, and no appreciable change in the already very quiet air flow.
+
 We mounted the remote control in the holster it came with, in the dining area:
 
 <img src="/assets/webhoughton4.jpeg"/>
