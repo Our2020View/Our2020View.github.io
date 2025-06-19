@@ -22,7 +22,7 @@ Here are the specs for the 15,000 BTU A3800:
 
 <img src="/assets/webhoughton1.jpeg"/>
 
-The A3800 has a three speed fan, that continues to run as the compressor cycles on and off around the set point temperature.  The three speeds allow for a great choice in air distribution, and provide for an extremely quiet operation.  Compared to the Coleman Mach 10, the compressor noise is almost indistinguishable, and the airflow is whisper quiet.  So quiet in fact, when it was first demonstrated to us after installation, we were amazed that the compressor was actually running.  We could discern the sound of airflow, but did not know the compressor was doing its thing.  Amazingly quiet.
+The A3800 has a three speed fan, that continues to run as the compressor cycles on and off around the set point temperature.  The three speeds allow for a great choice in air distribution, and provide for an extremely quiet operation.  Compared to the Coleman Mach 10, the compressor noise is almost indistinguishable, and the airflow is whisper quiet.  So quiet in fact, that when it was first demonstrated to us after installation, we were amazed that the compressor was actually running.  We could discern the sound of airflow, but did not know the compressor was doing its thing.  Amazingly quiet.
 
 During operation of the heat side of the heat pump, the fan does not stay running as the compressor cycles on and off around the set point temperature.  For me, this makes for broken sleep during night operations – the only negative we have found so far with the A3800.
 
