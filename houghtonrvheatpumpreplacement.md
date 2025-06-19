@@ -26,7 +26,9 @@ The A3800 has a three speed fan, that continues to run as the compressor cycles 
 
 During operation of the heat side of the heat pump, the fan does not stay running as the compressor cycles on and off around the set point temperature.  For me, this makes for broken sleep during night operations – the only negative we have found so far with the A3800.
 
-The remote control is very easy to operate, and the temperature set point and operating mode is displayed on the coach plenum unit within easy view of the table seating positions.
+The remote control is very easy to operate, and the temperature set point and operating mode is displayed on the coach plenum unit within easy view of the table seating positions.  The form fit of the coach plenum unit was nearly identical to the old Mach 10 coach unit - I can see some minor depressions in the ceiling, but no one else would even notice:
+
+<img src="/assets/webhoughton6.jpeg"/>
 
 We mounted the remote control in the holster it came with, in the dining area:
 
