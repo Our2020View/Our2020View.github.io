@@ -33,7 +33,7 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
-June 2025 - <b>Installling a new Heat Pump</b> - <a href = "/ourmods/houghtonrvheatpumpreplacement/ ">  Houghton RecPro A3800 </a>
+June 2025 - <b>Installing a new Heat Pump</b> - <a href = "/ourmods/houghtonrvheatpumpreplacement/ ">  Houghton RecPro A3800 </a>
 <br>
 <br>
 May 2025 - <b>Exterior Source of 5 Volts</b> - <a href = "/ourmods/fivevoltpower/ ">  Full Time Charging for the Rear Camera </a>
