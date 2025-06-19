@@ -12,7 +12,7 @@ The heat pump failed while we were on the road during a very early spring trip, 
 
 <a href = "https://recpro.com/rv-air-conditioner-15k-with-heat-pump/" target="_blank">Houghton RecPro A3800 Heat Pump</a>
 
-The unit was at the shop when we pulled into town out in Alberta, and the installation took less than two hours.  I was not permitted to view the installation, so I can’t tell you much about the details – but the tech reported that it was as straightforward on a View as it had been on the other RVs that he had installed them on.  
+The unit was at the shop when we pulled into town out in Alberta, and the installation took less than two hours.  I was not permitted to view the installation, so I can’t tell you much about the details – but the tech reported that it was as straightforward on a View as it had been on the other RVs that he had installed them on.  (I'm glad I left some working room on the roof for heat pump maintenance - I did not have to remove any solar panels during the installation process!)
 
 <img src="/assets/webhoughton3.jpeg"/>
 
