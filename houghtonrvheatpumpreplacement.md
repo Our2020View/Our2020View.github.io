@@ -6,7 +6,7 @@ permalink: /ourmods/houghtonrvheatpumpreplacement/
 ---
 As you can see from the other mods on our site, we have had trouble with our Coleman Mach 10 heat pump that came with our Winnebago View.  We previously had done a mod to quiet down the airflow noise and also improve its distribution performance, a mod to add a refrigerant port to the “closed system” from the factory, and a mod to quiet down the drone from the compressor.  All of these mods worked great, and we were happy with the improvements they brought to our enjoyment of the coach.
 
-But, after two refrigerant leaks with successful repairs, a third refrigerant leak was the straw that broke the camels back.  The HVAC company that installed the refrigerant port lost interest in helping us after the third strike, so we were forced to find a new heat pump ... and not a Coleman Mach 10.
+But, after two refrigerant leaks with successful repairs, a third refrigerant leak was the straw that broke the camel's back.  The HVAC company that installed the refrigerant port lost interest in helping us after the third strike, so we were forced to find a new heat pump ... and not a Coleman Mach 10.
 
 The heat pump failed while we were on the road during a very early spring trip, when we really could have used the heat function from the heat pump.  We managed for the month we were at destination, but on the way home we called up the mobile RV tech we had used in the past in Western Canada and requested that he find us a new unit.  We had noticed that Lichtsinn in Forest City was supporting the Houghton RecPro A3800 as a replacement unit on Views and Navions, so after some research from our technician and good news on its Canadian availability, we gave the go-ahead to order one and have it installed.
 
