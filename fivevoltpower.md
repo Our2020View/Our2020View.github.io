@@ -18,43 +18,43 @@ The general concept for this one was to "borrow" 12 volts from a nearby running 
 
 The USB plug that came with the voltage converter did not physically fit into our Auto-Vox camera, so we had to replace a portion of the USB cable that came with the converter with the spare USB cable that came with the Auto-Vox system.  It was not a big deal, as there was only a power wire and a negative wire in the charging cables so the butt connections were straightforward.  Here is a photo of our converter, after splicing on the spare USB cable that came with the Auto-Vox system - the red and black wires are the 12 volt input to the converter, and the black USB cable is the 5 volt output from the converter:
 
-<img src="/assets/5volt3web.jpg"/>
+<img src="/assets/5volt3web.jpeg"/>
 
 <h2> The Installation </h2>
 
 I started out by removing the 12 volt running light that was immediately below the rear camera bracket:
 
-<img src="/assets/5volt2web.jpg"/>
+<img src="/assets/5volt2web.jpeg"/>
 
 My plan was to enlarge the access hole for the wiring - just large enough to be able to slip the voltage converter into the cavity of the end cap, after doing the required wiring.  To enlarge the access hole, I chose a Dremel type of tool and a standard cutting bit:
 
-<img src="/assets/5volt4web.jpg"/>
+<img src="/assets/5volt4web.jpeg"/>
 
 I was careful to make the hole large enough for the converter, but small enough not to interfere with the screw holes that the running light uses to secure itself to the end cap:
 
-<img src="/assets/5volt7web.jpg"/>
+<img src="/assets/5volt7web.jpeg"/>
 
-<img src="/assets/5volt6web.jpg"/>
+<img src="/assets/5volt6web.jpeg"/>
 
 This is what things looked like prior to doing the wiring - you can see the running light hanging from the Winnebago wiring, and the converter's wires that needed to be spliced into Winnebago's wiring:
 
-<img src="/assets/5volt8web.jpg"/>
+<img src="/assets/5volt8web.jpeg"/>
 
 I spliced the red and the black 12 volt wires from the converter into the running light red power and white negative ground wires using butt connectors.  This photo shows the two butt connectors just above the running light.  The two butt connectors up higher are Winnebago's connections from their yellow power wire and white negative ground wire:
 
-<img src="/assets/5volt9web.jpg"/>
+<img src="/assets/5volt9web.jpeg"/>
 
 After making the connections, I wrapped my butt connectors in electrical tape, suffed the connector and most of the wiring into the end cap, and then used the Dremel tool to "notch" a slot for the USB cable to protrude without interfering with the fit of the running light attachment:
 
-<img src="/assets/5volt11web.jpg"/>
+<img src="/assets/5volt11web.jpeg"/>
 
 I applied some silicone caulking to the USB cable "notch" and the periphery of the enlarged slot, and reattached the running light to finish up the job:
 
-<img src="/assets/5volt14web.jpg"/>
+<img src="/assets/5volt14web.jpeg"/>
 
 After reattaching the camera, I plugged in the USB cable and called it a day:
 
-<img src="/assets/5volt15web.jpg"/>
+<img src="/assets/5volt15web.jpeg"/>
 
 Now, the only thing to remember is if the Sprinter auto-lights sensor has not turned on the lights and running lights due to low ambient light conditions, you'll have to manually turn on the lights yourself to charge the camera battery to keep it topped up.  With the battery charge indicator on the cab monitor always visible, that should not be difficult to remember to do.
 
