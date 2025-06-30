@@ -33,6 +33,9 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
+July 2025 - <b>A Better Location for a USB Outlet</b> - <a href = "/ourmods/morepower/ ">  More Power Take 2 </a>
+<br>
+<br>
 June 2025 - <b>Installing a new Heat Pump</b> - <a href = "/ourmods/houghtonrvheatpumpreplacement/ ">  Houghton RecPro A3800 </a>
 <br>
 <br>
