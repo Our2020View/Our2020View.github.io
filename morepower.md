@@ -77,7 +77,7 @@ Notes:
 
 <a href = "https://www.youtube.com/watch?v=HUJDexXDjm0&list=PLrrS07NUXCMdduq5GoynST9poRQp055rq&index=23&t=620s " target="_blank">All about RV’s – Electrical Wiring </a>
 
-Phase II - A Better Location for a USB Outlet
+<h2> Phase II - A Better Location for a USB Outlet </h2>
 
 Well, after a few years of using the new USB outlet down by my feet, I’ve decided that I don’t like the charging chord being snagged by my leg, or getting tangled with things on the dinette seats.  Sometimes with the laptop plugged in, and both a phone and a tablet charging, there is just way too many wires everywhere ...
 
@@ -116,6 +116,7 @@ With the wiring all complete, I reattached the protective box on the original co
 When I’m not using charge cables, they can be hidden from view behind the cushions.
 
 A small mod, but I’m finding it pretty useful.  The original USB button down by my feet still gets used every now and then as well.  It seems you can’t have too many USB power sources!
+
 
 <br>
 
