@@ -81,13 +81,13 @@ Notes:
 
 Well, after a few years of using the new USB outlet down by my feet, I decided that I didn’t like the charging chords being snagged by my leg, or getting tangled with things on the dinette seats.  Sometimes with the laptop plugged in, and both a phone and a tablet charging, there are just way too many wires down at my end ...
 
-So, I came up with the idea to install another USB button at the very back of the side storage cubby, up top in the right hand corner:
+So, I came up with the idea to install another USB button at the very back of the side storage box, up top in the right hand corner:
 
 <img src="/assets/webusb1a.jpeg"/>
 
 With a plug for charge cables back there, the cables can be run behind the side wall dinette cushion and pop out in the corner of the dinette where I usually keep my devices.
 
-I made a bracket for a USB button out of 3/4” plywood, and mounted it to the front wall of the storage cubby – back in this corner, a 3 foot charge cable can easily reach to the corner of the dinette:
+I made a bracket for a USB button out of 3/4” plywood, and mounted it to some structure on the front wall of the storage box – back in this corner, a 3 foot charge cable can easily reach to the corner of the dinette:
 
 <img src="/assets/webusb2.jpeg"/>
 
