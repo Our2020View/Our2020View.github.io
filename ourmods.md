@@ -54,25 +54,6 @@ September 2024 - <b>Fixing the drone from our Air Conditioner</b> - <a href = "/
 May 2024 - <b>Adding a Refrigerant Port to the Air Conditioner</b> - <a href = "/ourmods/airconditioningservice/ ">  Don't throw your AC away! </a>
 <br>
 <br>
-November 2023 - <b>120 Volt Outlet Timers</b> - <a href = "/ourmods/greatgadgets/ ">  Control the Loads supplied by your Inverter </a>
-<br>
-<br>
-September 2023 - <b>Tank Heater Retrofit</b> - <a href = "/ourmods/tankheaters/ ">  Heating Pads that actually Work </a>
-<br>
-<br>
-September 2023 - <b>Kitchen Towel Rod</b> - <a href = "/ourmods/miscmods/ ">  "Isn't that handy?" </a>
-<br>
-<br>
-August 2023 - <b>Full-Time Rear View Monitor</b> - <a href = "/ourmods/rearmirror/ ">  Auto-Vox Solar 4 </a>
-<br>
-<br>
-August 2023 - <b>Adding a SeeLevel II Monitor</b> - <a href = "/ourmods/seelevel/ ">  "How much water do we have, really?" </a>
-<br>
-<br>
-July 2023 - <b>Replacing the SunPower Panels</b> - <a href = "/ourmods/newsolar/ ">  Now 400 Watts of Renogy solar </a>
-<br>
-<br>
-
 
 That's the recent material - below are all of the mods that we have previously implemented to improve the functionality of our 2020 Winnebago View 24J:
 
