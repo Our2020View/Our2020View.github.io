@@ -83,7 +83,7 @@ Well, after a few years of using the new USB outlet down by my feet, I’ve deci
 
 So, I came up with the idea to install another USB button at the very back of the side storage cubby, up top in the right hand corner:
 
-<img src="/assets/webusb1.jpeg"/>
+<img src="/assets/webusb1a.jpeg"/>
 
 With a plug for charge cables back there, the cables can be run behind the side wall dinette cushion and pop out in the corner of the dinette where I usually keep my devices.
 
