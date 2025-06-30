@@ -77,7 +77,7 @@ Notes:
 
 <a href = "https://www.youtube.com/watch?v=HUJDexXDjm0&list=PLrrS07NUXCMdduq5GoynST9poRQp055rq&index=23&t=620s " target="_blank">All about RV’s – Electrical Wiring </a>
 
-<h2> Phase II - A Better Location for a USB Outlet </h2>
+<h2> Take 2 - A Better Location for a USB Outlet </h2>
 
 Well, after a few years of using the new USB outlet down by my feet, I’ve decided that I don’t like the charging chord being snagged by my leg, or getting tangled with things on the dinette seats.  Sometimes with the laptop plugged in, and both a phone and a tablet charging, there is just way too many wires everywhere ...
 
