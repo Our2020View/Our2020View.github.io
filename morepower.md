@@ -79,7 +79,7 @@ Notes:
 
 <h2> Take 2 - A Better Location for a USB Outlet </h2>
 
-Well, after a few years of using the new USB outlet down by my feet, I decided that I didn’t like the charging chords being snagged by my leg, or getting tangled with things on the dinette seats.  Sometimes with the laptop plugged in, and both a phone and a tablet charging, there are just way too many wires everywhere down at my end ...
+Well, after a few years of using the new USB outlet down by my feet, I decided that I didn’t like the charging chords being snagged by my leg, or getting tangled with things on the dinette seats.  Sometimes with the laptop plugged in, and both a phone and a tablet charging, there are just way too many wires down at my end ...
 
 So, I came up with the idea to install another USB button at the very back of the side storage cubby, up top in the right hand corner:
 
