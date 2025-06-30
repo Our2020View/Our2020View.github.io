@@ -77,6 +77,46 @@ Notes:
 
 <a href = "https://www.youtube.com/watch?v=HUJDexXDjm0&list=PLrrS07NUXCMdduq5GoynST9poRQp055rq&index=23&t=620s " target="_blank">All about RV’s – Electrical Wiring </a>
 
+Phase II - A Better Location for a USB Outlet
+
+Well, after a few years of using the new USB outlet down by my feet, I’ve decided that I don’t like the charging chord being snagged by my leg, or getting tangled with things on the dinette seats.  Sometimes with the laptop plugged in, and both a phone and a tablet charging, there is just way too many wires everywhere ...
+
+So, I came up with the idea to install another USB button at the very back of the side storage cubby, up top in the right hand corner:
+
+<img src="/assets/webusb1.jpeg"/>
+
+With a plug for charge cables back there, the cables can be run behind the side wall dinette cushion and pop out in the corner of the dinette where I usually keep my devices.
+
+I made a bracket for a USB button out of 3/4” plywood, and mounted it to the front wall of the storage cubby – back in this corner, a 3 foot charge cable can easily reach to the corner of the dinette:
+
+<img src="/assets/webusb2.jpeg"/>
+
+To get power to the new USB button, I removed the protective box from the original mods, and tapped into the 12 volt wires that are powering the original USB button:
+
+<img src="/assets/webusb3.jpeg"/>
+
+<img src="/assets/webusb4.jpeg"/>
+
+I added some PEX tubing to protect the new wires, and attached the power and ground wires to the new USB button using spade connectors:
+
+<img src="/assets/webusb7.jpeg"/>
+
+<img src="/assets/webusb5.jpeg"/>
+
+I added a few inches of 3/4” protective loom to guard against tall cargo rubbing on the connectors:
+
+<img src="/assets/webusb6.jpeg"/>
+
+With the wiring all complete, I reattached the protective box on the original components, plugged in a charge cable, and routed it up behind the side wall cushioning of the dinette:
+
+<img src="/assets/webusb8.jpeg"/>
+
+<img src="/assets/webusb10.jpeg"/>
+
+When I’m not using charge cables, they can be hidden from view behind the cushions.
+
+A small mod, but I’m finding it pretty useful.  The original USB button down by my feet still gets used every now and then as well.  It seems you can’t have too many USB power sources!
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
