@@ -17,7 +17,7 @@ Here is a photo of the circuit breaker panel on the outboard side of the passeng
 
 Awningpower1.jpg
 
-The switch we chose is the same switch that locks the coach steps in the extended position when the coach door is closed.  We wanted a locking switch, so it would take an intentional decision to provide power to the awning circuit.  We were used to this switch controlling the steps, so it was an easy choice to select this one:
+The switch we chose is the same type of switch that locks the coach steps in the extended position when the coach door is closed.  We wanted a locking switch, so it would take an intentional decision to provide power to the awning circuit.  We were used to this switch controlling the steps, so it was an easy choice to select this one:
 
 awningpower2
 
