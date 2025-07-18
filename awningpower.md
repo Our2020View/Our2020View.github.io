@@ -23,7 +23,7 @@ awningpower2
 
 The only snag with this switch from Winnebago (purchased from Lichtsinn in Forest City) was the switch logic was backward to what we wanted.  We wanted the switch to break the power when selected to OFF, unlike the step’s logic that OFF means the stairs “auto retract” function is active, and it takes an intentional decision to not have the steps retract when the door is closed.  At any rate, I had to take apart the switch and reverse the internal poles to make it behave the way we wanted it to.
 
-The Installation
+<h2> The Installation </h2>
 
 Removing the passenger seat was easily done with the removal of four Torz 12 head bolts, and sliding it inboard to rest on a makeshift support provided the necessary elbow room.  There is only one cable bundle attached to the seat, and there is plenty of room for the seat to be repositioned without having to remove the connector.
 
