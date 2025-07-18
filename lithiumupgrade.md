@@ -54,7 +54,7 @@ Replicating what Winnebago had done regarding cable placement got us up and runn
 
 <img src="/assets/batteryinstall6web.jpg"/>
 
-After the installation, reprograming of the Xantrex charger / inverter and the Zamp solar controller to account for the new lithium batteries was very straightforward.  Telling the Xantrex and Zamp controller about the new batteries ensures optimum charging.  The user's guide for each of these systems details the easy reprograming procedure.
+After the installation, reprograming of the Xantrex charger / inverter and Zamp solar controller to account for the new lithium batteries was very straightforward.  Telling the Xantrex and the Zamp controller about the new batteries ensures optimum charging.  The user's guide for each of these systems details the easy reprograming procedure.
 
 So, how do we like these batteries?  Well, we are thrilled with them.  In a load test I did, the advertised amp hour rating was shown to be conservative and the performance was jaw dropping compared to my experience with lead acid batteries, even AGM batteries.  (The factory batteries were not AGM batteries, so this is a huge step up in performance.)
 
