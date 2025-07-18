@@ -54,6 +54,8 @@ Replicating what Winnebago had done regarding cable placement got us up and runn
 
 <img src="/assets/batteryinstall6web.jpg"/>
 
+After the installation, reprograming of the Xantrex charger / inverter and Zamp solar controller to account for the new lithium batteries was very straightforward.  Telling the Xantrex and Zamp controller about the new batteries ensures optimum charging.  The user's guide for each of these systems details the easy reprograming procedure.
+
 So, how do we like these batteries?  Well, we are thrilled with them.  In a load test I did, the advertised amp hour rating was shown to be conservative and the performance was jaw dropping compared to my experience with lead acid batteries, even AGM batteries.  (The factory batteries were not AGM batteries, so this is a huge step up in performance.)
 
 In the test I did, at the recommnedation of the vendor who sold me the  batteries, I hooked up a heater and used the 750 watt setting to watch the performance.  My Victron BMV 712 bluetooth app was handy to see everything unfold.  Doing the arithmetic, I calculated that I should get 2.5 hours of heater operation out of the 200 amp hours of available Battle Born power - these batteries are really 105 amp hours each, but I like to be conservative and use 100.  In the end, I exceeded 2.5 hours and also got more than 200 amp hours before I ended the test.  I had expected the batteries to shut down at around 10 volts, but as you can see from the screen shot below, they were still humming along at less than 10 volts!  It was here that I chickened out and ended the test.  (I don't know about you, but I was very impressed that these things would push out 85 to 95 amps for over 2.5 hours!)
