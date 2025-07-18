@@ -39,7 +39,7 @@ With the cutting done, I moved on to the easy part of wiring up the switch.  The
 
 awningpower5
 
-My chosen location for the switch did not take into account mounting the switch faceplate – Doh.  It was going to be very difficult to get a drill bit into the area of the two left hand faceplate holes, so I chose to mount the face plate using some 3M 4950 VHB tape.  This saved me having to drill into the pedestal again, and risking the drill bit dancing around a bit and marring the surface, even with my best attempts to create a good enough starting point with a centre punch.
+My chosen location for the switch did not take into account mounting the switch faceplate – Doh.  It was going to be very difficult to get a drill bit into the area of the two left hand faceplate holes, so I chose to mount the face plate using some 3M 4950 VHB tape.  This saved me having to drill into the pedestal again, and risking the drill bit potentially dancing around and marring the surface - even with my best attempts to create a good enough starting point with a centre punch.
 
 Here is how it ended up looking:
 
