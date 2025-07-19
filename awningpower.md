@@ -21,7 +21,7 @@ The switch we chose is the same type of switch that locks the coach steps in the
 
 <img src="/assets/webawningpower2.jpeg"/>
 
-The only snag with this switch from Winnebago (purchased from Lichtsinn in Forest City) was the switch logic was backward to what we wanted.  We wanted the switch to break the power when selected to OFF, unlike the step’s logic that OFF means the stairs “auto retract” function is active, and it takes an intentional decision to not have the steps retract when the door is closed.  At any rate, I had to take apart the switch and reverse the internal poles to make it behave the way we wanted it to: the switch hard locked to interrupt power to the awning control circuit.
+The only snag with this switch from Winnebago (purchased from Lichtsinn in Forest City) was the switch logic was backward to what we wanted.  We wanted the switch to break the power when selected to OFF, unlike the step’s logic that OFF actually closes the contacts and allows some inhibit logic in the step control.  At any rate, I had to take apart the switch and reverse the internal poles to make it behave the way we wanted it to: the switch locked to interrupt power to the awning control circuit.
 
 <h2> The Installation </h2>
 
