@@ -41,7 +41,7 @@ With the cutting done, and the pedestal area thoroughly vacummed, I moved on to 
 
 <img src="/assets/webawningpower5.jpeg"/>
 
-My chosen location for the switch did not take into account mounting the switch faceplate – Doh.  It was going to be very difficult to get a drill bit into the area of the two left hand faceplate holes, so I chose to mount the face plate using some 3M 4950 VHB tape.  
+My chosen location for the switch did not take into account mounting the switch faceplate – Doh.  It was going to be very difficult to get a drill bit into the area of the two left hand faceplate holes, so I chose to mount the face plate using some 3M 4950 VHB tape.  Also, I put a piece of tape over the misworded "Step" on the switch body.  
 
 Here is how things ended up looking from the inside:
 
@@ -49,7 +49,7 @@ Here is how things ended up looking from the inside:
 
 And, from the outside:
 
-<img src="/assets/webawningpower7.jpeg"/>
+<img src="/assets/webawningpower7b.jpeg"/>
 
 We’re going to be looking at this switch everytime we jump in the motorhome to drive away, so I was determined to have it looking presentable.  I don't have a label machine, but I'll figure out someway to match the Winnebago labels on the CB panel cover.  I'm going to call the switch the "Awning Circuit Power" switch, to make it clear that it is power to the entire awning system, including the awning controller and drive motor.
 
