@@ -252,13 +252,13 @@ That's the recent material - below are all of the mods that we have previously i
 
 <div class="row">
     <div class="column" style="background-color:white;">
-    <h3>Tank Heaters Retrofit</h3>
-    <p>Heating Pads that Work</p>
-    <img src="/assets/webtankheaters7.jpg" title="Mod Thumbnail" width="217.25" height="163">
+    <h3>Alternative to the Awning Recall</h3>
+    <p>Keep your Coach at Home</p>
+    <img src="/assets/webawningpower8.jpeg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/tankheaters/'"> READ MORE </button>
+            onclick="location.href = '/ourmods/awningpower/'"> READ MORE </button>
     </div>
  </div> 
  
