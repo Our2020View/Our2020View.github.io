@@ -41,10 +41,14 @@ awningpower5
 
 My chosen location for the switch did not take into account mounting the switch faceplate – Doh.  It was going to be very difficult to get a drill bit into the area of the two left hand faceplate holes, so I chose to mount the face plate using some 3M 4950 VHB tape.  This saved me having to drill into the pedestal again, and risking the drill bit potentially dancing around and marring the surface - even with my best attempts to create a good enough starting point with a centre punch.
 
-Here is how it ended up looking:
+Here is things ended up looking from the inside:
 
 awningpower6
 
-We’re going to be looking at this switch everytime we jump in the motorhome to drive away, so I was determined to have it looking presentable.
+And, from the outside:
+
+awningpower7
+
+We’re going to be looking at this switch everytime we jump in the motorhome to drive away, so I was determined to have it looking presentable.  I don't have a label machine, but I'll figure out someway to match the Winnebago labels on the CB panel cover.
 
 Working as intended.  No awning deployments to ruin the day...
