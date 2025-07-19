@@ -17,7 +17,7 @@ Here is a photo of the circuit breaker panel on the outboard side of the passeng
 
 <img src="/assets/webawningpower1.jpeg"/>
 
-Now, having a locking switch to perform that job would be more convenient, for sure.  The switch we chose is the same type of switch that locks the coach steps in the 'auto retract" position when the coach door is closed. We wanted a locking switch, so it would take an intentional decision to provide power to the awning circuit.  We were used to this type of switch controlling the steps, so it was an easy choice to make:
+Now, having a locking switch to perform that job would certainly be more convenient, for sure.  The switch we chose is the same type of switch that locks the coach steps in the 'auto retract" position when the coach door is closed. We wanted a locking switch, so it would take an intentional decision to provide power to the awning circuit.  We were used to this type of switch controlling the steps, so it was an easy choice to make:
 
 <img src="/assets/webawningpower2.jpeg"/>
 
