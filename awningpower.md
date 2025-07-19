@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alternative to the Awning Recall | RV Mods
+title: Alternative to Awning Recall | RV Mods
 description: No Sails on this Motorhome
 permalink: /ourmods/awningpower/
 ---
