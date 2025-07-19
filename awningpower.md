@@ -25,7 +25,7 @@ The only snag with this switch from Winnebago (purchased from Lichtsinn in Fores
 
 <h2> The Installation </h2>
 
-I started by isolating the coach batteries from the coach using our handy coach battery isolation switch, and them isolating the Sprinter chassis battery by using the ground wire disconnect in the cubby down by the accelerator pedal.  I probably should have disconnected the auxillary battery under the driver's seat as well, as opening and closing the driver's door resulted in a small motor hum, somewhere, that must be associated with the auxillary battery.  Since the auxillary battery is responsible for a control function in the transmission during times of a dead chassis battery, maybe that is what I was hearing.  Don't know, but I didn't worry about it.
+I started by isolating the coach batteries from the coach using our handy coach battery isolation switch, and then isolating the Sprinter chassis battery by using the ground wire disconnect in the cubby down by the accelerator pedal.  I probably should have disconnected the auxillary battery under the driver's seat as well, as opening and closing the driver's door resulted in a small motor hum, somewhere, that must be associated with the auxillary battery.  Since the auxillary battery is responsible for a control function in the transmission during times of a dead chassis battery, maybe that is what I was hearing.  Don't know, but I didn't worry about it.
 
 Removing the passenger seat was easily done with the removal of four Torx 12 head bolts, and sliding it inboard to rest on a makeshift support provided the necessary elbow room.  There is only one cable bundle attached to the seat, so there is plenty of room for the seat to be repositioned without having to remove the connector.
 
