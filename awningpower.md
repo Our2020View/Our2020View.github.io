@@ -49,7 +49,7 @@ Here is how things ended up looking from the inside:
 
 And, from the outside:
 
-<img src="/assets/webawningpower7b.jpeg"/>
+<img src="/assets/webawningpower11.jpeg"/>
 
 We’re going to be looking at this switch everytime we jump in the motorhome to drive away, so I was determined to have it looking presentable.  I painted over some scratches I made while cutting, and plan on adding a label in that same area to make it look completely finished. I'm going to call the switch the "Awning Circuit Power" switch, to make it clear that it is power to the entire awning system, including the awning controller and drive motor.
 
