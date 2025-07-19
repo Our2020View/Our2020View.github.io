@@ -83,6 +83,8 @@ And this is our electrical system, showing some of the electrical mods we have d
 
 [5 Volt Exterior Power for the Rear Camera](/ourmods/fivevoltpower/)
 
+[Alternative to the Winnebago Power Awning Recall](/ourmods/awningpower/)
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
