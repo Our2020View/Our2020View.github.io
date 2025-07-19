@@ -37,7 +37,7 @@ Using a combination of ever increasing drill bit sizes, hand size hack saw, osci
 
 <img src="/assets/webawningpower4.jpeg"/>
 
-With the cutting done, I moved on to the easy part of wiring up the switch.  The yellow power wire from Winnebago to the awning circuit breaker was of very generous length, so that allowed me to cut it in the middle, add a spade connector to each cut, and easily connect the spade connectors to the switch.  Here is a photo of the wiring temporarily mocked up – one half of the cut wire attaches to one pole of the switch, and the other half of the cut wire attaches to the other pole of the switch.  All this switch does is break the continuity of the Winnebago power wire that attaches to the circuit breaker.  The awning circuit breaker can be seen in the photo in the middle of the bottom row:
+With the cutting done, and the pedestal area thoroughly vacummed, I moved on to the easy part of wiring up the switch.  The yellow power wire from Winnebago to the awning circuit breaker was of very generous length, so that allowed me to cut it in the middle, add a spade connector to each cut, and easily connect the spade connectors to the switch.  Here is a photo of the wiring temporarily mocked up – one half of the cut wire attaches to one pole of the switch, and the other half of the cut wire attaches to the other pole of the switch.  All this switch does is break the continuity of the Winnebago power wire that attaches to the circuit breaker.  The awning circuit breaker can be seen in the photo in the middle of the bottom row:
 
 <img src="/assets/webawningpower5.jpeg"/>
 
