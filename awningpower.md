@@ -25,7 +25,7 @@ The only snag with this switch from Winnebago (purchased from Lichtsinn in Fores
 
 <h2> The Installation </h2>
 
-Removing the passenger seat was easily done with the removal of four Torz 12 head bolts, and sliding it inboard to rest on a makeshift support provided the necessary elbow room.  There is only one cable bundle attached to the seat, and there is plenty of room for the seat to be repositioned without having to remove the connector.
+Removing the passenger seat was easily done with the removal of four Torx 12 head bolts, and sliding it inboard to rest on a makeshift support provided the necessary elbow room.  There is only one cable bundle attached to the seat, and there is plenty of room for the seat to be repositioned without having to remove the connector.
 
 The location for the switch we chose was right beside the circuit breaker panel, within easy reach of the awning wiring from Winnebago. It literaly took me a couple of years to firm up this decision, as I knew that cutting into the pedestal was not going to be a walk in the park.  I mean, there is a reason why they build a seat pedestal out of this gauge of steel.  But, with a test hole drilled, there was no turning back ...
 
