@@ -33,6 +33,9 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
+July 2025 - <b>Alternative to the Awning Recall</b> - <a href = "/ourmods/awningpower/ ">  No Power, No Awning </a>
+<br>
+<br>
 July 2025 - <b>A Better Location for a USB Outlet</b> - <a href = "/ourmods/morepower/ ">  More Power Take 2 </a>
 <br>
 <br>
