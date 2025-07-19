@@ -252,8 +252,8 @@ That's the recent material - below are all of the mods that we have previously i
 
 <div class="row">
     <div class="column" style="background-color:white;">
-    <h3>Alternative to Awning Recall</h3>
-    <p>Keep your Coach at Home</p>
+    <h3>Awning Recall Option</h3>
+    <p>A Simple Alternative</p>
     <img src="/assets/webawningpower8.jpeg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
