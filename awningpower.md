@@ -15,11 +15,11 @@ This mod adds a switch upstream of the 12 volt awning circuit breaker, to allow 
 
 Here is a photo of the circuit breaker panel on the outboard side of the passenger seat pedestal.  You can see that the awning breaker is in the centre of the bottom row, and there is no breaker above it.  It was very easy to reach in under the dust cover protecting the wiring under the seat, and remove the spade connector on the awning circuit breaker during the times when we did not want the awning circuit to be powered.  But, having a locking switch to perform that job would be more convenient, for sure:
 
-Awningpower1.jpg
+<img src="/assets/webawningpower1.jpeg"/>
 
 The switch we chose is the same type of switch that locks the coach steps in the extended position when the coach door is closed.  We wanted a locking switch, so it would take an intentional decision to provide power to the awning circuit.  We were used to this type of switch controlling the steps, so it was an easy choice to select this one:
 
-awningpower2
+<img src="/assets/webawningpower2.jpeg"/>
 
 The only snag with this switch from Winnebago (purchased from Lichtsinn in Forest City) was the switch logic was backward to what we wanted.  We wanted the switch to break the power when selected to OFF, unlike the step’s logic that OFF means the stairs “auto retract” function is active, and it takes an intentional decision to not have the steps retract when the door is closed.  At any rate, I had to take apart the switch and reverse the internal poles to make it behave the way we wanted it to: the switch hard locked to interrupt power to the awning control circuit.
 
@@ -29,25 +29,25 @@ Removing the passenger seat was easily done with the removal of four Torz 12 hea
 
 The location for the switch we chose was right beside the circuit breaker panel, within easy reach of the awning wiring from Winnebago. It literaly took me a couple of years to firm up this decision, as I knew that cutting into the pedestal was not going to be a walk in the park.  I mean, there is a reason why they build a seat pedestal out of this gauge of steel.  But, with a test hole drilled, there was no turning back ...
 
-awningpower3
+<img src="/assets/webawningpower3.jpeg"/>
 
 Using a combination of ever increasing drill bit sizes, hand size hack saw, oscillating saw, and then a Dremel tool with a metal shaping bit, I was able to create the necessary hole size.  I covered up the circuity under the seat, and added some makeshift trays, inside and out, to catch the swarf from the cutting that I needed to do.  I didn’t want loose metal filings in the pedestal circuitry.
 
-Awningpower4
+<img src="/assets/webawningpower4.jpeg"/>
 
 With the cutting done, I moved on to the easy part of wiring up the switch.  The yellow power wire from Winnebago to the awning circuit breaker was of very generous length, so that allowed me to cut it, add a spade connector to each cut, and easily connect the spade connectors to the switch.  Here is a photo of the wiring temporarily mocked up – one half of the cut wire attaches to one pole of the switch, and the other half of the cut wire attaches to the other pole of the switch.  All I did was add a method to break the continuity of the wire that attaches to the circuit breaker, so attaching either wire to either pole was Ok.  The awning circuit breaker can be seen in the photo in the middle of the bottom row:
 
-awningpower5
+<img src="/assets/webawningpower5.jpeg"/>
 
 My chosen location for the switch did not take into account mounting the switch faceplate – Doh.  It was going to be very difficult to get a drill bit into the area of the two left hand faceplate holes, so I chose to mount the face plate using some 3M 4950 VHB tape.  
 
 Here is how things ended up looking from the inside:
 
-awningpower6
+<img src="/assets/webawningpower6.jpeg"/>
 
 And, from the outside:
 
-awningpower7
+<img src="/assets/webawningpower7.jpeg"/>
 
 We’re going to be looking at this switch everytime we jump in the motorhome to drive away, so I was determined to have it looking presentable.  I don't have a label machine, but I'll figure out someway to match the Winnebago labels on the CB panel cover.
 
