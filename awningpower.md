@@ -33,7 +33,7 @@ The location for the switch we chose was right beside the circuit breaker panel,
 
 <img src="/assets/webawningpower3.jpeg"/>
 
-Using a combination of ever increasing drill bit sizes, hand size hack saw, oscillating saw, and then a Dremel tool with a metal shaping bit, I was able to create the necessary hole size.  I covered up the circuity under the seat, and added some makeshift trays, inside and out, to catch the swarf from the cutting that I needed to do.  I didn’t want loose metal filings in the pedestal circuitry.
+Using a combination of ever increasing drill bit sizes, hand size hack saw, oscillating saw, and then a Dremel tool with a metal shaping bit, I was able to create the necessary hole size.  (I covered up the circuity under the seat, and added some makeshift trays, inside and out, to catch the swarf from the cutting that I needed to do.  I didn’t want loose metal filings in the pedestal circuitry.)
 
 <img src="/assets/webawningpower4.jpeg"/>
 
