@@ -17,7 +17,7 @@ To prove to myself that this concept was going to be bulletproof, I located the 
 
 <img src="/assets/webmodulestatus1.jpg"/>
 
-With power removed from the control module, manual activation of the awning using the in coach switch was not possible.  (An interesting sidenote - on our 2021 View on a 2020 Sprinter chassis the ignition lockout for the awning worked just fine.  If the Sprinter was running, the awning would not extend when the control module was powered.)
+With power removed from the control module, manual operation of the awning using the in coach switch was not possible.  (A good news interesting sidenote - on our 2021 View on a 2020 Sprinter chassis the ignition lockout for the awning worked just fine.  If the Sprinter was running, the awning would not extend when the control module was powered.)
 
 This mod adds a switch upstream of the 12 volt 15 amp awning circuit breaker, to allow a more convenient method of controlling power flow through the breaker to the awning control circuit and module.
 
