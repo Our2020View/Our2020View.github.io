@@ -55,7 +55,7 @@ With the cutting done, and the pedestal area thoroughly vacummed, I moved on to 
 
 My chosen location for the switch did not take into account mounting the switch faceplate – Doh.  It was going to be very difficult to get a drill bit into the area of the two left hand faceplate holes, so I chose to mount the face plate using some 3M 4950 VHB tape.  Also, I put a piece of tape over the misworded "Step" on the switch body.  
 
-Here is how things ended up looking from the inside:
+Here is how things ended up looking from the inside - after this photo I wrapped the switch contacts with electrical tape:
 
 <img src="/assets/webawningpower6.jpeg"/>
 
