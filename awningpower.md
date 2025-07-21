@@ -9,7 +9,7 @@ The power awning recall that first arose in late 2022 / early 2023 certainly cau
 
 After looking at our awning closely and determining that there was no way for that awning to extend without electrical power driving the motor, we elected to remove power to the awning circuit by interupting the power at the 12 volt circuit breaker in the circuit breaker panel - on the outboard side of the passenger seat pedestal.  No power, no eroneous command to the awning motor to do its thing.
 
-Here is a photo of the circuit breaker panel on the outboard side of the passenger seat pedestal.  You can see that the 15 amp awning breaker is in the centre of the bottom row, and there is no breaker above it.  It was very easy to reach in under the dust cover protecting the wiring under the seat, and remove the spade connector on the awning circuit breaker during - the times when we did not want the awning circuit to be powered:
+Here is a photo of the circuit breaker panel on the outboard side of the passenger seat pedestal.  You can see that the 15 amp awning breaker is in the centre of the bottom row, and there is no breaker above it.  It was very easy to reach in under the dust cover protecting the wiring under the seat, and remove the spade connector on the awning circuit breaker - during the times when we did not want the awning circuit to be powered:
 
 <img src="/assets/webawningpower1.jpeg"/>
 
