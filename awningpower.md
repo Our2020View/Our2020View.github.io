@@ -21,9 +21,11 @@ With power removed from the control module, manual operation of the awning using
 
 This mod adds a switch upstream of the 12 volt 15 amp awning circuit breaker, to allow a more convenient method of controlling power flow through the breaker to the awning control circuit and module.
 
-The switch we chose is the same type of switch that locks the coach steps in the 'auto retract" position when the coach door is closed. We wanted a locking switch, so it would take an intentional decision to provide power to the awning circuit.  This type of switch is rated for the current that will be seen in the feed to the awning circuit breaker.  We were used to this type of switch controlling the steps, so it was an easy choice to make:
+The switch we chose is the same type of switch that locks the coach steps in the 'auto retract" position when the coach door is closed. We wanted a locking switch, so it would take an intentional decision to provide power to the awning circuit.  We were used to this type of switch controlling the steps, so it was an easy choice to make:
 
 <img src="/assets/webawningpower2.jpeg"/>
+
+This switch is rated for 20 amps, so it is plenty capable for the current that will be seen in the feed to the 15 amp awning circuit breaker.
 
 The only snag with this switch from Winnebago (purchased from Lichtsinn in Forest City) was the switch logic was backward to what we wanted.  We wanted the switch to break the power when selected to OFF, unlike the step’s logic that OFF actually closes the contacts and allows some inhibit logic in the "auto retract" step control.  At any rate, I had to take apart the switch and reverse the internal poles to make it behave the way we wanted it to: the switch locked to interrupt power to the awning circuit breaker and control circuit.
 
