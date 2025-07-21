@@ -13,7 +13,7 @@ Here is a photo of the circuit breaker panel on the outboard side of the passeng
 
 <img src="/assets/webawningpower1.jpeg"/>
 
-To prove to myself that this concept was going to be bulletproof, I located the awning control module in the trim panel above the door, and used the module power light as confirmation that the power to the controller is severed when the circuit breaker wiring is interupted.  (The Carefree awning operator's supplement that Winnebago supplies confirms that this light is the indication that power is being fed to the control module.)  Here is a photo of the module power light with power to the breaker / power removed from the breaker:
+To prove to myself that this concept was going to be bulletproof, I located the awning control module in the trim panel above the coach entry door, and used the module power light as confirmation that the power to the controller is severed when the circuit breaker wiring is interupted.  (The Carefree awning operator's supplement that Winnebago supplies confirms that this light is the indication that power is being fed to the control module.)  Here is a photo of the module power light with power to the breaker / power removed from the breaker:
 
 <img src="/assets/webmodulestatus1.jpg"/>
 
