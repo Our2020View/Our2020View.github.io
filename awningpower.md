@@ -9,13 +9,18 @@ The power awning recall that first arose in late 2022 / early 2023 certainly cau
 
 After looking at our awning closely and determining that there was no way for that awning to extend without electrical power driving the motor, we elected to remove power to the awning circuit by interupting the power at the 12 volt circuit breaker in the circuit breaker panel - on the outboard side of the passenger seat pedestal.  No power, no eroneous command to the awning motor to do its thing.
 
-Winnebago’s first attempt to fix the problem involved a mechanical fix to provide separation from the problematic electrical components, and then their second recall got a little more complicated – utilizing the park brake module to potentially determine when the awning would be safe to deploy by the owner.  Also, the second recall involved some firmware updates to the awning control circuit.  Folks have been having some significant problems with both recalls, with unintended consequences causing them serious grief.  We like to keep things simple, and not wanting to trust our Winnebago dealer, or Winnebago engineering, with getting things right without losing our coach for weeks and months, we’ve gone back to the basics.  With no power at the awning circuit, there will be no power to drive the motor unintenionally – whatever the cause.
-
-This mod adds a switch upstream of the 12 volt awning circuit breaker, to allow a more utilitarian method of controlling power flow to the awning control circuit.
-
 Here is a photo of the circuit breaker panel on the outboard side of the passenger seat pedestal.  You can see that the awning breaker is in the centre of the bottom row, and there is no breaker above it.  It was very easy to reach in under the dust cover protecting the wiring under the seat, and remove the spade connector on the awning circuit breaker during the times when we did not want the awning circuit to be powered:
 
 <img src="/assets/webawningpower1.jpeg"/>
+
+To prove to myself that this concept was going to be bulletproof, I located the awning control module in the trim panel above the door, and used the module power light as confirmation that the power to the control module is severed when the circuit breaker wiring is interupted.  (The Carefree awning operator's supplement that Winnebago supplies confirms that this light is the indication that power is being fed to the control module.)  Here is a photo of the module power light with power to the breaker / power removed from the breaker:
+
+
+<img src="/assets/webmodulestatus1.jpeg"/>
+
+Winnebago’s first attempt to fix the problem involved a mechanical fix to provide separation from the problematic electrical components, and then their second recall got a little more complicated – utilizing the park brake module to potentially determine when the awning would be safe to deploy by the owner.  Also, the second recall involved some firmware updates to the awning control circuit. Folks have been having some significant problems with both recalls, with unintended consequences causing them serious grief.  We like to keep things simple, and not wanting to trust our Winnebago dealer, or Winnebago engineering, with getting things right without losing our coach for weeks and months, we’ve gone back to the basics.  With no power at the awning circuit, there will be no power to drive the motor unintenionally – whatever the cause.
+
+This mod adds a switch upstream of the 12 volt awning circuit breaker, to allow a more utilitarian method of controlling power flow to the awning control circuit.
 
 Now, having a locking switch to perform that job would certainly be more convenient, for sure.  The switch we chose is the same type of switch that locks the coach steps in the 'auto retract" position when the coach door is closed. We wanted a locking switch, so it would take an intentional decision to provide power to the awning circuit.  We were used to this type of switch controlling the steps, so it was an easy choice to make:
 
