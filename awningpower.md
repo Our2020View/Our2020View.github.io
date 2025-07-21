@@ -25,7 +25,7 @@ The switch we chose is the same type of switch that locks the coach steps in the
 
 <img src="/assets/webawningpower2.jpeg"/>
 
-The only snag with this switch from Winnebago (purchased from Lichtsinn in Forest City) was the switch logic was backward to what we wanted.  We wanted the switch to break the power when selected to OFF, unlike the step’s logic that OFF actually closes the contacts and allows some inhibit logic in the "auto retract" step control.  At any rate, I had to take apart the switch and reverse the internal poles to make it behave the way we wanted it to: the switch locked to interrupt power to the awning control circuit.
+The only snag with this switch from Winnebago (purchased from Lichtsinn in Forest City) was the switch logic was backward to what we wanted.  We wanted the switch to break the power when selected to OFF, unlike the step’s logic that OFF actually closes the contacts and allows some inhibit logic in the "auto retract" step control.  At any rate, I had to take apart the switch and reverse the internal poles to make it behave the way we wanted it to: the switch locked to interrupt power to the awning circuit breaker and control circuit.
 
 Winnebago’s first attempt to fix the problem involved a mechanical fix to provide separation from the problematic electrical components, and then their second recall got a significantly more complicated – utilizing the park brake module, and a second power supply from the chassis, to potentially determine when the awning would be safe to deploy by the owner.  Also, the second recall involved some firmware updates to the awning control circuit. Have a look at Recall 179 from Winnebago:
 
