@@ -67,7 +67,7 @@ We’re going to be looking at this switch everytime we jump in the motorhome to
 
 Before we wrap this one up, I'd like to point out that in no way is this modification to our 2021 View supposed to be as carefree as the Winnebago Recall 179.  In our case, after using the awning, if we forget to turn the "Awning Circuit Power" switch back to the OFF locked postion, we'll be driving around with the original factory awning configuration that Winnebago is trying to correct with their recall.  (I'll add the new switch to my departure walk-around as part of the process to ensure the awning is electrically disabled.)  We don't know if our View is one of the coaches where this failure is lurking, but, in our case, we're making the intentional decision that we'd rather drive around with the awning system disabled than have a complicated and intricate recall done to both the Sprinter chassis and the coach. 
 
-So, having said all of that, our mod is working as intended.  No awning deployments to ruin the day, and we got to keep our View on the driveway - away from the darkness of the Dealership, where time has no meaning ...
+So, having said all of that, our mod is working as intended.  No awning deployments to ruin the day, and we got to keep our View on the driveway - away from the darkness of the dealership, where time has no meaning ...
 
 <br>
 
