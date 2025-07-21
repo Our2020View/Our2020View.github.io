@@ -9,7 +9,7 @@ The power awning recall that first arose in late 2022 / early 2023 certainly cau
 
 After looking at our awning closely and determining that there was no way for that awning to extend without electrical power driving the motor, we elected to remove power to the awning circuit by interupting the power at the 12 volt circuit breaker in the circuit breaker panel - on the outboard side of the passenger seat pedestal.  No power, no eroneous command to the awning motor to do its thing.
 
-Here is a photo of the circuit breaker panel on the outboard side of the passenger seat pedestal.  You can see that the awning breaker is in the centre of the bottom row, and there is no breaker above it.  It was very easy to reach in under the dust cover protecting the wiring under the seat, and remove the spade connector on the awning circuit breaker during the times when we did not want the awning circuit to be powered:
+Here is a photo of the 15 amp circuit breaker panel on the outboard side of the passenger seat pedestal.  You can see that the awning breaker is in the centre of the bottom row, and there is no breaker above it.  It was very easy to reach in under the dust cover protecting the wiring under the seat, and remove the spade connector on the awning circuit breaker during the times when we did not want the awning circuit to be powered:
 
 <img src="/assets/webawningpower1.jpeg"/>
 
@@ -17,7 +17,7 @@ To prove to myself that this concept was going to be bulletproof, I located the 
 
 <img src="/assets/webmodulestatus1.jpg"/>
 
-This mod adds a switch upstream of the 12 volt awning circuit breaker, to allow a more convenient method of controlling power flow to the awning circuit and control module.
+This mod adds a switch upstream of the 12 volt 15 amp awning circuit breaker, to allow a more convenient method of controlling power flow through the breaker to the awning control module.
 
 The switch we chose is the same type of switch that locks the coach steps in the 'auto retract" position when the coach door is closed. We wanted a locking switch, so it would take an intentional decision to provide power to the awning circuit.  We were used to this type of switch controlling the steps, so it was an easy choice to make:
 
