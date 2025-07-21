@@ -31,7 +31,7 @@ Winnebago’s first attempt to fix the problem involved a mechanical fix to prov
 
 Folks have been having some significant problems with both recalls, with unintended consequences causing them serious grief.  We like to keep things simple, and not wanting to trust our Winnebago dealer, or Winnebago engineering, with getting things right without losing our coach for weeks and months, we’ve gone back to the basics.  With no power at the awning control module, there will be no power command to drive the motor unintenionally – whatever the cause.
 
-<h2> The Installation </h2>
+<h2> The Switch Installation </h2>
 
 I started by isolating the coach batteries from the coach using our handy coach battery isolation switch, and then isolating the Sprinter chassis battery by using the ground wire disconnect in the cubby down by the accelerator pedal.  I probably should have disconnected the auxillary battery under the driver's seat as well, as opening and closing the driver's door resulted in a small motor hum, somewhere, that must be associated with the auxillary battery.  Since the auxillary battery is responsible for a control function in the transmission during times of a dead chassis battery, maybe that is what I was hearing.  Don't know, but I didn't worry about it.
 
