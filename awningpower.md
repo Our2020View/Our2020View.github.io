@@ -16,7 +16,7 @@ Here is a photo of the circuit breaker panel on the outboard side of the passeng
 To prove to myself that this concept was going to be bulletproof, I located the awning control module in the trim panel above the door, and used the module power light as confirmation that the power to the control module is severed when the circuit breaker wiring is interupted.  (The Carefree awning operator's supplement that Winnebago supplies confirms that this light is the indication that power is being fed to the control module.)  Here is a photo of the module power light with power to the breaker / power removed from the breaker:
 
 
-<img src="/assets/webmodulestatus1.jpeg"/>
+<img src="/assets/webmodulestatus1.jpg"/>
 
 Winnebago’s first attempt to fix the problem involved a mechanical fix to provide separation from the problematic electrical components, and then their second recall got a little more complicated – utilizing the park brake module to potentially determine when the awning would be safe to deploy by the owner.  Also, the second recall involved some firmware updates to the awning control circuit. Folks have been having some significant problems with both recalls, with unintended consequences causing them serious grief.  We like to keep things simple, and not wanting to trust our Winnebago dealer, or Winnebago engineering, with getting things right without losing our coach for weeks and months, we’ve gone back to the basics.  With no power at the awning circuit, there will be no power to drive the motor unintenionally – whatever the cause.
 
