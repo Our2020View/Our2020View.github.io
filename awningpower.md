@@ -7,7 +7,7 @@ permalink: /ourmods/awningpower/
 
 The power awning recall that first arose in late 2022 / early 2023 certainly caught our attention.  By the time we got the recall paperwork, we had been operating our View heavily for a year and a half.  An awning that self extends while cruising down the highway, would, well, spoil your day.
 
-After looking at our awning closely and determining that there was no way for that awning to extend without electrical power driving the motor, we elected to remove power to the awning circuit by interupting the power at the 12 volt circuit breaker in the circuit breaker panel - on the outboard side of the passenger seat pedestal.  No power, no eroneous command to the awning motor to do its thing.
+After looking at our awning closely and determining that there was no way for that awning motor to extend without electrical power driving the motor, we elected to remove power to the awning circuit by interupting the power at the 12 volt circuit breaker in the circuit breaker panel - on the outboard side of the passenger seat pedestal.  No power, no eroneous command to the awning motor to do its thing.  (The mod described below does not cover a mechanical failure that removes the motor drive from the awning gearing.)
 
 Here is a photo of the circuit breaker panel on the outboard side of the passenger seat pedestal.  You can see that the 15 amp awning breaker is in the centre of the bottom row, and there is no breaker above it.  It was very easy to reach in under the dust cover protecting the wiring under the seat, and remove the spade connector on the awning circuit breaker - during the times when we did not want the awning circuit to be powered:
 
@@ -21,13 +21,13 @@ With power removed from the control module, manual operation of the awning using
 
 This mod adds a switch upstream of the 12 volt 15 amp awning circuit breaker, to allow a more convenient method of controlling power flow through the breaker to the awning control circuit and module.
 
-The switch we chose is the same type of switch that locks the coach steps in the 'auto retract" position when the coach door is closed. We wanted a locking switch, so it would take an intentional decision to provide power to the awning circuit.  We were used to this type of switch controlling the steps, so it was an easy choice to make:
+The switch we chose is the same type of switch that locks the coach steps in the 'auto retract" position when the coach door is closed. We wanted a locking switch, so it would take an intentional decision to provide power to the awning circuit.  This type of switch is rated for the current that will be seen in the feed to the awning circuit breaker.  We were used to this type of switch controlling the steps, so it was an easy choice to make:
 
 <img src="/assets/webawningpower2.jpeg"/>
 
 The only snag with this switch from Winnebago (purchased from Lichtsinn in Forest City) was the switch logic was backward to what we wanted.  We wanted the switch to break the power when selected to OFF, unlike the step’s logic that OFF actually closes the contacts and allows some inhibit logic in the "auto retract" step control.  At any rate, I had to take apart the switch and reverse the internal poles to make it behave the way we wanted it to: the switch locked to interrupt power to the awning circuit breaker and control circuit.
 
-Winnebago’s first attempt to fix the problem involved a mechanical fix to provide separation from the problematic electrical components, and then their second recall got a significantly more complicated – utilizing the park brake module, and a second power supply from the chassis, to potentially determine when the awning would be safe to deploy by the owner.  Also, the second recall involved some firmware updates to the awning control circuit. Have a look at Recall 179 from Winnebago:
+Winnebago’s first attempt to fix the problem was rumoured to involve a mechanical fix to provide some assurance that the motor could not separate from the awning gearing , and then their second recall got a significantly more complicated – utilizing the park brake module, and a second power supply from the chassis, to potentially determine when the awning would be safe to deploy by the owner.  Also, the second recall involved some firmware updates to the awning control circuit. Have a look at Recall 179 from Winnebago:
 
 <a href = "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V694-6339.pdf " target="_blank">Winnebago Awning Recall 179 </a>
 
