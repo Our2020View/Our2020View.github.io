@@ -33,7 +33,7 @@ Winnebago’s first attempt to fix the problem was rumoured to involve a mechani
 
 <a href = "https://static.nhtsa.gov/odi/rcl/2023/RCRIT-23V694-6339.pdf " target="_blank">Winnebago Awning Recall 179 </a>
 
-Folks have been having some significant problems with both recalls, with unintended consequences causing them serious grief.  We like to keep things simple, and not wanting to trust our Winnebago dealer, or Winnebago engineering, with getting things right without losing our coach for weeks and months, we’ve gone back to the basics.  With no power at the awning control module, there will be no power command to drive the motor unintenionally – whatever the cause.
+Folks have been having some significant problems with both recalls, with unintended consequences causing them serious grief.  We like to keep things simple, and not wanting to trust our Winnebago dealer, or Winnebago engineering, with getting things right without losing our coach for weeks and months, we’ve gone back to the basics.  With no power at the awning control module, there will be no command, or power, to drive the motor unintenionally – whatever the cause.
 
 <h2> The Switch Installation </h2>
 
