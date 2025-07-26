@@ -235,6 +235,9 @@ What did I take away from this?  Well, for the years we have been winter camping
 
 <b>But</b>, here is where adding RV anti-freeze to the grey and black tanks is a very good idea - RV anti-freeze to start off the tank contents will allow you to turn the tank heaters on without the worry of cracking a tank due to insuffcient fluid on the floor of the tank.  The manufacturer of the tank heaters cautions against turning on tank heat unless the floor is submerged in fluid.  So, how much fluid is enough to take away the worry of cracking a tank?  Well, I'm not sure - but adding a couple of gallons of RV antifreeze to the tank prior to our cold weather trip departures has allowed us to turn the heat on right away and forget about the concern. 
 
+<br>
+<br>
+
 I mentioned earlier that I can keep an eye on the wet bay temperature.  Here is the temperature measuring kit I purchased - I mounted one sensor in the propane locker to get an outside air temperature, one in the wet bay, and one near the water pump:
 
 <a href = "https://www.amazon.ca/gp/product/B01BICMM1I/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1 " target="_blank">Temperature Monitoring System </a>
