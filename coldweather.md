@@ -215,7 +215,7 @@ Future Operations?  I added an ammeter on the grey and black tank heaters circui
 
 **My RV Antifreeze Experiment**
 
-After a few winter seasons of using antifreeze in the tanks, I did some <b>RV antifreeze testing</b> to see just how cold it needed to be before antifreeze added to our waste tanks became ineffective.  Sadly to say, I was dissapointed at the results.  It turns out adding antifreeze to tanks might just be more of a psychological benefit than an actual advantage.  
+After a few winter seasons of using antifreeze in the tanks, I did some RV antifreeze testing to see just how cold it needed to be before antifreeze added to our waste tanks became ineffective.  Sadly to say, I was dissapointed at the results.  It turns out adding antifreeze to tanks might just be more of a psychological benefit than an actual advantage.  
 
 <img src="/assets/webantifreeze1.jpg"/>
 
