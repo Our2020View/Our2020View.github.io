@@ -103,7 +103,7 @@ NOTE - On our View / Navion 24J, the panel that protects the black tank can be o
 
 After three years of frustration, we finally have heat on our tanks.  
 
-One last note - The manufacturer of our tank heaters caution against turning on the tank heat with insufficiant fluid on the floor of the tank.  In order to not worry about how much fluid is required to take away their concern of tank cracking, we have gotten in the habit of pouring a couple of gallons of RV antifreeze into each tank prior to a cold weather departure.  This allows us to turn the tank heat on as soon as grey and black water is being disgarded from the coach.
+One last note - The manufacturer of our tank heaters cautions against turning on the tank heat with insufficiant fluid on the floor of the tank.  In order to not worry about how much fluid is required to take away their concern of tank cracking, we have gotten in the habit of pouring a couple of gallons of RV antifreeze into each tank prior to a cold weather departure.  This allows us to turn the tank heat on as soon as grey and black water is being disgarded from the coach.
 
 <br>
 
