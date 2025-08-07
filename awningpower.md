@@ -5,7 +5,7 @@ description: No Sails on this Motorhome
 permalink: /ourmods/awningpower/
 ---
 
-The power awning recall that first arose in late 2022 / early 2023 certainly caught our attention.  By the time we got the recall paperwork, we had been operating our View heavily for a year and a half.  An awning that self extends while cruising down the highway, would, well, spoil your day.
+The Winnebago power awning recall that first arose in late 2022 / early 2023 certainly caught our attention.  By the time we got the recall paperwork, we had been operating our View heavily for a year and a half.  An awning that self extends while cruising down the highway, would, well, spoil your day.
 
 After looking at our awning closely and determining that there was no way for that awning motor to operate without electrical power, we elected to remove power to the awning circuit by interupting the power at the 12 volt circuit breaker in the circuit breaker panel - on the outboard side of the passenger seat pedestal.  No power, no eroneous command to the awning motor to do its thing.  (The mod described below does not cover a mechanical failure that removes the motor drive from the awning gearing.)
 
