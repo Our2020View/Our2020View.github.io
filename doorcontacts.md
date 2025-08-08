@@ -44,7 +44,7 @@ It looks like the seal is a good one, as this photo shows the door ridge imprint
 
 <img src="/assets/webdoorcontacts8.jpg"/>
 
-A simple mod, but an important one?  The coach door locks when you want it to!
+An extremely simple mod, but an important one?  The coach door locks when you want it to!
 
 <br>
 
