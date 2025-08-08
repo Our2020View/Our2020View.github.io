@@ -33,7 +33,7 @@ permalink: /ourmods/
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
 
-August 2025 - <b>Doorlock Contacts Protection</b> - <a href = "/ourmods/doorcontacts/ ">  Stop the door contacts from corroding </a>
+August 2025 - <b>Doorlock Contacts Protection</b> - <a href = "/ourmods/doorcontacts/ ">  Stop the Door Contacts from Corroding </a>
 <br>
 <br>
 July 2025 - <b>Alternative to the Awning Recall</b> - <a href = "/ourmods/awningpower/ ">  No Power, No Awning </a>
