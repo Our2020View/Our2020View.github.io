@@ -12,13 +12,13 @@ Here is a photo of the micro contacts on the coach door – On the left, in the 
 
 <img src="/assets/webdoorcontacts3.jpg"/>
 
-One of our spring loaded contacts became corroded and lost its ability to stand proud enough to make contact with the door.  On the left is the old set of contacts, and on the right is the new set:
-
-<img src="/assets/webdoorcontacts1.jpg"/>
-
-We had to buy a new set of switch contacts from Winnebago for about 58.00 USD, plus shipping, plus exchange rate ... :
+One of our spring loaded contacts became corroded and lost its ability to stand proud enough to make contact with the door.  We had to buy a new set of switch contacts from Winnebago for about 58.00 USD, plus shipping, plus exchange rate ... :
 
 <img src="/assets/webdoorcontacts2.jpg"/>
+
+On the left is the old set of contacts, and on the right is the new set:
+
+<img src="/assets/webdoorcontacts1.jpg"/>
 
 The replacement was pretty straightforward, just a drop-in replacement part (we did not replace the door frame contact plates), but we added some water ingress protection so hopefully we wouldn’t have to go through this failure again.
 
