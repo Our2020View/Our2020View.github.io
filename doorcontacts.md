@@ -44,7 +44,7 @@ I mentioned that we did not replace the door frame switch contact plates.  In th
 
 <img src="/assets/webdoorcontacts8.jpg"/>
 
-After this photo, I lightly sanded the plates to ensure good continuity with the new spring loaded contacts on the door.  As far as the protection mod goes, it looks like the seal is a good one, as you can see the door ridge imprint on the weather stripping:
+After the photo above, I lightly sanded the plates to ensure good continuity with the new spring loaded contacts on the door.  As far as the protection mod goes, it looks like the seal is a good one, as you can see the door ridge imprint on the weather stripping:
 
 <img src="/assets/webdoorcontacts6.jpg"/>
 
