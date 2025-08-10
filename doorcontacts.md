@@ -20,7 +20,7 @@ On the left is the old pair of contacts, and on the right is the new pair:
 
 <img src="/assets/webdoorcontacts1.jpg"/>
 
-The replacement was pretty straightforward, just a drop-in replacement part (we did not replace the door frame contact plates that also came in the kit), but we added some water ingress protection so hopefully we wouldn’t have to go through this failure again.
+The replacement was pretty straightforward, just a drop-in replacement part - we did not replace the door frame contact plates that also came in the kit, but we added some water ingress protection so hopefully we wouldn’t have to go through this failure again.
 
 To show why we thought we would try to protect the area from water, here are a couple of photos to show the contact switches are indeed open to water ingress:
 
