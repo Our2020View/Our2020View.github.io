@@ -40,7 +40,7 @@ When the door is closed, the switch contacts are now sealed off from the outside
 
 <img src="/assets/webdoorcontacts7.jpg"/>
 
-I mentioned that we did not replace the door frame switch contact plates.  In this mod completed photo, you can see a bit of rust on the top screw and contact plates - evidence of four years of road spray.  After this photo, I lightly sanded the plates to ensure good continuity with the new spring loaded contacts on the door.  As far as the protection mod goes, It looks like the seal is a good one, as you can see the door ridge imprint on the weather stripping:
+I mentioned that we did not replace the door frame switch contact plates.  In this mod completed photo, you can see a bit of rust on the top screw and contact plates - evidence of four years of road spray.  After this photo, I lightly sanded the plates to ensure good continuity with the new spring loaded contacts on the door.  As far as the protection mod goes, it looks like the seal is a good one, as you can see the door ridge imprint on the weather stripping:
 
 <img src="/assets/webdoorcontacts8.jpg"/>
 
