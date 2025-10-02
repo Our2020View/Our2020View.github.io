@@ -64,8 +64,7 @@ Working as advertised.
 
 Note:  LSL Products out of San Antonio, Texas, are no longer in operation.  As a result, the Trik-L-Start and Amp-L-Start are no longer available.  But, as of 2025, I see that there is an alternative that is advertised to be as simple to install as the LSL products.  Check out this link if want to research a substitute for the Trik-L-Start or Amp-L-Start:
 
-<a href = "https://www.youtube.com/watch?v=w1ZO5RxKoq8&t=407s " target="_blank">RVgeeks and their dedicated 20 amp circuit </a>
-
+<a href = "https://house2start.com/" target="_blank">House2Start Chassis Battery Maintainer </a>
 
 <br> 
 
