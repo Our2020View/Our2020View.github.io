@@ -49,7 +49,7 @@ This is the winterization diagram that is missing from our Truma owner's manual:
 
 <img src="/assets/Trumadiagramweb.jpg"/>
 
-I had a great question come in via this website, along the lines of "How does antifreeze actually get into the recirculation line, if this new valve blocks off off the path for the water to exit?"  Winnebago's winterization process takes care of this predicament in our 24J coach.  Winnebago has a valve in the recirculation line, upstream of the new shutoff valve, that gets opened as one of the last steps.  The pump supplies antifreeze to the line as it pushes out water and vents it overboard underneath the coach.  When you have expelled the water and filled the recirculaltion line with antifreeze, you turn off the pump to wrap things up.  
+I had a great question come in via this website, along the lines of "How does antifreeze actually get into the recirculation line, if this new valve blocks off off the path for the water to exit?"  Winnebago's winterization process takes care of this predicament in our 24J coach.  Winnebago has a valve in the recirculation line, upstream of the new shutoff valve, that gets opened as one of the last steps.  The pump supplys antifreeze to the line as it pushes out water and vents it overboard underneath the coach.  When you have expelled the water and filled the recirculaltion line with antifreeze, you turn off the pump to wrap things up.  
 
 If you'd like to see this information in a video we put on YouTube, have a look here:
 
