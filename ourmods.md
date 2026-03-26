@@ -51,15 +51,6 @@ May 2025 - <b>Exterior Source of 5 Volts</b> - <a href = "/ourmods/fivevoltpower
 May 2025 - <b>Induction Cooktop Power Switch</b> - <a href = "/ourmods/miscmods/ ">  ON when you want it ON </a>
 <br>
 <br>
-September 2024 - <b>Adding Task Lighting to the Truma Box</b> - <a href = "/ourmods/miscmods/ ">  Let there be Light </a>
-<br>
-<br>
-September 2024 - <b>Fixing the drone from our Air Conditioner</b> - <a href = "/ourmods/dampingpads/ ">  Damp that Compressor! </a>
-<br>
-<br>
-May 2024 - <b>Adding a Refrigerant Port to the Air Conditioner</b> - <a href = "/ourmods/airconditioningservice/ ">  Don't throw your AC away! </a>
-<br>
-<br>
 
 That's the recent material - below are all of the mods that we have previously implemented to improve the functionality of our 2020 Winnebago View 24J:
 
