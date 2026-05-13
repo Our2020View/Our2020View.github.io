@@ -16,13 +16,9 @@ Here is a link to Garnet's webpage with the full selection of kits - the basic s
 
 <a href = "https://www.garnetinstruments.com/holding-tanks/ " target="_blank">Garnet SeeLevel II Tank Monitoring System </a>
 
-This link will take you to the tank sender installation manual for the senders used in the 709 series - our senders are the 710 - AR:
+This link will take you to the tank sender and display panel installation manual for the 709 series - our senders are the 710 - AR:
 
-<a href = "https://www.garnetinstruments.com/wp-content/uploads/2022/11/SeeLeveL-Sender-Manual-AR-ES2-24-Nov-2022.pdf " target="_blank">Garnet 709 Sender Installation Manual </a>
-
-And, this one links to the display installation guide for the 709 series:
-
-<a href = "https://www.garnetinstruments.com/wp-content/uploads/2022/10/SeeLeveL-709-Series-Display-Manual_v1.0.pdf " target="_blank">Garnet 709 Display Installation Guide </a>
+<a href = "https://www.garnetinstruments.com/wp-content/uploads/2025/11/SeeLeveL-709-Series-Manual-v2.0.pdf " target="_blank">Garnet 709 Installation Manual </a>
 
 As you can see, the company makes many different displays with all kinds of functionality.  But, all we were concerned with was getting one tank to give us good, useful information.  Our factory “OnePlace” monitor was going to remain fully functional, so we did not need to replace any of its features.
 
