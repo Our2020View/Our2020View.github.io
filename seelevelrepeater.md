@@ -20,7 +20,36 @@ It is necessary to isolate the power wire coming off of the 12 volt DC fuse pane
 
 Before I made the final decision on where I wanted the repeater display to be mounted, I first did a test wiring of the repeater display spliced into the primary display's wiring.  Because I was doing this wiring as an afterthought to the original installation, I needed to make sure I knew which wire was which.  I numbered each relevant wire with an upstream and downstream label, bracketing my chosen cut location, not knowing at the time which was which... the power wire coming off of the fuse panel was pretty straightforward to identify, but unfortunately the ground wire and the sender wire were were not identifiable.  I cut the two non-power wires inbetween the numbered labels, and then identified the ground wire by using a multimeter to check for continuity.  Closing the circuit using the main ground next to the fuse box and connecting each of the two suspect wires in turn identified the ground coming back from the senders.  The remaining wired was the sender wire coming from the tanks.
 
-Here is the wiring mock-up I did prior to the final installation:
-
+Here is the wiring mock-up I did prior to the final installation - I used wire nuts for the connections as a temporary measure:
 
 <img src="/assets/seelevelr2web1.jpg"/>
+
+The displays needed to be configured as primary and secondary, as per the display installation guide.
+
+With the confidence that the addition of a repeater display was actually going to work, I moved on to deciding where to mount the new display.  I chose to make the display visible from the freshwater gravity fill outside location, as that is where I do the majority of my water loading.  The spot chosen was inside the cargo compartment under the bed, attached to the same wall that the cargo light is attached to.  With this mounting location I could open the cargo door and easily monitor the fill.  I made a template from the one provided in the display installation guide, and squared up its position to see if I liked it:
+
+<img src="/assets/seelevelr2web2.jpg"/>
+
+I used a reciprocating saw to make easy work of the required slot, mounted the display using some half inch plywood as some reinforcement for the secuing screws, and wired up the pigtail harness that came with the display with some three foot wire estensions - required in order to allow the wires to make their way out of the Truma box to where my connections to the original wiring was going to take place.
+
+The back of the monitor, secured tightly to the the half inch plywood:
+
+<img src="/assets/seelevelr2web3.jpg"/>
+
+The final splices (power wire, ground wire, and sender wire connected to the wires from the main coach's display):
+
+<img src="/assets/seelevelr2web5.jpg"/>
+
+The installed repeater display:
+
+<img src="/assets/seelevelr2web4.jpg"/>
+
+And the view of the display from the gravity fill exterior location:
+
+<img src="/assets/seelevelr2web6.jpg"/>
+
+
+
+
+
+
