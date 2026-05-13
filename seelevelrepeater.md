@@ -4,7 +4,6 @@ title: SeeLevel II Repeater | RV Mods
 description: Add a second water tank monitor to your RV
 permalink: /ourmods/seelevelrepeater/
 ---
-<a href = "https://www.our2020view.ca/ourmods/seelevel/ " target="_blank">Original See Level II Installation </a>
 
 The See Level II tank monitor we installed in the coach to allow us to monitor the fresh water tank contents has been working out really great.  So great, in fact, that I wanted to install another one within view of the fresh water gravity fill port at the rear of the View. 
 
