@@ -23,4 +23,4 @@ Before I made the final decision on where I wanted the repeater display to be mo
 Here is the wiring mock-up I did prior to the final installation:
 
 
-<img src="/assets/seelevelr2web1.jpeg"/>
+<img src="/assets/seelevelr2web1.jpg"/>
