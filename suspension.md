@@ -52,6 +52,8 @@ We've got a few thousand miles on these new components, and so far are very, ver
 
 <b>Post-modification update</b> - Well, I've got nothing but good news concerning these suspension upgrades.  We have close to twenty thousand miles on the View since installing the new rear shocks and heavier swaybar, and improvement to the highway handling has been nothing short of fantastic.  Prior to the upgrades, while cruising in strong crosswinds, it was very much a two handed operation as we had to contend with significant body roll and repeated activations of the Sprinter's enhanced stability program and its gruesome cousin the "crosswind assist".  On some days crossing the prairies we would have in excess of twenty activations of these systems - and each time it was startling and distracting.  Since the upgrades, in comparable winds, the activations have become almost non-existent.  (At the time of this writing, after twenty thousand miles of driving, we have had one "open air" activation and one episode of multiple activations as I passed a semi while in its protected downwind lee.  That was a rough ride - as we transitioned out of, and then back into, heavy direct crosswinds.  I don't want to think what that one would have felt like with the factory shocks and sway bar...)
 
+<b>Post-Post-modification update</b> - We've had the suspension upgrade for four years now, and are still extremely pleased.  Since replacing the shocks and swaybar 37,000 miles (60,000 km) ago, handling on the road continues to be drastically improved.
+
 We are very happy with these upgrades.
 
 <br>
