@@ -7,7 +7,7 @@ permalink: /ourmods/seelevelrepeater/
 
 The See Level II tank monitor we installed in the coach to allow us to monitor the fresh water tank contents has been working out really great.  So great, in fact, that I wanted to install another one within view of the fresh water gravity fill port at the rear of the View. 
 
-(If you haven't seen our writeup on the initial tank monitor's installation, you can see it here:)
+(If you haven't seen our writeup on the initial tank monitor's installation, you can see it here):
 
 <a href = "https://www.our2020view.ca/ourmods/seelevel/ " target="_blank">Original See Level II Installation </a>
 
