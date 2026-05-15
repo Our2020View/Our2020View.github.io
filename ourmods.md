@@ -256,7 +256,7 @@ That's the recent material - below are all of the mods that we have previously i
     </div>
     <div class="column" style="background-color:white;">
     <h3>SeeLevel II Monitor</h3>
-    <p>Adding a Second Monitor</p>
+    <p>Adding a Second Display</p>
     <img src="/assets/webseelevel6.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
