@@ -32,7 +32,7 @@ permalink: /ourmods/
 <br> 
 <h3><span style="color: red">★</span> New Content <span style="color: red">★</span></h3>
 <br>
-May 2026 - <b>Adding a second SeeLevel II display</b> - <a href = "/ourmods/seelevelrepeater/ ">  Monitoring the Water Fill</a>
+May 2026 - <b>Adding a Second SeeLevel II Display</b> - <a href = "/ourmods/seelevelrepeater/ ">  Monitoring the Water Fill</a>
 <br>
 <br>
 August 2025 - <b>Doorlock Contacts Protection</b> - <a href = "/ourmods/doorcontacts/ ">  Stop the Door Contacts from Corroding </a>
