@@ -85,7 +85,7 @@ And this is our electrical system, showing some of the electrical mods we have d
 
 [Alternative to the Winnebago Power Awning Recall](/ourmods/awningpower/)
 
-[Adding a Second SeeLevel II to Monitor the Water Fill](/ourmods/seelevelrepeater/)
+[Adding a Second SeeLevel II for Monitoring the Water Fill](/ourmods/seelevelrepeater/)
 
 <br>
 
