@@ -29,7 +29,7 @@ With the confidence that the addition of a repeater display was actually going t
 
 <img src="/assets/seelevelr2web2.jpg"/>
 
-I used a reciprocating saw to make easy work of the required slot, mounted the display using some half inch plywood as reinforcement for the securing screws, and wired up the pigtail harness that came with the display with some three foot wire extensions - required in order to allow the wires to make their way out of the Truma box to where my connections to the original wiring was going to take place.
+I used a reciprocating saw to make easy work of the required slot, mounted the display using some half inch plywood as reinforcement for the securing screws, and wired up the pigtail harness that came with the display with some three foot wire extensions - required in order to allow the wires to make their way out of the Truma box to where my connections to the original wiring were going to take place.
 
 The back of the monitor, secured tightly to the the half inch plywood:
 
