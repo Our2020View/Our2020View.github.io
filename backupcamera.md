@@ -26,7 +26,7 @@ After you remove the camera fairing, eventually remove the camera from the suppo
 
 Tip number 1 – don’t remove the camera from the fairing just yet.  It is not worth the hassle of getting at the tiny screws holding the camera bracket to the fairing; wait until you’ve got some slack in the line, or until you cut loose the old camera.  If you are intent on replacing the camera, I see no harm in just cutting the old camera away to make it easier to remove the caulking.
 
-Here is the view looking looking in the wall, as you can see the wire bundle disappears into a block of what looked like insulation.  There are no connectors in sight:
+Here is the view looking looking in the wall, as you can see the wire bundle disappears into a block of caulking.  There are no connectors in sight:
 
 <img src="/assets/webwiringinwall.jpg"/>
 
