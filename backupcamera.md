@@ -46,7 +46,7 @@ When the top vertical screws and the three rear horizontal end screws are remove
 
 You will see that the roof / back wall seam is pretty well sealed with what looks like an eternabond tape type of product.  That was a bit of a confidence booster for me, knowing that the end cap sealing is really another layer of belt and braces.  
 
-So, what can you now see?  Well you can see where the Mercedes connections to the Winnebago wiring is, for starters.  No, the connections are not in the wall, they are back out of the wall and lay in the end cap cavity.  It is now obvious why tugging on the camera lead was not going to help me find the connections!  Also, you will see the mini coaxial cable connector, and the fact that the Winnebago power and control wires do not have a connector that interfaces with a Mercedes connector – instead they cut off the Mercedes connector and use butt splices to join the wires:
+So, what can you now see?  Well you can see where the Mercedes connections to the Winnebago wiring is, for starters.  No, the connections are not in the wall, they are back out of the wall and lay in the end cap cavity.  It is now obvious why tugging on the camera lead was not going to help me find the connections!  Also, you will see the mini coaxial cable connector, and the fact that the Winnebago power and control wires do not have a connector that interfaces with a Mercedes connector – instead they cut off the Mercedes connector and used butt splices to join the wires:
 
 <img src="/assets/webconnectionsfrombackwall.jpg"/>
 
