@@ -12,7 +12,7 @@ The role of our initial Amp – L - Start chassis battery maintainer was to act 
 
 The replacement we chose was the House2Start battery charger and maintainer.  It is advertised as a direct replacement, plug and play - for either of the old LSL maintainer products - and I can report that those claims are indeed true.  It was a very straightforward replacement, and did not require any additional electrical systems knowledge over and above what was originally required for an Amp – L – Start or Trik – L – Start.  
 
-Have a look here for info on the House2Start battery charger and maintainer.
+<a href = "https://house2start.com/ " target="_blank">Have a look here for info on the House2Start battery charger and maintainer </a>
 
 The location for our new installation was identical to the old location, and the wiring for the new House2Start was identical to the wiring for our old Amp – L – Start.  
 
