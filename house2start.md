@@ -20,6 +20,8 @@ Check out our original installation of the Amp – L – Start, as there is a lo
 
 <a href = "https://our2020view.ca/ourmods/batterymaintainer/ " target="_blank">Original Amp - L - Start installation </a>
 
+
+
 <h2> The House2Start Installation </h2>
 
 Here is a shot of where our old Amp – L – Start was located.  Over the years this has proven to be a great location – it is hidden out of the way under the dust cover for the passenger seat pedestal; but is easily viewed when required by lifting the dust cover, and it fit nicely on the shelf behind the MasterVolt charge relay which it needed to be close to:
