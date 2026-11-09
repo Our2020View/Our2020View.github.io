@@ -20,7 +20,7 @@ Check out our original installation of the Amp – L – Start, as there is a lo
 
 <h2> The Installation </h2>
 
-Here is a shot of where our old Amp – L – Start was located.  Over the years this has proven to be a great location – it is hidden out of the way under the dust cover for the passenger seat pedestal; but is easily viewed when required by lifting the dust cover, and it fit nicely on the shelf behind the MasterVolt charge relay which it needed to be close to.
+Here is a shot of where our old Amp – L – Start was located.  Over the years this has proven to be a great location – it is hidden out of the way under the dust cover for the passenger seat pedestal; but is easily viewed when required by lifting the dust cover, and it fit nicely on the shelf behind the MasterVolt charge relay which it needed to be close to:
 
 <img src="/assets/coach2start1web.jpg"/>
 
@@ -33,11 +33,11 @@ I did try to find a different ground connection this time around, but after hunt
 
 One thing I did do differently this time around was install a fuse on the yellow line from the house batteries.  The House2Start only carries 2 amps, but I felt a fuse might be convenient one day to allow for a quick disconnection of the system to isolate it from the chassis battery system.  (The House2Start installation instructions recommend the addition of a fuse to isolate the coach from the Sprinter for times when it is in the shop for maintenance.)  We’ve got a coach battery storage disconnect that would perform the same function, but if we were ever on the road and wanting to keep the coach powered during times of Sprinter maintenance, this new fuse would easily isolate the chassis battery from the coach batteries.  
 
-Here is a photo of the House2Start with its ring terminals and fuse installed.  (I didn’t have any new ring terminals large enough on hand, so I spliced in the old ring terminals from the Amp – L - Start.  A bit of extra work, but I do like wiring stuff...)  I used butt connectors and heat shrink wrap.
+Here is a photo of the House2Start with its ring terminals and fuse installed.  (I didn’t have any new ring terminals large enough on hand, so I spliced in the old ring terminals from the Amp – L - Start.  A bit of extra work, but I do like wiring stuff...)  I used butt connectors and heat shrink wrap:
 
 <img src="/assets/coach2start3web.jpg"/>
 
-Here is the House2Start wired up – the blue wire connects to the top lug on the Charge Mate, and the yellow wire connects to the bottom lug on the Charge Mate.  The black wire can attach to any ground you can find under the pedestal.  (The ground I drilled for the Amp – L – Start was still showing solid continuity, so I used it again.)
+Here is the House2Start wired up – the blue wire connects to the top lug on the Charge Mate, and the yellow wire connects to the bottom lug on the Charge Mate.  The black wire can attach to any ground you can find under the pedestal.  (The ground I drilled for the Amp – L – Start was still showing solid continuity, so I used it again.)  You can see the new 5 amp fuse that I added to the yellow line from the coach batteries:
 
 <img src="/assets/coach2start2web.jpg"/>
 
