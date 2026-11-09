@@ -16,7 +16,9 @@ The replacement we chose was the House2Start battery charger and maintainer.  It
 
 The location for our new installation was identical to the old location, and the wiring for the new House2Start was identical to the wiring for our old Amp – L – Start.  
 
-Check out our original installation of the Amp – L – Start, as there is a lot of good background that can be directly ported over to the replacement we chose.  Same intended function, same location, and same logic for the choices made.  I recommend you read about our Amp – L – Start installation first.
+Check out our original installation of the Amp – L – Start, as there is a lot of good background that can be directly ported over to the replacement we chose.  Same intended function, same location, and same logic for the choices made.  I recommend you read about our Amp – L – Start installation first:
+
+<a href = "https://our2020view.ca/ourmods/house2start/ " target="_blank">Original Amp - L - Start installation </a>
 
 <h2> The Installation </h2>
 
