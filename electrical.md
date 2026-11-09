@@ -87,6 +87,8 @@ And this is our electrical system, showing some of the electrical mods we have d
 
 [Adding a Second SeeLevel II for Monitoring the Water Fill](/ourmods/seelevelrepeater/)
 
+[Replacing our Chassis Battery Maintainer with a House2Start](/ourmods/house2start/)
+
 <br>
 
 [Back to Our RV Modifications](/ourmods/)
