@@ -43,7 +43,7 @@ Here is the House2Start wired up – the blue wire connects to the top lug on th
 
 There is a video on the House2Start website that describes this same installation and interface with the Charge Mate Pro 40.  It worth having a look to help visualize what I just described:
 
-https://house2start.com/pages/install-videos?_su_rec=oWVkShuXzv9p0D52VkqgbTPVNbPJ1YkfKLBGPX7DgzUWJRzW0juk9-D_F4OE_DaN9DqDg9VKf4WBx-jnAKVvUWqRQAjEh9wd3EYmqLSjJ2eJDY3GM_-nr1WMRA3CpRTDc_tIQXS6JuD3gKCE2Q87XZ_VzIQU5QNXMRDqFYelvSnvIeJEMWcSO21NkWlz8kl5rgiqWumpqIJ6T8vE1GC_ftxh2K2QsGPTOdy00COUcoDXT0Tt4gi9LMsw6-ttiNipVnkpQSjyNuPTcnAp85B9pUh0kGXQYHo4_MfcoJ8sBJennPMuN1OwKdbmEsFzGoMfx90Et-VIAS-S8v2IdQ&_su_rec_id=6f7737c5-011d-431c-8aab-e60fa6850734-1794192914
+<a href = "https://house2start.com/pages/install-videos?_su_rec=oWVkShuXzv9p0D52VkqgbTPVNbPJ1YkfKLBGPX7DgzUWJRzW0juk9-D_F4OE_DaN9DqDg9VKf4WBx-jnAKVvUWqRQAjEh9wd3EYmqLSjJ2eJDY3GM_-nr1WMRA3CpRTDc_tIQXS6JuD3gKCE2Q87XZ_VzIQU5QNXMRDqFYelvSnvIeJEMWcSO21NkWlz8kl5rgiqWumpqIJ6T8vE1GC_ftxh2K2QsGPTOdy00COUcoDXT0Tt4gi9LMsw6-ttiNipVnkpQSjyNuPTcnAp85B9pUh0kGXQYHo4_MfcoJ8sBJennPMuN1OwKdbmEsFzGoMfx90Et-VIAS-S8v2IdQ&_su_rec_id=6f7737c5-011d-431c-8aab-e60fa6850734-1794192914  " target="_blank">House2Start Installation Video </a>
 
 
 <h2> Performance </h2>
