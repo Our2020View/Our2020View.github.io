@@ -4,7 +4,6 @@ title: House2Start Chassis Battery Maintainer | RV Mods
 description: Installing a House2Start Battery Maintainer
 permalink: /ourmods/house2start/
 ---
-<h2> House2Start Chassis Battery Maintainer and Charger </h2>
 
 This mod was necessitated by the failure of the original chassis battery maintainer that we installed early on after our purchase of our 2021 View.  Our original mod was the installation of an Amp – L – Start, but after several years of inconsistent performance and then its eventual failure to do its job at keeping our Sprinter’s battery topped up – it was time to find a replacement system.
 
