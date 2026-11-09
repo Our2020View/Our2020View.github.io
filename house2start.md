@@ -4,7 +4,7 @@ title: Replacement Chassis Battery Maintainer | RV Mods
 description: Installing a house2start maintainer
 permalink: /ourmods/house2start/
 ---
-Replacement Chassis Battery Maintainer
+<h2> Replacement Chassis Battery Maintainer </h2>
 
 This mod was necessitated by the failure of the original chassis battery maintainer that we installed early on after our purchase of our 2021 View.  Our original mod was the installation of an Amp – L – Start, but after several years of inconsistent performance and then its eventual failure to do its job at keeping our Sprinter’s battery topped up – it was time to find a replacement system.
 
@@ -18,7 +18,7 @@ The location for our new installation was identical to the old location, and the
 
 Check out our original installation of the Amp – L – Start, as there is a lot of good background that can be directly ported over to the replacement we chose.  Same intended function, same location, and same logic for the choices made.  I recommend you read about our Amp – L – Start installation first.
 
-The Installation
+<h2> The Installation </h2>
 
 Here is a shot of where our old Amp – L – Start was located.  Over the years this has proven to be a great location – it is hidden out of the way under the dust cover for the passenger seat pedestal; but is easily viewed when required by lifting the dust cover, and it fit nicely on the shelf behind the MasterVolt charge relay which it needed to be close to.
 
@@ -46,8 +46,7 @@ There is a video on the House2Start website that describes this same installatio
 https://house2start.com/pages/install-videos?_su_rec=oWVkShuXzv9p0D52VkqgbTPVNbPJ1YkfKLBGPX7DgzUWJRzW0juk9-D_F4OE_DaN9DqDg9VKf4WBx-jnAKVvUWqRQAjEh9wd3EYmqLSjJ2eJDY3GM_-nr1WMRA3CpRTDc_tIQXS6JuD3gKCE2Q87XZ_VzIQU5QNXMRDqFYelvSnvIeJEMWcSO21NkWlz8kl5rgiqWumpqIJ6T8vE1GC_ftxh2K2QsGPTOdy00COUcoDXT0Tt4gi9LMsw6-ttiNipVnkpQSjyNuPTcnAp85B9pUh0kGXQYHo4_MfcoJ8sBJennPMuN1OwKdbmEsFzGoMfx90Et-VIAS-S8v2IdQ&_su_rec_id=6f7737c5-011d-431c-8aab-e60fa6850734-1794192914
 
 
-
-Performance
+<h2> Performance </h2>
 
 The House2Start website explains the logic of the turn on / turn off set points.  I found it interesting that Jumper Setting C would actually sacrifice some coach battery state of charge to ensure the Sprinter Chassis battery is looked after as long as possible.  I interpret this situation to be when shore power is not connected, and the coach batteries are being charged by solar.  Since purchasing our House2Start, our camping has been predominantly shore power camping at an extended stay, and we essentially see the Sprinter chassis battery pretty steady at 13.4 volts, matching the house batteries while connected to shore power.
 
