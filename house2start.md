@@ -43,7 +43,7 @@ Here is the House2Start wired up – the blue wire connects to the top lug on th
 
 <img src="/assets/coach2start2web.jpg"/>
 
-There is a video on the House2Start website that describes this same installation and interface with the Charge Mate Pro 40.  It worth having a look to help visualize what I just described:
+There is a good video on the House2Start website that describes this same installation and interface with the Charge Mate Pro 40.  It worth having a look to help visualize what I just described:
 
 <a href = "https://www.youtube.com/watch?v=pFNszigqUEw " target="_blank">House2Start Installation Video for a Winnebago View </a>
 
