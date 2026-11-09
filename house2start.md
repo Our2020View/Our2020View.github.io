@@ -22,7 +22,7 @@ Check out our original installation of the Amp – L – Start, as there is a lo
 
 Here is a shot of where our old Amp – L – Start was located.  Over the years this has proven to be a great location – it is hidden out of the way under the dust cover for the passenger seat pedestal; but is easily viewed when required by lifting the dust cover, and it fit nicely on the shelf behind the MasterVolt charge relay which it needed to be close to.
 
-Photo of coach2start1web.jpg 
+<img src="/assets/coach2start1web.jpg"/>
 
 Since the Mastervolt Charge Mate Pro 40 relay, which is factory equipment on our ‘20/21 View, has direct connections to both the coach batteries and the Sprinter chassis battery, it continues to be the logical location to hook up the new House2Start chassis battery maintainer.
 
@@ -35,11 +35,11 @@ One thing I did do differently this time around was install a fuse on the yellow
 
 Here is a photo of the House2Start with its ring terminals and fuse installed.  (I didn’t have any new ring terminals large enough on hand, so I spliced in the old ring terminals from the Amp – L - Start.  A bit of extra work, but I do like wiring stuff...)  I used butt connectors and heat shrink wrap.
 
-Photo of coach2start3web.jpg
+<img src="/assets/coach2start3web.jpg"/>
 
 Here is the House2Start wired up – the blue wire connects to the top lug on the Charge Mate, and the yellow wire connects to the bottom lug on the Charge Mate.  The black wire can attach to any ground you can find under the pedestal.  (The ground I drilled for the Amp – L – Start was still showing solid continuity, so I used it again.)
 
-Photo of coach2start2web.jpg
+<img src="/assets/coach2start2web.jpg"/>
 
 There is a video on the House2Start website that describes this same installation and interface with the Charge Mate Pro 40.  It worth having a look to help visualize what I just described:
 
