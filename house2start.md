@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Replacement Chassis Battery Maintainer | RV Mods
-description: Installing a house2start maintainer
+title: House2Start Chassis Battery Maintainer | RV Mods
+description: Installing a House2Start Battery Maintainer
 permalink: /ourmods/house2start/
 ---
 <h2> House2Start Chassis Battery Maintainer and Charger </h2>
