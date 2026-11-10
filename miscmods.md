@@ -32,7 +32,7 @@ I selected a coat rack that kinda matched the interior, and gave us lots of spac
 
 <br>
 <br>
-Here is a link to the <a href = "https://www.amazon.ca/gp/product/B000EDQR4G/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1 " target="_blank">Camco Drink Holders </a> that we installed.
+Here is a link to the <a href = "https://www.amazon.ca/gp/product/B000EDQR4G/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1 " target="_blank">Camco Drink Holders </a> that we installed.  (No, we did not pay 27 dollars!)
 
 <h3>Closet Drawers</h3>
 
