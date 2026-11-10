@@ -10,9 +10,6 @@ It's quite possible that the factory mattress is still comfortable for many Rver
 
 The size we chose was a Full / Double, at 54" x 74":
 
+<a href = "https://www.amazon.ca/dp/B0GC5CWMNV?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 " target="_blank">BedStory Four Inch FIRM Mattress Topper </a>
 
-
-https://www.amazon.ca/dp/B0GC5CWMNV?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
-
-
-At four inches high we knew it was going to add some height to an already tall bed
+Making it Fit
