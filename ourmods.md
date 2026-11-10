@@ -272,25 +272,15 @@ That's the recent material - below are all of the mods that we have previously i
    </div> 
  <div class="row">
     <div class="column" style="background-color:white;">
-    <h3>Awning Recall Option</h3>
-    <p>A Simple Alternative</p>
-    <img src="/assets/webawningpower8.jpeg" title="Mod Thumbnail" width="217.25" height="163">
+    <h3>House2Start Maintainer</h3>
+    <p>A Replacement for the Amp - L - Start</p>
+    <img src="/assets/house2startcropweb.jpeg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
-            onclick="location.href = '/ourmods/awningpower/'"> READ MORE </button>
+            onclick="location.href = '/ourmods/house2start/'"> READ MORE </button>
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  
  <h1> Coach </h1>
 
 <div class="row">
