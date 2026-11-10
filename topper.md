@@ -24,7 +24,7 @@ The cut was surprisingly clean:
 
 <img src="/assets/topper2web.jpg"/>
 
-And the fit pretty nicely:
+And the fit pretty nice:
 
 <img src="/assets/topper3web.jpg"/>
 
