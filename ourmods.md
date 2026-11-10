@@ -279,7 +279,8 @@ That's the recent material - below are all of the mods that we have previously i
     <br>
     <button style="height:40px;width:200px;background-color:green; color:white"
             onclick="location.href = '/ourmods/house2start/'"> READ MORE </button>
- 
+   </div>
+     </div> 
   
  <h1> Coach </h1>
 
