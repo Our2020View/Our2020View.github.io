@@ -15,7 +15,7 @@ The size we chose was a Full / Double, at 54" x 74":
 
 <h2> Making it Fit </h2>
 
-The Full / Double size is pretty close to the footprint of the factory mattress, but we needed to trim the right hand side by about four inches.  (The mattress has two different levels of firmness, depending on what you want.  We went for the firm side up, and trimmed the right hand side to fit the bedroom width.)  After researching online how to get a clean, straight, cut on a mattress topper, I was disappointed to learn that I did not have to go out and buy a new super cool tool.  The overwhelming opinion from the web was all that you needed to use to cut one of these up was an ... electric carving knife.  Right, I know.  An electric carving knife.  Well, we had one of those in the kitchen, so after convincing my other team member that it would be Ok, we got to work.
+The Full / Double size is pretty close to the footprint of the factory mattress, but we needed to trim the right hand side by about four inches.  (The mattress has two different levels of firmness, depending on what you want.  We went for the firm side up, and trimmed the right hand side to fit the bedroom width.)  After researching online how to get a clean, straight, cut on a mattress topper, I was disappointed to learn that I did not have to go out and buy a new super cool tool.  The overwhelming opinion from the web was all that you needed to use to cut one of these up was an ... electric carving knife.  Right, I know.  An electric carving knife.  Well, we had one of those in the kitchen, so after convincing my other team member, tentatively,  that it would be Ok, we got to work.
 
 We used a straight edge and a felt pen to mark the cut line:
 
