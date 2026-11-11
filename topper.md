@@ -37,9 +37,6 @@ I rounded the corner to match the factory mattress:
 
 <img src="/assets/topper4web.jpg"/>
 
-Here is the finished trimming job:
-
-<img src="/assets/topper6web.jpg"/>
 
 During the installation we noticed that there was no off-gassing odour, which surprised us.  Good news.
 
