@@ -56,7 +56,7 @@ June 2025 - <b>Installing a new Heat Pump</b> - <a href = "/ourmods/houghtonrvhe
 May 2025 - <b>Exterior Source of 5 Volts</b> - <a href = "/ourmods/fivevoltpower/ ">  Full Time Charging for the Rear Camera </a>
 <br>
 <br>
-May 2025 - <b>Induction Cooktop Power Switch</b> - <a href = "/ourmods/miscmods/ ">  ON when you want it ON </a>
+May 2025 - <b>Induction Cooktop Power Switch</b> - <a href = "/ourmods/miscmods/ ">  ON only when you want it ON </a>
 <br>
 <br>
 
