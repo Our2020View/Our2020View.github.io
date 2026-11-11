@@ -40,7 +40,7 @@ I rounded the corner to match the factory mattress:
 
 During the installation we noticed that there was no off-gassing odour, which surprised us.  Good news.
 
-The topper comes with a good cover, and looks as good as it does in the advertising material.  We needed a "deep" fitted sheet to cover both the topper and the factory mattress, but it worked out well from an esthetic point of view.  To finish off we put a Twin size comforter on top.  Now, it has made a tall bed even taller - so we're using a fold-up step stool to make the grand ascent.  During the day it stores away between the bed and the bathroom wall, in our 24J model.
+The topper comes with a good cover, and looks as smart as it does in the advertising material.  We needed a "deep" fitted sheet to cover both the topper and the factory mattress, but it worked out well from an esthetic point of view.  To finish off we put a Twin size comforter on top.  Now, it has made a tall bed even taller - so we're using a fold-up step stool to make the grand ascent.  During the day it stores away between the bed and the bathroom wall, in our 24J model.
 
 Was this all worth it?  
 
