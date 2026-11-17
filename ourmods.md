@@ -67,7 +67,7 @@ That's the recent material - below are all of the mods that we have previously i
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Electrical Info</h3>
-    <p>Key Features of the '20 View / Navion</p>
+    <p>Key Features of the View</p>
     <img src="/assets/elecimage.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
@@ -160,7 +160,7 @@ That's the recent material - below are all of the mods that we have previously i
   </div>
   <div class="column" style="background-color:white;">
     <h3>Cold Weather Camping</h3>
-    <p>Four Season Functionality </p>
+    <p>Four Season Use </p>
     <img src="/assets/webspring2021.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
@@ -264,7 +264,7 @@ That's the recent material - below are all of the mods that we have previously i
     </div>
     <div class="column" style="background-color:white;">
     <h3>SeeLevel II Monitor</h3>
-    <p>Adding a Second Display</p>
+    <p>A Second Display</p>
     <img src="/assets/webseelevel6.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
@@ -404,8 +404,8 @@ That's the recent material - below are all of the mods that we have previously i
 
 <div class="row">
   <div class="column" style="background-color:white;">
-    <h3>RV Doorlock Contacts Protection</h3>
-    <p>Keeping Water away from the Door Contacts</p>
+    <h3>RV Doorlock Protection</h3>
+    <p>Keep the Door Contacts Dry</p>
     <img src="/assets/webdoorcontacts8.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
@@ -431,7 +431,7 @@ That's the recent material - below are all of the mods that we have previously i
 <div class="row">
   <div class="column" style="background-color:white;">
     <h3>Speaker Fix</h3>
-    <p>Better Cab Sound Quality</p>
+    <p>Better Cab Sound</p>
     <img src="/assets/speakerfixweb.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
     <br>
@@ -451,7 +451,7 @@ That's the recent material - below are all of the mods that we have previously i
   
 <div class="row">
    <div class="column" style="background-color:white;">
-    <h3>Suspension</h3>
+    <h3>Suspension Upgrades</h3>
     <p>Fox Shocks and Hellwig Sway Bar</p>
     <img src="/assets/webshocks.jpg" title="Mod Thumbnail" width="217.25" height="163">
     <br>
